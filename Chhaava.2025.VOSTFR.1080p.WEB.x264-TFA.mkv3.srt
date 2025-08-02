@@ -1,0 +1,6003 @@
+1
+00:00:01,000 --> 00:00:04,708
+LE FILM CHHAAVA EST BASÉ SUR LE ROMAN
+DE SHIVAJI SAWANT, PORTANT LE MÊME TITRE
+
+2
+00:00:04,791 --> 00:00:08,083
+ET S'INSPIRE DE LA VIE ET DES TRAVAUX
+DE CHHATRAPATI SAMBHAJI MAHARAJ
+
+3
+00:00:19,916 --> 00:00:21,750
+MERCI À CH. UDAYANRAJE MAHARAJ
+ET CH. SAMBHAJIRAJE MAHARAJ
+
+4
+00:00:21,833 --> 00:00:22,833
+POUR LEURS CONSEILS ET LEUR BÉNÉDICTION
+
+5
+00:00:59,500 --> 00:01:03,041
+{\an8}<i>Tandis que d'autres peuples,</i>
+<i>dans le monde, luttaient pour leur survie,</i>
+
+6
+00:01:03,625 --> 00:01:07,291
+{\an8}<i>en Inde, une civilisation puissante</i>
+<i>était en train de se construire.</i>
+
+7
+00:01:08,791 --> 00:01:12,125
+{\an8}<i>Les gens y vivaient dans la fraternité,</i>
+<i>peu importe leur foi.</i>
+
+8
+00:01:13,333 --> 00:01:16,208
+{\an8}<i>Mais ce temple fut bientôt la cible</i>
+<i>d'invasions violentes.</i>
+
+9
+00:01:18,791 --> 00:01:21,333
+{\an8}<i>Au 16e siècle, après avoir</i>
+<i>remporté la bataille de Panipat,</i>
+
+10
+00:01:21,416 --> 00:01:24,708
+{\an8}<i>l'Empire moghol a planté son drapeau</i>
+<i>sur le trône de Delhi.</i>
+
+11
+00:01:26,125 --> 00:01:30,291
+{\an8}<i>En ces temps sombres, nombre d'empereurs</i>
+<i>et de royaumes ont lutté pour leur survie.</i>
+
+12
+00:01:31,500 --> 00:01:33,583
+{\an8}<i>Pendant un siècle, personne en Inde</i>
+
+13
+00:01:33,833 --> 00:01:36,708
+{\an8}<i>n'est parvenu à renverser</i>
+<i>l'Empire moghol.</i>
+
+14
+00:01:38,208 --> 00:01:39,125
+{\an8}<i>Au 17e siècle,</i>
+
+15
+00:01:39,208 --> 00:01:42,750
+{\an8}<i>l'Empereur moghol le plus puissant,</i>
+<i>cruel et sans pitié,</i>
+
+16
+00:01:43,416 --> 00:01:44,916
+{\an8}<i>Aurangzeb, s'est assis sur le trône,</i>
+
+17
+00:01:45,666 --> 00:01:47,541
+{\an8}<i>imposant une tyrannie inimaginable.</i>
+
+18
+00:01:52,666 --> 00:01:55,375
+{\an8}<i>Mais chaque fois que la terreur</i>
+<i>et la cruauté règnent, sur terre,</i>
+
+19
+00:01:56,083 --> 00:01:59,458
+{\an8}<i>une âme bienfaisante</i>
+<i>naît pour la protéger.</i>
+
+20
+00:02:00,291 --> 00:02:01,375
+{\an8}<i>Et ce moment béni est arrivé,</i>
+
+21
+00:02:01,791 --> 00:02:04,750
+{\an8}<i>lorsque l'essence de la Déesse Bhavani</i>
+<i>et du Dieu Shiva</i>
+
+22
+00:02:04,916 --> 00:02:06,208
+{\an8}<i>sont nées, du ventre de Mère Jijau,</i>
+
+23
+00:02:06,333 --> 00:02:09,291
+{\an8}<i>dans la famille de Shahajiraje Bhonsle.</i>
+
+24
+00:02:09,375 --> 00:02:12,291
+{\an8}<i>Har Har Mahadev !</i>
+
+25
+00:02:12,375 --> 00:02:14,583
+{\an8}<i>Celui qui protégerait cette terre</i>
+<i>des atrocités d'Aurang,</i>
+
+26
+00:02:14,958 --> 00:02:17,166
+{\an8}<i>celui qui allumerait</i>
+<i>la flamme de Swarajya</i>
+
+27
+00:02:17,333 --> 00:02:19,166
+{\an8}<i>et fonderait l'Empire marathe,</i>
+
+28
+00:02:21,041 --> 00:02:23,125
+{\an8}<i>n'était autre que</i>
+<i>le grand héros de cette terre…</i>
+
+29
+00:02:23,583 --> 00:02:25,875
+{\an8}<i>Chhatrapati Shivaji Maharaj !</i>
+
+30
+00:02:30,416 --> 00:02:32,666
+{\an8}<i>Il ne s'est jamais battu</i>
+<i>contre quelque religion que ce soit.</i>
+
+31
+00:02:33,083 --> 00:02:36,583
+{\an8}<i>Ses ennemis étaient l'oppression</i>
+<i>et la tyrannie.</i>
+
+32
+00:02:37,666 --> 00:02:39,833
+{\an8}<i>Craignant son pouvoir grandissant,</i>
+
+33
+00:02:40,208 --> 00:02:42,750
+{\an8}<i>Aurang a attaqué Swarajya</i>
+<i>à de nombreuses reprises,</i>
+
+34
+00:02:43,250 --> 00:02:44,750
+{\an8}<i>mais a été chaque fois vaincu.</i>
+
+35
+00:02:45,166 --> 00:02:46,208
+<i>Swarajya !</i>
+
+36
+00:02:46,291 --> 00:02:50,791
+{\an8}<i>S'il y avait une personne capable</i>
+<i>d'affronter Aurangzeb et son empire cruel,</i>
+
+37
+00:02:52,416 --> 00:02:53,666
+{\an8}<i>c'était le lion du Deccan,</i>
+
+38
+00:02:54,041 --> 00:02:55,291
+{\an8}<i>le courageux, le vaillant…</i>
+
+39
+00:02:55,458 --> 00:02:57,708
+{\an8}<i>Chhatrapati Shivaji Maharaj !</i>
+
+40
+00:02:57,791 --> 00:02:59,750
+{\an8}<i>Je vous salue, Déesse Bhavani !</i>
+
+41
+00:03:10,666 --> 00:03:14,166
+{\an8}LE FORT ROUGE
+
+42
+00:03:15,416 --> 00:03:19,208
+Shaista Khan vous envoie
+un présent royal du Bengale, Seigneur.
+
+43
+00:03:22,291 --> 00:03:24,125
+S'agissant de la guerre au Tibet,
+les Moghols
+
+44
+00:03:24,708 --> 00:03:26,375
+en sont sortis vainqueurs, Votre Majesté.
+
+45
+00:03:26,458 --> 00:03:27,833
+- Formidable !
+- Splendide !
+
+46
+00:03:27,916 --> 00:03:29,458
+- Superbe !
+- Formidable !
+
+47
+00:03:29,541 --> 00:03:30,625
+- Splendide !
+- Superbe !
+
+48
+00:03:35,125 --> 00:03:37,166
+Que la grandeur du Seigneur
+continue de croître !
+
+49
+00:03:41,333 --> 00:03:42,708
+Des nouvelles urgentes du Deccan,
+Votre Majesté.
+
+50
+00:03:44,791 --> 00:03:46,125
+Le Shiva du Deccan,
+
+51
+00:03:46,833 --> 00:03:48,125
+le Chhatrapati des Marathes,
+
+52
+00:03:49,083 --> 00:03:50,875
+est parti vers l'au-delà.
+
+53
+00:03:51,000 --> 00:03:53,500
+- Gloire à Allah !
+- Gloire à Allah !
+
+54
+00:03:53,583 --> 00:03:57,291
+- Gloire à Allah !
+- Gloire à Allah !
+
+55
+00:03:58,541 --> 00:03:59,625
+En entendant cela,
+
+56
+00:04:00,458 --> 00:04:04,833
+j'imagine déjà le drapeau moghol
+
+57
+00:04:05,875 --> 00:04:07,708
+flottant sur l'Hindustan !
+
+58
+00:04:07,791 --> 00:04:09,875
+- Qu'il en soit ainsi.
+- Qu'il en soit ainsi.
+
+59
+00:04:09,958 --> 00:04:11,208
+- Qu'il en soit ainsi.
+- Qu'il en soit ainsi.
+
+60
+00:04:11,541 --> 00:04:12,416
+Maintenant que Shivaji n'est plus,
+
+61
+00:04:13,791 --> 00:04:16,833
+le Deccan tombera sans aucun doute
+sous le contrôle de notre empire.
+
+62
+00:04:16,916 --> 00:04:18,458
+- Qu'il en soit ainsi.
+- Qu'il en soit ainsi.
+
+63
+00:04:18,541 --> 00:04:19,708
+- Qu'il en soit ainsi.
+- Qu'il en soit ainsi.
+
+64
+00:04:19,791 --> 00:04:21,708
+Lorsqu'il était en prison à Agra,
+
+65
+00:04:22,583 --> 00:04:24,166
+il a réussi à échapper
+
+66
+00:04:24,750 --> 00:04:27,041
+à la mort, ainsi qu'à la poigne
+de Sa Majesté.
+
+67
+00:04:27,791 --> 00:04:29,125
+Depuis,
+
+68
+00:04:30,291 --> 00:04:32,208
+nous n'avons pas réussi
+à conquérir le Deccan.
+
+69
+00:04:32,416 --> 00:04:33,375
+Enfin,
+
+70
+00:04:34,125 --> 00:04:37,833
+le seul rêve non exaucé de Sa Majesté
+vient de se réaliser, aujourd'hui.
+
+71
+00:04:38,291 --> 00:04:40,625
+- Qu'il en soit ainsi.
+- Qu'il en soit ainsi.
+
+72
+00:04:40,708 --> 00:04:41,916
+- Qu'il en soit ainsi.
+- Qu'il en soit ainsi.
+
+73
+00:04:42,166 --> 00:04:45,708
+Mes oreilles attendent de bonnes
+nouvelles, mais en vain, même aujourd'hui.
+
+74
+00:04:51,833 --> 00:04:54,041
+Un ennemi comme Siva…
+
+75
+00:04:57,083 --> 00:04:58,666
+ne se rencontre qu'une fois dans une vie.
+
+76
+00:05:03,000 --> 00:05:06,166
+Oh, Allah, ce grief contre Vous
+restera pour toujours dans mon cœur.
+
+77
+00:05:10,125 --> 00:05:12,708
+Ouvrez grand les portes du paradis…
+
+78
+00:05:15,791 --> 00:05:16,833
+le lion arrive !
+
+79
+00:05:23,041 --> 00:05:24,166
+Célébrons !
+
+80
+00:05:28,916 --> 00:05:30,458
+Que les pauvres deviennent riches !
+
+81
+00:05:35,000 --> 00:05:37,916
+Célébrez la chute de l'Empire marathe !
+
+82
+00:05:38,000 --> 00:05:41,625
+- Qu'il en soit ainsi.
+- Qu'il en soit ainsi.
+
+83
+00:05:41,875 --> 00:05:45,916
+{\an8}BURHANPUR
+JANVIER 1681
+
+84
+00:06:39,708 --> 00:06:40,625
+Sire Khan Zamaan,
+
+85
+00:06:42,541 --> 00:06:44,625
+les impôts collectés
+auprès des non-musulmans
+
+86
+00:06:44,833 --> 00:06:47,000
+remplissent vite la trésorerie !
+
+87
+00:06:47,291 --> 00:06:48,208
+- Ouah !
+- C'est formidable !
+
+88
+00:06:48,291 --> 00:06:50,875
+Depuis la mort de Shivaji, les gens,
+craignant pour leur vie,
+
+89
+00:06:53,208 --> 00:06:55,333
+nous offrent volontairement
+leurs richesses !
+
+90
+00:06:55,416 --> 00:06:56,291
+Gloire à Allah !
+
+91
+00:06:56,375 --> 00:06:57,583
+Gloire à Allah !
+
+92
+00:06:57,666 --> 00:06:58,708
+Gloire à Allah !
+
+93
+00:06:59,416 --> 00:07:01,750
+C'est pour ça que je voulais
+un massage, Kakkad !
+
+94
+00:07:02,750 --> 00:07:04,541
+Mes os sont coincés,
+car je ne bouge pas assez !
+
+95
+00:07:05,000 --> 00:07:05,875
+Malheureusement,
+
+96
+00:07:06,458 --> 00:07:07,791
+il n'y a pas eu de bataille
+
+97
+00:07:08,500 --> 00:07:09,500
+ni de pillage, dernièrement.
+
+98
+00:07:09,833 --> 00:07:12,500
+Que Dieu fasse que votre corps reste
+fort et sain, Sire !
+
+99
+00:07:13,458 --> 00:07:15,375
+Burhanpur est une mine d'or, Sire !
+
+100
+00:07:16,208 --> 00:07:18,000
+C'est la ligne de vie de l'Empire moghol.
+
+101
+00:07:19,208 --> 00:07:22,458
+Qui sait quand on devra la protéger
+des yeux envieux d'un ennemi.
+
+102
+00:07:22,958 --> 00:07:24,541
+Qui oserait nous attaquer ?
+
+103
+00:07:26,000 --> 00:07:29,583
+Les Rajputs sont occupés à défendre
+leur propre empire !
+
+104
+00:07:30,166 --> 00:07:32,083
+Et les Marathes n'ont plus de chef.
+
+105
+00:07:32,166 --> 00:07:35,375
+Je vous conseille de siroter
+un peu de <i>kahwah </i>et de rester vigilant.
+
+106
+00:07:36,208 --> 00:07:38,416
+Car l'appel de la mort
+
+107
+00:07:39,291 --> 00:07:41,250
+et les importuns…
+
+108
+00:07:42,250 --> 00:07:43,666
+arrivent toujours sans prévenir !
+
+109
+00:07:54,875 --> 00:07:56,000
+Sire !
+
+110
+00:07:56,083 --> 00:07:57,000
+Mar… Mar…
+
+111
+00:07:57,083 --> 00:07:58,416
+Que dites-vous ?
+
+112
+00:07:58,500 --> 00:08:00,458
+L'armée marathe arrive vite !
+
+113
+00:08:05,166 --> 00:08:07,750
+Fermez les portes !
+
+114
+00:08:08,208 --> 00:08:09,666
+Soyez sur vos gardes !
+
+115
+00:08:10,375 --> 00:08:12,666
+Les Marathes sont là !
+
+116
+00:08:33,583 --> 00:08:35,125
+Chargez !
+
+117
+00:08:42,250 --> 00:08:43,958
+Chargez !
+
+118
+00:08:47,208 --> 00:08:48,166
+Laissez-les venir !
+
+119
+00:08:48,791 --> 00:08:51,000
+Nous ferons de Burhanpur leur tombeau !
+
+120
+00:08:51,458 --> 00:08:52,333
+En effet, Sire !
+
+121
+00:08:52,750 --> 00:08:54,625
+Pas un seul Marathe
+ne mettra les pieds à l'intérieur !
+
+122
+00:09:01,125 --> 00:09:02,375
+Sire !
+
+123
+00:09:02,666 --> 00:09:05,625
+L'armée marathe est entrée
+dans Burhanpur !
+
+124
+00:09:38,750 --> 00:09:43,625
+<i>Har Har Mahadev !</i>
+
+125
+00:11:30,916 --> 00:11:34,833
+<i>Har Har Mahadev !</i>
+
+126
+00:11:37,291 --> 00:11:38,291
+Qu'est-ce que vous attendez ?
+
+127
+00:11:43,083 --> 00:11:45,458
+<i>Har Har Mahadev !</i>
+
+128
+00:12:00,416 --> 00:12:03,458
+<i>Har Har Mahadev !</i>
+
+129
+00:12:19,416 --> 00:12:20,833
+Déesse Jagdamba !
+
+130
+00:13:26,458 --> 00:13:28,041
+Maman !
+
+131
+00:13:29,041 --> 00:13:30,666
+Maman !
+
+132
+00:13:37,000 --> 00:13:38,708
+Mon fils !
+
+133
+00:13:39,500 --> 00:13:41,250
+Que quelqu'un le sauve !
+
+134
+00:13:48,333 --> 00:13:49,333
+Mon fils !
+
+135
+00:14:11,583 --> 00:14:13,083
+Je vous salue, Déesse Bhavani !
+
+136
+00:16:25,333 --> 00:16:26,833
+Raje !
+
+137
+00:16:28,500 --> 00:16:29,625
+Boucliers !
+
+138
+00:19:50,958 --> 00:19:52,041
+Khan Zamaan,
+
+139
+00:19:52,791 --> 00:19:54,333
+dites à votre maître…
+
+140
+00:19:55,125 --> 00:19:56,500
+que bien que le lion soit mort,
+
+141
+00:19:57,250 --> 00:20:00,000
+son <i>chhaava </i>rôde toujours
+dans ces bois !
+
+142
+00:20:01,041 --> 00:20:05,625
+Nous détruirons l'Empire moghol,
+s'il ose se mesurer aux Marathes !
+
+143
+00:20:06,833 --> 00:20:08,291
+Nous sommes silencieux !
+
+144
+00:20:09,000 --> 00:20:10,750
+Nous chassons efficacement nos proies !
+
+145
+00:20:17,541 --> 00:20:22,375
+- Je vous salue Déesse…
+- Bhavani !
+
+146
+00:20:23,000 --> 00:20:25,875
+- Je vous salue, Déesse Bhavani !
+- Je vous salue, Déesse Bhavani !
+
+147
+00:20:26,250 --> 00:20:28,916
+- Je vous salue, Déesse Bhavani !
+- Je vous salue, Déesse Bhavani !
+
+148
+00:20:29,000 --> 00:20:32,666
+- Je vous salue, Déesse Bhavani !
+- Je vous salue, Déesse Bhavani !
+
+149
+00:20:59,375 --> 00:21:00,958
+Serrez fort, Dhanaji !
+
+150
+00:21:01,583 --> 00:21:02,666
+Ça saigne beaucoup !
+
+151
+00:21:03,250 --> 00:21:05,250
+Oncle Yesaji, laissez-le saigner un peu.
+
+152
+00:21:06,125 --> 00:21:08,791
+Toute goutte de sang versée pour Swarajya
+sanctifie cette terre moghole !
+
+153
+00:21:10,708 --> 00:21:11,583
+Bien dit !
+
+154
+00:21:11,666 --> 00:21:14,666
+Fermez, scellez et envoyez le trésor
+à Raigad, Santa.
+
+155
+00:21:15,833 --> 00:21:16,708
+Compris, Père.
+
+156
+00:21:16,791 --> 00:21:19,666
+Mais transporter tout le trésor
+ne sera pas simple.
+
+157
+00:21:20,708 --> 00:21:21,958
+Ce qui nous intéresse,
+ce n'est pas le trésor,
+
+158
+00:21:22,041 --> 00:21:24,041
+mais c'est de vaincre l'armée, Santa.
+
+159
+00:21:24,958 --> 00:21:28,125
+Aurangzeb ne doit rien pouvoir
+voir d'autre que les ruines de Burhanpur !
+
+160
+00:21:29,875 --> 00:21:30,750
+Comme vous voudrez !
+
+161
+00:21:36,583 --> 00:21:38,291
+- Anta ?
+- Oui ?
+
+162
+00:21:38,625 --> 00:21:39,625
+Que se passe-t-il ?
+
+163
+00:21:40,500 --> 00:21:43,041
+Pourquoi le favori
+de notre Prince
+
+164
+00:21:43,458 --> 00:21:45,708
+Kavi Kalash dîne-t-il seul ici ?
+
+165
+00:21:47,125 --> 00:21:49,041
+<i>Le cœur d'un poète est l'ami de tous</i>
+
+166
+00:21:49,291 --> 00:21:51,166
+<i>Il écoute les fleurs, les oiseaux</i>
+<i>et l'appel de la nature</i>
+
+167
+00:21:51,416 --> 00:21:53,083
+<i>Il accueille le monde avec amour,</i>
+
+168
+00:21:53,791 --> 00:21:55,833
+<i>Il n'est pas de ces égoïstes</i>
+
+169
+00:21:55,916 --> 00:21:57,583
+<i>qui seulement décorent l'air</i>
+
+170
+00:21:57,666 --> 00:21:58,541
+Fabuleux !
+
+171
+00:21:58,833 --> 00:22:02,000
+Comment peut-on laisser seule
+une si belle personne ?
+
+172
+00:22:02,583 --> 00:22:04,875
+Je viens des terres mogholes
+
+173
+00:22:05,375 --> 00:22:07,291
+et je vis parmi les Marathes.
+
+174
+00:22:07,875 --> 00:22:09,208
+Dites-moi, Antaji,
+
+175
+00:22:09,750 --> 00:22:12,875
+pourquoi voudrait-on
+partager un repas avec moi ?
+
+176
+00:22:14,125 --> 00:22:15,000
+Vous avez raison.
+
+177
+00:22:16,208 --> 00:22:18,791
+Cela ne vous rend pas triste ?
+
+178
+00:22:21,583 --> 00:22:23,208
+<i>Si le Seigneur est satisfait</i>
+
+179
+00:22:23,458 --> 00:22:24,875
+<i>Il n'y a ni honte ni peur</i>
+
+180
+00:22:25,458 --> 00:22:29,000
+<i>Après tout, l'ami de Kavi Kalash</i>
+<i>est Sambhaji Shivraj !</i>
+
+181
+00:22:29,166 --> 00:22:30,041
+Bien dit !
+
+182
+00:22:34,500 --> 00:22:35,500
+<i>Aaisahib !</i>
+
+183
+00:22:36,750 --> 00:22:37,958
+<i>Aaisahib !</i>
+
+184
+00:22:39,250 --> 00:22:40,541
+<i>Aaisahib !</i>
+
+185
+00:22:41,750 --> 00:22:42,750
+<i>Oui, Shambhu ?</i>
+
+186
+00:22:44,625 --> 00:22:45,541
+<i>Abasahib !</i>
+
+187
+00:22:46,375 --> 00:22:48,833
+<i>Quand est-ce que cette fumée</i>
+<i>va se dissiper, Abasahib ?</i>
+
+188
+00:22:49,833 --> 00:22:52,166
+<i>Tant que la flamme de Swarajya brûlera,</i>
+
+189
+00:22:52,250 --> 00:22:54,333
+<i>cette fumée s'élèvera, Shambhu !</i>
+
+190
+00:23:09,083 --> 00:23:09,958
+Prince.
+
+191
+00:23:16,875 --> 00:23:19,166
+Oncle Hambir, appelez-moi Shambhu.
+
+192
+00:23:21,416 --> 00:23:23,333
+Mes oreilles
+ont envie d'entendre "Shambhu".
+
+193
+00:23:30,333 --> 00:23:32,875
+Je vois en vous l'image de votre père,
+
+194
+00:23:37,750 --> 00:23:39,041
+c'est peut-être pour cela que j'hésite.
+
+195
+00:23:41,708 --> 00:23:45,833
+Et je tiens de vous la force d'Abasahib
+et la bénédiction d'Aaisahib.
+
+196
+00:23:47,458 --> 00:23:49,083
+Même face à un millier d'ennemis,
+
+197
+00:23:49,166 --> 00:23:51,708
+je sais que vos yeux veillent
+toujours sur moi !
+
+198
+00:23:53,500 --> 00:23:54,375
+Je ne…
+
+199
+00:23:55,458 --> 00:23:57,041
+suis pas aussi formidable
+que vous le pensez, Shambhu.
+
+200
+00:23:59,708 --> 00:24:04,041
+Tout ce que je sais, c'est que
+je suis prêt à sacrifier jusqu'à…
+
+201
+00:24:06,375 --> 00:24:07,541
+la dernière goutte de mon sang, pour toi !
+
+202
+00:24:09,625 --> 00:24:10,500
+Mon oncle !
+
+203
+00:24:14,916 --> 00:24:15,791
+Allons-y.
+
+204
+00:24:17,958 --> 00:24:19,291
+Tout le monde vous attend.
+
+205
+00:24:37,625 --> 00:24:39,083
+Ce n'est pas seulement une victoire.
+
+206
+00:24:40,416 --> 00:24:41,416
+C'est un rugissement…
+
+207
+00:24:42,708 --> 00:24:45,708
+qui atteindra les oreilles d'Aurang
+et lui apprendra
+
+208
+00:24:45,791 --> 00:24:48,708
+que Chhatrapati Shivaji Maharaj
+est toujours en vie !
+
+209
+00:24:51,500 --> 00:24:52,708
+Ce n'est pas la fin des Marathes,
+
+210
+00:24:52,791 --> 00:24:54,541
+mais le début de la chute des Moghols.
+
+211
+00:24:55,125 --> 00:24:57,875
+Lors de ces batailles,
+nous honorerons toutes les religions,
+
+212
+00:24:57,958 --> 00:25:00,458
+car cette guerre ne cible
+aucune secte en particulier.
+
+213
+00:25:01,958 --> 00:25:04,583
+Cette guerre vise à établir Swarajya,
+
+214
+00:25:06,041 --> 00:25:08,666
+une terre où toutes les croyances
+peuvent vivre en paix.
+
+215
+00:25:10,666 --> 00:25:13,958
+Une nation où tout le monde peut vivre
+la tête haute, comme des rois.
+
+216
+00:25:16,750 --> 00:25:19,333
+Et si Aurang,
+ou d'autres démons comme lui…
+
+217
+00:25:20,125 --> 00:25:23,750
+osent se dresser contre la Swarajya
+de Chhatrapati Shivaji Maharaj,
+
+218
+00:25:23,875 --> 00:25:25,666
+alors, je jure devant la Déesse Jagdamba,
+
+219
+00:25:25,833 --> 00:25:28,750
+qu'on se changera en volcan
+et qu'on les réduira en poussière !
+
+220
+00:25:30,791 --> 00:25:32,791
+Nous relèverons tous les défis,
+
+221
+00:25:33,666 --> 00:25:35,250
+nous détruirons toutes les conspirations
+
+222
+00:25:35,583 --> 00:25:38,750
+et nous n'arrêterons qu'une fois
+la vision d'Abasahib réalisée !
+
+223
+00:25:38,833 --> 00:25:40,125
+Je vous salue, Déesse Bhavani !
+
+224
+00:25:40,208 --> 00:25:41,625
+Je vous salue, Déesse Bhavani !
+
+225
+00:25:41,708 --> 00:25:42,791
+Je vous salue, Déesse Bhavani !
+
+226
+00:25:42,875 --> 00:25:44,083
+Je vous salue, Déesse Bhavani !
+
+227
+00:25:44,166 --> 00:25:45,500
+<i>Har Har Mahadev !</i>
+
+228
+00:25:45,583 --> 00:25:47,916
+<i>Har Har Mahadev !</i>
+
+229
+00:25:48,000 --> 00:25:50,291
+{\an8}RAIGAD
+
+230
+00:25:50,583 --> 00:25:54,291
+On prépare le trône royal
+pour l'autre Chhatrapati, Annaji.
+
+231
+00:25:54,625 --> 00:25:58,791
+J'ai entendu dire que le Prince
+avait laissé Burhanpur en ruines !
+
+232
+00:25:59,125 --> 00:26:01,875
+Il a transformé leur fête en deuil !
+
+233
+00:26:03,000 --> 00:26:05,791
+Shambhu a également fait voler
+nos rêves en éclat.
+
+234
+00:26:07,291 --> 00:26:12,000
+Il a pardonné nos erreurs
+et nous a donné une seconde chance,
+
+235
+00:26:12,083 --> 00:26:13,250
+mais pourquoi ?
+
+236
+00:26:14,625 --> 00:26:16,708
+Pour suffoquer en silence
+
+237
+00:26:17,000 --> 00:26:18,791
+ou pour vivre une vie de restrictions ?
+
+238
+00:26:20,375 --> 00:26:22,583
+Cette nouvelle vie sera vaine,
+
+239
+00:26:22,666 --> 00:26:26,333
+si je ne vois pas Ramraje
+devenir Chhatrapati !
+
+240
+00:26:28,916 --> 00:26:31,291
+Nous régnerons.
+
+241
+00:26:33,166 --> 00:26:35,750
+Mais ce Sambha…
+
+242
+00:26:37,833 --> 00:26:39,833
+Une fois qu'il sera sur le trône,
+
+243
+00:26:39,916 --> 00:26:43,166
+notre existence ou notre disparition
+n'aura plus d'importance !
+
+244
+00:26:45,666 --> 00:26:46,666
+Depuis l'enfance,
+
+245
+00:26:46,750 --> 00:26:50,166
+Sambhaji m'a toujours compliqué la vie,
+
+246
+00:26:50,250 --> 00:26:52,083
+à me tourmenter tout le temps.
+
+247
+00:26:59,708 --> 00:27:00,958
+Nous avions le même âge quand…
+
+248
+00:27:03,833 --> 00:27:07,000
+après avoir échappé
+à la prison d'Aurangzeb, à Agra,
+
+249
+00:27:08,166 --> 00:27:09,583
+Sa Majesté et le Prince
+
+250
+00:27:09,666 --> 00:27:11,166
+erraient, d'un endroit à l'autre.
+
+251
+00:27:12,875 --> 00:27:15,250
+Tous les soldats moghols
+avaient pour ordre
+
+252
+00:27:15,916 --> 00:27:22,166
+d'arrêter tous les duos père-fils cachés !
+
+253
+00:27:26,000 --> 00:27:28,083
+Ils se sont séparés,
+
+254
+00:27:28,958 --> 00:27:31,041
+pour se protéger l'un, l'autre.
+
+255
+00:27:34,083 --> 00:27:38,000
+Pour empêcher la capture du Prince,
+
+256
+00:27:40,208 --> 00:27:43,458
+Sa Majesté a même organisé
+ses propres funérailles.
+
+257
+00:27:48,750 --> 00:27:50,833
+Pour duper les Moghols,
+
+258
+00:27:52,666 --> 00:27:55,208
+tout le Deccan a fait le deuil.
+
+259
+00:28:01,125 --> 00:28:02,708
+Alors, comment quelqu'un
+dont le destin est…
+
+260
+00:28:03,750 --> 00:28:04,625
+de se cacher,
+
+261
+00:28:05,500 --> 00:28:06,375
+de fuir,
+
+262
+00:28:09,041 --> 00:28:10,416
+et de mourir…
+
+263
+00:28:13,625 --> 00:28:15,583
+pourrait-il prétendre au trône ?
+
+264
+00:28:20,666 --> 00:28:22,750
+Peu importe qui est couronné,
+
+265
+00:28:25,583 --> 00:28:28,833
+mon fils, Ramraje, est le véritable roi !
+
+266
+00:28:43,500 --> 00:28:48,666
+<i>Tu le sais et je le sais aussi</i>
+
+267
+00:28:48,916 --> 00:28:53,916
+<i>Tu étais mon univers</i>
+<i>Et c'est toujours vrai</i>
+
+268
+00:28:54,375 --> 00:28:59,458
+<i>Je veux me noyer</i>
+
+269
+00:28:59,791 --> 00:29:05,083
+<i>Me noyer dans toutes tes respirations</i>
+
+270
+00:29:05,458 --> 00:29:09,791
+<i>Tu es mon bien-aimé</i>
+
+271
+00:29:10,875 --> 00:29:15,375
+<i>Tu es mon bien-aimé</i>
+
+272
+00:29:16,125 --> 00:29:21,125
+<i>Tu le sais et je le sais</i>
+
+273
+00:29:21,750 --> 00:29:26,708
+<i>Tu étais mon univers</i>
+<i>Et c'est toujours vrai</i>
+
+274
+00:29:27,166 --> 00:29:32,416
+<i>Ces respirations,</i>
+<i>Que signifient-elles ?</i>
+
+275
+00:29:32,666 --> 00:29:37,916
+<i>Elles vont et viennent, quoi qu'il arrive</i>
+
+276
+00:29:38,166 --> 00:29:42,583
+<i>Tu es mon univers</i>
+
+277
+00:29:42,750 --> 00:29:43,625
+Maharani ?
+
+278
+00:29:43,708 --> 00:29:48,000
+<i>Tu l'étais et le seras toujours,</i>
+<i>éternellement</i>
+
+279
+00:29:49,125 --> 00:29:51,750
+<i>Tu le sais</i>
+
+280
+00:29:51,833 --> 00:29:53,875
+- Que s'est-il passé ?
+- <i>Et je le sais aussi</i>
+
+281
+00:29:55,708 --> 00:29:58,166
+Il semble falloir chasser le mal,
+encore une fois !
+
+282
+00:29:58,791 --> 00:30:01,375
+Dharauma m'a élevé
+et a fait de moi un homme
+
+283
+00:30:01,958 --> 00:30:05,333
+qu'aucune épée ni lance
+ne peut atteindre !
+
+284
+00:30:07,291 --> 00:30:09,791
+Mère, qui pourrait oser maudire celui
+
+285
+00:30:10,666 --> 00:30:12,541
+sur lequel reposent
+tous les espoirs de Swarajya ?
+
+286
+00:30:23,166 --> 00:30:24,083
+Shri-Sakhi !
+
+287
+00:30:26,500 --> 00:30:27,541
+Puis-je vous poser une question ?
+
+288
+00:30:28,416 --> 00:30:31,125
+D'habitude, quand un roi ou un empereur
+rentre de la guerre,
+
+289
+00:30:31,583 --> 00:30:35,708
+leur reine fait semblant d'être en colère,
+pour montrer son amour et son inquiétude !
+
+290
+00:30:37,041 --> 00:30:39,583
+Mais regardez-moi,
+je n'arrête pas de sourire !
+
+291
+00:30:41,291 --> 00:30:43,000
+Est-ce juste de pousser quelqu'un
+
+292
+00:30:43,291 --> 00:30:47,208
+qui vient de rentrer de la guerre
+à retourner se battre ?
+
+293
+00:30:50,166 --> 00:30:52,166
+Comment se fait-il
+que vous répondiez toujours
+
+294
+00:30:52,250 --> 00:30:53,708
+avant même que je pose la question ?
+
+295
+00:30:54,583 --> 00:30:57,916
+Car je ne suis pas seulement votre femme,
+je suis aussi votre Shri-Sakhi !
+
+296
+00:30:59,875 --> 00:31:01,916
+Quant à ce sourire,
+
+297
+00:31:02,416 --> 00:31:04,625
+la rumeur prétend qu'au-delà du Deccan,
+
+298
+00:31:05,000 --> 00:31:08,750
+toute femme du nord
+entendant le nom de Sambhaji Bhonsle
+
+299
+00:31:09,000 --> 00:31:10,750
+ne peut s'empêcher de sourire !
+
+300
+00:31:14,958 --> 00:31:17,333
+Vous en savez plus sur moi
+
+301
+00:31:18,125 --> 00:31:20,833
+que moi-même.
+
+302
+00:31:21,125 --> 00:31:23,166
+Ce ne sont que des rumeurs.
+
+303
+00:31:23,875 --> 00:31:26,125
+C'est facile, de les suivre.
+
+304
+00:31:28,125 --> 00:31:32,083
+Je sais même ce qui se cache
+dans votre cœur !
+
+305
+00:31:34,416 --> 00:31:35,333
+Je vois !
+
+306
+00:31:37,250 --> 00:31:38,291
+Alors, dites-moi,
+
+307
+00:31:39,458 --> 00:31:42,791
+à quoi je pense en ce moment.
+
+308
+00:31:43,750 --> 00:31:47,000
+En ce moment,
+une seule chose vous perturbe.
+
+309
+00:31:47,916 --> 00:31:49,833
+Mais rassurez-vous,
+
+310
+00:31:50,666 --> 00:31:53,458
+j'ai déjà fait de votre rêve une réalité !
+
+311
+00:31:59,041 --> 00:31:59,916
+Quoi ?
+
+312
+00:32:09,666 --> 00:32:13,375
+<i>Ce royaume est la volonté des Dieux,</i>
+<i>Shambhu !</i>
+
+313
+00:32:54,333 --> 00:32:56,791
+Celui dont vous attendez la bénédiction…
+
+314
+00:32:57,750 --> 00:33:01,333
+a toujours été là,
+attendant de vous l'accorder !
+
+315
+00:33:05,083 --> 00:33:09,291
+Il voit dans vos yeux
+ses rêves se réaliser.
+
+316
+00:33:20,375 --> 00:33:24,541
+Parfois, vous vous préoccupez plus
+que moi d'Hindavi Swarajya !
+
+317
+00:33:25,583 --> 00:33:28,166
+Je pense comme vous !
+
+318
+00:33:30,083 --> 00:33:32,125
+Car cette Sakhi ne vit pas
+dans ce palais…
+
+319
+00:33:34,000 --> 00:33:35,833
+mais dans le cœur de son Shri !
+
+320
+00:33:45,125 --> 00:33:48,666
+Là où jadis le Seigneur contrôlait tout,
+
+321
+00:33:50,041 --> 00:33:51,583
+aujourd'hui les choses sont différentes.
+
+322
+00:33:53,583 --> 00:33:56,458
+Les Marathes n'ont laissé
+que de la poussière, derrière eux !
+
+323
+00:33:58,041 --> 00:33:58,916
+Les Marathes ?
+
+324
+00:34:00,750 --> 00:34:03,000
+On leur a définitivement coupé
+les griffes !
+
+325
+00:34:04,083 --> 00:34:05,208
+Comment pourraient-ils attaquer ?
+
+326
+00:34:06,125 --> 00:34:07,250
+Surtout un endroit comme Burhanpur !
+
+327
+00:34:09,625 --> 00:34:10,500
+Khan Zamaan avait-il
+
+328
+00:34:11,416 --> 00:34:13,625
+tous ses esprits,
+quand il a rédigé cette lettre ?
+
+329
+00:34:14,791 --> 00:34:17,750
+Un autre orage gronde,
+dans le Deccan, mon Seigneur !
+
+330
+00:34:18,750 --> 00:34:19,708
+Et son nom est…
+
+331
+00:34:21,166 --> 00:34:22,625
+Sambhaji Bhonsle.
+
+332
+00:34:45,875 --> 00:34:47,500
+<i>Pourquoi Siva n'est pas ici,</i>
+<i>Ramsingh ?</i>
+
+333
+00:34:48,541 --> 00:34:51,416
+{\an8}C'est Chhatrapati Shivaji Maharaj.
+
+334
+00:35:00,375 --> 00:35:02,833
+Maharaj ne se sent pas bien, mon Seigneur.
+
+335
+00:35:03,208 --> 00:35:04,666
+Il a une forte fièvre.
+
+336
+00:35:19,333 --> 00:35:21,291
+Vous n'avez jamais eu de fièvre, Prince ?
+
+337
+00:35:21,458 --> 00:35:25,875
+Non, mais beaucoup
+ont de la fièvre à cause de moi !
+
+338
+00:35:34,583 --> 00:35:36,208
+Siva est parti,
+
+339
+00:35:38,583 --> 00:35:40,833
+mais il a laissé sa vision.
+
+340
+00:35:47,125 --> 00:35:49,500
+Oh, mon Dieu, ne me laissez pas
+encore céder au désespoir !
+
+341
+00:35:52,666 --> 00:35:56,625
+Protégez Sambha,
+jusqu'à ce que j'atteigne le Deccan !
+
+342
+00:35:58,208 --> 00:36:00,375
+<i>Ô, Seigneur des Seigneurs</i>
+
+343
+00:36:00,458 --> 00:36:02,541
+<i>Ô, Essence suprême</i>
+
+344
+00:36:02,625 --> 00:36:04,791
+<i>Ô, Tout-Puissant</i>
+
+345
+00:36:04,875 --> 00:36:06,958
+<i>Ô, Commandeur des Armées</i>
+
+346
+00:36:07,041 --> 00:36:09,125
+<i>Ô, Seigneur Invincible</i>
+
+347
+00:36:09,208 --> 00:36:11,291
+<i>Ô, Être Aimé</i>
+
+348
+00:36:11,375 --> 00:36:13,500
+<i>Ô, Homme Suprême</i>
+
+349
+00:36:13,583 --> 00:36:15,666
+<i>Ô, Être Ultime</i>
+
+350
+00:36:15,750 --> 00:36:17,833
+{\an8}<i>C'est Narsingh, féroce et audacieux</i>
+
+351
+00:36:17,916 --> 00:36:20,500
+{\an8}<i>Des tempêtes grognent dans ses veines !</i>
+
+352
+00:36:24,166 --> 00:36:26,625
+<i>Un cri orageux secoue notre temps</i>
+
+353
+00:36:26,708 --> 00:36:29,333
+<i>L'orage gronde, secouant terre et ciel !</i>
+
+354
+00:36:30,708 --> 00:36:34,833
+<i>Le ciel se colore d'un glorieux safran</i>
+
+355
+00:36:35,333 --> 00:36:38,000
+<i>L'orage est là, illuminant les cieux !</i>
+
+356
+00:36:39,666 --> 00:36:43,833
+<i>Un œil retient des larmes,</i>
+<i>l'autre du désir</i>
+
+357
+00:36:44,083 --> 00:36:46,666
+<i>L'orage est là,</i>
+<i>répandant sa rage ardente !</i>
+
+358
+00:36:48,458 --> 00:36:49,958
+<i>C'est Narsingh, féroce et audacieux</i>
+
+359
+00:36:50,041 --> 00:36:52,916
+- Félicitations, Sambhaji Maharaj !
+- <i> Des tempêtes grognent dans ses veines !</i>
+
+360
+00:36:53,000 --> 00:36:55,666
+- J'espère que Raigad prend soin de vous.
+- Oh, oui.
+
+361
+00:36:57,125 --> 00:36:59,291
+<i>C'est Narsingh, féroce et audacieux</i>
+
+362
+00:36:59,375 --> 00:37:04,125
+<i>Des tempêtes grognent dans ses veines !</i>
+
+363
+00:37:10,250 --> 00:37:12,416
+<i>Ô, Seigneur des Seigneurs</i>
+
+364
+00:37:12,500 --> 00:37:14,708
+<i>Ô, Essence suprême</i>
+
+365
+00:37:18,958 --> 00:37:21,125
+<i>Ô, Tout-Puissant</i>
+
+366
+00:37:21,208 --> 00:37:23,333
+<i>Ô, Commandeur des Armées</i>
+
+367
+00:37:34,000 --> 00:37:36,041
+<i>Venez réclamer le trône</i>
+
+368
+00:37:36,125 --> 00:37:38,208
+<i>Venez le réclamer, il vous est dû</i>
+
+369
+00:37:38,291 --> 00:37:40,166
+<i>Ô, Roi Shambhu</i>
+
+370
+00:37:40,250 --> 00:37:42,958
+<i>Venez, Roi Suprême</i>
+
+371
+00:37:44,708 --> 00:37:49,208
+<i>Ce trône est fait pour de grandes œuvres</i>
+
+372
+00:37:49,291 --> 00:37:53,166
+<i>C'est le siège d'où dirigent les Dieux</i>
+
+373
+00:37:53,250 --> 00:37:56,833
+<i>Celui qui est responsable</i>
+
+374
+00:37:56,916 --> 00:38:02,833
+<i>Celui qui sert fidèlement</i>
+
+375
+00:38:04,541 --> 00:38:06,666
+<i>C'est Narsingh, féroce et audacieux</i>
+
+376
+00:38:06,750 --> 00:38:09,375
+<i>Des tempêtes grognent dans ses veines !</i>
+
+377
+00:38:12,958 --> 00:38:15,416
+<i>Un cri orageux secoue notre temps</i>
+
+378
+00:38:15,500 --> 00:38:18,125
+<i>L'orage gronde, secouant terre et ciel !</i>
+
+379
+00:38:19,541 --> 00:38:23,583
+<i>Le ciel se colore d'un glorieux safran</i>
+
+380
+00:38:23,666 --> 00:38:26,833
+- Maharaj !
+<i>- L'orage est là, illuminant les cieux !</i>
+
+381
+00:38:26,916 --> 00:38:29,791
+Puissant et vaillant,
+le Destructeur des Forteresses,
+
+382
+00:38:30,208 --> 00:38:32,875
+issu du clan Kshatriya,
+
+383
+00:38:33,208 --> 00:38:36,041
+le Seigneur des Trônes,
+
+384
+00:38:36,458 --> 00:38:38,791
+Le Roi des Rois…
+
+385
+00:38:39,125 --> 00:38:43,166
+Chhatrapati Sambhaji Maharaj !
+
+386
+00:38:43,250 --> 00:38:45,666
+Soyez béni !
+
+387
+00:38:45,875 --> 00:38:49,541
+- Je vous salue…
+- Déesse Bhavani !
+
+388
+00:38:50,375 --> 00:38:52,666
+<i>Ô, Être Ultime</i>
+
+389
+00:39:07,458 --> 00:39:09,916
+<i>Courageux et fort</i>
+<i>Tant à l'épée qu'à la lance</i>
+
+390
+00:39:10,000 --> 00:39:12,375
+<i>Un guerrier marathe, sans peur</i>
+
+391
+00:39:12,458 --> 00:39:14,916
+<i>Au combat, vos talents sont inégalés</i>
+<i>Tout au long de la bataille</i>
+
+392
+00:39:15,000 --> 00:39:17,375
+<i>On entend la conque</i>
+<i>Tandis que vous décrochez la victoire</i>
+
+393
+00:39:17,458 --> 00:39:20,083
+<i>Le dirigeant du peuple</i>
+
+394
+00:39:20,166 --> 00:39:22,916
+<i>Vous brillez tel le soleil</i>
+
+395
+00:39:23,000 --> 00:39:25,541
+<i>Avec la bénédiction de la Déesse Jagdamba,</i>
+<i>Votre pouvoir grandit</i>
+
+396
+00:39:25,625 --> 00:39:28,083
+<i>Ô Chhatrapati</i>
+<i>Ô ami Sambha !</i>
+
+397
+00:39:28,166 --> 00:39:30,000
+- Superbe !
+- Formidable !
+
+398
+00:39:31,541 --> 00:39:33,250
+<i>Un véritable ami est comme le soleil,</i>
+<i>Brillant de toutes ses forces</i>
+
+399
+00:39:34,250 --> 00:39:36,208
+<i>Rien n'est comparable</i>
+<i>À la lumière du poète</i>
+
+400
+00:39:39,833 --> 00:39:40,791
+Un jour…
+
+401
+00:39:41,375 --> 00:39:45,583
+Un jour, je vous affronterai en poésie,
+Chandogamatya !
+
+402
+00:39:45,666 --> 00:39:47,750
+Là aussi, vous serez victorieux, Maharaj !
+
+403
+00:39:50,541 --> 00:39:52,291
+Parfois, j'ai du mal à savoir
+
+404
+00:39:52,500 --> 00:39:54,416
+si vous êtes un ami, un serviteur
+
+405
+00:39:56,333 --> 00:39:58,166
+ou mon ombre, Chandogamatya.
+
+406
+00:39:59,125 --> 00:40:00,583
+Je suis comme le sel, Maharaj.
+
+407
+00:40:01,333 --> 00:40:04,041
+Vous pouvez m'utiliser où
+et quand vous en avez besoin.
+
+408
+00:40:04,458 --> 00:40:08,291
+Alors, je vous jetterai sur les blessures
+de mes ennemis, Chandogamatya !
+
+409
+00:40:09,125 --> 00:40:10,916
+J'en serai honoré !
+
+410
+00:40:13,333 --> 00:40:15,916
+Par la grâce de la Déesse Bhavani,
+tout respirait l'harmonie et la sérénité.
+
+411
+00:40:16,791 --> 00:40:19,833
+Maintenant, avec la permission du Maharaj,
+nous envisagions de retourner à Girkan.
+
+412
+00:40:19,916 --> 00:40:22,333
+Restez quelques jours de plus, Ganoji.
+
+413
+00:40:23,458 --> 00:40:26,416
+Vous n'êtes plus seulement les invités
+de votre sœur et de votre beau-frère,
+
+414
+00:40:27,041 --> 00:40:29,708
+vous êtes désormais l'invité
+du Marathe Chhatrapati !
+
+415
+00:40:30,625 --> 00:40:32,250
+Oncle Hambir,
+c'est la maison de sa sœur !
+
+416
+00:40:32,750 --> 00:40:35,166
+Il va hésiter à rester ici !
+
+417
+00:40:41,875 --> 00:40:43,375
+J'avais une demande.
+
+418
+00:40:43,791 --> 00:40:45,541
+Le jour du couronnement du roi,
+
+419
+00:40:46,708 --> 00:40:48,583
+vous devez exaucer les vœux du Maharaj.
+
+420
+00:40:48,666 --> 00:40:51,000
+Oui, et non l'inverse !
+
+421
+00:40:54,000 --> 00:40:56,041
+Ganoji et Kanhoji font également
+partie de ma famille.
+
+422
+00:40:57,916 --> 00:40:59,416
+Ils peuvent me demander ce qu'ils veulent.
+
+423
+00:40:59,958 --> 00:41:01,000
+C'est leur droit !
+
+424
+00:41:01,916 --> 00:41:02,791
+Dites-moi.
+
+425
+00:41:04,250 --> 00:41:08,958
+On veut que nous soit confiée
+l'administration de Girkan.
+
+426
+00:41:13,333 --> 00:41:15,958
+Si nous obtenions ces droits
+sur notre terre,
+
+427
+00:41:16,041 --> 00:41:19,250
+nous pourrions prendre des décisions
+concernant son développement
+
+428
+00:41:19,750 --> 00:41:22,833
+sans devoir vous déranger
+à chaque fois, Maharaj !
+
+429
+00:41:28,333 --> 00:41:30,250
+Ganoji, vous devriez penser
+
+430
+00:41:31,333 --> 00:41:33,791
+au développement du Deccan,
+pas seulement de Girkan.
+
+431
+00:41:38,291 --> 00:41:39,333
+Vous avez raison,
+
+432
+00:41:40,791 --> 00:41:41,666
+mais…
+
+433
+00:41:43,000 --> 00:41:47,416
+votre père avait promis de donner
+les droits sur Girkan à mon père.
+
+434
+00:41:47,541 --> 00:41:49,791
+Mais Abasahib était contre ce principe !
+
+435
+00:41:50,625 --> 00:41:54,000
+Il disait que quand on commence
+à accorder des privilèges spéciaux,
+
+436
+00:41:54,083 --> 00:41:56,458
+les gens ne pensent plus qu'à eux,
+
+437
+00:41:57,083 --> 00:42:01,708
+et notre propre peuple anéantira
+sous nos yeux nos rêves pour Swarajya !
+
+438
+00:42:02,166 --> 00:42:05,083
+Oubliez cela, Abasahib
+n'y songerait même pas, mon frère !
+
+439
+00:42:05,208 --> 00:42:07,875
+Cela signifie que, soit notre père
+était un menteur,
+
+440
+00:42:07,958 --> 00:42:09,416
+- soit votre beau-père…
+- Ganoji !
+
+441
+00:42:25,458 --> 00:42:27,916
+Le Seigneur des Trônes,
+
+442
+00:42:28,208 --> 00:42:30,000
+le protecteur de Swarajya !
+
+443
+00:42:30,291 --> 00:42:34,333
+Gloire à Chhatrapati Sambhaji Maharaj !
+
+444
+00:42:40,625 --> 00:42:45,500
+L'écho doit avoir porté cette proclamation
+jusqu'à votre palais, Rajmata.
+
+445
+00:42:47,041 --> 00:42:47,958
+N'est-ce pas ?
+
+446
+00:42:50,208 --> 00:42:53,125
+Il est désormais le Chhatrapati
+de Swarajya !
+
+447
+00:42:55,833 --> 00:42:56,791
+Imaginez simplement,
+
+448
+00:42:57,875 --> 00:42:59,708
+si votre propre frère,
+
+449
+00:43:00,000 --> 00:43:03,541
+le Chef de l'armée Hambirrao Mohite,
+vous avait soutenue,
+
+450
+00:43:03,708 --> 00:43:06,291
+notre serment aurait été respecté !
+
+451
+00:43:08,541 --> 00:43:09,625
+Mais, et maintenant ?
+
+452
+00:43:12,416 --> 00:43:15,041
+Voir Ramraje devenir Chhatrapati…
+
+453
+00:43:16,000 --> 00:43:17,083
+semble impossible.
+
+454
+00:43:19,916 --> 00:43:22,125
+Cela ne vous attriste pas, Rajmata ?
+
+455
+00:43:54,875 --> 00:43:57,916
+Accueillir la douleur n'est source
+que d'anxiété, Annaji.
+
+456
+00:43:59,750 --> 00:44:01,958
+L'anxiété entraîne la fébrilité.
+
+457
+00:44:03,958 --> 00:44:07,416
+La fébrilité entraîne l'inquiétude.
+
+458
+00:44:10,083 --> 00:44:12,375
+L'inquiétude nous vole notre sommeil,
+
+459
+00:44:13,416 --> 00:44:15,750
+et cela tue les rêves !
+
+460
+00:44:19,916 --> 00:44:21,791
+Après la mort de Shivaji Maharaj,
+
+461
+00:44:21,875 --> 00:44:25,500
+chaque fois que j'ai voulu
+capturer Shambhu,
+
+462
+00:44:27,000 --> 00:44:28,708
+Hambirrao l'a défendu,
+
+463
+00:44:29,791 --> 00:44:31,250
+contre moi.
+
+464
+00:44:33,083 --> 00:44:36,416
+Alors, quand il s'agit
+de réaliser des rêves,
+
+465
+00:44:39,208 --> 00:44:41,541
+n'attendez jamais rien de la famille !
+
+466
+00:44:47,583 --> 00:44:48,916
+Dans ces moments-là,
+
+467
+00:44:49,875 --> 00:44:51,666
+ce sont les étrangers
+qui vous sont les plus utiles.
+
+468
+00:44:52,041 --> 00:44:53,291
+Pardonnez-moi, Rajmata,
+
+469
+00:44:56,458 --> 00:45:00,000
+quand il n'était encore que prince,
+bien loin du trône…
+
+470
+00:45:03,083 --> 00:45:05,416
+tous vos efforts étaient déjà vains.
+
+471
+00:45:08,750 --> 00:45:10,750
+Maintenant, il est le Chhatrapati,
+
+472
+00:45:13,083 --> 00:45:15,000
+le roi des Marathes !
+
+473
+00:45:18,000 --> 00:45:20,791
+La moindre erreur entraînera
+des catastrophes.
+
+474
+00:45:23,625 --> 00:45:25,708
+Maintenant que le roi est mort,
+
+475
+00:45:27,916 --> 00:45:29,458
+à qui devrons-nous rendre des comptes ?
+
+476
+00:45:31,000 --> 00:45:31,958
+Balaji,
+
+477
+00:45:32,500 --> 00:45:35,708
+commencez à écrire le dernier chapitre
+
+478
+00:45:35,791 --> 00:45:38,041
+de la biographie de
+Chhatrapati Sambhaji Maharaj !
+
+479
+00:46:20,208 --> 00:46:21,791
+Chandogamatya,
+
+480
+00:46:21,916 --> 00:46:25,208
+pourquoi le Prince Mirza Akbar
+veut-il me rencontrer ?
+
+481
+00:46:26,833 --> 00:46:30,375
+Akbar ne le dira qu'au Maharaj !
+
+482
+00:46:32,916 --> 00:46:34,666
+Tout ce que je sais,
+
+483
+00:46:35,125 --> 00:46:39,125
+c'est qu'Akbar veut gagner la couronne
+moghole du vivant d'Aurangzeb !
+
+484
+00:46:42,208 --> 00:46:44,208
+Le fils d'Aurang est fougueux,
+c'est certain.
+
+485
+00:46:46,750 --> 00:46:48,500
+Il doit y avoir une raison importante !
+
+486
+00:46:49,791 --> 00:46:53,500
+Sinon, pourquoi demanderait-il
+à rencontrer le Maharaj en personne ?
+
+487
+00:46:55,041 --> 00:46:58,833
+Ses intentions doivent cacher
+une conspiration, Maharaj !
+
+488
+00:47:00,750 --> 00:47:02,916
+Nilopantji a raison, Maharaj !
+
+489
+00:47:03,958 --> 00:47:07,041
+Après tout, Akbar est du même sang
+qu'Aurang !
+
+490
+00:47:08,708 --> 00:47:09,625
+Pardonnez-moi, Yesaji,
+
+491
+00:47:10,708 --> 00:47:11,916
+mais tant qu'on ne l'aura pas rencontré,
+
+492
+00:47:12,000 --> 00:47:14,750
+on ne peut que spéculer
+sur les intentions d'Akbar !
+
+493
+00:47:15,791 --> 00:47:16,791
+Je crois…
+
+494
+00:47:17,958 --> 00:47:21,458
+que tout ennemi d'Aurangzeb
+peut nous être utile !
+
+495
+00:47:22,833 --> 00:47:26,000
+Si vous commencez à faire confiance
+aux Moghols, Kalashji,
+
+496
+00:47:26,791 --> 00:47:29,166
+nous allons nous méfier de vous !
+
+497
+00:47:30,625 --> 00:47:32,125
+S'il est capable de trahir
+son propre père,
+
+498
+00:47:33,208 --> 00:47:34,250
+comment peut-on compter sur sa loyauté ?
+
+499
+00:47:35,583 --> 00:47:37,375
+Laisser Akbar s'approcher de vous,
+
+500
+00:47:37,708 --> 00:47:39,166
+c'est jouer avec le feu.
+
+501
+00:47:42,916 --> 00:47:44,458
+Celui qui est impatient de venir
+
+502
+00:47:45,708 --> 00:47:48,208
+est celui
+que j'ai personnellement invité !
+
+503
+00:47:53,041 --> 00:47:55,333
+Burhanpur est le pilier
+de l'Empire moghol !
+
+504
+00:47:58,000 --> 00:47:59,375
+Bien qu'affaibli,
+
+505
+00:48:00,583 --> 00:48:02,916
+Aurangzeb se rapproche rapidement
+de nous !
+
+506
+00:48:03,000 --> 00:48:05,500
+<i>Vasudev est là ! Vasudev est là !</i>
+
+507
+00:48:05,583 --> 00:48:07,291
+<i>Vasudev est là ! Vasudev est là !</i>
+
+508
+00:48:07,416 --> 00:48:09,458
+<i>Vasudev est là ! Vasudev est là !</i>
+
+509
+00:48:09,541 --> 00:48:12,375
+<i>Vasudev est là ! Vasudev est là !</i>
+
+510
+00:48:12,458 --> 00:48:14,458
+<i>Vasudev est là ! Vasudev est là !</i>
+
+511
+00:48:14,541 --> 00:48:16,666
+<i>Vasudev est là ! Vasudev est là !</i>
+
+512
+00:48:16,750 --> 00:48:18,666
+<i>Vasudev est là ! Vasudev est là !</i>
+
+513
+00:48:18,750 --> 00:48:20,791
+<i>Scandez le nom du Seigneur Rama et Hari</i>
+
+514
+00:48:20,875 --> 00:48:23,083
+<i>Vasudev est là ! Vasudev est là !</i>
+
+515
+00:48:23,166 --> 00:48:25,166
+<i>Vasudev est là ! Vasudev est là !</i>
+
+516
+00:48:25,250 --> 00:48:27,916
+<i>Vasudev est là ! Vasudev est là !</i>
+
+517
+00:48:29,666 --> 00:48:30,791
+Je vous écoute, Bahirji.
+
+518
+00:48:31,000 --> 00:48:32,208
+Salutations, Maharaj !
+
+519
+00:48:34,458 --> 00:48:35,666
+Avez-vous aperçu Aurang ?
+
+520
+00:48:36,958 --> 00:48:38,583
+Raje, non seulement Aurang,
+
+521
+00:48:39,875 --> 00:48:41,166
+mais aussi une armée de 800 000 hommes,
+
+522
+00:48:42,083 --> 00:48:43,333
+cinquante mille chevaux,
+
+523
+00:48:44,375 --> 00:48:45,625
+trente mille éléphants
+
+524
+00:48:46,041 --> 00:48:47,375
+et des trésors par millions.
+
+525
+00:48:48,875 --> 00:48:51,208
+C'est peut-être la première
+et la dernière fois de l'histoire,
+
+526
+00:48:51,291 --> 00:48:54,291
+qu'une force aussi puissante
+est lancée à la poursuite de quelqu'un !
+
+527
+00:49:02,458 --> 00:49:05,708
+Bahirji, restez près d'Aurang,
+comme son ombre.
+
+528
+00:49:07,625 --> 00:49:09,625
+S'il dévie, ne serait-ce
+qu'un tout petit peu,
+
+529
+00:49:10,666 --> 00:49:13,125
+redirigez-le vers nous,
+coûte que coûte !
+
+530
+00:49:15,833 --> 00:49:18,291
+Pendant ce temps,
+je vais m'occuper de son fils.
+
+531
+00:50:04,375 --> 00:50:05,250
+Shri-Sakhi !
+
+532
+00:50:07,750 --> 00:50:11,666
+Du plus jeune soldat marathe jusqu'au
+chef des armées, Oncle Hambir lui-même,
+
+533
+00:50:11,750 --> 00:50:12,750
+tout le monde est inquiet.
+
+534
+00:50:13,083 --> 00:50:13,958
+Pourquoi ?
+
+535
+00:50:15,250 --> 00:50:18,666
+Parce que je vais rencontrer Prince Akbar
+sans mon armée !
+
+536
+00:50:20,625 --> 00:50:23,000
+Je ne lis aucune inquiétude,
+dans vos yeux !
+
+537
+00:50:24,041 --> 00:50:25,208
+Je suis inquiète,
+
+538
+00:50:25,666 --> 00:50:26,583
+mais pas pour vous.
+
+539
+00:50:27,708 --> 00:50:28,750
+Je m'inquiète pour ce pauvre Akbar.
+
+540
+00:50:31,000 --> 00:50:32,250
+Pendant le mariage,
+
+541
+00:50:32,375 --> 00:50:34,500
+Jija Aausahib m'a dit…
+
+542
+00:50:36,166 --> 00:50:38,875
+que les hommes de la famille Bhonsle
+sont comme des orages en montagne.
+
+543
+00:50:40,958 --> 00:50:43,166
+Si même les montagnes ne peuvent
+résister à leur fureur,
+
+544
+00:50:43,333 --> 00:50:44,833
+qui oserait se mesurer à eux ?
+
+545
+00:50:46,458 --> 00:50:50,333
+Parfois, même les tempêtes
+s'affaiblissent, Shri-Sakhi.
+
+546
+00:50:50,750 --> 00:50:51,625
+Maharaj,
+
+547
+00:50:52,375 --> 00:50:54,166
+ayez pitié et évitez de dire
+des choses pareilles.
+
+548
+00:50:55,625 --> 00:50:58,208
+Quelqu'un attend avec impatience
+de vous rencontrer.
+
+549
+00:51:07,166 --> 00:51:08,125
+Je sens…
+
+550
+00:51:08,500 --> 00:51:09,375
+que c'est un garçon !
+
+551
+00:51:12,416 --> 00:51:14,416
+Un autre orage de montagne arrive.
+
+552
+00:51:34,166 --> 00:51:35,458
+Je le rencontrerai seul.
+
+553
+00:51:35,541 --> 00:51:36,416
+Mais, Raje…
+
+554
+00:52:30,708 --> 00:52:31,833
+Gloire à Allah !
+
+555
+00:52:31,916 --> 00:52:33,458
+Gloire à Allah !
+
+556
+00:52:35,333 --> 00:52:37,375
+Chhatrapati Sambhaji Maharaj,
+
+557
+00:52:37,458 --> 00:52:40,208
+vous êtes tel que je vous imaginais.
+
+558
+00:52:42,916 --> 00:52:47,750
+Alors que moi, je vous attendais
+dans ma tente, épée à la main…
+
+559
+00:52:47,833 --> 00:52:49,625
+vous êtes venu…
+
+560
+00:52:50,291 --> 00:52:52,708
+sans arme, pour me rencontrer.
+
+561
+00:52:54,458 --> 00:52:57,416
+Je respecte mon épée.
+
+562
+00:52:59,708 --> 00:53:01,291
+De plus, ici,
+
+563
+00:53:01,666 --> 00:53:03,833
+on n'attrape pas le rejeton
+d'un serpent avec une épée,
+
+564
+00:53:04,708 --> 00:53:06,041
+on le capture avec les doigts
+
+565
+00:53:06,875 --> 00:53:09,125
+et on l'écrase dans son poing !
+
+566
+00:53:10,375 --> 00:53:13,750
+Je voulais simplement voir
+si l'homme que je cherchais
+
+567
+00:53:14,291 --> 00:53:18,958
+viendrait me rencontrer
+ou bien enverrait un imposteur.
+
+568
+00:53:19,958 --> 00:53:22,125
+Même un imposteur
+en aurait fait de la chair à pâté.
+
+569
+00:53:23,125 --> 00:53:24,000
+Dites-moi,
+
+570
+00:53:25,291 --> 00:53:27,166
+pourquoi êtes-vous venu, sans invitation ?
+
+571
+00:53:28,000 --> 00:53:31,208
+Des nouvelles sont arrivées
+jusqu'au nord, Maharaj :
+
+572
+00:53:31,291 --> 00:53:34,166
+les soldats du Deccan
+ne craignent personne !
+
+573
+00:53:35,541 --> 00:53:38,541
+Alors, j'ai fait le voyage
+jusqu'à votre terre,
+
+574
+00:53:39,083 --> 00:53:43,166
+pour remplir ma mission,
+avec l'aide de vos courageux guerriers.
+
+575
+00:53:44,333 --> 00:53:45,208
+Étrange !
+
+576
+00:53:46,416 --> 00:53:48,083
+Le nord ne sait toujours pas
+
+577
+00:53:48,166 --> 00:53:51,333
+que les guerriers de Swarajya
+ne combattent pas pour les Moghols ?
+
+578
+00:53:52,625 --> 00:53:53,958
+Je vous ai offensé.
+
+579
+00:53:55,416 --> 00:53:57,833
+Je pensais qu'il serait plus simple
+de vous convaincre !
+
+580
+00:54:00,166 --> 00:54:01,333
+Vous et moi…
+
+581
+00:54:02,000 --> 00:54:03,291
+nous nous ressemblons.
+
+582
+00:54:04,791 --> 00:54:06,750
+Nouvelle génération, nouvelle passion,
+
+583
+00:54:06,833 --> 00:54:09,458
+nouvelle idéologie, nouvel enthousiasme !
+
+584
+00:54:11,208 --> 00:54:14,750
+Je veux que chaque Indien s'assoie
+sur le trône de Swarajya…
+
+585
+00:54:15,916 --> 00:54:19,375
+et vous voulez tuer votre père
+pour prendre sa couronne.
+
+586
+00:54:19,458 --> 00:54:22,208
+Il y a une grande différence entre
+mon combat et votre guerre, Prince.
+
+587
+00:54:23,791 --> 00:54:26,083
+C'est la nature de ce trône, Raje.
+
+588
+00:54:27,666 --> 00:54:30,625
+Il vous force à verser le sang des vôtres.
+
+589
+00:54:32,166 --> 00:54:34,250
+Vous ne connaissez que l'histoire moghole.
+
+590
+00:54:35,625 --> 00:54:36,916
+Étudiez l'histoire des Marathes,
+
+591
+00:54:37,000 --> 00:54:39,875
+vous n'y trouverez que du courage !
+
+592
+00:54:42,208 --> 00:54:45,000
+Vous n'êtes pas obligé de me respecter,
+
+593
+00:54:47,125 --> 00:54:49,125
+mais au moins, ne m'insultez pas, Raje !
+
+594
+00:54:51,458 --> 00:54:54,500
+La rébellion n'est pas réservée
+à ma famille,
+
+595
+00:54:54,583 --> 00:54:56,208
+elle court également dans vos veines !
+
+596
+00:55:07,958 --> 00:55:10,291
+{\an8}<i>Bienvenue au Deccan, Prince Akbar.</i>
+
+597
+00:55:10,875 --> 00:55:12,750
+<i>Votre ennemi est Aurangzeb,</i>
+
+598
+00:55:13,375 --> 00:55:15,708
+<i>le mien est Sambhaji Bhonsle.</i>
+
+599
+00:55:16,208 --> 00:55:20,041
+<i>Si vous nous aidez à vaincre Sambha,</i>
+
+600
+00:55:20,333 --> 00:55:25,000
+{\an8}<i>tous les Marathes combattront à vos côtés</i>
+<i>pour vaincre votre ennemi.</i>
+
+601
+00:55:25,166 --> 00:55:27,291
+{\an8}<i>Une fois que nous serons</i>
+<i>tous deux vainqueurs,</i>
+
+602
+00:55:27,833 --> 00:55:30,666
+<i>nous vous donnerons les terres</i>
+
+603
+00:55:31,166 --> 00:55:33,416
+<i>que vous désignerez</i>
+<i>sur la carte du Deccan,</i>
+
+604
+00:55:33,916 --> 00:55:36,708
+<i>marquant le début d'un nouveau chapitre</i>
+<i>de l'histoire de nos relations.</i>
+
+605
+00:55:36,958 --> 00:55:38,625
+<i>J'attends de vos nouvelles.</i>
+
+606
+00:55:38,833 --> 00:55:40,166
+<i>Rajmata Soyrabai.</i>
+
+607
+00:55:51,416 --> 00:55:53,333
+Je ne peux pas vous aider,
+
+608
+00:55:55,583 --> 00:55:57,208
+mais je peux vous faire
+la promesse suivante…
+
+609
+00:55:59,541 --> 00:56:02,041
+Tant que vous serez dans le Deccan,
+
+610
+00:56:03,500 --> 00:56:05,458
+Aurang ne pourra pas vous atteindre.
+
+611
+00:56:34,250 --> 00:56:35,125
+Maharani !
+
+612
+00:56:36,916 --> 00:56:38,416
+La belle calligraphie
+avec laquelle j'espérais
+
+613
+00:56:38,500 --> 00:56:41,083
+raconter l'histoire victorieuse
+de Swarajya,
+
+614
+00:56:41,375 --> 00:56:45,541
+vous l'avez utilisée pour une offre
+qui marquera l'histoire du Maharaj ?
+
+615
+00:56:47,041 --> 00:56:48,000
+Maharani,
+
+616
+00:56:49,708 --> 00:56:51,416
+certes, je l'ai écrite,
+
+617
+00:56:53,208 --> 00:56:55,958
+mais ce n'étaient pas mes idées.
+
+618
+00:56:59,541 --> 00:57:01,125
+Pardonnez-moi, Maharani !
+
+619
+00:57:02,958 --> 00:57:07,083
+Tout comme les erreurs font partie
+de l'expérience humaine,
+
+620
+00:57:07,458 --> 00:57:10,750
+il est aussi de notre devoir de pardonner.
+
+621
+00:57:17,000 --> 00:57:17,916
+Pardonnez-moi !
+
+622
+00:57:18,875 --> 00:57:20,125
+Pardonnez-moi, Maharani !
+
+623
+00:57:20,708 --> 00:57:21,833
+Ce n'est pas ma faute.
+
+624
+00:57:21,916 --> 00:57:25,625
+<i>J'ai pardonné vos erreurs passées,</i>
+
+625
+00:57:25,708 --> 00:57:28,458
+<i>car Swarajya avait besoin</i>
+<i>de votre sagesse.</i>
+
+626
+00:57:29,375 --> 00:57:33,916
+<i>Mais votre cupidité</i>
+<i>éclipse désormais votre sagesse.</i>
+
+627
+00:57:34,791 --> 00:57:36,250
+<i>Et vos erreurs</i>
+
+628
+00:57:37,000 --> 00:57:39,041
+<i>sont désormais des crimes !</i>
+
+629
+00:57:40,166 --> 00:57:41,916
+<i>Et pardonner à un criminel…</i>
+
+630
+00:57:43,541 --> 00:57:46,750
+est en soi un crime !
+
+631
+00:58:21,208 --> 00:58:22,208
+<i>Aaisahib !</i>
+
+632
+00:58:23,541 --> 00:58:24,458
+<i>Aaisahib !</i>
+
+633
+00:58:25,833 --> 00:58:27,125
+<i>Aaisahib !</i>
+
+634
+00:58:27,791 --> 00:58:28,666
+<i>Oui, Shambhu ?</i>
+
+635
+00:58:29,416 --> 00:58:30,500
+<i>Aaisahib,</i>
+
+636
+00:58:31,000 --> 00:58:33,416
+<i>à quoi ressemblent ces ennemis ?</i>
+
+637
+00:58:34,041 --> 00:58:36,083
+<i>Pourquoi cette question, Shambhu ?</i>
+
+638
+00:58:36,916 --> 00:58:39,791
+<i>Vous ne les affronterez jamais.</i>
+
+639
+00:58:40,541 --> 00:58:42,666
+<i>Votre force est si grande</i>
+
+640
+00:58:42,958 --> 00:58:45,625
+<i>qu'ils n'oseront vous attaquer</i>
+<i>que par-derrière.</i>
+
+641
+00:58:46,041 --> 00:58:48,875
+<i>Ils n'oseront jamais vous affronter !</i>
+
+642
+00:59:05,958 --> 00:59:08,541
+Je n'ai jamais vraiment connu
+l'amour d'une mère.
+
+643
+00:59:13,916 --> 00:59:17,250
+En voyant l'amour de Soyra Aaisahib
+pour Ramraje,
+
+644
+00:59:19,208 --> 00:59:22,958
+j'ai pris conscience du fait que
+l'amour d'une mère est sans limites.
+
+645
+00:59:30,541 --> 00:59:32,916
+J'ai dû voir mon Aaisahib, mais,
+
+646
+00:59:36,291 --> 00:59:38,375
+avant que j'aie pu
+mémoriser son visage, elle…
+
+647
+00:59:47,125 --> 00:59:49,666
+J'ai fermé les yeux et tenté maintes fois
+de la retrouver dans ma mémoire.
+
+648
+00:59:52,666 --> 00:59:54,833
+Je l'ai même cherchée en Soyra Aaisahib.
+
+649
+01:00:04,083 --> 01:00:06,166
+Vous savez tout, n'est-ce pas,
+Shri-Sakhi ?
+
+650
+01:00:09,416 --> 01:00:10,291
+S’il vous plaît, dites-moi,
+
+651
+01:00:14,625 --> 01:00:17,041
+à quoi doit ressembler mon Aaisahib ?
+
+652
+01:00:20,791 --> 01:00:22,583
+Comment pourrais-je voir…
+
+653
+01:00:23,666 --> 01:00:26,166
+ce que vous ne pouvez pas voir, Maharaj ?
+
+654
+01:00:30,375 --> 01:00:32,833
+Mais je vais adresser une prière
+à la Déesse Jagdamba,
+
+655
+01:00:34,375 --> 01:00:36,041
+je lui demanderai que dans votre
+prochaine vie,
+
+656
+01:00:36,166 --> 01:00:37,333
+vous naissiez de mon ventre.
+
+657
+01:00:40,625 --> 01:00:41,500
+Afin que…
+
+658
+01:00:42,416 --> 01:00:45,208
+je puisse vous apporter les joies
+
+659
+01:00:47,250 --> 01:00:48,541
+et apaiser les peines de cette vie,
+
+660
+01:00:50,125 --> 01:00:52,166
+en tant que mère.
+
+661
+01:02:15,208 --> 01:02:17,208
+Mon père, Shah Jahan,
+
+662
+01:02:19,666 --> 01:02:20,750
+prévoyait de couronner
+
+663
+01:02:23,125 --> 01:02:26,541
+mon frère, Dara Shikoh.
+
+664
+01:02:29,000 --> 01:02:30,541
+Alors, je l'ai décapité.
+
+665
+01:02:35,291 --> 01:02:36,583
+J'ai décoré sa tête
+
+666
+01:02:38,333 --> 01:02:40,000
+et je l'ai envoyée en cadeau à mon père.
+
+667
+01:02:45,250 --> 01:02:46,875
+Je n'ai pas tué Shah Jahan,
+
+668
+01:02:49,416 --> 01:02:51,416
+je l'ai fait prisonnier.
+
+669
+01:02:55,666 --> 01:02:56,916
+Pendant huit ans…
+
+670
+01:02:59,416 --> 01:03:02,416
+Pendant huit longues années,
+il s'est langui,
+
+671
+01:03:07,041 --> 01:03:09,583
+contemplant le Taj Mahal
+depuis la fenêtre de sa prison,
+
+672
+01:03:09,666 --> 01:03:11,000
+tandis que sa vie lui échappait doucement.
+
+673
+01:03:15,041 --> 01:03:18,208
+Maintenant, un jeune homme de 24 ans…
+
+674
+01:03:21,333 --> 01:03:25,000
+a transformé ma plus belle ville
+en cimetière,
+
+675
+01:03:26,250 --> 01:03:27,250
+puis il est parti.
+
+676
+01:03:30,708 --> 01:03:31,583
+Non…
+
+677
+01:03:34,250 --> 01:03:35,708
+Épargnez-moi ! Épargnez-moi !
+
+678
+01:03:38,250 --> 01:03:40,000
+Comment osez-vous survivre ?
+
+679
+01:04:01,125 --> 01:04:03,416
+Sambha a accueilli Prince Akbar !
+
+680
+01:04:12,333 --> 01:04:13,250
+Abbahuzur,
+
+681
+01:04:15,125 --> 01:04:18,250
+Sambha a accueilli Prince Akbar !
+
+682
+01:04:21,583 --> 01:04:26,416
+J'ai obtenu cette couronne en enjambant
+les corps des miens.
+
+683
+01:04:55,583 --> 01:04:57,666
+Je la porterai à nouveau…
+
+684
+01:04:59,541 --> 01:05:02,458
+seulement quand les cris
+de ce Sambha si arrogant…
+
+685
+01:05:04,958 --> 01:05:06,833
+résonneront dans tout l'Hindustan !
+
+686
+01:05:11,333 --> 01:05:13,750
+Partout où vous verrez du safran,
+
+687
+01:05:17,250 --> 01:05:18,500
+tachez-le de sang !
+
+688
+01:05:23,500 --> 01:05:26,083
+Décorez tous les forts du Deccan
+avec des cadeaux !
+
+689
+01:05:27,041 --> 01:05:28,375
+Que nos invités soient accueillis
+
+690
+01:05:28,625 --> 01:05:31,250
+- en fanfare et en grande pompe !
+- Nous sommes d'accord, chef des armées.
+
+691
+01:05:31,541 --> 01:05:34,833
+Concernant notre désaccord
+de la dernière fois, sur nos droits,
+
+692
+01:05:35,208 --> 01:05:38,750
+notre engagement ne doit plus désormais
+faire de doutes.
+
+693
+01:05:39,833 --> 01:05:41,250
+Les doutes, c'est pour les ennemis,
+
+694
+01:05:41,333 --> 01:05:43,208
+pour les nôtres, il n'y a que de l'amour,
+Ganojiraje !
+
+695
+01:05:44,208 --> 01:05:46,833
+On dit que les oncles sont
+deux fois plus vigilants qu'une mère !
+
+696
+01:05:48,166 --> 01:05:51,333
+Et mes enfants ont de la chance,
+car ils n'ont pas un, mais deux oncles !
+
+697
+01:05:52,625 --> 01:05:54,416
+Je sais que vous veillerez
+toujours sur eux.
+
+698
+01:05:55,916 --> 01:05:57,166
+Ne vous inquiétez pas, Maharaj !
+
+699
+01:05:58,041 --> 01:06:00,666
+Nous nous dresserons comme un bouclier,
+face à quiconque osera
+
+700
+01:06:01,250 --> 01:06:02,833
+poser des yeux mauvais sur Swarajya !
+
+701
+01:06:22,125 --> 01:06:24,666
+Si seulement Aurang pouvait se tenir
+sur cette montagne, là !
+
+702
+01:06:33,583 --> 01:06:35,208
+On dirait qu'un orage approche.
+
+703
+01:06:35,458 --> 01:06:36,958
+Rentrons.
+
+704
+01:06:39,875 --> 01:06:41,958
+Allez, avancez, allez.
+
+705
+01:06:44,958 --> 01:06:47,083
+Tu le sens en avance, n'est-ce pas ?
+
+706
+01:06:47,541 --> 01:06:48,708
+Alors, pourquoi ne pas me l'avoir dit ?
+
+707
+01:06:49,166 --> 01:06:51,125
+Allez, on y va.
+
+708
+01:06:57,083 --> 01:06:57,958
+Allez…
+
+709
+01:07:16,625 --> 01:07:18,083
+Au secours !
+
+710
+01:07:18,208 --> 01:07:19,375
+Aidez-moi !
+
+711
+01:07:19,875 --> 01:07:21,458
+Au secours !
+
+712
+01:07:22,000 --> 01:07:23,291
+Au secours !
+
+713
+01:07:29,708 --> 01:07:32,916
+Raje, près de la moitié
+de l'armée moghole a atteint le Deccan !
+
+714
+01:07:34,166 --> 01:07:36,500
+Mon cœur tremble devant leur puissance
+
+715
+01:07:36,583 --> 01:07:38,875
+et la monstrueuse cruauté
+dont j'ai été témoin !
+
+716
+01:07:40,291 --> 01:07:42,750
+<i>Plus de cadavres</i>
+<i>que de feuilles ornaient les arbres.</i>
+
+717
+01:07:47,833 --> 01:07:50,708
+<i>La rivière contenait beaucoup plus</i>
+<i>de sang de notre peuple, que d'eau.</i>
+
+718
+01:07:57,833 --> 01:08:00,291
+<i>Les Moghols ont noyé nos enfants,</i>
+
+719
+01:08:00,625 --> 01:08:03,416
+<i>étouffant l'avenir qui jadis</i>
+<i>résonnait de rires et d'espoir !</i>
+
+720
+01:08:14,750 --> 01:08:15,625
+Allez au diable !
+
+721
+01:08:17,125 --> 01:08:18,875
+Maman !
+
+722
+01:08:19,875 --> 01:08:21,291
+Où crois-tu aller, comme ça ?
+
+723
+01:08:41,333 --> 01:08:43,166
+<i>Partout où passait Aurang,</i>
+
+724
+01:08:43,708 --> 01:08:47,166
+<i>il ne laissait derrière lui</i>
+<i>que dévastation, Maharaj !</i>
+
+725
+01:09:02,708 --> 01:09:04,833
+La poussière soulevée
+sous les pas de Sa Majesté
+
+726
+01:09:06,333 --> 01:09:07,916
+doit avoir déjà atteint Raigad !
+
+727
+01:09:08,250 --> 01:09:09,875
+- Si Dieu le veut !
+- Si Dieu le veut !
+
+728
+01:09:10,166 --> 01:09:12,166
+Ils n'ont que 25 000 soldats.
+
+729
+01:09:13,125 --> 01:09:15,291
+C'est le nombre de cuisiniers
+dans notre armée.
+
+730
+01:09:17,041 --> 01:09:18,041
+En effet, Zeenat !
+
+731
+01:09:18,791 --> 01:09:21,500
+Et la moitié de nos forces
+n'ont pas encore atteint le Deccan.
+
+732
+01:09:21,625 --> 01:09:24,708
+Même Dieu ne saurait vous arrêter,
+mon Seigneur !
+
+733
+01:09:31,791 --> 01:09:33,833
+Ravagez le Deccan, au point que…
+
+734
+01:09:36,375 --> 01:09:40,166
+quand je le verrai, j'aurai l'impression
+qu'il n'a jamais existé.
+
+735
+01:09:41,416 --> 01:09:43,916
+- Qu'il en soit ainsi.
+- Qu'il en soit ainsi.
+
+736
+01:09:46,083 --> 01:09:49,041
+Jusqu'ici, Aurang a progressé
+aussi vite qu'une flèche rapide,
+
+737
+01:09:50,083 --> 01:09:52,833
+mais maintenant, il va tenter
+de nous encercler de tous les côtés.
+
+738
+01:09:53,166 --> 01:09:54,083
+Ses prochaines cibles seront
+
+739
+01:09:54,791 --> 01:09:55,666
+Kalyan,
+
+740
+01:09:55,958 --> 01:09:56,833
+Bhiwandi,
+
+741
+01:09:57,208 --> 01:09:58,083
+Jalna,
+
+742
+01:09:58,708 --> 01:10:00,541
+Nashik, Pune, Satara,
+
+743
+01:10:00,958 --> 01:10:01,833
+Kolhapur,
+
+744
+01:10:02,208 --> 01:10:03,083
+Konkan,
+
+745
+01:10:04,208 --> 01:10:05,208
+et Karnataka !
+
+746
+01:10:09,125 --> 01:10:10,541
+Raje, nous ne sommes que vingt-cinq mille,
+
+747
+01:10:11,041 --> 01:10:13,500
+mais notre force est égale
+au moins à deux millions et demi !
+
+748
+01:10:14,458 --> 01:10:15,458
+Donnez-nous l'ordre d'attaquer !
+
+749
+01:10:20,833 --> 01:10:23,458
+Nous devons affronter la grande armée
+d'Aurang non seulement avec force,
+
+750
+01:10:25,041 --> 01:10:26,791
+mais aussi avec stratégie, Rayaji !
+
+751
+01:10:39,333 --> 01:10:43,208
+Tout comme on panse une blessure
+après une morsure de serpent,
+
+752
+01:10:44,750 --> 01:10:46,333
+de la même façon, nous devons…
+
+753
+01:10:49,041 --> 01:10:52,041
+protéger tout le Deccan
+et le défendre fermement.
+
+754
+01:10:57,500 --> 01:11:01,333
+Nous attaquerons avec des méthodes
+auxquelles ils ne s'attendent pas.
+
+755
+01:11:01,750 --> 01:11:04,500
+Non seulement les Moghols
+affronteront notre armée,
+
+756
+01:11:05,041 --> 01:11:06,666
+mais ils devront également
+faire face à notre terre elle-même.
+
+757
+01:11:08,416 --> 01:11:09,375
+En effet, Chef,
+
+758
+01:11:10,500 --> 01:11:13,500
+ni leurs soldats ni leurs chevaux
+n’ont l'habitude
+
+759
+01:11:13,958 --> 01:11:15,208
+de nos routes tortueuses de montagnes…
+
+760
+01:11:16,750 --> 01:11:17,916
+et de nos forêts denses.
+
+761
+01:11:20,500 --> 01:11:22,083
+Dans les jungles denses du Konkan,
+
+762
+01:11:22,916 --> 01:11:25,166
+nous frapperons
+telle la Brigade des Singes, Maharaj.
+
+763
+01:11:26,916 --> 01:11:29,958
+Nous leur ferons visiter
+nos champs mouvants.
+
+764
+01:11:30,541 --> 01:11:34,250
+Nous leur ferons goûter à la canne à sucre
+doucereuse de Satara.
+
+765
+01:11:34,875 --> 01:11:37,083
+Raje, nous veillerons à ce que
+les eaux de Nashik nous protègent.
+
+766
+01:11:38,125 --> 01:11:39,791
+Nous les dévorerons comme des crocodiles.
+
+767
+01:11:40,625 --> 01:11:44,416
+Oui ! Et à Jalna,
+nous ferons couler le sang moghol.
+
+768
+01:11:45,333 --> 01:11:46,583
+Nous les enterrerons…
+
+769
+01:11:48,250 --> 01:11:50,250
+à Kolhapur, comme avalés
+par la fureur d'un tremblement de terre.
+
+770
+01:11:50,958 --> 01:11:52,416
+Je le jure devant la Déesse Bhavani !
+
+771
+01:11:53,708 --> 01:11:55,333
+Nous réduirons en cendres
+
+772
+01:11:56,416 --> 01:11:57,500
+la fierté d'Aurang !
+
+773
+01:11:59,333 --> 01:12:03,041
+Nous devons les aspirer
+comme un cyclone enragé.
+
+774
+01:12:05,208 --> 01:12:07,083
+Ils sont ici, car nous les avons attirés,
+
+775
+01:12:08,458 --> 01:12:10,166
+et ils ne partiront que lorsque
+nous l'aurons décidé.
+
+776
+01:12:10,541 --> 01:12:11,791
+Je vous salue, Déesse Bhavani !
+
+777
+01:12:11,875 --> 01:12:13,250
+Je vous salue, Déesse Bhavani !
+
+778
+01:12:13,333 --> 01:12:14,541
+Je vous salue, Déesse Bhavani !
+
+779
+01:12:14,625 --> 01:12:16,208
+Je vous salue, Déesse Bhavani !
+
+780
+01:12:52,041 --> 01:12:54,166
+Je vais adresser une prière
+à la Déesse Jagdamba…
+
+781
+01:12:56,875 --> 01:12:59,166
+pour que tous vos désirs se réalisent !
+
+782
+01:14:16,666 --> 01:14:19,125
+{\an8}KONKAN
+
+783
+01:15:52,583 --> 01:15:54,416
+Faites dire aux commandants
+de tous les forts
+
+784
+01:15:55,000 --> 01:15:59,250
+de surveiller les mouvements
+des forces mogholes.
+
+785
+01:16:00,416 --> 01:16:01,833
+Et Nilopantji,
+
+786
+01:16:02,416 --> 01:16:04,208
+veillez à ce qu'à chaque confrontation,
+
+787
+01:16:04,500 --> 01:16:08,500
+notre armée ne soit jamais à court
+d'armes, d'armures ou de ressources.
+
+788
+01:16:12,208 --> 01:16:14,708
+Seules les forces mogholes doivent
+voir leurs nombres diminuer.
+
+789
+01:16:17,041 --> 01:16:19,541
+{\an8}SATARA
+
+790
+01:16:23,916 --> 01:16:25,125
+Ne lui faites pas de mal !
+
+791
+01:16:26,708 --> 01:16:27,833
+Épargnez-le !
+
+792
+01:16:29,833 --> 01:16:31,041
+Ne leur faites pas de mal !
+
+793
+01:16:31,125 --> 01:16:32,125
+Épargnez-les !
+
+794
+01:18:15,916 --> 01:18:17,833
+- Je vous salue, Déesse Bhavani !
+- Je vous salue, Déesse Bhavani !
+
+795
+01:18:17,916 --> 01:18:20,750
+- Je vous salue, Déesse Bhavani !
+- Je vous salue, Déesse Bhavani !
+
+796
+01:18:21,083 --> 01:18:23,833
+<i>Har Har Mahadev !</i>
+
+797
+01:18:29,250 --> 01:18:32,666
+{\an8}1681
+
+798
+01:19:02,250 --> 01:19:03,208
+Oncle Hambir,
+
+799
+01:19:05,500 --> 01:19:07,333
+si vous autorisiez votre fille
+Tara Rani
+
+800
+01:19:08,875 --> 01:19:11,958
+à épouser un membre
+de la famille Bhonsle, alors Ramraje…
+
+801
+01:19:23,833 --> 01:19:26,250
+{\an8}JALNA
+
+802
+01:21:19,291 --> 01:21:22,791
+Je vous salue, Déesse Bhavani !
+
+803
+01:21:22,875 --> 01:21:26,875
+Je vous salue, Déesse Bhavani !
+
+804
+01:21:26,958 --> 01:21:33,958
+- Je vous salue, Déesse Bhavani !
+- Je vous salue, Déesse Bhavani !
+
+805
+01:22:30,625 --> 01:22:31,500
+{\an8}KOLHAPUR
+
+806
+01:22:31,583 --> 01:22:32,541
+{\an8}Laissez-le partir !
+
+807
+01:22:33,625 --> 01:22:35,166
+- Allez-vous-en !
+- Laissez-la partir !
+
+808
+01:22:35,250 --> 01:22:36,666
+- Allez !
+- Laissez-la partir !
+
+809
+01:22:43,000 --> 01:22:44,166
+Non…
+
+810
+01:22:58,000 --> 01:23:00,166
+<i>C'est Narsingh, féroce et audacieux</i>
+
+811
+01:23:00,250 --> 01:23:02,750
+<i>Des tempêtes grognent dans ses veines !</i>
+
+812
+01:23:06,458 --> 01:23:08,916
+<i>Un cri orageux secoue notre temps</i>
+
+813
+01:23:09,000 --> 01:23:11,583
+<i>L'orage gronde, secouant terre et ciel !</i>
+
+814
+01:23:13,000 --> 01:23:17,166
+<i>Le ciel se colore d'un glorieux safran</i>
+
+815
+01:23:17,625 --> 01:23:20,291
+<i>L'orage est là, illuminant les cieux !</i>
+
+816
+01:23:21,958 --> 01:23:26,166
+<i>Un œil retient des larmes,</i>
+<i>l'autre du désir</i>
+
+817
+01:23:26,333 --> 01:23:29,041
+<i>L'orage est là,</i>
+<i>répandant sa rage ardente !</i>
+
+818
+01:23:30,750 --> 01:23:32,916
+<i>C'est Narsingh, féroce et audacieux</i>
+
+819
+01:23:33,000 --> 01:23:35,625
+<i>Des tempêtes grognent dans ses veines !</i>
+
+820
+01:23:39,458 --> 01:23:41,583
+<i>C'est Narsingh, féroce et audacieux</i>
+
+821
+01:23:41,666 --> 01:23:46,416
+<i>Des tempêtes grognent dans ses veines !</i>
+
+822
+01:23:52,541 --> 01:23:54,708
+<i>Ô, Seigneur des Seigneurs</i>
+
+823
+01:23:54,791 --> 01:23:56,958
+<i>Ô, Essence suprême</i>
+
+824
+01:24:01,291 --> 01:24:03,375
+<i>Ô, Seigneur des Seigneurs</i>
+
+825
+01:24:03,458 --> 01:24:05,583
+<i>Ô, Essence suprême</i>
+
+826
+01:24:05,666 --> 01:24:07,750
+<i>Ô, Tout-Puissant</i>
+
+827
+01:24:07,833 --> 01:24:10,000
+<i>Ô, Commandeur des Armées</i>
+
+828
+01:24:10,083 --> 01:24:12,166
+<i>C'est Narsingh, féroce et audacieux</i>
+
+829
+01:24:12,250 --> 01:24:14,750
+<i>Des tempêtes grognent dans ses veines !</i>
+
+830
+01:24:18,500 --> 01:24:20,916
+<i>Un cri orageux secoue notre temps</i>
+
+831
+01:24:21,000 --> 01:24:23,500
+<i>L'orage gronde, secouant terre et ciel !</i>
+
+832
+01:24:27,583 --> 01:24:29,625
+<i>Ô, Tout-Puissant</i>
+
+833
+01:24:29,708 --> 01:24:31,875
+<i>Ô, Commandeur des Armées</i>
+
+834
+01:24:37,666 --> 01:24:40,916
+Je vous salue Déesse Bhavani !
+
+835
+01:24:41,000 --> 01:24:43,291
+Notre armée n'est désormais plus
+que la moitié de ce qu'elle était.
+
+836
+01:24:43,666 --> 01:24:45,791
+La trésorerie royale se vide rapidement.
+
+837
+01:24:46,291 --> 01:24:48,166
+Trouvez Sambha immédiatement,
+
+838
+01:24:48,458 --> 01:24:49,916
+sinon,
+
+839
+01:24:50,000 --> 01:24:53,041
+il transformera vos lits en tombes
+et disparaîtra sans laisser de traces.
+
+840
+01:24:53,291 --> 01:24:57,125
+Voilà de nombreuses années
+que nous avons quitté Delhi, Majesté,
+
+841
+01:24:57,416 --> 01:25:00,708
+pourtant, nous n'avons pas une fois
+croisé le chemin de Sambha.
+
+842
+01:25:02,375 --> 01:25:05,416
+{\an8}NASHIK
+
+843
+01:25:22,291 --> 01:25:24,041
+<i>Son arme au poing</i>
+
+844
+01:25:24,125 --> 01:25:27,458
+<i>Le guerrier frappe son ennemi</i>
+<i>Au cœur de la forêt</i>
+
+845
+01:25:32,166 --> 01:25:34,833
+<i>Il s'approche de l'adversaire</i>
+<i>Faisant écho au rugissement de la meute</i>
+
+846
+01:25:34,916 --> 01:25:37,416
+<i>Aussi rapide que le vent</i>
+
+847
+01:25:39,000 --> 01:25:41,583
+<i>Har Har Mahadev !</i>
+
+848
+01:25:42,416 --> 01:25:44,916
+<i>Il se déplace en silence,</i>
+
+849
+01:25:45,000 --> 01:25:47,625
+<i>En maître de la tromperie</i>
+
+850
+01:25:49,333 --> 01:25:50,291
+<i>Le voilà</i>
+
+851
+01:25:51,708 --> 01:25:52,625
+<i>Un homme vertueux !</i>
+
+852
+01:25:54,416 --> 01:25:56,916
+<i>Puissant Sambhaji !</i>
+<i>Sambhaji, l'homme vertueux !</i>
+
+853
+01:25:57,000 --> 01:25:58,166
+<i>Puissant Sambhaji !</i>
+
+854
+01:25:58,250 --> 01:26:00,625
+<i>Sambhaji ! Chhatrapati Sambhaji !</i>
+
+855
+01:26:05,125 --> 01:26:07,583
+<i>Son arme au poing</i>
+
+856
+01:26:07,666 --> 01:26:10,500
+<i>Le guerrier frappe son ennemi</i>
+<i>Au cœur de la forêt</i>
+
+857
+01:26:15,083 --> 01:26:17,750
+<i>Il s'approche de l'adversaire</i>
+<i>Faisant écho au rugissement de la meute</i>
+
+858
+01:26:17,833 --> 01:26:20,250
+<i>Aussi rapide que le vent</i>
+
+859
+01:26:20,333 --> 01:26:21,500
+<i>Sambhaji ! Sambhaji !</i>
+
+860
+01:26:21,583 --> 01:26:23,375
+<i>Chhatrapati Sambhaji !</i>
+
+861
+01:28:11,125 --> 01:28:13,083
+Il n'y a pas d'autre puissance,
+ni force, que celles d'Allah !
+
+862
+01:28:19,000 --> 01:28:21,666
+Il n'y a pas d'autre puissance,
+ni force, que celles d'Allah !
+
+863
+01:28:30,333 --> 01:28:32,125
+Nous avons trouvé Prince Mirza Akbar !
+
+864
+01:28:33,000 --> 01:28:35,708
+Si Allah le veut, nous aurons de bonnes
+nouvelles avant la prière du matin.
+
+865
+01:28:36,791 --> 01:28:38,833
+Tout comme Akbar,
+il doit y avoir quelqu'un, dans le Deccan,
+
+866
+01:28:40,083 --> 01:28:42,166
+qui se sent prisonnier chez lui.
+
+867
+01:28:46,458 --> 01:28:47,333
+Trouvez cette personne !
+
+868
+01:30:08,958 --> 01:30:09,833
+Abbahuzur,
+
+869
+01:30:10,875 --> 01:30:13,958
+les épées des Moghols ont trouvé
+le cou d'Akbar, pourtant,
+
+870
+01:30:14,833 --> 01:30:17,875
+malheureusement, il est toujours vivant.
+
+871
+01:30:21,541 --> 01:30:23,583
+Mais nous avons trouvé un moyen
+de localiser Sambha !
+
+872
+01:30:30,583 --> 01:30:32,416
+Nous avons trouvé quelqu'un
+qui est proche de Sambha,
+
+873
+01:30:32,875 --> 01:30:34,833
+et qui se sent mis à l'écart
+depuis de nombreuses années.
+
+874
+01:31:05,333 --> 01:31:10,208
+Bienvenue dans le sanctuaire
+de l'Empereur.
+
+875
+01:31:13,041 --> 01:31:14,208
+Remarquable !
+Vraiment remarquable !
+
+876
+01:31:14,541 --> 01:31:15,541
+Yashwantji,
+
+877
+01:31:16,083 --> 01:31:18,291
+la manière dont vous gérez,
+avec Sampathji,
+
+878
+01:31:18,375 --> 01:31:20,416
+les affaires de Karnataka et de Konkan…
+
+879
+01:31:21,083 --> 01:31:23,041
+même ce poète
+
+880
+01:31:23,708 --> 01:31:26,250
+est à court de mots pour chanter
+vos louanges, aujourd'hui !
+
+881
+01:31:28,541 --> 01:31:30,458
+Existe-t-il plus grand honneur
+que d'alléger
+
+882
+01:31:30,833 --> 01:31:32,250
+la charge du Maharaj ?
+
+883
+01:31:33,125 --> 01:31:34,000
+Grâce à vous,
+
+884
+01:31:34,083 --> 01:31:36,791
+je n'ai pas besoin de regarder
+dans cette direction.
+
+885
+01:31:37,375 --> 01:31:39,125
+Pardonnez cette intrusion, Maharaj,
+
+886
+01:31:41,458 --> 01:31:43,250
+mais la situation est telle
+
+887
+01:31:43,333 --> 01:31:47,208
+que je me trouve contraint d'apparaître
+devant vous, sans y avoir été invité !
+
+888
+01:31:49,000 --> 01:31:52,458
+J'ai décidé de quitter l'Hindustan.
+
+889
+01:32:02,416 --> 01:32:03,291
+Prince,
+
+890
+01:32:03,750 --> 01:32:05,416
+nous sommes si près du but.
+
+891
+01:32:06,583 --> 01:32:11,666
+Nous n'attendions pas votre départ
+à un moment aussi critique.
+
+892
+01:32:11,875 --> 01:32:14,625
+C'est un reproche que j'ai toujours
+fait aux Moghols, Chandogamatya.
+
+893
+01:32:16,541 --> 01:32:17,791
+Ils n'accompagnent jamais,
+
+894
+01:32:19,458 --> 01:32:21,458
+ils veulent toujours avancer.
+
+895
+01:32:22,625 --> 01:32:26,666
+L'objectif était de marcher ensemble,
+Votre Majesté.
+
+896
+01:32:27,416 --> 01:32:28,416
+Mais là,
+
+897
+01:32:29,791 --> 01:32:33,041
+mon départ est essentiel,
+si je souhaite vivre longtemps.
+
+898
+01:32:36,750 --> 01:32:37,708
+Pourquoi, Prince ?
+
+899
+01:32:39,125 --> 01:32:41,250
+Avant que les Moghols puissent
+vous ouvrir les portes du Paradis,
+
+900
+01:32:42,500 --> 01:32:44,625
+les Marathes les ont envoyés en enfer.
+
+901
+01:32:48,041 --> 01:32:49,333
+Mais pour combien de temps, Maharaj ?
+
+902
+01:32:50,791 --> 01:32:53,416
+Pendant combien de temps
+parviendrez-vous à me protéger ?
+
+903
+01:32:54,291 --> 01:32:55,625
+Votre Swarajya
+
+904
+01:32:56,041 --> 01:32:58,750
+compte plus pour moi que ma propre vie.
+
+905
+01:33:03,541 --> 01:33:07,416
+Permettez-moi de faire mes adieux.
+
+906
+01:33:08,625 --> 01:33:09,541
+Réfléchissez encore une fois.
+
+907
+01:33:11,000 --> 01:33:13,000
+Vous ne pourrez être témoin
+de la chute d'Aurang.
+
+908
+01:33:18,458 --> 01:33:20,916
+Maharaj, la nouvelle de votre victoire
+m'apportera une joie immense,
+
+909
+01:33:21,000 --> 01:33:22,583
+même de loin !
+
+910
+01:33:23,750 --> 01:33:24,666
+Dhanaji !
+
+911
+01:33:26,291 --> 01:33:27,166
+Oui, Raje ?
+
+912
+01:33:27,458 --> 01:33:29,666
+Veillez à ce que les plans
+du Prince Akbar se concrétisent.
+
+913
+01:33:30,791 --> 01:33:31,875
+Comme vous voudrez, Maharaj.
+
+914
+01:33:31,958 --> 01:33:32,875
+Raje !
+
+915
+01:33:34,791 --> 01:33:35,708
+Raje !
+
+916
+01:33:37,250 --> 01:33:38,166
+Raje !
+
+917
+01:33:39,166 --> 01:33:40,166
+Que s'est-il passé, Mhaloji-baba ?
+
+918
+01:33:41,375 --> 01:33:42,291
+Raje,
+
+919
+01:33:43,041 --> 01:33:44,583
+le chef de l'armée n'est plus.
+
+920
+01:33:57,625 --> 01:33:59,833
+Au cours de la bataille de Wai,
+en combattant les Moghols,
+
+921
+01:34:00,916 --> 01:34:04,041
+le Chef Hambirrao Mohite
+a expiré.
+
+922
+01:34:04,250 --> 01:34:06,958
+{\an8}WAI
+DÉCEMBRE 1687
+
+923
+01:34:07,041 --> 01:34:10,208
+{\an8}<i>Le boulet de canon tiré par Sarja Khan,</i>
+<i>alors vaincu,</i>
+
+924
+01:34:10,875 --> 01:34:13,958
+<i>a endommagé la muraille</i>
+<i>de Swarajya, Raje.</i>
+
+925
+01:34:17,208 --> 01:34:20,541
+Acceptez le salut final
+
+926
+01:34:21,625 --> 01:34:27,166
+de ce soldat de Swarajya, Raje !
+
+927
+01:34:28,125 --> 01:34:31,541
+Je vous salue Déesse Bhavani.
+
+928
+01:34:41,625 --> 01:34:42,791
+Déesse Jagdamba !
+
+929
+01:35:35,083 --> 01:35:37,750
+<i>Shambhu, vous devez apprendre</i>
+<i>à manier l'épée</i>
+
+930
+01:35:38,083 --> 01:35:39,541
+<i>avec autant de dextérité que vos doigts.</i>
+
+931
+01:35:40,125 --> 01:35:43,250
+<i>Votre lame doit frapper l'ennemi</i>
+
+932
+01:35:43,375 --> 01:35:46,833
+<i>avec la force du Sudarshan Chakra</i>
+<i>du dieu Krishna !</i>
+
+933
+01:35:47,208 --> 01:35:48,125
+<i>Bien joué !</i>
+
+934
+01:36:01,083 --> 01:36:03,416
+<i>Oncle Hamir, appelez-moi Shambhu.</i>
+
+935
+01:36:03,833 --> 01:36:05,875
+<i>Mes oreilles</i>
+<i>ont envie d'entendre "Shambhu".</i>
+
+936
+01:36:07,291 --> 01:36:08,208
+Raje…
+
+937
+01:36:18,333 --> 01:36:19,250
+Oui, Bahirji.
+
+938
+01:36:20,083 --> 01:36:21,500
+Yashwantji de Karnataka,
+
+939
+01:36:22,875 --> 01:36:24,041
+<i>Sampathji de Konkan,</i>
+
+940
+01:36:25,125 --> 01:36:26,625
+<i>Sadanandji d'Amravati,</i>
+
+941
+01:36:27,958 --> 01:36:29,208
+<i>Parshuramji de Goa,</i>
+
+942
+01:36:30,958 --> 01:36:32,166
+<i>Vinayakji de Kudal…</i>
+
+943
+01:36:33,875 --> 01:36:36,791
+<i>Un par un, ils tombent</i>
+<i>dans le piège d'Aurang, et</i>
+
+944
+01:36:37,500 --> 01:36:39,583
+abandonnent Swarajya, Raje.
+
+945
+01:36:50,250 --> 01:36:51,791
+Où est Aurang, en ce moment ?
+
+946
+01:36:53,750 --> 01:36:55,916
+Il s'est installé à Akluj !
+
+947
+01:36:59,000 --> 01:37:01,291
+Bahirji, faites courir la rumeur,
+parmi les Moghols,
+
+948
+01:37:02,541 --> 01:37:04,666
+que 10 000 soldats marathes
+
+949
+01:37:05,791 --> 01:37:06,958
+se dirigent vers Akluj
+
+950
+01:37:08,000 --> 01:37:09,333
+en passant par Pune !
+
+951
+01:37:10,875 --> 01:37:11,750
+Yesaji.
+
+952
+01:37:12,166 --> 01:37:13,083
+Oui, Raje ?
+
+953
+01:37:13,583 --> 01:37:16,625
+Adressez un message à tous les chefs
+régionaux du Deccan, pour qu'ils
+
+954
+01:37:18,666 --> 01:37:19,791
+me rencontrent à Sangameshwar !
+
+955
+01:37:23,541 --> 01:37:24,583
+Pourquoi Sangameshwar ?
+
+956
+01:37:25,416 --> 01:37:31,000
+Maharaj a choisi Sangameshwar
+pour unir tous les Marathes.
+
+957
+01:37:31,291 --> 01:37:33,000
+Avec une armée complète,
+
+958
+01:37:33,208 --> 01:37:36,083
+il avancera discrètement
+dans les jungles denses,
+
+959
+01:37:36,250 --> 01:37:37,791
+en direction d'Aurang.
+
+960
+01:37:38,375 --> 01:37:41,583
+En attendant, l'armée moghole
+installée non loin de là
+
+961
+01:37:41,666 --> 01:37:45,625
+attendra avec impatience
+les 10 000 soldats à Pune,
+
+962
+01:37:45,708 --> 01:37:47,708
+alors que ceux-ci
+n'ont jamais quitté Raigad !
+
+963
+01:37:52,541 --> 01:37:53,500
+Jeune Prince ?
+
+964
+01:37:54,208 --> 01:37:55,083
+Bhavani ?
+
+965
+01:37:55,916 --> 01:37:58,125
+Vous ne m'accompagnez pas
+au temple, aujourd'hui ?
+
+966
+01:37:58,458 --> 01:38:00,875
+Je dois d'abord conjurer le mauvais œil
+pour protéger Maharaj, Dhara.
+
+967
+01:38:01,291 --> 01:38:02,583
+Il repart à la guerre.
+
+968
+01:38:03,916 --> 01:38:05,750
+Quand ce maudit Aurang mourra-t-il ?
+
+969
+01:38:09,041 --> 01:38:12,208
+Combien de combats devrez-vous
+encore mener, Maharaj ?
+
+970
+01:38:14,000 --> 01:38:15,416
+J'espère que c'est le dernier !
+
+971
+01:38:21,750 --> 01:38:24,416
+Je comprends votre douleur !
+
+972
+01:38:28,000 --> 01:38:31,083
+Être loin de sa famille si longtemps,
+les mois deviennent des années…
+
+973
+01:38:36,958 --> 01:38:38,833
+Les enfants sont méconnaissables !
+
+974
+01:38:39,541 --> 01:38:41,458
+Maharaj, mon frère,
+que vous l'acceptiez ou non,
+
+975
+01:38:41,666 --> 01:38:43,416
+cette fois, je vous accompagnerai
+
+976
+01:38:43,583 --> 01:38:44,791
+dans ce combat pour Swarajya !
+
+977
+01:38:48,416 --> 01:38:51,041
+Vous pensez que je ne suis pas prêt,
+n'est-ce pas ?
+
+978
+01:38:58,541 --> 01:39:00,000
+Si j'avais des doutes,
+
+979
+01:39:00,083 --> 01:39:03,166
+laisserais-je le Raigad tout entier
+sous votre responsabilité, Ramraje ?
+
+980
+01:39:06,000 --> 01:39:10,083
+Votre présence ici est plus cruciale
+que mon départ au combat, Ramraje !
+
+981
+01:39:16,166 --> 01:39:17,875
+Longue vie à vous !
+
+982
+01:39:41,583 --> 01:39:42,500
+Shri-Sakhi !
+
+983
+01:39:43,500 --> 01:39:44,375
+Oui ?
+
+984
+01:39:46,000 --> 01:39:48,041
+Je vais affronter Aurang !
+
+985
+01:39:48,125 --> 01:39:50,833
+Vous n'êtes pas inquiète ?
+
+986
+01:39:52,250 --> 01:39:53,541
+Je le suis,
+
+987
+01:39:54,125 --> 01:39:55,041
+mais pas pour vous.
+
+988
+01:39:55,708 --> 01:39:56,583
+Je suis inquiète pour Aurang.
+
+989
+01:39:58,208 --> 01:40:00,291
+L'Empire marathe tout entier,
+moi comprise,
+
+990
+01:40:00,375 --> 01:40:02,375
+attend ce jour depuis si longtemps.
+
+991
+01:40:03,375 --> 01:40:05,708
+La chute d'Aurang
+
+992
+01:40:05,916 --> 01:40:07,833
+et le triomphe des rêves d'Abasahib !
+
+993
+01:40:09,000 --> 01:40:10,333
+Je crois que c'est possible,
+
+994
+01:40:10,833 --> 01:40:11,750
+je n'ai pas le moindre doute.
+
+995
+01:40:16,750 --> 01:40:18,625
+<i>Accompagnés par votre confiance,</i>
+
+996
+01:40:19,125 --> 01:40:20,458
+<i>Les combats deviennent</i>
+<i>des évènements festifs</i>
+
+997
+01:40:23,458 --> 01:40:25,375
+<i>N'oubliez pas que les gardiens du royaume</i>
+
+998
+01:40:26,958 --> 01:40:28,916
+<i>Doivent rester en vie, pour toujours</i>
+
+999
+01:40:48,333 --> 01:40:52,833
+{\an8}SANGAMESHWAR
+
+1000
+01:40:52,916 --> 01:40:54,416
+Si quelqu'un est prêt
+
+1001
+01:40:54,541 --> 01:40:56,833
+à toutes les bassesses
+pour répandre la peur,
+
+1002
+01:40:57,291 --> 01:40:59,125
+il est naturel de le craindre.
+
+1003
+01:41:00,291 --> 01:41:04,083
+Si vous devez, pour vous protéger,
+obéir aux ordres de l'ennemi,
+
+1004
+01:41:05,958 --> 01:41:08,666
+je peux comprendre votre situation.
+
+1005
+01:41:10,666 --> 01:41:12,833
+Mais il y a une chose
+que je ne comprends pas !
+
+1006
+01:41:14,500 --> 01:41:17,583
+Depuis quand les Marathes se préoccupent
+seulement de leur sécurité ?
+
+1007
+01:41:20,125 --> 01:41:21,000
+Alors ?
+
+1008
+01:41:21,500 --> 01:41:23,208
+Chaque fois qu'un Marathe
+a sacrifié sa vie,
+
+1009
+01:41:23,291 --> 01:41:24,875
+c'était pour protéger Swarajya,
+
+1010
+01:41:24,958 --> 01:41:27,166
+pour la gloire
+de Chhatrapati Shivaji Maharaj !
+
+1011
+01:41:28,833 --> 01:41:32,291
+Une tête qui ne se baisse
+que devant sa terre natale…
+
+1012
+01:41:32,375 --> 01:41:34,375
+comment pourrait-elle s'incliner
+devant l'ennemi ?
+
+1013
+01:41:38,625 --> 01:41:41,333
+Le sang de grands guerriers
+coule dans nos veines !
+
+1014
+01:41:41,416 --> 01:41:43,791
+Aurang n'a pas la force
+de le faire couler !
+
+1015
+01:41:44,875 --> 01:41:46,541
+Comment un homme
+capable de tuer son père, son frère,
+
+1016
+01:41:46,625 --> 01:41:48,791
+et son fils pour le trône
+pourrait gagner notre loyauté ?
+
+1017
+01:41:49,041 --> 01:41:50,583
+Nous sommes Marathes !
+
+1018
+01:41:52,541 --> 01:41:53,958
+Le trône de Swarajya
+a été construit au prix
+
+1019
+01:41:54,041 --> 01:41:56,333
+du sacrifice et du sang
+d'un nombre infini de Marathes !
+
+1020
+01:41:57,666 --> 01:41:59,458
+Swarajya n'est pas le fruit
+du désir d'un seul homme,
+
+1021
+01:41:59,541 --> 01:42:02,833
+mais de la volonté du Tout-Puissant
+de protéger toutes les âmes !
+
+1022
+01:42:02,958 --> 01:42:05,958
+Ce royaume n'est autre
+que le fruit de la volonté du divin !
+
+1023
+01:42:11,708 --> 01:42:12,958
+L'heure est venue…
+
+1024
+01:42:14,333 --> 01:42:17,000
+de débarrasser l'Hindustan de ce monstre !
+
+1025
+01:42:17,083 --> 01:42:18,041
+Il est temps d'agir !
+
+1026
+01:42:21,250 --> 01:42:23,041
+Chacun de nos coups…
+
+1027
+01:42:23,750 --> 01:42:26,416
+honorera nos martyrs,
+
+1028
+01:42:26,500 --> 01:42:28,791
+et sera porté au nom du Chef
+de l'Armée, Hambirrao Mohite !
+
+1029
+01:42:30,625 --> 01:42:32,083
+J'ordonne à tous les chefs régionaux…
+
+1030
+01:42:33,166 --> 01:42:34,416
+Et à tous les soldats marathes
+
+1031
+01:42:35,458 --> 01:42:38,208
+de Swarajya de se rendre à Sangameshwar
+avant le coucher du soleil, demain.
+
+1032
+01:42:39,666 --> 01:42:42,583
+Au cœur de la nuit, l'armée marathe
+avancera vers Aurang
+
+1033
+01:42:42,750 --> 01:42:44,625
+en passant par Amba Ghat,
+plus vite que les flammes de l'enfer !
+
+1034
+01:42:46,208 --> 01:42:50,000
+Nous réduirons Aurang
+et son empire superficiel en cendres !
+
+1035
+01:42:50,291 --> 01:42:51,916
+Je vous salue, Déesse Bhavani !
+
+1036
+01:42:52,000 --> 01:42:53,375
+Je vous salue, Déesse Bhavani !
+
+1037
+01:42:53,458 --> 01:42:54,791
+Je vous salue, Déesse Bhavani !
+
+1038
+01:42:54,875 --> 01:42:56,166
+Je vous salue, Déesse Bhavani !
+
+1039
+01:42:56,250 --> 01:42:58,708
+- Je vous salue, Déesse Bhavani !
+- Je vous salue, Déesse Bhavani !
+
+1040
+01:42:58,791 --> 01:43:00,958
+Loué soit le consort
+de la Déesse Parvati !
+
+1041
+01:43:01,041 --> 01:43:06,125
+<i>- Har Har Mahadev !</i>
+<i>- Har Har Mahadev !</i>
+
+1042
+01:43:17,083 --> 01:43:18,125
+<i>Aaisahib !</i>
+
+1043
+01:43:20,125 --> 01:43:21,166
+<i>Aaisahib !</i>
+
+1044
+01:43:22,166 --> 01:43:23,125
+<i>Oui, Shambhu ?</i>
+
+1045
+01:43:24,125 --> 01:43:25,125
+<i>Abasahib,</i>
+
+1046
+01:43:25,708 --> 01:43:28,625
+<i>quand verrons-nous la fin de ce tunnel ?</i>
+
+1047
+01:43:28,708 --> 01:43:31,208
+<i>Ce tunnel n'a pas de fin, Shambhu !</i>
+
+1048
+01:43:31,666 --> 01:43:33,458
+<i>Mais il ne faut pas s'arrêter !</i>
+
+1049
+01:43:46,583 --> 01:43:49,375
+{\an8}FORT PANHALA
+
+1050
+01:43:58,041 --> 01:43:59,208
+Oh, ouah !
+
+1051
+01:44:00,083 --> 01:44:01,333
+Vous semblez heureux, Père !
+
+1052
+01:44:02,875 --> 01:44:04,166
+Ce n'est pas du bonheur, Santa,
+
+1053
+01:44:04,708 --> 01:44:06,458
+c'est de l'impatience à l'état pur !
+
+1054
+01:44:07,750 --> 01:44:10,625
+La mort d'Aurang
+est désormais inévitable !
+
+1055
+01:44:12,208 --> 01:44:14,833
+Maharaj a déjà décidé
+du sort des Moghols.
+
+1056
+01:44:15,500 --> 01:44:18,291
+Dès l'ordre donné, nous frapperons !
+
+1057
+01:44:19,666 --> 01:44:21,958
+Maharaj aurait-il oublié
+de donner les ordres, Pères ?
+
+1058
+01:44:22,833 --> 01:44:24,083
+L'armée se déplace
+
+1059
+01:44:24,416 --> 01:44:25,625
+via Amba Ghat.
+
+1060
+01:44:44,125 --> 01:44:45,000
+Que se passe-t-il, Père ?
+
+1061
+01:44:45,791 --> 01:44:46,916
+Nous avons été trahis, Santa !
+
+1062
+01:44:47,583 --> 01:44:49,541
+- C'est l'armée moghole !
+- Quoi ?
+
+1063
+01:44:49,916 --> 01:44:51,166
+Ils se dirigent vers Sangameshwar,
+
+1064
+01:44:51,583 --> 01:44:52,958
+droit vers Maharaj.
+
+1065
+01:44:53,750 --> 01:44:56,708
+Nous devons trouver Maharaj
+avant eux, Santa !
+
+1066
+01:44:57,000 --> 01:44:58,416
+Dépêchons-nous !
+
+1067
+01:44:58,500 --> 01:45:01,208
+<i>- Har Har Mahadev !</i>
+<i>- Har Har Mahadev !</i>
+
+1068
+01:45:01,291 --> 01:45:02,208
+Mais Père…
+
+1069
+01:45:04,458 --> 01:45:07,916
+La route la plus courte, pour gagner
+Sangameshwar, passe par Amba Ghat !
+
+1070
+01:45:10,916 --> 01:45:12,458
+Comment les Moghols l'ont-ils su ?
+
+1071
+01:45:34,541 --> 01:45:36,541
+Nous avançons avec une armée
+de 5 000 hommes,
+
+1072
+01:45:36,875 --> 01:45:39,000
+pleins d'espoir.
+
+1073
+01:45:39,958 --> 01:45:42,708
+Si on ne trouve pas Sambha,
+à Sangameshwar, imaginez
+
+1074
+01:45:44,041 --> 01:45:47,208
+ce que 5 000 âmes frustrées
+vous feront.
+
+1075
+01:46:01,208 --> 01:46:04,833
+Nous vivons aussi, depuis des années,
+avec le cœur brisé, Muqarrab Khan !
+
+1076
+01:46:06,375 --> 01:46:08,250
+Pourquoi ferions-nous cela
+à quelqu'un d'autre ?
+
+1077
+01:46:10,208 --> 01:46:11,416
+Capturer Sambha
+
+1078
+01:46:12,458 --> 01:46:14,166
+sera l'aboutissement de nos rêves !
+
+1079
+01:46:15,416 --> 01:46:16,333
+Croyez-moi,
+
+1080
+01:46:17,041 --> 01:46:18,916
+Sambha est à Sangameshwar.
+
+1081
+01:46:21,166 --> 01:46:24,833
+Et seulement entouré de 150 hommes !
+
+1082
+01:46:26,833 --> 01:46:28,583
+Gloire à Allah !
+
+1083
+01:46:29,541 --> 01:46:31,208
+Après cela, nous vous offrirons
+le Konkan tout entier,
+
+1084
+01:46:31,583 --> 01:46:34,291
+pas seulement Girkan.
+
+1085
+01:47:12,541 --> 01:47:14,541
+<i>Har Har Mahadev !</i>
+
+1086
+01:47:15,791 --> 01:47:17,541
+Prévenez immédiatement Maharaj, Santa !
+
+1087
+01:47:17,625 --> 01:47:19,333
+<i>Har Har Mahadev !</i>
+
+1088
+01:47:19,416 --> 01:47:21,666
+<i>- Har Har Mahadev !</i>
+- Maharaj !
+
+1089
+01:47:23,583 --> 01:47:24,458
+Une attaque est imminente !
+
+1090
+01:47:24,750 --> 01:47:26,000
+- Les Moghols sont là !
+- Qui ?
+
+1091
+01:47:26,958 --> 01:47:28,000
+Kanhoji et Ganoji.
+
+1092
+01:47:31,583 --> 01:47:34,375
+Chargez !
+
+1093
+01:47:43,125 --> 01:47:44,083
+Raje !
+
+1094
+01:47:44,541 --> 01:47:45,458
+Raje !
+
+1095
+01:47:46,458 --> 01:47:49,916
+Qui m'a poignardé dans le dos
+et frappé au cœur de Swarajya ?
+
+1096
+01:47:51,333 --> 01:47:52,583
+C'est Ganoji et Kanhoji.
+
+1097
+01:47:56,458 --> 01:47:58,458
+Déesse Jagdamba !
+
+1098
+01:48:03,375 --> 01:48:05,500
+Partez immédiatement
+pour assurer la sécurité de Raigad.
+
+1099
+01:48:06,416 --> 01:48:10,166
+J'ai peur des regards suspicieux
+qu'on m'adresse, Maharaj.
+
+1100
+01:48:10,458 --> 01:48:13,875
+C'est ma chance de prouver ma loyauté,
+une fois pour toutes !
+
+1101
+01:48:14,833 --> 01:48:17,958
+Une troupe de 20 guerriers est prête
+à vous escorter jusqu'à Raigad.
+
+1102
+01:48:18,125 --> 01:48:21,083
+- Je vous en supplie, partez maintenant !
+- Chandogamatya !
+
+1103
+01:48:22,166 --> 01:48:24,166
+Avez-vous déjà vu un <i>chhaava</i>
+
+1104
+01:48:24,833 --> 01:48:27,125
+craindre les chiens et s'enfuir ?
+
+1105
+01:48:29,333 --> 01:48:31,833
+J'ai envie de rugir,
+comme une bête dans la jungle !
+
+1106
+01:48:32,125 --> 01:48:34,666
+Je vous salue, Déesse Bhavani !
+
+1107
+01:51:49,625 --> 01:51:54,000
+Anta !
+
+1108
+01:51:58,333 --> 01:52:00,291
+Anta !
+
+1109
+01:52:10,041 --> 01:52:12,583
+Raje, acceptez mes adieux…
+
+1110
+01:53:20,166 --> 01:53:21,333
+Maharaj !
+
+1111
+01:54:17,833 --> 01:54:18,708
+Raya !
+
+1112
+01:54:28,208 --> 01:54:29,250
+Raya !
+
+1113
+01:54:34,916 --> 01:54:40,166
+Raya !
+
+1114
+01:54:45,958 --> 01:54:48,583
+Père !
+
+1115
+01:55:03,958 --> 01:55:05,541
+Père !
+
+1116
+01:55:20,875 --> 01:55:23,958
+Santaji !
+
+1117
+01:55:26,500 --> 01:55:28,583
+Allez immédiatement à Raigad,
+remettre ceci à la Maharani !
+
+1118
+01:55:28,666 --> 01:55:31,416
+No, Maharaj !
+Je ne peux pas vous abandonner !
+
+1119
+01:55:31,541 --> 01:55:32,750
+C'est un ordre !
+
+1120
+01:55:32,833 --> 01:55:34,375
+Que dois-je lui dire ?
+
+1121
+01:55:35,875 --> 01:55:37,083
+Elle comprendra.
+
+1122
+01:55:37,166 --> 01:55:38,791
+Non, Maharaj ! Non !
+
+1123
+01:55:38,875 --> 01:55:39,875
+Allez !
+
+1124
+01:55:40,041 --> 01:55:41,583
+Maintenant !
+
+1125
+01:56:11,166 --> 01:56:12,125
+C'est ridicule !
+
+1126
+01:56:12,208 --> 01:56:15,666
+Même des milliers de soldats ne peuvent
+maîtriser un seul homme ?
+
+1127
+01:56:17,333 --> 01:56:20,041
+Ce roi est plus féroce
+que le roi de la jungle !
+
+1128
+01:56:27,208 --> 01:56:29,083
+Tant que ses mains seront libres,
+
+1129
+01:56:30,916 --> 01:56:32,291
+rien ne pourra l'arrêter.
+
+1130
+01:58:25,416 --> 01:58:27,791
+Raje !
+
+1131
+01:58:28,416 --> 01:58:30,166
+Raje !
+
+1132
+01:58:54,125 --> 01:58:56,375
+Raje !
+
+1133
+01:59:22,833 --> 01:59:26,333
+Raje !
+
+1134
+01:59:41,750 --> 01:59:44,666
+Portez ce présent royal à l'Empereur !
+
+1135
+01:59:56,958 --> 01:59:58,041
+Répétez !
+
+1136
+01:59:58,958 --> 01:59:59,833
+C'est la vérité, Empereur.
+
+1137
+02:00:00,208 --> 02:00:01,375
+Sambha a été fait prisonnier
+par les Moghols.
+
+1138
+02:01:06,500 --> 02:01:07,916
+Oh, mon Dieu,
+
+1139
+02:01:10,208 --> 02:01:12,791
+votre monde a été sauvé
+de l'annihilation totale !
+
+1140
+02:01:28,833 --> 02:01:30,416
+Je vais secourir mon frère, le Maharaj !
+
+1141
+02:01:30,500 --> 02:01:31,375
+Venez avec moi !
+
+1142
+02:01:31,458 --> 02:01:34,250
+Peu importe le chemin,
+l'ennemi sera prêt à frapper !
+
+1143
+02:01:34,666 --> 02:01:35,541
+Raigad…
+
+1144
+02:01:36,750 --> 02:01:39,000
+Les Moghols ont encerclé Raigad !
+
+1145
+02:01:39,083 --> 02:01:41,583
+Devrions-nous rester ici sans rien faire ?
+
+1146
+02:01:43,500 --> 02:01:45,333
+Le temps presse, Prince.
+
+1147
+02:01:47,250 --> 02:01:48,875
+Swarajya est en danger,
+
+1148
+02:01:50,500 --> 02:01:51,416
+et le Maharaj…
+
+1149
+02:01:53,166 --> 02:01:54,958
+a été capturé par Aurang.
+
+1150
+02:02:07,625 --> 02:02:09,958
+Jusqu'ici, Aurang était loin du Maharaj,
+
+1151
+02:02:10,166 --> 02:02:12,416
+et pourtant notre Maharaj
+lui a causé des souffrances infinies.
+
+1152
+02:02:13,208 --> 02:02:16,041
+À présent, le Maharaj
+va l'affronter directement !
+
+1153
+02:02:16,375 --> 02:02:17,791
+Aurang lui-même réclamera la mort !
+
+1154
+02:02:19,416 --> 02:02:23,708
+Je souhaite que les hommes comme
+Ganoji et Kanhoji ne voient jamais
+
+1155
+02:02:23,791 --> 02:02:25,625
+le jour, même chez nos ennemis.
+
+1156
+02:04:21,250 --> 02:04:22,166
+Mon Seigneur…
+
+1157
+02:04:32,041 --> 02:04:33,583
+Laissez-moi…
+
+1158
+02:04:35,208 --> 02:04:37,166
+savourer ce moment, Khan.
+
+1159
+02:04:43,708 --> 02:04:44,833
+Neuf ans…
+
+1160
+02:04:47,208 --> 02:04:49,875
+Pendant neuf longues années,
+dans chacune de mes prières,
+
+1161
+02:04:51,291 --> 02:04:53,833
+j'ai supplié Dieu
+de me laisser l'affronter.
+
+1162
+02:04:57,958 --> 02:04:59,458
+Chandogamatya,
+
+1163
+02:05:02,041 --> 02:05:05,458
+je sais que ce n'est pas
+la grande cour de Raigad, pourtant,
+
+1164
+02:05:07,083 --> 02:05:10,708
+vous devez jouer votre rôle
+et partager votre sagesse
+
+1165
+02:05:10,791 --> 02:05:12,541
+pour faire plaisir à l'Empereur.
+
+1166
+02:05:17,166 --> 02:05:21,000
+<i>Éléphants, chevaux, canons, épées</i>
+
+1167
+02:05:21,958 --> 02:05:24,666
+<i>Votre armée est grande et forte</i>
+
+1168
+02:05:25,958 --> 02:05:29,291
+<i>Mais mon roi, même enchaîné</i>
+
+1169
+02:05:29,583 --> 02:05:32,333
+<i>Demeure une force plus puissante !</i>
+
+1170
+02:05:34,041 --> 02:05:36,125
+Donnons sa chair en pâture aux chiens
+
+1171
+02:05:36,750 --> 02:05:38,541
+que sa lignée s'arrête ici et maintenant !
+
+1172
+02:05:39,875 --> 02:05:40,916
+Sage décision,
+
+1173
+02:05:42,416 --> 02:05:44,916
+nourrir vos chiens avec notre chair.
+
+1174
+02:05:46,166 --> 02:05:49,916
+Au moins, ils goûteront à la loyauté
+
+1175
+02:05:51,000 --> 02:05:54,791
+et leurs générations futures
+seront bénies !
+
+1176
+02:05:59,333 --> 02:06:00,291
+Ça ne m'amuse pas.
+
+1177
+02:06:08,666 --> 02:06:09,541
+Bien,
+
+1178
+02:06:12,625 --> 02:06:14,166
+avant que j'arrache…
+
+1179
+02:06:16,791 --> 02:06:18,708
+votre âme de votre corps,
+
+1180
+02:06:18,791 --> 02:06:20,625
+je dois vous poser une question…
+
+1181
+02:06:24,583 --> 02:06:26,208
+Qu'est-ce que ce Swarajya,
+
+1182
+02:06:27,875 --> 02:06:30,166
+pour lequel vous êtes prêt
+à sacrifier votre vie ?
+
+1183
+02:06:31,375 --> 02:06:32,291
+Alors ?
+
+1184
+02:06:35,916 --> 02:06:38,083
+Et où est votre Swarajya, en ce moment ?
+
+1185
+02:06:40,000 --> 02:06:41,833
+Dans les montagnes de Sahyadri,
+
+1186
+02:06:44,083 --> 02:06:46,041
+dans les eaux du Godavari,
+
+1187
+02:06:47,958 --> 02:06:49,916
+dans le sol du Raigad,
+
+1188
+02:06:50,000 --> 02:06:51,666
+dans les rues de Jalna,
+
+1189
+02:06:52,875 --> 02:06:54,416
+dans les vents de Nashik,
+
+1190
+02:06:54,500 --> 02:06:55,833
+dans tous les coins de Konkan,
+
+1191
+02:06:55,916 --> 02:06:57,541
+au pied de la déesse Bhavani !
+
+1192
+02:06:57,625 --> 02:07:00,500
+Swarajya coule dans les veines
+de millions de Marathes !
+
+1193
+02:07:02,625 --> 02:07:06,541
+Le Swarajya que vous cherchez à détruire,
+Aurang, n'est pas seulement un royaume.
+
+1194
+02:07:08,208 --> 02:07:11,375
+C'est la vision
+de Chhatrapati Shivaji Maharaj ! !
+
+1195
+02:07:19,791 --> 02:07:21,041
+Rien n'a changé, n'est-ce pas ?
+
+1196
+02:07:23,833 --> 02:07:25,708
+Vous vous tenez là, devant un Empereur,
+
+1197
+02:07:25,791 --> 02:07:27,666
+pourtant vos yeux brillent du même feu,
+
+1198
+02:07:29,625 --> 02:07:31,375
+votre esprit est habité
+de la même passion.
+
+1199
+02:07:34,500 --> 02:07:36,291
+Beaucoup de choses ont changé, Aurang.
+
+1200
+02:07:38,666 --> 02:07:40,458
+Je voyais de l'arrogance, dans vos yeux,
+
+1201
+02:07:40,541 --> 02:07:43,375
+une couronne sur votre tête,
+
+1202
+02:07:43,458 --> 02:07:46,125
+mais aujourd'hui,
+les deux manquent à l'appel…
+
+1203
+02:07:47,291 --> 02:07:48,750
+Empereur !
+
+1204
+02:07:57,000 --> 02:07:59,125
+Infligez-lui une douleur insupportable,
+
+1205
+02:08:02,208 --> 02:08:05,375
+afin que quand il réclamera la mort,
+
+1206
+02:08:08,458 --> 02:08:11,375
+nous n'entendrons que ses cris.
+
+1207
+02:08:12,708 --> 02:08:16,250
+Je danse au rythme de la mort, Aurang !
+
+1208
+02:08:16,833 --> 02:08:18,750
+Vous ne m'intimiderez pas
+avec des menaces de mort.
+
+1209
+02:08:20,000 --> 02:08:22,583
+Quand je mourrai, un nouveau Siva
+et un nouveau Sambha
+
+1210
+02:08:22,666 --> 02:08:24,125
+se révéleront
+dans tous les foyers marathes.
+
+1211
+02:08:24,250 --> 02:08:25,916
+Mais quand vous mourrez,
+
+1212
+02:08:26,791 --> 02:08:29,500
+l'Empire moghol tombera avec vous !
+
+1213
+02:08:29,583 --> 02:08:31,958
+Je vous salue, Déesse Bhavani !
+
+1214
+02:08:49,250 --> 02:08:51,583
+Pardonnez-moi, Chandogamatya.
+
+1215
+02:08:54,125 --> 02:08:58,291
+Vous avez enduré ces souffrances
+à cause de moi.
+
+1216
+02:09:00,416 --> 02:09:03,291
+Dans cette même douleur réside
+la joie de vivre, Maharaj.
+
+1217
+02:09:05,666 --> 02:09:07,666
+<i>Quelle peine Sudama pourrait-il connaître,</i>
+
+1218
+02:09:08,291 --> 02:09:11,416
+<i>lorsque le compatissant Krishna</i>
+<i>marche à ses côtés ?</i>
+
+1219
+02:09:18,625 --> 02:09:20,708
+Où l'emmenez-vous ?
+
+1220
+02:09:22,083 --> 02:09:23,500
+Allez-vous le relâcher ?
+
+1221
+02:09:28,125 --> 02:09:31,250
+<i>Ses mots sont comme des armes</i>
+<i>Qui se transforment sur demande</i>
+
+1222
+02:09:33,875 --> 02:09:37,291
+<i>Parfois, ils deviennent des flèches</i>
+<i>Parfois, une épée</i>
+
+1223
+02:09:41,500 --> 02:09:42,708
+Chandogamatya !
+
+1224
+02:09:44,916 --> 02:09:49,041
+Vous souvenez-vous que j'ai dit
+
+1225
+02:09:50,000 --> 02:09:52,458
+que je vous affronterais
+dans un duel de poésie ?
+
+1226
+02:09:53,625 --> 02:09:55,125
+Et j'ai répondu que
+
+1227
+02:09:55,208 --> 02:09:58,000
+vous étiez victorieux
+sans même livrer combat.
+
+1228
+02:10:01,000 --> 02:10:03,958
+<i>Celui qui dompte l'esprit</i>
+<i>S'épanouira</i>
+
+1229
+02:10:05,208 --> 02:10:07,208
+<i>Celui qui y succombe</i>
+<i>Ne survivra pas</i>
+
+1230
+02:10:08,375 --> 02:10:11,041
+<i>Ceux qui se rendent sans combattre</i>
+
+1231
+02:10:11,833 --> 02:10:14,291
+<i>Attirent sur eux</i>
+<i>La honte, chaque fois</i>
+
+1232
+02:10:16,000 --> 02:10:19,625
+<i>Honte à ceux</i>
+<i>Qui ne rêvent pas et ne luttent point</i>
+
+1233
+02:10:22,291 --> 02:10:27,125
+<i>Car le droit de rêver</i>
+<i>est notre droit inaliénable</i>
+
+1234
+02:10:28,250 --> 02:10:32,041
+<i>Pour le bien des nôtres</i>
+<i>Nous devons agir aujourd'hui</i>
+
+1235
+02:10:33,458 --> 02:10:37,500
+<i>Nous devons rendre Swaraj éternel</i>
+<i>Et immortel, quoiqu'il en coûte !</i>
+
+1236
+02:10:38,375 --> 02:10:40,916
+<i>Vous êtes un fils de la terre</i>
+
+1237
+02:10:41,375 --> 02:10:44,625
+<i>Pas seulement de la poussière ou du grain</i>
+
+1238
+02:10:45,208 --> 02:10:50,708
+<i>Vous changerez le monde</i>
+<i>Et écrirez l'histoire</i>
+
+1239
+02:10:50,791 --> 02:10:52,041
+<i>N'oubliez pas cette promesse !</i>
+
+1240
+02:10:52,333 --> 02:10:55,541
+<i>Vous êtes la première étoile de l'aube</i>
+
+1241
+02:10:56,916 --> 02:10:59,625
+<i>La voix du changement</i>
+
+1242
+02:11:01,833 --> 02:11:04,125
+<i>Ces ténèbres sont passagères</i>
+
+1243
+02:11:04,208 --> 02:11:06,666
+<i>Bientôt, le monde vous appartiendra !</i>
+
+1244
+02:11:10,958 --> 02:11:14,875
+Acceptez les adieux
+de votre serviteur, Raje.
+
+1245
+02:11:16,000 --> 02:11:17,333
+<i>Je m'en vais, maintenant</i>
+
+1246
+02:11:18,083 --> 02:11:21,833
+<i>Pour brûler les blessures de vos ennemis</i>
+
+1247
+02:11:22,708 --> 02:11:24,208
+<i>Je suis le sel</i>
+
+1248
+02:11:25,166 --> 02:11:27,916
+<i>Maharaj, je vous l'ai promis !</i>
+
+1249
+02:11:28,000 --> 02:11:31,250
+<i>Vous n'êtes pas le sel, Poète</i>
+<i>Vous êtes le bois de santal</i>
+
+1250
+02:11:32,875 --> 02:11:35,750
+<i>Vous êtes la fierté</i>
+<i>Que je porte sur mon front !</i>
+
+1251
+02:11:37,791 --> 02:11:40,291
+<i>Raje, sur ce s'achève le duel</i>
+
+1252
+02:11:41,916 --> 02:11:44,500
+<i>Finalement,</i>
+<i>Vous êtes victorieux, comme je l'avais dit</i>
+
+1253
+02:11:46,541 --> 02:11:51,416
+<i>Un dirigeant du peuple</i>
+
+1254
+02:11:51,750 --> 02:11:56,333
+<i>Vous êtes comme les rayons du soleil</i>
+
+1255
+02:11:56,625 --> 02:12:01,125
+<i>Avec la bénédiction de la Déesse Jagdamba,</i>
+<i>votre pouvoir grandira</i>
+
+1256
+02:12:01,291 --> 02:12:06,208
+<i>Ô Chhatrapati</i>
+<i>Ô l'ami Sambha !</i>
+
+1257
+02:12:07,291 --> 02:12:09,833
+<i>Je suis le sel, Maharaj !</i>
+
+1258
+02:12:10,166 --> 02:12:12,166
+<i>Je suis le sel !</i>
+
+1259
+02:12:15,083 --> 02:12:18,583
+<i>Vous n'êtes pas le sel, Poète</i>
+<i>Vous êtes le bois de santal</i>
+
+1260
+02:12:20,541 --> 02:12:22,333
+<i>Vous êtes la fierté…</i>
+
+1261
+02:12:22,916 --> 02:12:26,250
+<i>Que je porte sur mon front</i>
+
+1262
+02:12:31,208 --> 02:12:32,708
+Raje…
+
+1263
+02:12:34,541 --> 02:12:36,958
+Arrachez tous les ongles de ses doigts !
+
+1264
+02:13:40,166 --> 02:13:41,833
+Déesse Jagdamba !
+
+1265
+02:13:44,208 --> 02:13:46,125
+Déesse Jagdamba !
+
+1266
+02:14:04,583 --> 02:14:06,583
+Nous avons arraché tous les ongles,
+
+1267
+02:14:07,541 --> 02:14:10,416
+mais il n'y a aucune trace de douleur
+sur le visage de Sambha.
+
+1268
+02:14:40,666 --> 02:14:41,666
+<i>Shri-Sakhi !</i>
+
+1269
+02:14:41,958 --> 02:14:42,875
+<i>Oui ?</i>
+
+1270
+02:14:44,625 --> 02:14:46,875
+<i>Depuis quand vous inquiétez-vous</i>
+<i>pour moi ?</i>
+
+1271
+02:14:48,916 --> 02:14:50,791
+<i>Doutez-vous de mes capacités ?</i>
+
+1272
+02:14:51,791 --> 02:14:53,791
+<i>Ou bien de ma bravoure ?</i>
+
+1273
+02:14:54,041 --> 02:14:58,750
+<i>J'ai confiance en mon orage des montagnes</i>
+<i>et j'en suis immensément fière.</i>
+
+1274
+02:15:01,041 --> 02:15:05,125
+<i>Si je peux douter de ma propre existence,</i>
+<i>jamais je ne douterais de votre bravoure.</i>
+
+1275
+02:15:07,250 --> 02:15:11,083
+<i>Pourquoi votre foi en moi est-elle</i>
+<i>si inébranlable, Shri-Sakhi ?</i>
+
+1276
+02:15:12,750 --> 02:15:14,333
+<i>Il doit y avoir une raison.</i>
+
+1277
+02:15:14,958 --> 02:15:16,708
+<i>Je voudrais comprendre.</i>
+
+1278
+02:15:17,500 --> 02:15:21,333
+<i>Le jour de notre mariage, Jija Aausahib</i>
+<i>m'a dit autre chose…</i>
+
+1279
+02:15:22,083 --> 02:15:25,333
+<i>Que tout comme Seigneur Shiva a exécuté</i>
+<i>le tandava au sommet de l’Himalaya,</i>
+
+1280
+02:15:26,000 --> 02:15:30,208
+<i>Shambhuraje aussi régnera</i>
+<i>sur les forts du Deccan.</i>
+
+1281
+02:15:31,000 --> 02:15:35,000
+<i>Il illuminera tout l'Hindustan</i>
+<i>avec la flamme de Swarajya !</i>
+
+1282
+02:15:36,958 --> 02:15:37,958
+<i>Au fait,</i>
+
+1283
+02:15:39,000 --> 02:15:42,583
+<i>Jija Aausahib m'a également</i>
+<i>dit quelque chose…</i>
+
+1284
+02:15:43,500 --> 02:15:44,666
+<i>Elle a dit, "Shambhu,</i>
+
+1285
+02:15:45,625 --> 02:15:48,833
+<i>Yesu n'est pas une femme ordinaire.</i>
+
+1286
+02:15:49,625 --> 02:15:51,916
+<i>Elle est la réincarnation</i>
+<i>de la Déesse Parvati !</i>
+
+1287
+02:15:53,666 --> 02:15:57,166
+<i>Tout comme le Seigneur Shiva ne peut</i>
+<i>exister sans la Déesse Parvati,</i>
+
+1288
+02:15:57,250 --> 02:16:01,000
+<i>ce Shambhu est incomplet sans Yesu !"</i>
+
+1289
+02:16:02,041 --> 02:16:05,666
+<i>Voilà pourquoi cette Sakhi est toujours</i>
+<i>dans le cœur de son cher Shri !</i>
+
+1290
+02:16:43,916 --> 02:16:45,833
+Déesse Jagdamba !
+
+1291
+02:16:47,375 --> 02:16:49,375
+Déesse Jagdamba !
+
+1292
+02:18:02,708 --> 02:18:03,875
+Il est là, couvert de sang,
+
+1293
+02:18:05,833 --> 02:18:06,958
+mais pas un seul cri,
+
+1294
+02:18:08,916 --> 02:18:10,916
+pas même un soupir de douleur
+ne s'échappe de ses lèvres !
+
+1295
+02:18:13,916 --> 02:18:16,041
+Celui qui porte les coups tremble,
+mon Seigneur,
+
+1296
+02:18:17,666 --> 02:18:20,500
+mais dans les yeux de Sambha,
+il n'y a pas une once de peur !
+
+1297
+02:18:37,791 --> 02:18:38,666
+Ses yeux !
+
+1298
+02:18:59,166 --> 02:19:00,458
+Qu'est-ce que vous regardez ?
+
+1299
+02:19:01,541 --> 02:19:02,708
+Vos yeux.
+
+1300
+02:19:03,916 --> 02:19:05,458
+Et qu'y voyez-vous ?
+
+1301
+02:19:06,625 --> 02:19:08,333
+De l'amour, de la révérence,
+
+1302
+02:19:09,000 --> 02:19:11,791
+et une fierté inébranlable
+pour le Swarajya !
+
+1303
+02:19:15,375 --> 02:19:16,583
+Et pour vous ?
+
+1304
+02:19:18,583 --> 02:19:19,958
+Uniquement de l'amour.
+
+1305
+02:19:21,041 --> 02:19:25,000
+Le même amour que celui du Seigneur
+Krishna pour Mère Radha !
+
+1306
+02:19:30,875 --> 02:19:35,708
+<i>Vous le savez et je le sais aussi</i>
+
+1307
+02:19:36,458 --> 02:19:41,125
+<i>Je désire vivre dans votre amour si pur</i>
+
+1308
+02:19:41,875 --> 02:19:46,833
+<i>Mes yeux sont prisonniers de votre regard</i>
+
+1309
+02:19:47,416 --> 02:19:52,708
+<i>Je désire vos paroles,</i>
+
+1310
+02:19:52,791 --> 02:19:56,333
+<i>Vous êtes mon univers</i>
+
+1311
+02:19:56,416 --> 02:19:58,333
+Fermez au moins les yeux, Sire.
+
+1312
+02:19:58,416 --> 02:20:01,958
+<i>- Vous vivrez toujours, éternellement</i>
+- Qu'attendez-vous ? Crevez-les !
+
+1313
+02:20:20,625 --> 02:20:22,416
+Déesse Jagdamba !
+
+1314
+02:20:27,541 --> 02:20:29,708
+Déesse Jagdamba !
+
+1315
+02:21:35,250 --> 02:21:36,333
+<i>Abasahib.</i>
+
+1316
+02:21:39,833 --> 02:21:40,916
+<i>Oui, Shambhu ?</i>
+
+1317
+02:21:43,208 --> 02:21:45,666
+<i>Lorsque je rencontrerai Aaisahib,</i>
+
+1318
+02:21:46,708 --> 02:21:48,416
+<i>Comment saurai-je que c'est elle ?</i>
+
+1319
+02:21:50,666 --> 02:21:53,083
+<i>Je ne me souviens même plus</i>
+<i>de son visage !</i>
+
+1320
+02:21:55,083 --> 02:21:56,666
+<i>Mais elle se souvient de vous, Shambhu.</i>
+
+1321
+02:21:57,875 --> 02:22:00,000
+<i>Même au plus profond des ténèbres,</i>
+<i>si vous l'appelez,</i>
+
+1322
+02:22:00,083 --> 02:22:03,083
+<i>elle vous reconnaîtra</i>
+<i>rien qu'en entendant votre voix !</i>
+
+1323
+02:22:15,375 --> 02:22:17,291
+<i>La mort ne m'intimide pas !</i>
+
+1324
+02:22:18,500 --> 02:22:21,041
+<i>Lorsque je mourrai,</i>
+<i>un nouveau Siva et un nouveau Sambha</i>
+
+1325
+02:22:21,125 --> 02:22:22,666
+<i>Naîtront dans tous les foyers marathes !</i>
+
+1326
+02:22:22,791 --> 02:22:24,458
+<i>Mais quand vous mourrez,</i>
+
+1327
+02:22:25,333 --> 02:22:28,125
+<i>l'Empire moghol tombera avec vous !</i>
+
+1328
+02:22:31,708 --> 02:22:33,333
+Pourquoi est-ce que de telles fleurs…
+
+1329
+02:22:35,541 --> 02:22:37,291
+ne poussent pas dans notre terre désolée ?
+
+1330
+02:23:30,708 --> 02:23:32,000
+Rejoignez-nous.
+
+1331
+02:23:34,791 --> 02:23:36,250
+Rejoignez les Moghols.
+
+1332
+02:23:39,625 --> 02:23:41,083
+Votre vie n'en sera que meilleure.
+
+1333
+02:23:44,375 --> 02:23:46,541
+Il vous suffit de changer de religion !
+
+1334
+02:23:58,708 --> 02:24:00,708
+Rejoignez-nous !
+
+1335
+02:24:03,500 --> 02:24:05,375
+Rejoignez les Marathes.
+
+1336
+02:24:07,791 --> 02:24:09,750
+Votre vie n'en sera que meilleure et…
+
+1337
+02:24:12,500 --> 02:24:14,833
+vous n'aurez même pas
+à changer de religion !
+
+1338
+02:24:25,333 --> 02:24:28,958
+Aurang, Chhatrapati Shivaji Maharaj
+est connu sous le nom du lion,
+
+1339
+02:24:30,333 --> 02:24:32,375
+et son petit s'appelle…
+
+1340
+02:24:33,625 --> 02:24:37,333
+<i>chhaava !</i>
+
+1341
+02:24:53,375 --> 02:24:55,583
+Coupez-lui la langue !
+
+1342
+02:24:58,708 --> 02:25:00,416
+<i>Accompagnés par votre confiance,</i>
+
+1343
+02:25:01,125 --> 02:25:02,500
+<i>Les combats deviennent</i>
+<i>des évènements festifs</i>
+
+1344
+02:26:08,666 --> 02:26:10,791
+Déesse Jagdamba !
+
+1345
+02:26:12,416 --> 02:26:14,708
+Déesse Jagdamba !
+
+1346
+02:26:41,416 --> 02:26:44,000
+Puissant et vaillant,
+le Destructeur des Forteresses
+
+1347
+02:26:44,250 --> 02:26:46,750
+issu du clan Kshatriya,
+
+1348
+02:26:46,958 --> 02:26:48,833
+Le Roi des Rois…
+
+1349
+02:26:49,208 --> 02:26:53,208
+Que tous saluent
+Chhatrapati Ramraje Maharaj !
+
+1350
+02:26:57,541 --> 02:26:59,416
+<i>Accompagnés par votre confiance,</i>
+
+1351
+02:26:59,791 --> 02:27:01,250
+<i>Les combats deviennent</i>
+<i>des évènements festifs.</i>
+
+1352
+02:27:02,041 --> 02:27:03,958
+<i>N'oubliez pas que les gardiens du royaume</i>
+
+1353
+02:27:05,500 --> 02:27:07,250
+<i>Doivent rester en vie, pour toujours</i>
+
+1354
+02:27:08,416 --> 02:27:09,416
+Déesse Jagdamba !
+
+1355
+02:27:12,291 --> 02:27:15,083
+Sambha est décédé,
+se réjouissant de sa propre mort,
+
+1356
+02:27:15,833 --> 02:27:16,958
+nous laissant derrière lui…
+
+1357
+02:27:18,375 --> 02:27:20,166
+à pleurer sur nos vies !
+
+1358
+02:27:32,333 --> 02:27:34,416
+{\an8}Un message de Raigad.
+
+1359
+02:27:41,458 --> 02:27:42,958
+Le Chhatrapati des Marathes…
+
+1360
+02:27:44,750 --> 02:27:45,916
+continue de vivre !
+
+1361
+02:27:59,416 --> 02:28:00,291
+Mujtaba !
+
+1362
+02:28:01,083 --> 02:28:01,958
+Mon Seigneur.
+
+1363
+02:28:12,000 --> 02:28:14,833
+Si seulement j'avais un fils
+comme Sambha !
+
+1364
+02:28:17,708 --> 02:28:19,250
+Seulement un fils, Mujtaba.
+
+1365
+02:28:20,500 --> 02:28:22,208
+Ce n'est pas seulement l'Hindustan,
+
+1366
+02:28:22,875 --> 02:28:25,125
+mais le monde entier
+qui m'aurait appartenu !
+
+1367
+02:28:29,750 --> 02:28:32,125
+Je ressens une profonde jalousie,
+envers ce Siva, Mujtaba,
+
+1368
+02:28:35,083 --> 02:28:37,125
+qui a enfanté un tel <i>chhaava !</i>
+
+1369
+02:28:47,666 --> 02:28:48,583
+{\an8}VADHU
+11 MARS 1689
+
+1370
+02:28:48,666 --> 02:28:55,666
+{\an8}<i>Votre ombre avec nous…</i>
+
+1371
+02:29:00,083 --> 02:29:04,833
+<i>S'épanouira toujours !</i>
+
+1372
+02:29:04,916 --> 02:29:10,416
+<i>Qu'elle s'épanouisse toujours</i>
+
+1373
+02:29:14,208 --> 02:29:15,291
+<i>Aaisahib ?</i>
+
+1374
+02:29:18,916 --> 02:29:20,083
+<i>Oui, Shambhu ?</i>
+
+1375
+02:29:24,375 --> 02:29:25,833
+PRÊT À SE SACRIFIER
+POUR DÉFENDRE SA TERRE,
+
+1376
+02:29:25,916 --> 02:29:27,291
+LE FILS DE SHIVA,
+PUISSANT ET GRAND.
+
+1377
+02:29:27,375 --> 02:29:30,083
+UN GUERRIER VALEUREUX,
+AUDACIEUX ET AUTHENTIQUE
+
+1378
+02:29:30,166 --> 02:29:33,291
+NUL AUTRE QUE LE ROI SHAMBHU.
+
+1379
+02:37:53,958 --> 02:37:55,958
+Sous-titres : Ambrealys
+
