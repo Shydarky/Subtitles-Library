@@ -203,15 +203,13 @@ Le premier motif de licenciement serait…
 
 47
 00:03:27,498 --> 00:03:30,543
-
-* une condamnation judiciaire définitive.
-* Ça, ça ne s’applique pas ici.
+- une condamnation judiciaire définitive.
+- Ça, ça ne s’applique pas ici.
 
 48
 00:03:30,627 --> 00:03:33,671
-
-* Quel est le deuxième ?
-* Le deuxième motif, c’est…
+- Quel est le deuxième ?
+- Le deuxième motif, c’est…
 
 49
 00:03:33,755 --> 00:03:36,758
@@ -310,9 +308,8 @@ Non, Eliseo, non, le conseil le pense.
 
 71
 00:04:58,881 --> 00:05:00,425
-
-* Le conseil ?
-* Oui.
+- Le conseil ?
+- Oui.
 
 72
 00:05:00,508 --> 00:05:03,011
@@ -421,168 +418,168 @@ Bande d’enfoirés.
 
 96
 00:06:33,976 --> 00:06:35,353
-{\an8}- Salut.
+- Salut.
 Bonjour, Eliseo.
 
 97
 00:06:35,436 --> 00:06:36,479
-{\an8}- Comment ça va ?
+- Comment ça va ?
 Tout va bien ?
 
 98
 00:06:36,562 --> 00:06:40,233
-{\an8}J’aimerais te dire que tout va bien,
+J’aimerais te dire que tout va bien,
 mais non, j’ai un problème.
 
 99
 00:06:40,316 --> 00:06:42,485
-{\an8}C’est le 477, cinquième H, c’est ça ?
+C’est le 477, cinquième H, c’est ça ?
 
 100
 00:06:42,568 --> 00:06:44,195
-{\an8}Quatrième H, oui. Merci.
+Quatrième H, oui. Merci.
 
 101
 00:06:44,278 --> 00:06:45,988
-{\an8}- Au revoir.
+- Au revoir.
 À plus tard.
 
 102
 00:06:46,072 --> 00:06:48,157
-{\an8}- Quel genre de problème ?
+- Quel genre de problème ?
 Locatif.
 
 103
 00:06:48,241 --> 00:06:50,743
-{\an8}Malheureusement je dois résilier
+Malheureusement je dois résilier
 le contrat de location,
 
 104
 00:06:50,827 --> 00:06:52,620
-{\an8}je dois occuper le logement.
+je dois occuper le logement.
 
 105
 00:06:52,703 --> 00:06:54,705
-{\an8}Mais on vient juste d’emménager.
+Mais on vient juste d’emménager.
 
 106
 00:06:54,789 --> 00:06:59,001
-{\an8}Vous venez d’emménager, il n’y a pas d’attaches.
+Vous venez d’emménager, il n’y a pas d’attaches.
 Vous avez même pas ouvert les cartons.
 
 107
 00:06:59,085 --> 00:07:00,837
-{\an8}Mais j’ai payé 6 mois d’avance.
+Mais j’ai payé 6 mois d’avance.
 
 108
 00:07:00,920 --> 00:07:03,506
-{\an8}Et bien sûr,
+Et bien sûr,
 je vais vous rendre votre argent.
 
 109
 00:07:03,589 --> 00:07:06,050
-{\an8}Malabia 2162, rez-de-chaussée, c’est ça ?
+Malabia 2162, rez-de-chaussée, c’est ça ?
 
 110
 00:07:06,134 --> 00:07:07,969
-{\an8}Oui, la sonnette marche pas, donc appelez avant.
+Oui, la sonnette marche pas, donc appelez avant.
 
 111
 00:07:08,052 --> 00:07:09,804
-{\an8}- Merci.
+- Merci.
 Au revoir.
 
 112
 00:07:09,887 --> 00:07:12,056
-{\an8}Vous vivez avec quelqu’un d’autre ici ?
+Vous vivez avec quelqu’un d’autre ici ?
 
 113
 00:07:12,140 --> 00:07:14,809
-{\an8}Non, ce sont des amis d’autres provinces.
+Non, ce sont des amis d’autres provinces.
 
 114
 00:07:14,892 --> 00:07:17,562
-{\an8}Et pour l’appartement,
+Et pour l’appartement,
 ça ne va pas être possible,
 
 115
 00:07:17,645 --> 00:07:19,647
-{\an8}on a beaucoup galéré
+on a beaucoup galéré
 pour trouver cet endroit.
 
 116
 00:07:19,730 --> 00:07:23,067
-{\an8}Ne t’inquiète pas,
+Ne t’inquiète pas,
 je suis très ami avec les concierges
 
 117
 00:07:23,151 --> 00:07:25,987
-{\an8}des immeubles d’à côté,
+des immeubles d’à côté,
 dès qu’un logement se libère
 
 118
 00:07:26,070 --> 00:07:28,781
-{\an8}ils me préviennent d’abord
+ils me préviennent d’abord
 et je te le passe.
 
 119
 00:07:28,865 --> 00:07:30,825
-{\an8}- Bien sûr. Le contrat dit un an.
+- Bien sûr. Le contrat dit un an.
 Oui.
 
 120
 00:07:30,908 --> 00:07:32,452
-{\an8}Donc on restera un an.
+Donc on restera un an.
 
 121
 00:07:32,535 --> 00:07:34,245
-{\an8}Merci.
+Merci.
 On en reparle, je suis occupé.
 
 122
 00:07:34,328 --> 00:07:38,040
-{\an8}Excuse-moi, encore un truc et je m’en vais.
+Excuse-moi, encore un truc et je m’en vais.
 J’aime pas déranger.
 
 123
 00:07:38,124 --> 00:07:40,835
-{\an8}Tu pourrais
+Tu pourrais
 décoller le lit du mur
 
 124
 00:07:40,918 --> 00:07:42,628
-{\an8}d’environ cinq centimètres ?
+d’environ cinq centimètres ?
 
 125
 00:07:42,712 --> 00:07:44,130
-{\an8}Hein ?
+Hein ?
 
 126
 00:07:44,213 --> 00:07:46,174
-{\an8}C’est pas pour moi.
+C’est pas pour moi.
 Les voisins me tapent sur les nerfs.
 
 127
 00:07:46,257 --> 00:07:48,676
-{\an8}Ils m’ont dit
+Ils m’ont dit
 que tous les soirs il y a un bruit,
 
 128
 00:07:48,759 --> 00:07:50,511
-{\an8}très intense, mais qui dure pas.
+très intense, mais qui dure pas.
 
 129
 00:07:50,595 --> 00:07:52,305
-{\an8}Pam, pam, pam, et ça s’arrête.
+Pam, pam, pam, et ça s’arrête.
 
 130
 00:07:53,556 --> 00:07:54,724
-{\an8}- D’accord, merci.
+- D’accord, merci.
 Avec plaisir.
 
 131
 00:07:54,807 --> 00:07:56,392
-{\an8}Merci, ma belle.
+Merci, ma belle.
 
 132
 00:09:02,500 --> 00:09:05,086
@@ -630,9 +627,8 @@ le reste en minuscule.
 
 142
 00:09:32,238 --> 00:09:34,740
-
-* Merci.
-* De rien.
+- Merci.
+- De rien.
 
 143
 00:09:36,742 --> 00:09:37,827
@@ -851,9 +847,8 @@ Ah, d’accord. Alors la réponse, c’est « rien ».
 
 194
 00:13:20,049 --> 00:13:23,636
-
-* « Je n’aime pas les gens qui ont… »
-* Mauvaise haleine.
+- « Je n’aime pas les gens qui ont… »
+- Mauvaise haleine.
 
 195
 00:13:27,306 --> 00:13:29,141
@@ -882,9 +877,8 @@ Je passe.
 
 201
 00:13:53,457 --> 00:13:56,544
-
-* « Je vois l’avenir comme… »
-* Quelque chose de beau.
+- « Je vois l’avenir comme… »
+- Quelque chose de beau.
 
 202
 00:13:59,755 --> 00:14:01,340
@@ -1046,9 +1040,8 @@ Parce que j’ai beaucoup de choses à dire
 
 239
 00:16:08,968 --> 00:16:10,302
-
-* sur ce type.
-* Bien sûr, oui.
+- sur ce type.
+- Bien sûr, oui.
 
 240
 00:16:10,386 --> 00:16:11,595
@@ -1254,9 +1247,8 @@ Viens voir.
 
 287
 00:18:39,827 --> 00:18:42,412
-
-* Tout va bien ?
-* Oui, tout va bien.
+- Tout va bien ?
+- Oui, tout va bien.
 
 288
 00:18:42,496 --> 00:18:43,705
@@ -1280,9 +1272,8 @@ De l’immeuble, Gabriel.
 
 293
 00:18:51,463 --> 00:18:53,715
-
-* Ah.
-* Ce que les gens disent.
+- Ah.
+- Ce que les gens disent.
 
 294
 00:18:53,799 --> 00:18:56,385
@@ -1304,15 +1295,13 @@ On observe les visages, les gestes.
 
 298
 00:19:04,184 --> 00:19:07,354
-
-* Ça, ça parle aussi.
-* Ça je peux pas te dire.
+- Ça, ça parle aussi.
+- Ça je peux pas te dire.
 
 299
 00:19:07,437 --> 00:19:10,023
-
-* Je fais pas attention à ça.
-* Ça suffit. Donne-moi les papiers et va-t’en.
+- Je fais pas attention à ça.
+- Ça suffit. Donne-moi les papiers et va-t’en.
 
 300
 00:19:10,107 --> 00:19:11,650
@@ -1341,9 +1330,8 @@ on sait jamais, Gabriel. On verra.
 
 306
 00:19:23,620 --> 00:19:25,414
-
-* Va.
-* D’accord.
+- Va.
+- D’accord.
 
 307
 00:19:55,777 --> 00:19:56,862
@@ -1454,9 +1442,8 @@ Bonjour.
 
 332
 00:21:44,469 --> 00:21:46,138
-
-* Mario, comment ça va ?
-* Eliseo.
+- Mario, comment ça va ?
+- Eliseo.
 
 333
 00:21:46,221 --> 00:21:47,222
@@ -1468,9 +1455,8 @@ Désolé pour le retard. J’ai été pris
 
 335
 00:21:48,932 --> 00:21:50,976
-
-* à la dernière minute.
-* Pas de souci, au contraire.
+- à la dernière minute.
+- Pas de souci, au contraire.
 
 336
 00:21:51,059 --> 00:21:52,769
@@ -1487,9 +1473,8 @@ pour un autre rendez-vous.
 
 339
 00:21:56,940 --> 00:21:58,900
-
-* Très bien.
-* Tu veux boire quelque chose ?
+- Très bien.
+- Tu veux boire quelque chose ?
 
 340
 00:21:58,984 --> 00:22:00,527
@@ -1544,9 +1529,8 @@ de cette nature.
 
 352
 00:22:34,603 --> 00:22:37,272
-
-* Eliseo…
-* Oui, j’ai presque fini.
+- Eliseo…
+- Oui, j’ai presque fini.
 
 353
 00:22:37,356 --> 00:22:40,567
@@ -1671,9 +1655,8 @@ Il est rentré, il faisait froid dehors,
 
 381
 00:24:16,872 --> 00:24:18,582
-
-* il a allumé la cheminée, vous voyez la fumée ?
-* Ah.
+- il a allumé la cheminée, vous voyez la fumée ?
+- Ah.
 
 382
 00:24:18,665 --> 00:24:22,377
@@ -1718,21 +1701,18 @@ Allez. On y va.
 
 391
 00:25:31,863 --> 00:25:35,033
-
-* Ce genre de rapport, c’est ça ?
-* Trente et…
+- Ce genre de rapport, c’est ça ?
+- Trente et…
 
 392
 00:25:35,116 --> 00:25:37,035
-
-* Bonjour.
-* Bonjour.
+- Bonjour.
+- Bonjour.
 
 393
 00:25:37,118 --> 00:25:39,162
-
-* Bonjour.
-* Bonjour.
+- Bonjour.
+- Bonjour.
 
 394
 00:25:39,246 --> 00:25:40,705
@@ -1815,9 +1795,8 @@ Oui, bien sûr. Docteure.
 
 412
 00:26:29,671 --> 00:26:31,131
-
-* S’il vous plaît.
-* Oui.
+- S’il vous plaît.
+- Oui.
 
 413
 00:26:31,965 --> 00:26:33,717
@@ -1834,8 +1813,7 @@ Si vous permettez, je vais lire la conclusion,
 416
 00:26:38,930 --> 00:26:40,807
 comme ça on verra s’il y a des questions.
-
-* Bien sûr.
+- Bien sûr.
 
 417
 00:26:46,313 --> 00:26:49,024
@@ -1870,15 +1848,13 @@ Pardon, mais ça doit être faux.
 
 424
 00:27:06,374 --> 00:27:08,335
-
-* Euh…
-* Matías, s’il te plaît.
+- Euh…
+- Matías, s’il te plaît.
 
 425
 00:27:08,418 --> 00:27:10,587
-
-* Écoutons la docteure, d’accord ?
-* Merci.
+- Écoutons la docteure, d’accord ?
+- Merci.
 
 426
 00:27:10,670 --> 00:27:15,091
@@ -1913,15 +1889,13 @@ zéro pour cent.
 
 433
 00:27:34,110 --> 00:27:36,154
-
-* Je peux voir ?
-* Oui, bien sûr.
+- Je peux voir ?
+- Oui, bien sûr.
 
 434
 00:27:36,237 --> 00:27:37,864
-
-* Merci.
-* Donc, docteure.
+- Merci.
+- Donc, docteure.
 
 435
 00:27:37,947 --> 00:27:41,159
@@ -1962,9 +1936,8 @@ Merci infiniment, docteure.
 
 443
 00:28:00,303 --> 00:28:03,014
-
-* Je vous en prie.
-* Pour vos paroles et votre professionnalisme.
+- Je vous en prie.
+- Pour vos paroles et votre professionnalisme.
 
 444
 00:28:03,098 --> 00:28:06,393
@@ -2065,9 +2038,8 @@ Bonjour.
 
 466
 00:29:15,086 --> 00:29:17,088
-
-* Bonjour.
-* Bonjour.
+- Bonjour.
+- Bonjour.
 
 467
 00:29:17,172 --> 00:29:18,798
@@ -2139,9 +2111,8 @@ dans ses paroles.
 
 483
 00:30:02,467 --> 00:30:03,760
-
-* C’est la vérité. Désolée.
-* Pardon.
+- C’est la vérité. Désolée.
+- Pardon.
 
 484
 00:30:03,843 --> 00:30:06,429
@@ -2217,9 +2188,8 @@ Même si je crois qu’elle l’a un peu chauffé.
 
 501
 00:31:08,199 --> 00:31:10,076
-
-* Romi !
-* Je dois y aller.
+- Romi !
+- Je dois y aller.
 
 502
 00:31:10,159 --> 00:31:12,829
@@ -2231,9 +2201,8 @@ Romina.
 
 504
 00:31:14,122 --> 00:31:15,582
-
-* Romina !
-* La voilà.
+- Romina !
+- La voilà.
 
 505
 00:31:22,755 --> 00:31:24,215
