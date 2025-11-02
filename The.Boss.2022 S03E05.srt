@@ -1273,9 +1273,8 @@ J’ai entendu dire que tu t’entends pas avec elle.
 
 281
 00:17:51,028 --> 00:17:54,073
-
-* Non, je déteste cette débile.
-* Bien sûr.
+- Non, je déteste cette débile.
+- Bien sûr.
 
 282
 00:17:54,656 --> 00:17:57,951
@@ -1858,9 +1857,8 @@ D’accord. S’il vous plaît. Oui.
 
 411
 00:26:20,787 --> 00:26:22,998
-
-* Lavage de voiture ?
-* Bien, Dionisi !
+- Lavage de voiture ?
+- Bien, Dionisi !
 
 412
 00:26:23,081 --> 00:26:24,457
@@ -2344,4 +2342,5 @@ Garde ça en souvenir.
 
 520
 00:34:37,366 --> 00:34:39,202
+
 LE PATRON 3
