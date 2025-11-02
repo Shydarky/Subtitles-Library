@@ -1,19 +1,19 @@
 ﻿1
 00:00:01,501 --> 00:00:03,670
-{\an8}Il me faut un employé pour ma nouvelle société.
+Il me faut un employé pour ma nouvelle société.
 
 2
 00:00:03,753 --> 00:00:05,922
-{\an8}- Quel genre de société ?
+- Quel genre de société ?
 Gestion de concierges.
 
 3
 00:00:06,006 --> 00:00:07,090
-{\an8}DANS L'ÉPISODE PRÉCÉDENT
+DANS L'ÉPISODE PRÉCÉDENT
 
 4
 00:00:07,173 --> 00:00:09,134
-{\an8}- Je peux être un de tes concierges ?
+- Je peux être un de tes concierges ?
 Non.
 
 5
@@ -145,109 +145,109 @@ LE BOSS 3
 
 36
 00:02:34,571 --> 00:02:36,656
-{\an8}
+‎
 
 37
 00:02:43,746 --> 00:02:44,747
-{\an8}Merci.
+Merci.
 
 38
 00:02:52,547 --> 00:02:55,758
-{\an8}C’est incroyable. Tu n’as pas changé.
+C’est incroyable. Tu n’as pas changé.
 
 39
 00:02:56,384 --> 00:02:57,844
-{\an8}Les mêmes yeux.
+Les mêmes yeux.
 
 40
 00:02:59,846 --> 00:03:01,514
-{\an8}Ben oui, ce sont les mêmes.
+Ben oui, ce sont les mêmes.
 
 41
 00:03:02,932 --> 00:03:05,059
-{\an8}Non, je veux dire que je t’ai reconnue
+Non, je veux dire que je t’ai reconnue
 tout de suite en te voyant.
 
 42
 00:03:05,143 --> 00:03:07,145
-{\an8}Ça fait combien de temps
+Ça fait combien de temps
 qu’on ne s’est pas vus ?
 
 43
 00:03:08,062 --> 00:03:09,105
-{\an8}Trente ans ?
+Trente ans ?
 
 44
 00:03:09,189 --> 00:03:11,691
-{\an8}Trente-deux ans,
+Trente-deux ans,
 dix mois et quatre jours.
 
 45
 00:03:13,193 --> 00:03:17,238
-{\an8}Le jour où on a signé le divorce
+Le jour où on a signé le divorce
 chez le docteur Pucciarelli.
 
 46
 00:03:17,322 --> 00:03:20,450
-{\an8}Oui, je m’en souviens. On était si jeunes.
+Oui, je m’en souviens. On était si jeunes.
 
 47
 00:03:21,910 --> 00:03:23,578
-{\an8}On ne savait pas ce qu’on faisait.
+On ne savait pas ce qu’on faisait.
 
 48
 00:03:26,456 --> 00:03:28,875
-{\an8}Moi je savais ce que je faisais.
+Moi je savais ce que je faisais.
 Je sais pas pour toi.
 
 49
 00:03:30,251 --> 00:03:31,628
-{\an8}Sois pas méchante.
+Sois pas méchante.
 
 50
 00:03:32,503 --> 00:03:34,005
-{\an8}J’ai fait de mon mieux.
+J’ai fait de mon mieux.
 
 51
 00:03:35,632 --> 00:03:38,426
-{\an8}Mais je t’ai déjà tout pardonné.
+Mais je t’ai déjà tout pardonné.
 
 52
 00:03:40,136 --> 00:03:42,430
-{\an8}Moi, par contre, je ne te pardonnerai jamais
+Moi, par contre, je ne te pardonnerai jamais
 
 53
 00:03:43,556 --> 00:03:45,141
-{\an8}de m’avoir quitté.
+de m’avoir quitté.
 
 54
 00:03:46,935 --> 00:03:50,855
-{\an8}Mais sache
+Mais sache
 que je ne garde aucune rancune.
 
 55
 00:03:52,523 --> 00:03:53,524
-{\an8}D’accord ?
+D’accord ?
 
 56
 00:03:55,193 --> 00:03:57,737
-{\an8}Je garde toujours de bons souvenirs
+Je garde toujours de bons souvenirs
 
 57
 00:03:58,821 --> 00:04:00,949
-{\an8}du temps qu’on a passé ensemble.
+du temps qu’on a passé ensemble.
 
 58
 00:04:01,532 --> 00:04:02,575
-{\an8}Ah oui ?
+Ah oui ?
 
 59
 00:04:04,702 --> 00:04:06,079
-{\an8}Pourquoi ? Toi, non ?
+Pourquoi ? Toi, non ?
 
 60
 00:04:07,372 --> 00:04:09,624
-{\an8}Ben, c’était ce que c’était.
+Ben, c’était ce que c’était.
 
 61
 00:04:10,708 --> 00:04:12,835
@@ -386,15 +386,13 @@ Eliseo.
 
 93
 00:06:09,202 --> 00:06:10,787
-
-* Nacho.
-* Comment ça va ?
+- Nacho.
+- Comment ça va ?
 
 94
 00:06:10,870 --> 00:06:13,206
-
-* Salut. Encore une rupture ?
-* Non.
+- Salut. Encore une rupture ?
+- Non.
 
 95
 00:06:13,790 --> 00:06:15,625
@@ -406,9 +404,8 @@ Je viens garder Salom, son nouveau chien.
 
 97
 00:06:21,923 --> 00:06:23,091
-
-* Ça va ?
-* Oui.
+- Ça va ?
+- Oui.
 
 98
 00:06:23,674 --> 00:06:24,675
@@ -428,9 +425,8 @@ T’as pas l’air bien. Y a un truc qui va pas.
 
 102
 00:06:33,601 --> 00:06:37,313
-
-* Pas du tout. Je t’aide avec ça.
-* Non, ça va. Je peux le faire.
+- Pas du tout. Je t’aide avec ça.
+- Non, ça va. Je peux le faire.
 
 103
 00:06:37,814 --> 00:06:38,815
@@ -438,9 +434,8 @@ D’accord.
 
 104
 00:06:38,898 --> 00:06:40,441
-
-* À plus.
-* À plus tard, Nacho.
+- À plus.
+- À plus tard, Nacho.
 
 105
 00:06:41,025 --> 00:06:42,026
@@ -494,15 +489,13 @@ Vous allez tomber.
 
 117
 00:07:37,623 --> 00:07:38,624
-
-* Salut.
-* Eliseo.
+- Salut.
+- Eliseo.
 
 118
 00:07:38,708 --> 00:07:40,209
-
-* Ça va, Nachito ?
-* Ça va ?
+- Ça va, Nachito ?
+- Ça va ?
 
 119
 00:07:40,293 --> 00:07:43,713
@@ -566,21 +559,18 @@ et il se met à hurler.
 
 132
 00:08:21,125 --> 00:08:23,044
-
-* Sérieux ?
-* Oui. Toute la nuit.
+- Sérieux ?
+- Oui. Toute la nuit.
 
 133
 00:08:24,253 --> 00:08:25,671
-
-* Le voilà.
-* Oui.
+- Le voilà.
+- Oui.
 
 134
 00:08:26,547 --> 00:08:28,341
-
-* Aïe, aïe, aïe.
-* C’est ouf.
+- Aïe, aïe, aïe.
+- C’est ouf.
 
 135
 00:08:28,424 --> 00:08:30,927
@@ -600,15 +590,13 @@ des bienfaits du sexe tantrique.
 
 139
 00:08:39,769 --> 00:08:41,395
-
-* Tu te souviens ?
-* Oh oui.
+- Tu te souviens ?
+- Oh oui.
 
 140
 00:08:41,479 --> 00:08:42,980
-
-* On en avait parlé.
-* Je me souviens.
+- On en avait parlé.
+- Je me souviens.
 
 141
 00:08:43,064 --> 00:08:44,065
@@ -625,9 +613,8 @@ Ce n’est pas une mode. Le tantra, c’est un mode de vie.
 
 144
 00:08:50,863 --> 00:08:51,989
-
-* Bien sûr.
-* Oui.
+- Bien sûr.
+- Oui.
 
 145
 00:08:52,073 --> 00:08:53,241
@@ -644,9 +631,8 @@ la femme ne prenne pas vraiment de plaisir ?
 
 148
 00:09:00,748 --> 00:09:02,250
-
-* Non.
-* Non.
+- Non.
+- Non.
 
 149
 00:09:02,333 --> 00:09:04,335
@@ -658,9 +644,8 @@ Tu tiens pas s’il n’y a pas de plaisir.
 
 151
 00:09:06,879 --> 00:09:08,005
-
-* Bien sûr.
-* Non.
+- Bien sûr.
+- Non.
 
 152
 00:09:11,676 --> 00:09:12,677
@@ -668,15 +653,13 @@ Pourquoi tu demandes ?
 
 153
 00:09:13,302 --> 00:09:16,973
-
-* Tu penses t’y mettre ?
-* Non.
+- Tu penses t’y mettre ?
+- Non.
 
 154
 00:09:17,056 --> 00:09:18,558
-
-* Pas du tout.
-* Pourquoi pas ?
+- Pas du tout.
+- Pourquoi pas ?
 
 155
 00:09:19,141 --> 00:09:22,520
@@ -730,9 +713,8 @@ la machine régulièrement.
 
 166
 00:09:56,721 --> 00:09:58,973
-
-* Tu peux même pas commencer sans ça.
-* Bien sûr.
+- Tu peux même pas commencer sans ça.
+- Bien sûr.
 
 167
 00:10:00,433 --> 00:10:02,977
@@ -782,9 +764,8 @@ et mes dossiers médicaux à des inconnus.
 
 177
 00:10:39,388 --> 00:10:42,892
-
-* Merci pour le plateau de charcuterie.
-* Avec plaisir. C’est du haut de gamme.
+- Merci pour le plateau de charcuterie.
+- Avec plaisir. C’est du haut de gamme.
 
 178
 00:10:42,975 --> 00:10:46,312
@@ -801,9 +782,8 @@ Tu prends des médicaments ?
 
 181
 00:10:50,066 --> 00:10:51,150
-
-* Non.
-* Non.
+- Non.
+- Non.
 
 182
 00:10:51,859 --> 00:10:54,195
@@ -861,9 +841,8 @@ Anesthésie générale ?
 
 194
 00:11:25,101 --> 00:11:27,645
-
-* Salut.
-* Ça va, Eliseo ? Tu es allé au contrôle ?
+- Salut.
+- Ça va, Eliseo ? Tu es allé au contrôle ?
 
 195
 00:11:27,728 --> 00:11:31,982
@@ -872,15 +851,13 @@ J’ai pris les rendez-vous, on verra.
 
 196
 00:11:32,066 --> 00:11:33,818
-
-* Mais c’est pas pour ça que je viens.
-* Oui.
+- Mais c’est pas pour ça que je viens.
+- Oui.
 
 197
 00:11:34,402 --> 00:11:36,612
-
-* Tu connais les Galurdián du 7B ?
-* Oui.
+- Tu connais les Galurdián du 7B ?
+- Oui.
 
 198
 00:11:36,696 --> 00:11:41,033
@@ -915,9 +892,8 @@ Parfait, juste une.
 
 205
 00:11:57,508 --> 00:11:58,676
-
-* Je vais la chercher.
-* Merci.
+- Je vais la chercher.
+- Merci.
 
 206
 00:12:00,010 --> 00:12:04,056
@@ -964,9 +940,8 @@ Regardez d’où je les ai pris.
 
 216
 00:12:43,304 --> 00:12:46,682
-
-* De Nuevo Escudo !
-* Oui.
+- De Nuevo Escudo !
+- Oui.
 
 217
 00:12:46,766 --> 00:12:49,602
@@ -994,9 +969,8 @@ Tu veux des <i>matés</i> ?
 
 223
 00:13:11,040 --> 00:13:13,375
-
-* Avec plaisir.
-* Entre.
+- Avec plaisir.
+- Entre.
 
 224
 00:13:17,755 --> 00:13:19,131
@@ -1017,9 +991,8 @@ Oui, je suis totalement d’accord.
 
 228
 00:13:30,643 --> 00:13:33,938
-
-* J’ai fini. Ils sont délicieux.
-* Quoi ? Tu n’en prends pas un autre ?
+- J’ai fini. Ils sont délicieux.
+- Quoi ? Tu n’en prends pas un autre ?
 
 229
 00:13:36,440 --> 00:13:40,861
@@ -1048,15 +1021,13 @@ Mange-en un de plus. Ils sont légers. Allez !
 
 235
 00:13:59,547 --> 00:14:00,965
-
-* Un de plus.
-* Un de plus, vas-y.
+- Un de plus.
+- Un de plus, vas-y.
 
 236
 00:14:03,717 --> 00:14:07,513
-
-* Dulce de leche.
-* Mon Dieu, c’est mon péché mignon.
+- Dulce de leche.
+- Mon Dieu, c’est mon péché mignon.
 
 237
 00:14:08,681 --> 00:14:09,890
@@ -1179,15 +1150,13 @@ parce que t’es tombé comme si t’étais mort.
 
 266
 00:18:08,087 --> 00:18:10,089
-
-* Tu veux que j’appelle quelqu’un ?
-* Non.
+- Tu veux que j’appelle quelqu’un ?
+- Non.
 
 267
 00:18:10,172 --> 00:18:11,507
-
-* Non ?
-* Ça va.
+- Non ?
+- Ça va.
 
 268
 00:18:11,590 --> 00:18:12,591
@@ -1278,9 +1247,8 @@ Commence à marcher par là.
 
 288
 00:19:35,883 --> 00:19:37,426
-
-* Maintenant ?
-* Oui. Vas-y.
+- Maintenant ?
+- Oui. Vas-y.
 
 289
 00:19:38,844 --> 00:19:42,931
@@ -1292,15 +1260,13 @@ Parfait. Puis tu reviens.
 
 291
 00:19:45,642 --> 00:19:47,519
-
-* Les gens regardent.
-* Non, personne ne regarde.
+- Les gens regardent.
+- Non, personne ne regarde.
 
 292
 00:19:50,272 --> 00:19:52,357
-
-* Contracte le périnée.
-* C’est quoi le périnée ?
+- Contracte le périnée.
+- C’est quoi le périnée ?
 
 293
 00:19:52,900 --> 00:19:54,318
@@ -1331,15 +1297,13 @@ pour le bénéfice de la femme.
 
 299
 00:20:09,499 --> 00:20:12,085
-
-* D’accord. C’est tout ?
-* Va et reviens.
+- D’accord. C’est tout ?
+- Va et reviens.
 
 300
 00:20:13,587 --> 00:20:16,048
-
-* Tu peux commencer. Lève...
-* Attends que la dame passe.
+- Tu peux commencer. Lève...
+- Attends que la dame passe.
 
 301
 00:20:17,341 --> 00:20:20,552
@@ -1359,9 +1323,8 @@ C’est ton père ?
 
 305
 00:20:42,741 --> 00:20:44,534
-
-* Quoi ?
-* C’est ton père ?
+- Quoi ?
+- C’est ton père ?
 
 306
 00:20:45,077 --> 00:20:46,078
@@ -1369,9 +1332,8 @@ Non.
 
 307
 00:20:46,745 --> 00:20:49,081
-
-* Ton oncle ?
-* Non.
+- Ton oncle ?
+- Non.
 
 308
 00:20:49,873 --> 00:20:50,874
@@ -1395,9 +1357,8 @@ D’autres questions ?
 
 313
 00:21:04,388 --> 00:21:05,597
-
-* Basurto.
-* Oui.
+- Basurto.
+- Oui.
 
 314
 00:21:06,098 --> 00:21:07,349
@@ -1440,15 +1401,13 @@ Moi non. Je sais pas vous.
 
 323
 00:21:32,666 --> 00:21:34,376
-
-* Comment ?
-* Rien.
+- Comment ?
+- Rien.
 
 324
 00:21:35,502 --> 00:21:37,546
-
-* Allongez-vous. On commence.
-* D’accord.
+- Allongez-vous. On commence.
+- D’accord.
 
 325
 00:21:37,629 --> 00:21:39,881
@@ -1485,9 +1444,8 @@ sept...
 
 333
 00:22:02,571 --> 00:22:04,781
-
-* Les proches de Basurto ?
-* Oui.
+- Les proches de Basurto ?
+- Oui.
 
 334
 00:22:04,865 --> 00:22:06,158
@@ -1495,33 +1453,28 @@ Par ici, s’il vous plaît.
 
 335
 00:22:07,075 --> 00:22:08,785
-
-* D’accord, c’est bon.
-* D’accord.
+- D’accord, c’est bon.
+- D’accord.
 
 336
 00:22:09,369 --> 00:22:11,163
-
-* Voilà, on y va.
-* C’est bon.
+- Voilà, on y va.
+- C’est bon.
 
 337
 00:22:11,246 --> 00:22:12,247
-
-* On y va.
-* Prêt ?
+- On y va.
+- Prêt ?
 
 338
 00:22:12,331 --> 00:22:15,459
-
-* Attendez. J’ai eu un vertige.
-* Doucement, petit à petit.
+- Attendez. J’ai eu un vertige.
+- Doucement, petit à petit.
 
 339
 00:22:16,585 --> 00:22:17,919
-
-* Voilà.
-* D’accord, on y va.
+- Voilà.
+- D’accord, on y va.
 
 340
 00:22:18,003 --> 00:22:19,796
@@ -1529,15 +1482,13 @@ Pardon.
 
 341
 00:22:19,880 --> 00:22:22,090
-
-* Comment vous sentez-vous ?
-* Bien. Parfait.
+- Comment vous sentez-vous ?
+- Bien. Parfait.
 
 342
 00:22:22,174 --> 00:22:23,884
-
-* J’ai pris un prélèvement pour le labo.
-* D’accord.
+- J’ai pris un prélèvement pour le labo.
+- D’accord.
 
 343
 00:22:23,967 --> 00:22:27,095
@@ -1554,9 +1505,8 @@ Je n’ai rien vu qui m’inquiète.
 
 346
 00:22:31,725 --> 00:22:33,810
-
-* Je peux vous poser une question, docteur ?
-* Oui.
+- Je peux vous poser une question, docteur ?
+- Oui.
 
 347
 00:22:33,894 --> 00:22:36,480
@@ -1609,9 +1559,8 @@ Apparemment, il a disparu.
 
 358
 00:23:16,853 --> 00:23:20,399
-
-* Ton quoi ?
-* Mon ordinateur, mon ordi portable.
+- Ton quoi ?
+- Mon ordinateur, mon ordi portable.
 
 359
 00:23:21,358 --> 00:23:22,609
@@ -1658,15 +1607,13 @@ et elle indique ici même.
 
 369
 00:23:52,722 --> 00:23:54,891
-
-* Mon appartement ? Ça doit être une erreur.
-* Non, ici.
+- Mon appartement ? Ça doit être une erreur.
+- Non, ici.
 
 370
 00:23:55,392 --> 00:23:56,810
-
-* Juste là.
-* Entrez.
+- Juste là.
+- Entrez.
 
 371
 00:24:20,292 --> 00:24:21,418
@@ -1767,15 +1714,13 @@ Allez ! Allez !
 
 394
 00:25:31,029 --> 00:25:33,240
-
-* Trouillard !
-* Arrêtez !
+- Trouillard !
+- Arrêtez !
 
 395
 00:25:33,323 --> 00:25:35,742
-
-* Espèce de lâche !
-* Arrête ! Qu’est-ce qui t’arrive ? Arrête !
+- Espèce de lâche !
+- Arrête ! Qu’est-ce qui t’arrive ? Arrête !
 
 396
 00:25:35,825 --> 00:25:37,953
@@ -1888,9 +1833,8 @@ pour amener le bassin vers le ballon.
 
 420
 00:26:52,861 --> 00:26:55,280
-
-* Je fais comment ?
-* Comme ça. Regarde.
+- Je fais comment ?
+- Comme ça. Regarde.
 
 421
 00:26:55,363 --> 00:26:56,906
@@ -1919,9 +1863,8 @@ Le chat se hérisse.
 
 427
 00:27:09,544 --> 00:27:12,130
-
-* Le chat se détend.
-* Voilà. Contracte le périnée.
+- Le chat se détend.
+- Voilà. Contracte le périnée.
 
 428
 00:27:12,213 --> 00:27:14,549
@@ -1988,4 +1931,5 @@ Tu veux dîner à la maison ?
 
 444
 00:29:02,699 --> 00:29:04,617
+
 LE BOSS 3
