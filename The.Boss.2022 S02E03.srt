@@ -41,9 +41,8 @@ Pourquoi tu me manques de respect ?
 
 11
 00:00:28,695 --> 00:00:30,363
-
-* Je ne te manque pas de respect.
-* Ouais.
+- Je ne te manque pas de respect.
+- Ouais.
 
 12
 00:00:30,864 --> 00:00:32,449
@@ -73,9 +72,8 @@ Tu t’es pointé comme ça, tu m’as surpris.
 
 18
 00:00:48,256 --> 00:00:50,967
-
-* Tu m’as retrouvé comment ?
-* Je vais te dire.
+- Tu m’as retrouvé comment ?
+- Je vais te dire.
 
 19
 00:00:51,051 --> 00:00:53,344
@@ -384,9 +382,8 @@ Oui. Oui.
 
 89
 00:03:52,482 --> 00:03:53,942
-
-* Laisse-moi descendre en bas.
-* Non.
+- Laisse-moi descendre en bas.
+- Non.
 
 90
 00:03:54,651 --> 00:03:56,861
@@ -424,61 +421,61 @@ LE PATRON 2
 
 98
 00:05:06,639 --> 00:05:09,517
-{\an8}Là, je t’ai tué, t’es mort.
+Là, je t’ai tué, t’es mort.
 
 99
 00:05:11,352 --> 00:05:13,146
-{\an8}
+‎
 
 100
 00:05:13,229 --> 00:05:15,523
-{\an8}Oh, ça tire beaucoup, non ?
+Oh, ça tire beaucoup, non ?
 
 101
 00:05:24,741 --> 00:05:25,992
-{\an8}Uli,
+Uli,
 
 102
 00:05:26,909 --> 00:05:28,953
-{\an8}et si...
+et si...
 
 103
 00:05:29,037 --> 00:05:31,122
-{\an8}on laissait les petits jeux de côté un moment ?
+on laissait les petits jeux de côté un moment ?
 
 104
 00:05:32,373 --> 00:05:35,460
-{\an8}C’est un beau dimanche,
+C’est un beau dimanche,
 on peut profiter de la journée.
 
 105
 00:05:36,586 --> 00:05:37,962
-{\an8}Je ne veux pas.
+Je ne veux pas.
 
 106
 00:05:38,713 --> 00:05:40,631
-{\an8}
+‎
 
 107
 00:05:41,966 --> 00:05:44,344
-{\an8}Tu n’aimes pas faire des projets avec papa ?
+Tu n’aimes pas faire des projets avec papa ?
 
 108
 00:05:49,349 --> 00:05:51,684
-{\an8}Peut-être que tu es un peu triste
+Peut-être que tu es un peu triste
 
 109
 00:05:53,603 --> 00:05:56,481
-{\an8}parce que maman et papa
+parce que maman et papa
 n’habitent pas dans la même maison ?
 
 110
 00:05:56,939 --> 00:05:58,274
-{\an8}Non.
+Non.
 
 111
 00:05:59,901 --> 00:06:01,527
-{\an8}- Tu es sûr ?
+- Tu es sûr ?
 Sûr.
 
 112
@@ -729,9 +726,8 @@ Lucila, ne t’inquiète pas.
 
 170
 00:10:40,264 --> 00:10:41,807
-
-* Que s’est-il passé ?
-* Eh bien,
+- Que s’est-il passé ?
+- Eh bien,
 
 171
 00:10:41,891 --> 00:10:44,101
@@ -748,9 +744,8 @@ pardonne mon langage.
 
 174
 00:10:49,565 --> 00:10:52,735
-
-* On ne joue pas avec la nourriture, c’est fou.
-* Des gens de merde.
+- On ne joue pas avec la nourriture, c’est fou.
+- Des gens de merde.
 
 175
 00:10:53,569 --> 00:10:55,738
@@ -775,9 +770,8 @@ Non, voilà, je vais nettoyer
 
 180
 00:11:05,581 --> 00:11:07,083
-
-* et basta, oublie.
-* Bon. Bonne journée.
+- et basta, oublie.
+- Bon. Bonne journée.
 
 181
 00:11:07,166 --> 00:11:09,752
@@ -818,9 +812,8 @@ c’est très singe, non ?
 
 190
 00:12:16,902 --> 00:12:18,487
-
-* Tu n’exagères pas ?
-* Non.
+- Tu n’exagères pas ?
+- Non.
 
 191
 00:12:18,571 --> 00:12:20,531
@@ -884,9 +877,8 @@ Va te faire foutre, Gomez.
 
 205
 00:13:12,792 --> 00:13:14,460
-
-* C’était quoi ça ?
-* C’était flippant.
+- C’était quoi ça ?
+- C’était flippant.
 
 206
 00:13:20,090 --> 00:13:22,343
@@ -930,9 +922,8 @@ de l’ajuster à ses besoins.
 
 215
 00:13:44,156 --> 00:13:46,158
-
-* Tu veux dire, mentir.
-* Non, mentir c’est autre chose.
+- Tu veux dire, mentir.
+- Non, mentir c’est autre chose.
 
 216
 00:13:46,242 --> 00:13:48,953
@@ -955,9 +946,8 @@ pour acquérir... Eh bien, hélas.
 
 220
 00:13:59,964 --> 00:14:03,175
-
-* Mais rien n’est si définitif.
-* Fais gaffe, c’est glissant.
+- Mais rien n’est si définitif.
+- Fais gaffe, c’est glissant.
 
 221
 00:14:03,259 --> 00:14:05,803
@@ -970,9 +960,8 @@ On peut en discuter.
 
 223
 00:14:08,430 --> 00:14:11,058
-
-* Oh, quel beau bébé, mon Dieu.
-* N’est-il pas ?
+- Oh, quel beau bébé, mon Dieu.
+- N’est-il pas ?
 
 224
 00:14:11,141 --> 00:14:13,102
@@ -997,15 +986,13 @@ Il est très mignon et il se tient bien.
 
 229
 00:14:20,818 --> 00:14:22,695
-
-* Il est très beau.
-* Ouais.
+- Il est très beau.
+- Ouais.
 
 230
 00:14:22,778 --> 00:14:25,030
-
-* Il devrait passer dans des pubs.
-* Vraiment ?
+- Il devrait passer dans des pubs.
+- Vraiment ?
 
 231
 00:14:25,114 --> 00:14:26,782
@@ -1013,9 +1000,8 @@ Les agences se pâment pour les bébés mignons
 
 232
 00:14:26,866 --> 00:14:29,118
-
-* pour les spots.
-* Ah... T’as entendu ça, mon cœur ?
+- pour les spots.
+- Ah... T’as entendu ça, mon cœur ?
 
 233
 00:14:29,201 --> 00:14:30,995
@@ -1027,27 +1013,23 @@ Quant à moi, qu’il se mette son vote où je pense.
 
 235
 00:14:32,830 --> 00:14:35,082
-
-* On n’en a pas besoin.
-* Bon... Je lui dirai plus tard.
+- On n’en a pas besoin.
+- Bon... Je lui dirai plus tard.
 
 236
 00:14:35,165 --> 00:14:36,917
-
-* Bien sûr. Au revoir.
-* Merci beaucoup.
+- Bien sûr. Au revoir.
+- Merci beaucoup.
 
 237
 00:14:37,001 --> 00:14:39,169
-
-* Comme il est beau, félicitations.
-* Merci.
+- Comme il est beau, félicitations.
+- Merci.
 
 238
 00:14:39,253 --> 00:14:42,006
-
-* Merci beaucoup.
-* Quel beau bébé.
+- Merci beaucoup.
+- Quel beau bébé.
 
 239
 00:14:43,382 --> 00:14:45,551
@@ -1073,9 +1055,8 @@ On s’y met ?
 
 244
 00:14:53,642 --> 00:14:55,728
-
-* Cette affaire dont on parlait ? Hein ?
-* Bien sûr, bien sûr.
+- Cette affaire dont on parlait ? Hein ?
+- Bien sûr, bien sûr.
 
 245
 00:14:56,228 --> 00:14:57,813
@@ -1092,9 +1073,8 @@ je sais que tu n’as pas eu de retard.
 
 248
 00:15:01,567 --> 00:15:04,486
-
-* Générons quelque chose, pour répéter.
-* Oh, pardon. D’accord.
+- Générons quelque chose, pour répéter.
+- Oh, pardon. D’accord.
 
 249
 00:15:05,905 --> 00:15:07,239
@@ -1123,9 +1103,8 @@ au-dessus de ta tête qui dit :
 
 255
 00:15:18,500 --> 00:15:19,793
-
-* Oh.
-* Ça doit couler, tout droit.
+- Oh.
+- Ça doit couler, tout droit.
 
 256
 00:15:19,877 --> 00:15:21,795
@@ -1138,9 +1117,8 @@ organique.
 
 258
 00:15:22,838 --> 00:15:25,549
-
-* Bien. Oui.
-* Prêt ? Concentre-toi, s’il te plaît.
+- Bien. Oui.
+- Prêt ? Concentre-toi, s’il te plaît.
 
 259
 00:15:25,633 --> 00:15:28,052
@@ -1203,9 +1181,8 @@ de l’hypothyroïdie, et ça...
 
 272
 00:15:55,871 --> 00:15:57,289
-
-* C’est quoi ?
-* Trop long.
+- C’est quoi ?
+- Trop long.
 
 273
 00:15:57,373 --> 00:16:00,668
@@ -1218,9 +1195,8 @@ Mais j’aimais bien.
 
 275
 00:16:02,920 --> 00:16:05,172
-
-* Toi tu as aimé ?
-* Il y a du potentiel. Du potentiel.
+- Toi tu as aimé ?
+- Il y a du potentiel. Du potentiel.
 
 276
 00:16:05,255 --> 00:16:06,674
@@ -1228,9 +1204,8 @@ Ouais.
 
 277
 00:16:08,717 --> 00:16:11,261
-
-* Pas d’olives pour toi, hein, mon amour ?
-* Si.
+- Pas d’olives pour toi, hein, mon amour ?
+- Si.
 
 278
 00:16:11,345 --> 00:16:14,306
@@ -1285,9 +1260,8 @@ s’implique de plus en plus chaque jour.
 
 290
 00:16:39,039 --> 00:16:40,249
-
-* Ah bon ?
-* Hmm.
+- Ah bon ?
+- Hmm.
 
 291
 00:16:40,749 --> 00:16:43,127
@@ -1299,9 +1273,8 @@ Repenti ?
 
 293
 00:16:46,839 --> 00:16:48,716
-
-* Hmm.
-* Qu’est-ce que tu veux dire ?
+- Hmm.
+- Qu’est-ce que tu veux dire ?
 
 294
 00:16:48,799 --> 00:16:51,969
@@ -1326,9 +1299,8 @@ Jusqu’à ce qu’elle le convainque de témoigner.
 
 299
 00:17:03,731 --> 00:17:05,232
-
-* Et elle a raison, bien sûr.
-* Oui.
+- Et elle a raison, bien sûr.
+- Oui.
 
 300
 00:17:05,315 --> 00:17:07,067
@@ -1402,9 +1374,8 @@ quand elle revient.
 
 316
 00:17:50,069 --> 00:17:51,570
-
-* Moi ?
-* Non, la colombe.
+- Moi ?
+- Non, la colombe.
 
 317
 00:17:51,653 --> 00:17:52,613
@@ -1510,9 +1481,8 @@ Un café.
 
 341
 00:18:55,467 --> 00:18:57,094
-
-* Sucre ou édulcorant ?
-* Sucre.
+- Sucre ou édulcorant ?
+- Sucre.
 
 342
 00:18:57,177 --> 00:18:58,720
@@ -1533,9 +1503,8 @@ Parce que je me suis dit : « Au fond,
 
 346
 00:19:09,731 --> 00:19:11,817
-
-* nous sommes de la famille. »
-* Mmm.
+- nous sommes de la famille. »
+- Mmm.
 
 347
 00:19:11,900 --> 00:19:15,195
@@ -1575,15 +1544,13 @@ je veux t’offrir un petit boulot.
 
 355
 00:19:37,509 --> 00:19:38,886
-
-* Un boulot ?
-* Oui.
+- Un boulot ?
+- Oui.
 
 356
 00:19:38,969 --> 00:19:40,053
-
-* Pour moi ?
-* Oui.
+- Pour moi ?
+- Oui.
 
 357
 00:19:41,054 --> 00:19:42,306
@@ -1700,9 +1667,8 @@ le portefeuille, le portable, tout, enfoiré.
 
 385
 00:20:55,254 --> 00:20:58,340
-
-* Arrête, arrête, Maxi ! Non.
-* Je n’arrêterai pas.
+- Arrête, arrête, Maxi ! Non.
+- Je n’arrêterai pas.
 
 386
 00:20:58,423 --> 00:21:00,092
@@ -1710,9 +1676,8 @@ Coupez, coupez, non, non. euh.
 
 387
 00:21:00,175 --> 00:21:02,511
-
-* Quoi ? Ce n’était pas bien ?
-* Non, Maxi.
+- Quoi ? Ce n’était pas bien ?
+- Non, Maxi.
 
 388
 00:21:02,594 --> 00:21:04,596
@@ -1734,9 +1699,8 @@ pourquoi cette vulgarité ?
 
 392
 00:21:11,561 --> 00:21:13,063
-
-* Oui.
-* Et ce que tu as fait, tu m’as poussé
+- Oui.
+- Et ce que tu as fait, tu m’as poussé
 
 393
 00:21:13,146 --> 00:21:14,690
@@ -1748,9 +1712,8 @@ N’oublie pas, c’est une femme.
 
 395
 00:21:16,817 --> 00:21:17,943
-
-* C’est clair ?
-* Oui.
+- C’est clair ?
+- Oui.
 
 396
 00:21:18,026 --> 00:21:19,236
@@ -1780,27 +1743,23 @@ Il faut lui faire peur. Beaucoup.
 
 402
 00:21:31,873 --> 00:21:33,500
-
-* La briser.
-* Je comprends.
+- La briser.
+- Je comprends.
 
 403
 00:21:33,583 --> 00:21:35,627
-
-* Hein ? Tu veux recommencer ?
-* Oui.
+- Hein ? Tu veux recommencer ?
+- Oui.
 
 404
 00:21:35,711 --> 00:21:37,129
-
-* Oui. Oui.
-* Mais calme.
+- Oui. Oui.
+- Mais calme.
 
 405
 00:21:37,212 --> 00:21:39,423
-
-* Ça va aller. T’inquiète pas.
-* D’accord.
+- Ça va aller. T’inquiète pas.
+- D’accord.
 
 406
 00:21:39,506 --> 00:21:41,466
@@ -1841,21 +1800,18 @@ je te laisse les entrailles
 
 415
 00:22:04,489 --> 00:22:06,950
-
-* Oui, je vais tout vous donner.
-* Bien sûr que oui.
+- Oui, je vais tout vous donner.
+- Bien sûr que oui.
 
 416
 00:22:07,034 --> 00:22:08,827
-
-* Qui t’a dit de parler ?
-* Personne.
+- Qui t’a dit de parler ?
+- Personne.
 
 417
 00:22:08,910 --> 00:22:10,954
-
-* Personne...
-* Tu vas la fermer ou pas ?
+- Personne...
+- Tu vas la fermer ou pas ?
 
 418
 00:22:11,038 --> 00:22:12,748
@@ -1863,9 +1819,8 @@ Tu vas la fermer ou pas ?
 
 419
 00:22:15,334 --> 00:22:17,544
-
-* Qu’est-ce que tu fais avec ça, Maxi ?
-* Quoi ?
+- Qu’est-ce que tu fais avec ça, Maxi ?
+- Quoi ?
 
 420
 00:22:17,627 --> 00:22:19,338
@@ -1896,9 +1851,8 @@ Tu peux pas être...
 
 426
 00:22:32,309 --> 00:22:34,603
-
-* File, donne-moi.
-* Non, je te le donne ? Jamais.
+- File, donne-moi.
+- Non, je te le donne ? Jamais.
 
 427
 00:22:34,686 --> 00:22:35,979
@@ -1919,9 +1873,8 @@ Non, pas...
 
 431
 00:22:46,406 --> 00:22:47,908
-
-* Tu peux finir de le ranger ?
-* Bien sûr, pas de problème.
+- Tu peux finir de le ranger ?
+- Bien sûr, pas de problème.
 
 432
 00:22:47,991 --> 00:22:48,992
@@ -1929,9 +1882,8 @@ HELPING
 
 433
 00:22:49,076 --> 00:22:50,744
-
-* T’inquiète pas.
-* Bonne journée, les gars. Bravo.
+- T’inquiète pas.
+- Bonne journée, les gars. Bravo.
 
 434
 00:22:51,453 --> 00:22:53,038
@@ -1939,9 +1891,8 @@ Salut, Mati.
 
 435
 00:22:53,121 --> 00:22:54,664
-
-* Reposez-vous !
-* À demain !
+- Reposez-vous !
+- À demain !
 
 436
 00:23:08,095 --> 00:23:09,137 <i>Allô ?</i>
@@ -2025,9 +1976,8 @@ action, d’accord ?
 
 457
 00:24:08,405 --> 00:24:09,948
-
-* Excusez-moi, madame.
-* Oui ?
+- Excusez-moi, madame.
+- Oui ?
 
 458
 00:24:10,031 --> 00:24:11,575
@@ -2069,9 +2019,8 @@ que tu as économisé.
 
 467
 00:24:25,922 --> 00:24:27,549
-
-* Non, pas chez moi.
-* Pas chez toi ?
+- Non, pas chez moi.
+- Pas chez toi ?
 
 468
 00:24:27,632 --> 00:24:29,301
@@ -2107,8 +2056,7 @@ Allô, monsieur ?
 
 476
 00:24:53,033 --> 00:24:54,868
-
-* Non, ça s’est compliqué.
+- Non, ça s’est compliqué.
   -<i>Comment ça ?</i>
 
 477
@@ -2135,9 +2083,8 @@ C’est toujours beaucoup d’ennuis.
 
 482
 00:25:05,712 --> 00:25:07,506
-
-* Appelez la police, bordel, allez !
-* Oui, j’appelle.
+- Appelez la police, bordel, allez !
+- Oui, j’appelle.
 
 483
 00:25:08,924 --> 00:25:10,675
@@ -2252,9 +2199,8 @@ Mais bon, assez avec ce quartier.
 
 510
 00:26:09,818 --> 00:26:12,237
-
-* Ce n’est pas ce quartier.
-* Non ?
+- Ce n’est pas ce quartier.
+- Non ?
 
 511
 00:26:12,320 --> 00:26:13,363
@@ -2276,14 +2222,12 @@ et combien de temps ont-ils mis ? Longtemps.
 
 515
 00:26:19,244 --> 00:26:20,912
-
-* Plus d’une heure et demie.
+- Plus d’une heure et demie.
   -Plus.
 
 516
 00:26:20,996 --> 00:26:23,498
-
-* Deux heures, facilement.
+- Deux heures, facilement.
   -Deux heures ?
 
 517
@@ -2310,8 +2254,7 @@ quand ils sortent, eh bien,
 
 522
 00:26:35,719 --> 00:26:38,722
-
-* ils se vengent de celui qui les a trahis.
+- ils se vengent de celui qui les a trahis.
   -Quoi ?
 
 523
@@ -2326,9 +2269,8 @@ c’est dangereux.
 
 525
 00:26:44,519 --> 00:26:46,354
-
-* S’il veut entrer, il veut entrer.
-* Oui, et il a voulu pénétrer.
+- S’il veut entrer, il veut entrer.
+- Oui, et il a voulu pénétrer.
 
 526
 00:26:54,195 --> 00:26:56,239
@@ -2368,9 +2310,8 @@ Qui est la vraie victime, eux ou nous ?
 
 534
 00:27:18,970 --> 00:27:20,430
-
-* Eux.
-* Bon...
+- Eux.
+- Bon...
 
 535
 00:27:20,513 --> 00:27:22,974
@@ -2410,9 +2351,8 @@ ils te voient,
 
 543
 00:27:43,995 --> 00:27:45,747
-
-* tu deviens célèbre.
-* Oh !
+- tu deviens célèbre.
+- Oh !
 
 544
 00:27:45,830 --> 00:27:48,583
@@ -2420,15 +2360,13 @@ Ils appellent les médias, automatiquement, hein ?
 
 545
 00:27:48,667 --> 00:27:51,169
-
-* Et on fait quoi ? Le bordel total.
-* Bien sûr !
+- Et on fait quoi ? Le bordel total.
+- Bien sûr !
 
 546
 00:27:52,504 --> 00:27:54,422
-
-* Non, tu as raison.
-* Bien sûr.
+- Non, tu as raison.
+- Bien sûr.
 
 547
 00:27:57,092 --> 00:27:58,385
@@ -2436,15 +2374,13 @@ Tu me préviendras si quelque chose se passe ?
 
 548
 00:27:58,468 --> 00:28:01,471
-
-* Bien sûr, oui. Allez.
-* S’il te plaît.
+- Bien sûr, oui. Allez.
+- S’il te plaît.
 
 549
 00:28:03,556 --> 00:28:05,850
-
-* Merci.
-* Mon Dieu, ne t’en fais pas.
+- Merci.
+- Mon Dieu, ne t’en fais pas.
 
 550
 00:28:05,934 --> 00:28:07,560
@@ -2453,21 +2389,18 @@ ou quelque chose ici.
 
 551
 00:28:07,644 --> 00:28:10,355
-
-* Ouais.
-* Non ? Parce que dans un instant...
+- Ouais.
+- Non ? Parce que dans un instant...
 
 552
 00:28:10,730 --> 00:28:13,566
-
-* Il n’y a pas moyen dans ce quartier.
-* Vraiment pas.
+- Il n’y a pas moyen dans ce quartier.
+- Vraiment pas.
 
 553
 00:28:14,150 --> 00:28:16,319
-
-* Mais qu’est-ce qui s’est passé ?
-* Ça a merdé.
+- Mais qu’est-ce qui s’est passé ?
+- Ça a merdé.
 
 554
 00:28:18,279 --> 00:28:19,614
@@ -2475,9 +2408,8 @@ Aide-moi à le porter, allez.
 
 555
 00:28:19,698 --> 00:28:21,574
-
-* Où ça ?
-* Chez moi, où sinon ?
+- Où ça ?
+- Chez moi, où sinon ?
 
 556
 00:28:21,658 --> 00:28:23,702
