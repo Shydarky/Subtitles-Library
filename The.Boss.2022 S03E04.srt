@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:01,418 --> 00:00:03,086
 On aurait pu durer toute une vie ensemble.
 
@@ -1076,7 +1076,7 @@ Mais vous faites une bonne affaire en m’ayant ici,
 
 241
 00:15:10,159 --> 00:15:13,078
-parce que le savoir-faire
+car le savoir-faire
 que j’acquiers avec ma société,
 
 242
@@ -2215,4 +2215,5 @@ Connard.
 
 502
 00:33:26,004 --> 00:33:27,922
+
 LE PATRON 3
