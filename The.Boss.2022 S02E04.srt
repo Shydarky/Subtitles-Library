@@ -31,9 +31,8 @@ Tu as au moins retenu la leçon ?
 
 8
 00:00:31,698 --> 00:00:33,658
-
-* Quelle leçon ?
-* Celle de l’humilité.
+- Quelle leçon ?
+- Celle de l’humilité.
 
 9
 00:00:34,868 --> 00:00:38,079
@@ -74,9 +73,8 @@ Yeyela, Yaimin et Yola.
 
 17
 00:00:58,892 --> 00:01:01,269
-
-* Yamila, Yazmín et Yaira.
-* Voilà, c’est ça.
+- Yamila, Yazmín et Yaira.
+- Voilà, c’est ça.
 
 18
 00:01:02,103 --> 00:01:03,605
@@ -126,9 +124,8 @@ pas toi.
 
 28
 00:01:29,255 --> 00:01:31,549
-
-* Et moi je mange quoi ?
-* Il reste deux parts
+- Et moi je mange quoi ?
+- Il reste deux parts
 
 29
 00:01:31,633 --> 00:01:33,635
@@ -323,9 +320,8 @@ le modèle spécial...
 
 73
 00:05:04,262 --> 00:05:06,180
-
-* et le modèle économique.
-* Mmh.
+- et le modèle économique.
+- Mmh.
 
 74
 00:05:06,973 --> 00:05:08,474
@@ -354,9 +350,8 @@ Hors de question.
 
 80
 00:05:27,243 --> 00:05:30,663
-
-* Cérémonie religieuse ou laïque ?
-* Laïque.
+- Cérémonie religieuse ou laïque ?
+- Laïque.
 
 81
 00:05:32,206 --> 00:05:34,500
@@ -424,84 +419,84 @@ je dois quand même acheter l’urne ?
 
 95
 00:06:15,833 --> 00:06:17,668
-{\an8}J’ai ces pantalons-là.
+‎
 
 96
 00:06:18,711 --> 00:06:21,631
-{\an8}Elle adorait le bleu
+Elle adorait le bleu
 et ça va aussi avec tout.
 
 97
 00:06:22,131 --> 00:06:23,674
-{\an8}Ceux-là sont plus difficiles à assortir,
+Ceux-là sont plus difficiles à assortir,
 
 98
 00:06:23,758 --> 00:06:26,636
-{\an8}mais elle les aimait parce que
+mais elle les aimait parce que
 ça affinait ses chevilles.
 
 99
 00:06:26,719 --> 00:06:28,679
-{\an8}Moi je mettrais le bleu.
+Moi je mettrais le bleu.
 
 100
 00:06:28,763 --> 00:06:31,724
-{\an8}- Je les trouve plus sobres.
+- Je les trouve plus sobres.
 Oui, ça peut être. Oui.
 
 101
 00:06:31,808 --> 00:06:33,184
-{\an8}Bon, alors on met le bleu.
+Bon, alors on met le bleu.
 
 102
 00:06:33,267 --> 00:06:35,978
-{\an8}Je pense que ça ira parfaitement
+Je pense que ça ira parfaitement
 avec ce chemisier blanc.
 
 103
 00:06:37,522 --> 00:06:39,357
-{\an8}Et pour que le haut aille avec le bas,
+Et pour que le haut aille avec le bas,
 
 104
 00:06:40,316 --> 00:06:43,444
-{\an8}ce petit pull bleu clair
+ce petit pull bleu clair
 sans boutons.
 
 105
 00:06:43,528 --> 00:06:45,113
-{\an8}Il lui allait si bien.
+Il lui allait si bien.
 
 106
 00:06:45,196 --> 00:06:48,866
-{\an8}Et par-dessus,
+Et par-dessus,
 cette veste en crochet.
 
 107
 00:06:50,952 --> 00:06:54,122
-{\an8}- La veste, c’est pas trop ?
+- La veste, c’est pas trop ?
 Mais c’est elle qui l’a faite.
 
 108
 00:06:54,205 --> 00:06:57,667
-{\an8}Et elle l’adorait parce qu’elle disait
+Et elle l’adorait parce qu’elle disait
 que ça cachait la largeur de son dos.
 
 109
 00:06:57,750 --> 00:06:59,919
-{\an8}De face elle était fine,
+De face elle était fine,
 
 110
 00:07:00,002 --> 00:07:02,505
-{\an8}mais de dos,
+mais de dos,
 ma chérie on aurait dit un chameau.
 
 111
 00:07:03,840 --> 00:07:04,841
-{\an8}Comme vous voulez.
+Comme vous voulez.
 
 112
 00:07:06,300 --> 00:07:07,802
-{\an8}On met la veste en crochet.
+On met la veste en crochet.
 
 113
 00:07:19,355 --> 00:07:21,232
@@ -520,9 +515,8 @@ Tu devrais déjà être parti.
 
 116
 00:07:27,321 --> 00:07:29,657
-
-* Allez.
-* Partir ? Oublie, tonton.
+- Allez.
+- Partir ? Oublie, tonton.
 
 117
 00:07:29,740 --> 00:07:31,951
@@ -579,15 +573,13 @@ tu pars, quoi qu’il arrive,
 
 128
 00:08:02,940 --> 00:08:05,401
-
-* compris ? Ok.
-* Compris.
+- compris ? Ok.
+- Compris.
 
 129
 00:08:06,235 --> 00:08:08,905
-
-* Tonton, je peux te poser une question ?
-* Bien sûr.
+- Tonton, je peux te poser une question ?
+- Bien sûr.
 
 130
 00:08:10,072 --> 00:08:12,074
@@ -621,9 +613,8 @@ Peut-être là.
 
 137
 00:08:39,227 --> 00:08:41,270
-
-* Comme ça c’est bien ?
-* Non.
+- Comme ça c’est bien ?
+- Non.
 
 138
 00:08:41,354 --> 00:08:43,606
@@ -667,15 +658,13 @@ Parfait. Là c’est aligné.
 
 147
 00:09:07,380 --> 00:09:09,423
-
-* Merci, monsieur Ventura.
-* À plus tard.
+- Merci, monsieur Ventura.
+- À plus tard.
 
 148
 00:09:09,507 --> 00:09:10,967
-
-* Au revoir.
-* Eliseo.
+- Au revoir.
+- Eliseo.
 
 149
 00:09:11,509 --> 00:09:15,638
@@ -684,9 +673,8 @@ que je suis totalement à votre disposition
 
 150
 00:09:15,721 --> 00:09:17,390
-
-* pour tout ce qu’il faut.
-* Merci.
+- pour tout ce qu’il faut.
+- Merci.
 
 151
 00:09:17,473 --> 00:09:19,725
@@ -700,9 +688,8 @@ d’enlever le cercueil du hall.
 
 153
 00:09:25,773 --> 00:09:28,150
-
-* Pardon ?
-* C’est à cause de Kiara, ma fille.
+- Pardon ?
+- C’est à cause de Kiara, ma fille.
 
 154
 00:09:28,234 --> 00:09:31,112
@@ -755,15 +742,13 @@ Et on a déjà veillé quelqu’un ici.
 
 164
 00:09:55,595 --> 00:09:57,430
-
-* Vous vous souvenez de Slavsky ?
-* Oui, c’est vrai.
+- Vous vous souvenez de Slavsky ?
+- Oui, c’est vrai.
 
 165
 00:09:57,513 --> 00:09:59,098
-
-* On l’a veillé ici.
-* Je me souviens.
+- On l’a veillé ici.
+- Je me souviens.
 
 166
 00:09:59,181 --> 00:10:01,267
@@ -839,9 +824,8 @@ parce que mes bras lâchent.
 
 181
 00:10:43,059 --> 00:10:45,144
-
-* On l’emmène où ?
-* À son appartement.
+- On l’emmène où ?
+- À son appartement.
 
 182
 00:10:45,227 --> 00:10:47,813
@@ -924,9 +908,8 @@ Voilà.
 
 200
 00:11:33,901 --> 00:11:35,569
-
-* Voilà.
-* Putain !
+- Voilà.
+- Putain !
 
 201
 00:11:35,653 --> 00:11:37,947
@@ -934,9 +917,8 @@ Va chercher les supports en bas, Miguel.
 
 202
 00:11:38,030 --> 00:11:39,281
-
-* Et les chaises ?
-* Non, pas de chaises.
+- Et les chaises ?
+- Non, pas de chaises.
 
 203
 00:11:39,365 --> 00:11:41,534
@@ -949,9 +931,8 @@ il vient ici.
 
 205
 00:11:45,037 --> 00:11:47,790
-
-* À plus tard, mamie.
-* Si tu viens, tu te tiens bien.
+- À plus tard, mamie.
+- Si tu viens, tu te tiens bien.
 
 206
 00:11:47,873 --> 00:11:49,458
@@ -973,9 +954,8 @@ Bon...
 
 210
 00:12:00,803 --> 00:12:03,264
-
-* Merci d’avoir compris.
-* Je t’en prie.
+- Merci d’avoir compris.
+- Je t’en prie.
 
 211
 00:12:10,813 --> 00:12:11,772
@@ -1126,9 +1106,8 @@ ou comment je peux descendre comme ça ?
 
 244
 00:14:28,909 --> 00:14:30,870
-
-* Fais pas le malin avec moi.
-* Écoute, tonton,
+- Fais pas le malin avec moi.
+- Écoute, tonton,
 
 245
 00:14:30,953 --> 00:14:33,789
@@ -1320,9 +1299,8 @@ qui tienne aussi longtemps.
 
 287
 00:16:55,305 --> 00:16:57,433
-
-* Quel abruti.
-* Quel con.
+- Quel abruti.
+- Quel con.
 
 288
 00:16:57,516 --> 00:17:00,477
@@ -1365,21 +1343,18 @@ T’as une sale tête.
 
 297
 00:17:31,383 --> 00:17:33,594
-
-* Ça me fait vraiment plaisir.
-* Ouais, c’est ça.
+- Ça me fait vraiment plaisir.
+- Ouais, c’est ça.
 
 298
 00:17:33,677 --> 00:17:36,555
-
-* Allez, va-t’en.
-* Te ferme pas à l’amour familial.
+- Allez, va-t’en.
+- Te ferme pas à l’amour familial.
 
 299
 00:17:36,638 --> 00:17:40,017
-
-* Encore désolé pour ta perte.
-* Oui, oui. Va.
+- Encore désolé pour ta perte.
+- Oui, oui. Va.
 
 300
 00:17:43,312 --> 00:17:45,022
@@ -1418,9 +1393,8 @@ Mais Beba n’était pas chrétienne.
 
 308
 00:18:08,879 --> 00:18:11,048
-
-* Elle ne l’était pas ?
-* Non, elle ne croyait en rien,
+- Elle ne l’était pas ?
+- Non, elle ne croyait en rien,
 
 309
 00:18:11,131 --> 00:18:13,300
@@ -1429,21 +1403,18 @@ Fermement athée.
 
 310
 00:18:13,383 --> 00:18:15,219
-
-* Oh, je suis désolée !
-* Non, s’il vous plaît.
+- Oh, je suis désolée !
+- Non, s’il vous plaît.
 
 311
 00:18:15,302 --> 00:18:16,720
-
-* Excusez-moi, je ne savais pas.
-* Vous n’aviez pas à savoir.
+- Excusez-moi, je ne savais pas.
+- Vous n’aviez pas à savoir.
 
 312
 00:18:16,804 --> 00:18:19,389
-
-* Je n’aurais jamais imaginé...
-* Maria Pia, s’il vous plaît.
+- Je n’aurais jamais imaginé...
+- Maria Pia, s’il vous plaît.
 
 313
 00:18:19,473 --> 00:18:21,225
@@ -1469,9 +1440,8 @@ veut dire adieu
 
 318
 00:18:31,151 --> 00:18:33,237
-
-* à ma chère Beba...
-* Moi, Patron.
+- à ma chère Beba...
+- Moi, Patron.
 
 319
 00:18:33,320 --> 00:18:34,988
@@ -1492,9 +1462,8 @@ Bonsoir à tous.
 
 323
 00:18:46,125 --> 00:18:48,252
-
-* Bonsoir.
-* Bonsoir.
+- Bonsoir.
+- Bonsoir.
 
 324
 00:18:49,795 --> 00:18:53,590
@@ -1548,9 +1517,8 @@ Elle aimait beaucoup baiser le matin.
 
 336
 00:19:29,793 --> 00:19:32,880
-
-* Bon, ça suffit, grand-père.
-* Oui. Non, attends.
+- Bon, ça suffit, grand-père.
+- Oui. Non, attends.
 
 337
 00:19:32,963 --> 00:19:36,466
@@ -1582,15 +1550,13 @@ Vous êtes très confus.
 
 343
 00:19:51,023 --> 00:19:52,983
-
-* C’est vous qui êtes confus.
-* Non, non. Elle était comme ça.
+- C’est vous qui êtes confus.
+- Non, non. Elle était comme ça.
 
 344
 00:19:53,066 --> 00:19:54,693
-
-* Je vous le dis.
-* Vous devez être fatigué.
+- Je vous le dis.
+- Vous devez être fatigué.
 
 345
 00:19:54,776 --> 00:19:57,321
@@ -1633,9 +1599,8 @@ Et elle disait :
 
 354
 00:20:15,923 --> 00:20:18,467
-
-* Miguel, s’il te plaît.
-* “Comment on va pas baiser ?”
+- Miguel, s’il te plaît.
+- “Comment on va pas baiser ?”
 
 355
 00:20:18,550 --> 00:20:20,761
@@ -1813,9 +1778,8 @@ Excusez-moi.
 
 393
 00:22:41,526 --> 00:22:43,362
-
-* Excusez-moi, Eliseo.
-* Oui ?
+- Excusez-moi, Eliseo.
+- Oui ?
 
 394
 00:22:43,445 --> 00:22:45,572
@@ -1827,9 +1791,8 @@ Ah. Celle de l’immeuble d’à côté, non ?
 
 396
 00:22:49,117 --> 00:22:51,787
-
-* Exactement. On peut parler un instant ?
-* Oui.
+- Exactement. On peut parler un instant ?
+- Oui.
 
 397
 00:22:52,704 --> 00:22:53,955
@@ -1841,9 +1804,8 @@ Mm...
 
 399
 00:23:15,560 --> 00:23:17,813
-
-* Vous étiez proches tous les deux ?
-* Avec qui ?
+- Vous étiez proches tous les deux ?
+- Avec qui ?
 
 400
 00:23:19,439 --> 00:23:20,357
@@ -1855,9 +1817,8 @@ Oh ! Oui...
 
 402
 00:23:23,110 --> 00:23:25,695
-
-* Même très proches.
-* Mmm...
+- Même très proches.
+- Mmm...
 
 403
 00:23:27,614 --> 00:23:30,409
@@ -1901,7 +1862,7 @@ immatriculé à Cañuelas,
 au nom de Claudia Bustos.
 
 412
-00:23:59,312 --> 00:24:01,690
+00:24:01,650 --> 00:24:04,276
 Elle est détenue
 à la prison 54 de Florencio Varela.
 
@@ -1971,9 +1932,8 @@ Vous avez attendu la police, non ?
 
 427
 00:24:51,156 --> 00:24:52,449
-
-* Bien sûr. Oui.
-* Oui.
+- Bien sûr. Oui.
+- Oui.
 
 428
 00:24:52,532 --> 00:24:55,160
@@ -2047,9 +2007,8 @@ Quelle nouvelle ?
 
 443
 00:25:52,092 --> 00:25:53,718
-
-* Je peux lire ?
-* Oui, bien sûr.
+- Je peux lire ?
+- Oui, bien sûr.
 
 444
 00:25:54,970 --> 00:25:57,847
@@ -2092,9 +2051,8 @@ lui léguant tous mes biens
 
 453
 00:26:23,331 --> 00:26:24,791
-
-* qui comprennent...
-* Excusez-moi.
+- qui comprennent...
+- Excusez-moi.
 
 454
 00:26:26,626 --> 00:26:29,921
@@ -2159,15 +2117,13 @@ Et maintenant on fait quoi ?
 
 467
 00:27:32,025 --> 00:27:35,487
-
-* À propos de quoi ?
-* Ben, si Eliseo devient proprio,
+- À propos de quoi ?
+- Ben, si Eliseo devient proprio,
 
 468
 00:27:35,570 --> 00:27:37,656
-
-* il doit pas arrêter d’être concierge ?
-* Mmm...
+- il doit pas arrêter d’être concierge ?
+- Mmm...
 
 469
 00:27:38,198 --> 00:27:41,993
@@ -2478,4 +2434,4 @@ Dors bien, Beba.
 
 542
 00:32:34,911 --> 00:32:36,412
-LA PATRONNE 2
+LE PATRON
