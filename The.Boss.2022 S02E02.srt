@@ -15,14 +15,14 @@ de venir deux fois par semaine.
 4
 00:00:13,847 --> 00:00:15,598
 
-* María est une si gentille fille.
-* Oui.
+- María est une si gentille fille.
+- Oui.
 
 5
 00:00:16,725 --> 00:00:18,810
 
-* Je vais droit au but ?
-* Je vous en prie.
+- Je vais droit au but ?
+- Je vous en prie.
 
 6
 00:00:19,644 --> 00:00:23,064
@@ -148,15 +148,15 @@ LE PATRON 2
 
 34
 00:02:20,181 --> 00:02:21,224
-{\an8}
+​ 
 
 35
 00:02:22,308 --> 00:02:24,644
-{\an8}
+​ 
 
 36
 00:02:28,898 --> 00:02:30,233
-{\an8}Psst.
+Psst.
 
 37
 00:02:35,613 --> 00:02:37,198
@@ -164,11 +164,11 @@ Vieux de merde.
 
 38
 00:03:05,685 --> 00:03:08,229
-{\an8}
+​ 
 
 39
 00:03:13,318 --> 00:03:16,821
-{\an8}
+​ 
 
 40
 00:04:09,165 --> 00:04:10,458
@@ -212,8 +212,8 @@ de l’immeuble est parti.
 49
 00:04:44,659 --> 00:04:45,910
 
-* Thiago, c’est ça.
-* Oui.
+- Thiago, c’est ça.
+- Oui.
 
 50
 00:04:45,994 --> 00:04:48,204
@@ -223,8 +223,8 @@ Ils étaient très proches.
 51
 00:04:48,288 --> 00:04:49,455
 
-* La pauvre.
-* Que veux-tu faire ?
+- La pauvre.
+- Que veux-tu faire ?
 
 52
 00:04:49,539 --> 00:04:50,790
@@ -263,8 +263,8 @@ je respecte trop ça.
 60
 00:05:04,804 --> 00:05:06,973
 
-* Faites attention.
-* Je suis d’accord.
+- Faites attention.
+- Je suis d’accord.
 
 61
 00:05:07,056 --> 00:05:09,475
@@ -297,8 +297,8 @@ sont morts dans une avalanche.
 67
 00:05:22,780 --> 00:05:24,949
 
-* Hé, comment tu peux dire ça ?
-* Mais oui.
+- Hé, comment tu peux dire ça ?
+- Mais oui.
 
 68
 00:05:25,033 --> 00:05:27,327
@@ -366,20 +366,20 @@ Bon...
 82
 00:06:00,943 --> 00:06:02,779
 
-* Merci pour le conseil.
-* Avec plaisir.
+- Merci pour le conseil.
+- Avec plaisir.
 
 83
 00:06:02,862 --> 00:06:04,155
 
-* Bon voyage.
-* Merci.
+- Bon voyage.
+- Merci.
 
 84
 00:06:04,238 --> 00:06:05,490
 
-* Au revoir, ingénieur.
-* À bientôt.
+- Au revoir, ingénieur.
+- À bientôt.
 
 85
 00:06:31,557 --> 00:06:33,059
@@ -454,8 +454,8 @@ Voilà.
 101
 00:07:53,222 --> 00:07:55,099
 
-* Merci.
-* Merci, petit.
+- Merci.
+- Merci, petit.
 
 102
 00:08:01,063 --> 00:08:02,398
@@ -511,8 +511,8 @@ est totalement inconcevable.
 114
 00:08:26,881 --> 00:08:28,341
 
-* Je peux expliquer.
-* Non, non.
+- Je peux expliquer.
+- Non, non.
 
 115
 00:08:28,424 --> 00:08:31,260
@@ -557,20 +557,20 @@ Bien sûr.
 124
 00:08:47,568 --> 00:08:49,695
 
-* Entrez.
-* Merci. Bonsoir.
+- Entrez.
+- Merci. Bonsoir.
 
 125
 00:08:49,779 --> 00:08:51,614
 
-* Lucila.
-* Miguel.
+- Lucila.
+- Miguel.
 
 126
 00:08:51,697 --> 00:08:52,823
 
-* Bonjour.
-* Comment allez-vous ?
+- Bonjour.
+- Comment allez-vous ?
 
 127
 00:08:52,907 --> 00:08:54,825
@@ -579,8 +579,8 @@ Je peux vous aider avec quelque chose ?
 128
 00:08:54,909 --> 00:08:56,369
 
-* Non, j’ai pas besoin de vous.
-* Oh.
+- Non, j’ai pas besoin de vous.
+- Oh.
 
 129
 00:08:56,452 --> 00:08:58,246
@@ -593,8 +593,8 @@ Je peux ?
 131
 00:08:59,580 --> 00:09:00,748
 
-* Moi ?
-* Oui.
+- Moi ?
+- Oui.
 
 132
 00:09:01,582 --> 00:09:03,584
@@ -604,14 +604,14 @@ dans la salle de réunion.
 133
 00:09:03,668 --> 00:09:04,961
 
-* Bonne idée.
-* D’accord.
+- Bonne idée.
+- D’accord.
 
 134
 00:09:05,044 --> 00:09:06,754
 
-* On y va ?
-* Euh... oui.
+- On y va ?
+- Euh... oui.
 
 135
 00:09:24,647 --> 00:09:26,607
@@ -684,8 +684,8 @@ Bon, protocole poubelles compris.
 150
 00:10:04,645 --> 00:10:05,646
 
-* Merci.
-* Oui.
+- Merci.
+- Oui.
 
 151
 00:10:15,698 --> 00:10:19,952
@@ -757,8 +757,8 @@ remplacer Eliseo ?</i>
 168
 00:11:06,540 --> 00:11:08,626
 
-* Bienvenue.
-* Merci.
+- Bienvenue.
+- Merci.
 
 169
 00:11:08,709 --> 00:11:11,837
@@ -777,8 +777,8 @@ Il est immense ! Trop beau.
 172
 00:11:17,009 --> 00:11:19,887
 
-* Le vol s’est bien passé ?
-* Oui, mais un peu long.
+- Le vol s’est bien passé ?
+- Oui, mais un peu long.
 
 173
 00:11:19,970 --> 00:11:21,931
@@ -814,8 +814,8 @@ Là, c’est le mot de passe du Wi-Fi.
 180
 00:11:42,410 --> 00:11:43,994
 
-* Parfait.
-* Allons-y.
+- Parfait.
+- Allons-y.
 
 181
 00:11:44,412 --> 00:11:46,580
@@ -828,20 +828,20 @@ Nous y sommes.
 183
 00:11:48,624 --> 00:11:49,625
 
-* D’accord.
-* D’accord ?
+- D’accord.
+- D’accord ?
 
 184
 00:11:49,709 --> 00:11:50,710
 
-* Oui.
-* Compris ?
+- Oui.
+- Compris ?
 
 185
 00:11:50,793 --> 00:11:51,794
 
-* Oui.
-* Parfait.
+- Oui.
+- Parfait.
 
 186
 00:11:51,877 --> 00:11:56,298
@@ -851,8 +851,8 @@ et celui-là, mieux vaut éviter.
 187
 00:11:56,382 --> 00:11:58,300
 
-* Ils sont dangereux.
-* D’accord.
+- Ils sont dangereux.
+- D’accord.
 
 188
 00:11:58,384 --> 00:12:00,386
@@ -862,8 +862,8 @@ ici et ici.
 189
 00:12:00,469 --> 00:12:02,555
 
-* Parfait.
-* Oui, oui, oui.
+- Parfait.
+- Oui, oui, oui.
 
 190
 00:12:02,638 --> 00:12:04,265
@@ -876,8 +876,8 @@ Vous avez raison, oui.
 192
 00:12:05,516 --> 00:12:07,935
 
-* Votre argent.
-* Fantastique.
+- Votre argent.
+- Fantastique.
 
 193
 00:12:09,311 --> 00:12:10,312
@@ -908,8 +908,8 @@ Je suis content. À demain.
 199
 00:12:33,002 --> 00:12:34,628
 
-* Dormez bien.
-* Vous aussi.
+- Dormez bien.
+- Vous aussi.
 
 200
 00:12:38,257 --> 00:12:40,259
@@ -927,8 +927,8 @@ Je suis content.
 203
 00:12:46,557 --> 00:12:47,933
 
-* Eliseo...
-* Oui ?
+- Eliseo...
+- Oui ?
 
 204
 00:12:49,769 --> 00:12:51,520
@@ -988,8 +988,8 @@ Vous pensez à quelqu’un ?
 216
 00:13:19,173 --> 00:13:20,424
 
-* Oui.
-* Qui ?
+- Oui.
+- Qui ?
 
 217
 00:13:21,258 --> 00:13:22,968
@@ -998,8 +998,8 @@ L’avocat de l’appartement 8A.
 218
 00:13:24,011 --> 00:13:25,721
 
-* Maître Zambrano ?
-* Oui.
+- Maître Zambrano ?
+- Oui.
 
 219
 00:13:25,805 --> 00:13:26,806
@@ -1055,8 +1055,8 @@ que sa femme l’a quitté ?
 230
 00:13:59,713 --> 00:14:01,006
 
-* Je savais pas.
-* Récemment.
+- Je savais pas.
+- Récemment.
 
 231
 00:14:01,090 --> 00:14:03,342
@@ -1071,14 +1071,14 @@ que je peux en parler avec certitude.
 233
 00:14:07,429 --> 00:14:09,265
 
-* Vous êtes veuf ?
-* Oui.
+- Vous êtes veuf ?
+- Oui.
 
 234
 00:14:10,015 --> 00:14:11,267
 
-* Moi aussi.
-* Oh...
+- Moi aussi.
+- Oh...
 
 235
 00:14:11,892 --> 00:14:14,937
@@ -1148,8 +1148,8 @@ C’est horrible.
 250
 00:14:59,356 --> 00:15:01,400
 
-* Je suis navrée.
-* Ne vous en faites pas.
+- Je suis navrée.
+- Ne vous en faites pas.
 
 251
 00:15:05,529 --> 00:15:06,906
@@ -1172,8 +1172,8 @@ c’est de la transformer en autre chose.
 255
 00:15:14,830 --> 00:15:17,541
 
-* En aidant les autres, par exemple.
-* Quel beau principe.
+- En aidant les autres, par exemple.
+- Quel beau principe.
 
 256
 00:15:17,625 --> 00:15:20,044
@@ -1186,14 +1186,14 @@ Bon, Eliseo,
 258
 00:15:23,923 --> 00:15:25,799
 
-* je vous laisse tranquille.
-* D’accord.
+- je vous laisse tranquille.
+- D’accord.
 
 259
 00:15:25,883 --> 00:15:27,259
 
-* Bonne nuit.
-* Au revoir.
+- Bonne nuit.
+- Au revoir.
 
 260
 00:15:27,343 --> 00:15:29,428
@@ -1339,8 +1339,8 @@ Maître...
 292
 00:17:26,211 --> 00:17:27,504
 
-* Mon Dieu.
-* Venez ici.
+- Mon Dieu.
+- Venez ici.
 
 293
 00:17:28,005 --> 00:17:29,339
@@ -1398,14 +1398,14 @@ Il y a une alternative, monsieur.
 305
 00:18:05,292 --> 00:18:06,502
 
-* Bonjour.
-* Bonjour.
+- Bonjour.
+- Bonjour.
 
 306
 00:18:06,585 --> 00:18:08,087
 
-* Bonjour.
-* Bonjour.
+- Bonjour.
+- Bonjour.
 
 307
 00:18:08,170 --> 00:18:09,254
@@ -1428,8 +1428,8 @@ pour nos frères de la rue.
 311
 00:18:17,096 --> 00:18:19,264
 
-* Les tournées de l’amour.
-* Voilà.
+- Les tournées de l’amour.
+- Voilà.
 
 312
 00:18:19,348 --> 00:18:21,558
@@ -1448,8 +1448,8 @@ un soutien émotionnel.
 315
 00:18:26,980 --> 00:18:28,023
 
-* Voilà.
-* Bon,
+- Voilà.
+- Bon,
 
 316
 00:18:28,107 --> 00:18:30,025
@@ -1527,8 +1527,8 @@ On double, monsieur.
 333
 00:19:03,892 --> 00:19:05,811
 
-* On double ?
-* Au minimum.
+- On double ?
+- Au minimum.
 
 334
 00:19:05,894 --> 00:19:06,937
@@ -1590,14 +1590,14 @@ Les clodos verront pas la différence.
 347
 00:19:37,134 --> 00:19:39,178
 
-* Juste un peu.
-* Hé, attends ! C’est quoi ça ?
+- Juste un peu.
+- Hé, attends ! C’est quoi ça ?
 
 348
 00:19:39,261 --> 00:19:41,305
 
-* C’est juste un peu...
-* Hé, mon pote, arrête !
+- C’est juste un peu...
+- Hé, mon pote, arrête !
 
 349
 00:19:41,388 --> 00:19:43,640
@@ -1632,14 +1632,14 @@ parce qu’il reste seulement
 356
 00:20:02,075 --> 00:20:03,660
 
-* avant de partir.
-* Oui.
+- avant de partir.
+- Oui.
 
 357
 00:20:03,744 --> 00:20:05,996
 
-* Tranquille.
-* Tu vas tout nettoyer, hein ?
+- Tranquille.
+- Tu vas tout nettoyer, hein ?
 
 358
 00:20:06,580 --> 00:20:09,750
@@ -1700,8 +1700,8 @@ Mm-hmm. Je dis ça, je dis rien...
 370
 00:20:44,201 --> 00:20:46,119
 
-* Salut, bienvenue.
-* Salut.
+- Salut, bienvenue.
+- Salut.
 
 371
 00:20:47,704 --> 00:20:48,664
@@ -1719,8 +1719,8 @@ dans la tournée de ce soir.
 374
 00:20:53,418 --> 00:20:54,586
 
-* Ils rejoignent l’équipe.
-* Bonjour.
+- Ils rejoignent l’équipe.
+- Bonjour.
 
 375
 00:20:54,670 --> 00:20:56,880
@@ -1742,8 +1742,8 @@ Voici Agustina, ma sœur,
 379
 00:21:03,220 --> 00:21:05,264
 
-* ma main droite dans l’association.
-* Merci.
+- ma main droite dans l’association.
+- Merci.
 
 380
 00:21:05,347 --> 00:21:06,390
@@ -1752,8 +1752,8 @@ Mais elle est ici pour son mérite.
 381
 00:21:06,473 --> 00:21:08,267
 
-* Pas parce que c’est ma sœur.
-* Très bien.
+- Pas parce que c’est ma sœur.
+- Très bien.
 
 382
 00:21:08,350 --> 00:21:09,518
@@ -1767,8 +1767,8 @@ et on fait une vidéo de bienvenue ?
 384
 00:21:19,945 --> 00:21:23,115
 
-* Salut, je suis Eliseo.
-* Salut, je suis Matías.
+- Salut, je suis Eliseo.
+- Salut, je suis Matías.
 
 385
 00:21:23,198 --> 00:21:27,327
@@ -1787,8 +1787,8 @@ pointez le logo.
 388
 00:21:33,000 --> 00:21:34,876
 
-* Celui-là ?
-* Pour que ce soit clair, oui.
+- Celui-là ?
+- Pour que ce soit clair, oui.
 
 389
 00:21:35,460 --> 00:21:39,047
@@ -1802,13 +1802,13 @@ Vous êtes un peu raide, monsieur.
 391
 00:21:40,507 --> 00:21:43,093
 
-* Tenez la tête.
-* Ça tourne.
+- Tenez la tête.
+- Ça tourne.
 
 392
 00:21:43,593 --> 00:21:46,805 <i>- Salut, je suis Eliseo.
 
-* Salut, je suis Matías.</i>
+- Salut, je suis Matías.</i>
 
 393
 00:21:46,888 --> 00:21:51,059 <i>On porte ces t-shirts
@@ -1839,14 +1839,14 @@ Les gars, voici mon ami Luis.
 399
 00:22:16,960 --> 00:22:18,503
 
-* Salut, Luis.
-* Salut, Luis.
+- Salut, Luis.
+- Salut, Luis.
 
 400
 00:22:19,921 --> 00:22:21,715
 
-* Voilà.
-* Approche.
+- Voilà.
+- Approche.
 
 401
 00:22:21,798 --> 00:22:25,010
@@ -1899,8 +1899,8 @@ Oui.
 412
 00:22:54,998 --> 00:22:57,209
 
-* On voit un chorizo là.
-* Oui.
+- On voit un chorizo là.
+- Oui.
 
 413
 00:22:57,292 --> 00:22:59,461
@@ -1919,7 +1919,7 @@ Bon...
 417
 00:23:10,305 --> 00:23:13,934 <i>- ♪ On doit toujours penser... ♪
 
-* ♪ Aux autres ♪</i>
+- ♪ Aux autres ♪</i>
 
 418
 00:23:14,559 --> 00:23:17,396 <i>♪ Et le bon karma
@@ -2023,8 +2023,8 @@ Salles de jaloux.
 439
 00:24:11,908 --> 00:24:14,327
 
-* Pourquoi ils diraient ça ?
-* Ben...
+- Pourquoi ils diraient ça ?
+- Ben...
 
 440
 00:24:14,411 --> 00:24:15,745
@@ -2046,8 +2046,8 @@ il aurait rien.
 444
 00:24:21,460 --> 00:24:22,627
 
-* Absolument.
-* J’ai tort ?
+- Absolument.
+- J’ai tort ?
 
 445
 00:24:22,711 --> 00:24:23,712
@@ -2105,14 +2105,14 @@ pour qu’elle déménage.
 457
 00:24:57,287 --> 00:24:59,206
 
-* C’est pour ça qu’elle a déménagé ?
-* Oui.
+- C’est pour ça qu’elle a déménagé ?
+- Oui.
 
 458
 00:25:04,544 --> 00:25:06,129
 
-* Bonjour, Eliseo.
-* Bonjour.
+- Bonjour, Eliseo.
+- Bonjour.
 
 459
 00:25:06,213 --> 00:25:07,214
@@ -2155,8 +2155,8 @@ un peu d’initiative.
 468
 00:25:31,530 --> 00:25:33,782
 
-* Quoi ?
-* Oui.
+- Quoi ?
+- Oui.
 
 469
 00:25:33,865 --> 00:25:37,202
@@ -2180,14 +2180,14 @@ fait pour ça, et ça...
 473
 00:25:47,837 --> 00:25:49,172
 
-* Vraiment ?
-* Oui.
+- Vraiment ?
+- Oui.
 
 474
 00:25:49,714 --> 00:25:51,591
 
-* Je croyais que vous alliez me virer.
-* Non.
+- Je croyais que vous alliez me virer.
+- Non.
 
 475
 00:25:51,675 --> 00:25:53,802
@@ -2217,8 +2217,8 @@ Ouais...
 481
 00:26:04,229 --> 00:26:05,772
 
-* Grosse erreur.
-* Mm-hmm.
+- Grosse erreur.
+- Mm-hmm.
 
 482
 00:26:06,565 --> 00:26:09,484
@@ -2233,8 +2233,8 @@ la main dans le sac.
 484
 00:26:11,111 --> 00:26:13,113
 
-* Tout nier. D’accord.
-* Toujours.
+- Tout nier. D’accord.
+- Toujours.
 
 485
 00:26:13,196 --> 00:26:16,074
@@ -2244,20 +2244,20 @@ pour te préparer pour l’avenir,
 486
 00:26:16,157 --> 00:26:17,242
 
-* mais on est bien partis.
-* Oui.
+- mais on est bien partis.
+- Oui.
 
 487
 00:26:17,325 --> 00:26:19,578
 
-* Bonjour.
-* Bonjour.
+- Bonjour.
+- Bonjour.
 
 488
 00:26:19,661 --> 00:26:22,163
 
-* Au revoir.
-* Salut, à plus tard.
+- Au revoir.
+- Salut, à plus tard.
 
 489
 00:26:23,665 --> 00:26:25,292
@@ -2287,8 +2287,8 @@ Salut.
 495
 00:27:06,791 --> 00:27:08,835
 
-* Eliseo, tu m’as fait peur.
-* Désolé.
+- Eliseo, tu m’as fait peur.
+- Désolé.
 
 496
 00:27:08,918 --> 00:27:10,879
@@ -2334,8 +2334,8 @@ sur ce que j’ai vu.
 505
 00:27:32,484 --> 00:27:33,485
 
-* Non.
-* Ah.
+- Non.
+- Ah.
 
 506
 00:27:33,568 --> 00:27:36,446
@@ -2395,8 +2395,8 @@ Tu devrais rester calme, Eliseo.
 518
 00:28:10,897 --> 00:28:12,857
 
-* À plus.
-* Salut, architecte.
+- À plus.
+- Salut, architecte.
 
 519
 00:28:18,196 --> 00:28:22,117
@@ -2423,8 +2423,8 @@ Hein ?
 524
 00:28:29,582 --> 00:28:31,835
 
-* Pourquoi ils se disputaient ?
-* Ah.
+- Pourquoi ils se disputaient ?
+- Ah.
 
 525
 00:28:31,918 --> 00:28:35,046
@@ -2471,8 +2471,8 @@ cheveux bruns,
 534
 00:28:57,193 --> 00:28:59,404
 
-* Mmm...
-* À 20 h 17,
+- Mmm...
+- À 20 h 17,
 
 535
 00:28:59,487 --> 00:29:02,490
@@ -2505,8 +2505,8 @@ Très bien.
 541
 00:29:11,875 --> 00:29:13,501
 
-* Journée tranquille.
-* En effet.
+- Journée tranquille.
+- En effet.
 
 542
 00:29:13,585 --> 00:29:15,587
@@ -2519,8 +2519,8 @@ Hein ?
 544
 00:29:17,172 --> 00:29:18,965
 
-* Cette Morris...
-* Oh...
+- Cette Morris...
+- Oh...
 
 545
 00:29:19,048 --> 00:29:21,342
