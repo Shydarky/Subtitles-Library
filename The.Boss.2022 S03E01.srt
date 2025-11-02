@@ -1,15 +1,15 @@
-﻿1
+1
 00:00:01,751 --> 00:00:04,504
-{\an8}J'ai entendu dire qu'un nouveau personnage
+J'ai entendu dire qu'un nouveau personnage
 a emménagé dans ton immeuble.
 
 2
 00:00:04,587 --> 00:00:05,755
-{\an8}DANS LA SAISON PRÉCÉDENTE
+DANS LA SAISON PRÉCÉDENTE
 
 3
 00:00:05,839 --> 00:00:08,967
-{\an8}Le montant des charges de copropriété
+Le montant des charges de copropriété
 m'étonne. Tout cet argent va où ?
 
 4
@@ -18,9 +18,9 @@ un président du syndicat de copropriété...</i>
 
 5
 00:00:12,679 --> 00:00:14,848
-
-* <i>Avec un certain pouvoir...</i>
-* ...favorise la corruption.
+﻿ 
+- <i>Avec un certain pouvoir...</i>
+- ...favorise la corruption.
 
 6
 00:00:14,931 --> 00:00:17,058
@@ -31,9 +31,9 @@ Je crois que toi et moi, Docteur,
 
 8
 00:00:18,768 --> 00:00:19,769
-
-* Salut.
-* Salut.
+﻿ 
+- Salut.
+- Salut.
 
 9
 00:00:19,853 --> 00:00:20,854
@@ -90,9 +90,9 @@ Beba !
 
 22
 00:00:43,376 --> 00:00:45,754
-
-* <i>Beba m'a tout laissé ?</i>
-* Tout.
+﻿ 
+- <i>Beba m'a tout laissé ?</i>
+- Tout.
 
 23
 00:00:46,254 --> 00:00:48,006 <i>À la prochaine
@@ -114,9 +114,9 @@ Matías Zambrano.
 
 27
 00:00:58,266 --> 00:01:01,144
-
-* De quoi avez-vous besoin ?
-* <i>D'inspecter votre appartement.</i>
+﻿ 
+- De quoi avez-vous besoin ?
+- <i>D'inspecter votre appartement.</i>
 
 28
 00:01:02,645 --> 00:01:03,855
@@ -163,9 +163,9 @@ mais il m'a menacé, moi aussi.
 
 38
 00:01:28,546 --> 00:01:30,215
-
-* Pourquoi êtes-vous là ?
-* Pour dire la vérité.
+﻿ 
+- Pourquoi êtes-vous là ?
+- Pour dire la vérité.
 
 39
 00:01:30,298 --> 00:01:32,592
@@ -185,9 +185,9 @@ Je suis triste que vous partiez, Docteur.
 
 43
 00:01:37,806 --> 00:01:40,141
-
-* Va te faire foutre.
-* Vous êtes en colère.
+﻿ 
+- Va te faire foutre.
+- Vous êtes en colère.
 
 44
 00:01:40,225 --> 00:01:43,061 <i>Je sais très bien
@@ -210,15 +210,15 @@ Je m'occupe de vivre.
 
 49
 00:02:04,332 --> 00:02:08,336
-{\an8}SYNDICAT ARGENTIN DES CONCIERGES
+SYNDICAT ARGENTIN DES CONCIERGES
 
 50
 00:02:08,419 --> 00:02:11,923
-{\an8}M. ELISEO OMAR BASURTO
+M. ELISEO OMAR BASURTO
 
 51
 00:02:12,507 --> 00:02:14,425
-{\an8}
+﻿ 
 
 52
 00:02:42,996 --> 00:02:45,248
@@ -246,9 +246,9 @@ Qu'est-ce que c'est ?
 
 58
 00:02:58,094 --> 00:03:00,471
-
-* Ouvre et regarde.
-* Non, je le lirai plus tard.
+﻿ 
+- Ouvre et regarde.
+- Non, je le lirai plus tard.
 
 59
 00:03:01,055 --> 00:03:02,390
@@ -286,9 +286,9 @@ des concierges de copropriété horizontale
 
 67
 00:03:28,208 --> 00:03:30,877
-
-* Bon, parfait.
-* Tu vas y aller ?
+﻿ 
+- Bon, parfait.
+- Tu vas y aller ?
 
 68
 00:03:31,419 --> 00:03:32,712
@@ -308,9 +308,9 @@ Non, c'est tout.
 
 72
 00:03:42,305 --> 00:03:44,974
-
-* Très bien. Merci. Au revoir.
-* D'accord.
+﻿ 
+- Très bien. Merci. Au revoir.
+- D'accord.
 
 73
 00:03:45,058 --> 00:03:47,518
@@ -319,9 +319,9 @@ devant l'entrée,
 
 74
 00:03:47,602 --> 00:03:49,812
-
-* sinon les propriétaires ne pourront pas sortir.
-* D'accord.
+﻿ 
+- sinon les propriétaires ne pourront pas sortir.
+- D'accord.
 
 75
 00:03:49,896 --> 00:03:50,980
@@ -437,134 +437,134 @@ Putain de merde.
 
 102
 00:07:32,034 --> 00:07:34,245
-{\an8}- Oui. Numéro de chambre, s'il vous plaît.
+- Oui. Numéro de chambre, s'il vous plaît.
 Oui.
 
 103
 00:07:34,328 --> 00:07:36,414
-{\an8}
+﻿ 
 
 104
 00:07:36,497 --> 00:07:37,832
-{\an8}<i>Dois, oito.</i>
+<i>Dois, oito.</i>
 
 105
 00:07:38,583 --> 00:07:39,792
-{\an8}Oui, que puis-je pour vous ?
+Oui, que puis-je pour vous ?
 
 106
 00:07:39,876 --> 00:07:43,838
-{\an8}Oui, <i>eu</i> ne veux personne
+Oui, <i>eu</i> ne veux personne
 qui entre dans ma chambre,
 
 107
 00:07:43,921 --> 00:07:45,923
-{\an8}pas même les femmes de ménage.
+pas même les femmes de ménage.
 
 108
 00:07:46,007 --> 00:07:50,386
-{\an8}Je vous propose de me fournir
+Je vous propose de me fournir
 des produits de nettoyage de base,
 
 109
 00:07:50,470 --> 00:07:52,472
-{\an8}et <i>eu</i> m'occupe de tout. <i>Tá bom ?</i>
+et <i>eu</i> m'occupe de tout. <i>Tá bom ?</i>
 
 110
 00:07:52,555 --> 00:07:54,807
-{\an8}Je suis vraiment désolée, monsieur,
+Je suis vraiment désolée, monsieur,
 
 111
 00:07:54,891 --> 00:07:58,269
-{\an8}mais à cause de la politique de l'hôtel,
+mais à cause de la politique de l'hôtel,
 je ne peux pas satisfaire votre demande.
 
 112
 00:07:58,352 --> 00:08:01,439
-{\an8}Mais je vous assure
+Mais je vous assure
 que notre personnel de nettoyage est très minutieux.
 
 113
 00:08:01,522 --> 00:08:06,027
-{\an8}Vous et moi, on n'a pas la même idée
+Vous et moi, on n'a pas la même idée
 du mot « minutieux ».
 
 114
 00:08:06,110 --> 00:08:09,697
-{\an8}Vous m'avez proposé une chambre de 30 mètres carrés.
+Vous m'avez proposé une chambre de 30 mètres carrés.
 
 115
 00:08:10,239 --> 00:08:11,741
-{\an8}Et, selon mes mesures,
+Et, selon mes mesures,
 
 116
 00:08:11,824 --> 00:08:14,577
-{\an8}la chambre fait 27 mètres carrés.
+la chambre fait 27 mètres carrés.
 
 117
 00:08:15,411 --> 00:08:18,080
-{\an8}- Désolée, M. Basurto.
+- Désolée, M. Basurto.
 Basurto, oui.
 
 118
 00:08:18,164 --> 00:08:23,127
-{\an8}Je suis désolée pour le désagrément.
+Je suis désolée pour le désagrément.
 Je crois que ce sont des estimations approximatives.
 
 119
 00:08:23,753 --> 00:08:27,507
-{\an8}Ce qu'on peut faire pour vous dédommager
+Ce qu'on peut faire pour vous dédommager
 de ce malentendu,
 
 120
 00:08:27,590 --> 00:08:31,928
-{\an8}c'est vous offrir une heure de kayak
+c'est vous offrir une heure de kayak
 et un cours de Zumba gratuits. Ça vous va ?
 
 121
 00:08:32,011 --> 00:08:34,639
-{\an8}Non, je trouve ça <i>muito</i> nul.
+Non, je trouve ça <i>muito</i> nul.
 Il n'y a pas de malentendu.
 
 122
 00:08:34,722 --> 00:08:38,726
-{\an8}Trente mètres carrés, c'est 30 mètres carrés,
+Trente mètres carrés, c'est 30 mètres carrés,
 ici et partout dans le <i>do mundo.</i>
 
 123
 00:08:38,809 --> 00:08:40,144
-{\an8}Vous comprenez quand <i>eu fala ?</i>
+Vous comprenez quand <i>eu fala ?</i>
 
 124
 00:08:40,228 --> 00:08:42,021
-{\an8}- Oui, je comprends.
+- Oui, je comprends.
 D'accord.
 
 125
 00:08:44,565 --> 00:08:45,691
-{\an8}Ah.
+Ah.
 
 126
 00:08:45,858 --> 00:08:49,487
-{\an8}Vous avez laissé la Sainte Bible
+Vous avez laissé la Sainte Bible
 sur ma table de nuit.
 
 127
 00:08:49,570 --> 00:08:51,822
-{\an8}- Oui.
+- Oui.
 Je n'en veux pas. Je n'en ai pas besoin.
 
 128
 00:08:52,823 --> 00:08:53,824
-{\an8}C'est clair ?
+C'est clair ?
 
 129
 00:08:54,992 --> 00:08:56,077
-{\an8}Je vous présente mes excuses.
+Je vous présente mes excuses.
 
 130
 00:08:57,119 --> 00:08:59,121
-{\an8}
+﻿ 
 
 131
 00:09:05,002 --> 00:09:06,087
@@ -1010,9 +1010,9 @@ Sortez de l'appartement, tout de suite.
 
 232
 00:17:42,770 --> 00:17:44,730
-
-* D'accord, merci.
-* Merci.
+﻿ 
+- D'accord, merci.
+- Merci.
 
 233
 00:17:46,106 --> 00:17:49,109
@@ -1065,9 +1065,9 @@ Hé, attends, attends.
 
 244
 00:18:09,463 --> 00:18:11,882
-
-* Je dois te dire un truc.
-* Quoi ?
+﻿ 
+- Je dois te dire un truc.
+- Quoi ?
 
 245
 00:18:11,965 --> 00:18:16,345
@@ -1076,15 +1076,15 @@ ont encore plein de pucerons.
 
 246
 00:18:16,428 --> 00:18:18,889
-
-* Tu me le diras plus tard. T'en fais pas.
-* Non, mais...
+﻿ 
+- Tu me le diras plus tard. T'en fais pas.
+- Non, mais...
 
 247
 00:18:18,972 --> 00:18:21,100
-
-* La barbe te va très bien, Eliseo.
-* Merci.
+﻿ 
+- La barbe te va très bien, Eliseo.
+- Merci.
 
 248
 00:18:23,060 --> 00:18:24,061
@@ -1249,9 +1249,9 @@ tu l'auras dans ta main.
 
 285
 00:20:55,921 --> 00:20:57,756
-
-* C'est clair ?
-* D'accord.
+﻿ 
+- C'est clair ?
+- D'accord.
 
 286
 00:20:58,590 --> 00:21:00,008
@@ -1267,9 +1267,9 @@ Je voulais juste que tu saches.
 
 289
 00:21:13,397 --> 00:21:15,440
-
-* M. Gonzalo, comment allez-vous ?
-* Salut, Eliseo.
+﻿ 
+- M. Gonzalo, comment allez-vous ?
+- Salut, Eliseo.
 
 290
 00:21:15,524 --> 00:21:16,692
