@@ -1,1935 +1,2156 @@
-﻿1
-00:00:01,501 --> 00:00:03,670
-Il me faut un employé pour ma nouvelle société.
+1
+00:00:01,418 --> 00:00:03,670
+J'ai besoin d'un employé
+pour ma nouvelle entreprise.
 
 2
-00:00:03,753 --> 00:00:05,922
-- Quel genre de société ?
-Gestion de concierges.
+00:00:03,753 --> 00:00:04,838
+Une entreprise ? De quoi ?
 
 3
-00:00:06,006 --> 00:00:07,090
-DANS L'ÉPISODE PRÉCÉDENT
+00:00:04,921 --> 00:00:06,256
+Management de gardiens.
 
 4
-00:00:07,173 --> 00:00:09,134
-- Je peux être un de tes concierges ?
-Non.
+00:00:06,381 --> 00:00:08,049
+Je peux être un de vos gardiens ?
 
 5
-00:00:09,217 --> 00:00:12,679
-En embauchant Basurto Integral Solutions,
+00:00:08,133 --> 00:00:09,134
+Non.
 
 6
-00:00:12,762 --> 00:00:16,641
-vous pouvez compter sur l'efficacité,
-la sécurité, la confiance,
+00:00:09,300 --> 00:00:12,637
+En faisant appel aux services
+de Soluciones Integrales Basurto,
 
 7
-00:00:16,725 --> 00:00:19,060
-et surtout, sur des coûts réduits.
+00:00:12,721 --> 00:00:16,516
+vous pouvez compter
+sur l'efficacité, la sécurité, la confiance
 
 8
-00:00:19,144 --> 00:00:21,479
-Tu représentes une marque, Garrido.
+00:00:16,683 --> 00:00:19,060
+et, surtout, des coûts bas.
 
 9
-00:00:22,105 --> 00:00:23,690 <i>Tu es dans la fosse aux lions.</i>
+00:00:19,185 --> 00:00:21,479
+Tu sais que maintenant
+tu représentes une marque, Garrido.
 
 10
-00:00:23,773 --> 00:00:25,734
-Tu veux que j'espionne Eliseo ?
+00:00:22,105 --> 00:00:23,690
+Là, tu es dans la gueule du loup.
 
 11
-00:00:25,817 --> 00:00:27,777 <i>Quelle sera ma prochaine conquête ?</i>
+00:00:23,815 --> 00:00:25,567
+Vous voulez que j'espionne Eliseo ?
 
 12
-00:00:27,861 --> 00:00:30,905
-Je ne serai pas là pendant dix jours.
-Je peux te laisser ma clé et tu le fais ?
+00:00:25,734 --> 00:00:27,777
+Quelle va être
+ma prochaine conquête ?
 
 13
-00:00:30,989 --> 00:00:32,449
-Parfait.
+00:00:27,861 --> 00:00:29,195
+Je ne serai pas là pendant dix jours.
 
 14
-00:00:32,532 --> 00:00:35,285
-Là tu vas voir jusqu’où je peux être crade.
+00:00:29,279 --> 00:00:30,905
+Je peux vous laisser les clés
+et vous vous en occupez ?
 
 15
-00:00:36,703 --> 00:00:38,329
-Eliseo, c’est toi ?
+00:00:31,072 --> 00:00:32,449
+Parfait.
 
 16
-00:00:51,676 --> 00:00:52,677
-Clarita ?
+00:00:32,532 --> 00:00:35,285
+Là, tu vas voir
+jusqu'où je peux être une vraie crapule.
 
 17
-00:00:54,054 --> 00:00:57,140
-Oh, mon Dieu ! J’y crois pas !
+00:00:35,452 --> 00:00:36,661
+Aïe !
 
 18
-00:00:58,516 --> 00:01:00,268
-Ça fait tellement longtemps !
+00:00:36,786 --> 00:00:38,288
+Eliseo, c'est toi ?
 
 19
-00:01:04,689 --> 00:01:06,274
-Tu es toujours concierge.
+00:00:51,676 --> 00:00:52,677
+Clarita.
 
 20
+00:00:53,970 --> 00:00:57,182
+J'y crois pas, mon Dieu !
+
+21
+00:00:58,475 --> 00:01:00,268
+Ça fait tellement longtemps !
+
+22
+00:01:04,439 --> 00:01:06,024
+Tu es toujours gardien.
+
+23
 00:01:07,150 --> 00:01:08,151
 Oui.
 
-21
-00:01:09,444 --> 00:01:10,779
+24
+00:01:09,444 --> 00:01:10,570
 Et dans le même immeuble.
 
-22
-00:01:13,990 --> 00:01:16,034
-Oui, je savais que c’était à Belgrano, mais...
-
-23
-00:01:17,035 --> 00:01:18,953
-je ne me souvenais plus de cette rue.
-
-24
-00:01:19,454 --> 00:01:20,789
-Je veux dire, comme je ne suis jamais venue...
-
 25
-00:01:21,790 --> 00:01:25,835
-Bel immeuble. Il a un style moderne.
-Je veux dire, à cause des...
+00:01:13,990 --> 00:01:16,034
+Oui, je savais
+que c'était à Belgrano, mais je...
 
 26
-00:01:26,711 --> 00:01:27,712
-des colonnes.
+00:01:17,035 --> 00:01:18,870
+Je ne me souvenais plus
+que c'était cette rue.
 
 27
+00:01:19,454 --> 00:01:20,789
+Forcément, je ne suis jamais venue...
+
+28
+00:01:21,790 --> 00:01:24,334
+C'est joli. Quel style...
+
+29
+00:01:24,417 --> 00:01:26,086
+Style moderne. Je dis ça pour les...
+
+30
+00:01:26,753 --> 00:01:27,796
+les colonnes.
+
+31
 00:01:28,213 --> 00:01:29,881
 Ça fait plaisir de te voir !
 
-28
-00:01:31,966 --> 00:01:34,844
-Tu veux aller boire un verre ?
-On pourrait se raconter nos vies.
-
-29
-00:01:35,553 --> 00:01:37,013
-Je suis libre, là.
-
-30
-00:01:37,097 --> 00:01:38,223
-Non, je peux pas sortir.
-
-31
-00:01:39,974 --> 00:01:41,017
-Dommage.
-
 32
-00:01:42,018 --> 00:01:43,019
-Bon alors...
+00:01:31,966 --> 00:01:34,844
+Tu veux pas qu'on aille boire un truc ?
+On se mettrait à jour.
 
 33
-00:01:48,066 --> 00:01:51,152
-Mais si tu veux, on peut prendre
-un café à l’étage. Ça je peux.
+00:01:35,470 --> 00:01:36,971
+J'ai un petit moment, là.
 
 34
-00:01:55,406 --> 00:01:57,659
-Parfait. J’accepte un café.
+00:01:37,097 --> 00:01:38,223
+Non, je ne peux pas sortir.
 
 35
-00:02:26,771 --> 00:02:29,649
-LE BOSS 3
+00:01:39,432 --> 00:01:41,017
+Ah, quel dommage.
 
 36
-00:02:34,571 --> 00:02:36,656
-‎
+00:01:41,601 --> 00:01:42,727
+Bon.
 
 37
+00:01:48,066 --> 00:01:51,236
+Par contre, si tu veux,
+on peut prendre un café chez moi, en haut.
+
+38
+00:01:55,406 --> 00:01:57,659
+Ah, d'accord. Un café, ça je veux bien.
+Un café.
+
+39
 00:02:43,746 --> 00:02:44,747
 Merci.
 
-38
-00:02:52,547 --> 00:02:55,758
-C’est incroyable. Tu n’as pas changé.
-
-39
-00:02:56,384 --> 00:02:57,844
-Les mêmes yeux.
-
 40
-00:02:59,846 --> 00:03:01,514
-Ben oui, ce sont les mêmes.
+00:02:52,672 --> 00:02:56,050
+C'est fou comme tu es... Tu n'as pas changé.
 
 41
-00:03:02,932 --> 00:03:05,059
-Non, je veux dire que je t’ai reconnue
-tout de suite en te voyant.
+00:02:56,467 --> 00:02:57,844
+Les mêmes yeux.
 
 42
-00:03:05,143 --> 00:03:07,145
-Ça fait combien de temps
-qu’on ne s’est pas vus ?
+00:02:59,846 --> 00:03:01,514
+Ben oui, c'est les mêmes.
 
 43
-00:03:08,062 --> 00:03:09,105
-Trente ans ?
+00:03:02,932 --> 00:03:05,143
+Non, je veux dire que je t'ai reconnue
+dès que je t'ai vue.
 
 44
-00:03:09,189 --> 00:03:11,691
+00:03:05,226 --> 00:03:06,895
+Ça fait combien de temps
+qu'on ne s'est pas vus ?
+
+45
+00:03:07,937 --> 00:03:09,105
+Trente ans ?
+
+46
+00:03:09,189 --> 00:03:11,774
 Trente-deux ans,
 dix mois et quatre jours.
 
-45
-00:03:13,193 --> 00:03:17,238
-Le jour où on a signé le divorce
-chez le docteur Pucciarelli.
-
-46
-00:03:17,322 --> 00:03:20,450
-Oui, je m’en souviens. On était si jeunes.
-
 47
-00:03:21,910 --> 00:03:23,578
-On ne savait pas ce qu’on faisait.
+00:03:13,193 --> 00:03:17,155
+Quand on a signé le jugement de divorce
+au cabinet du docteur Pucciarelli.
 
 48
-00:03:26,456 --> 00:03:28,875
-Moi je savais ce que je faisais.
-Je sais pas pour toi.
+00:03:17,322 --> 00:03:18,489
+Oui, je me souviens, oui, oui.
 
 49
-00:03:30,251 --> 00:03:31,628
-Sois pas méchante.
+00:03:18,573 --> 00:03:20,450
+On était tellement jeunes.
 
 50
-00:03:32,503 --> 00:03:34,005
-J’ai fait de mon mieux.
+00:03:21,451 --> 00:03:23,578
+On ne savait même pas ce qu'on faisait.
 
 51
-00:03:35,632 --> 00:03:38,426
-Mais je t’ai déjà tout pardonné.
+00:03:26,456 --> 00:03:28,875
+Moi, je savais très bien ce que je faisais.
+Toi, je sais pas.
 
 52
-00:03:40,136 --> 00:03:42,430
-Moi, par contre, je ne te pardonnerai jamais
+00:03:30,210 --> 00:03:31,586
+Ne sois pas méchant.
 
 53
-00:03:43,556 --> 00:03:45,141
-de m’avoir quitté.
+00:03:32,503 --> 00:03:34,005
+J'ai fait ce que j'ai pu.
 
 54
-00:03:46,935 --> 00:03:50,855
-Mais sache
-que je ne garde aucune rancune.
+00:03:35,506 --> 00:03:38,426
+De toute façon, moi je t'ai déjà tout pardonné.
 
 55
-00:03:52,523 --> 00:03:53,524
-D’accord ?
+00:03:40,136 --> 00:03:42,430
+Par contre, moi je ne te pardonnerai jamais
 
 56
-00:03:55,193 --> 00:03:57,737
-Je garde toujours de bons souvenirs
+00:03:43,556 --> 00:03:44,974
+de m'avoir abandonné.
 
 57
-00:03:58,821 --> 00:04:00,949
-du temps qu’on a passé ensemble.
+00:03:46,935 --> 00:03:50,855
+Mais ce qui est très important,
+c'est que tu saches que je ne t'en veux pas.
 
 58
-00:04:01,532 --> 00:04:02,575
+00:03:52,523 --> 00:03:53,608
 Ah oui ?
 
 59
-00:04:04,702 --> 00:04:06,079
-Pourquoi ? Toi, non ?
+00:03:55,193 --> 00:03:57,528
+Parce que j'ai toujours de jolis souvenirs
 
 60
-00:04:07,372 --> 00:04:09,624
-Ben, c’était ce que c’était.
+00:03:58,821 --> 00:04:00,698
+des moments qu'on a vécus ensemble.
 
 61
-00:04:10,708 --> 00:04:12,835
-Il y a une raison
-si ça n’a pas duré, Eliseo.
+00:04:01,282 --> 00:04:02,533
+Ah oui ? Tiens donc.
 
 62
-00:04:13,670 --> 00:04:15,588
-Ça n’a pas duré parce que tu es partie.
+00:04:04,702 --> 00:04:06,329
+"Ah oui, tiens donc", pourquoi ?
+Toi, non ?
 
 63
-00:04:16,130 --> 00:04:17,674
-On formait un super couple.
+00:04:07,372 --> 00:04:08,623
+Eh bien,
 
 64
-00:04:18,758 --> 00:04:19,759
-Ouais...
+00:04:08,706 --> 00:04:09,874
+c'était ce que c'était.
 
 65
-00:04:20,260 --> 00:04:22,011
-Aussi bien que possible, oui.
+00:04:10,708 --> 00:04:12,502
+Si ça n'a pas duré plus, Eliseo,
+c'est bien pour quelque chose.
 
 66
-00:04:23,680 --> 00:04:27,767
-Non, pas “aussi bien que possible”.
-Juste bien. Très bien.
+00:04:13,670 --> 00:04:15,630
+Oui, ça n'a pas duré plus
+parce que c'est toi qui es partie.
 
 67
-00:04:28,309 --> 00:04:30,144
-On aurait pu durer toute la vie.
+00:04:16,130 --> 00:04:17,757
+Parce qu'on faisait un très bon couple.
 
 68
-00:04:30,228 --> 00:04:31,980
-Non, j’en doute.
+00:04:18,424 --> 00:04:19,634
+Euh, oui.
 
 69
-00:04:32,063 --> 00:04:36,317
-Au mieux, on aurait tenu un an,
-ou deux de plus.
+00:04:20,260 --> 00:04:22,095
+Aussi bon que ça pouvait l'être, oui.
 
 70
-00:04:37,235 --> 00:04:39,112
-Pas beaucoup plus que ça.
+00:04:23,554 --> 00:04:25,723
+Non, pas "aussi bon que ça pouvait l'être".
 
 71
-00:04:40,238 --> 00:04:42,824
-Pourquoi pas ? On s’entendait super.
-Qu’est-ce que tu veux dire ?
+00:04:25,890 --> 00:04:27,725
+Juste bon. Très bon.
 
 72
-00:04:44,701 --> 00:04:45,743
-C’est du passé.
+00:04:28,309 --> 00:04:30,103
+On aurait pu durer toute une vie.
 
 73
-00:04:46,744 --> 00:04:48,579
-Non, quoi “c’est du passé” ? Quoi ?
+00:04:30,228 --> 00:04:31,980
+Non, j'en doute.
 
 74
-00:04:49,205 --> 00:04:51,332
-Il y avait un problème ? Quoi ? Je...
+00:04:32,105 --> 00:04:36,484
+Au mieux, on aurait pu durer
+un ou deux ans de plus.
 
 75
-00:04:52,542 --> 00:04:54,127
-J’ai l’impression que...
+00:04:37,318 --> 00:04:39,112
+Mais pas beaucoup plus, non.
 
 76
-00:04:55,628 --> 00:04:58,214
-qu’on n’a jamais vraiment réussi à se relier.
+00:04:40,029 --> 00:04:42,740
+Pourquoi pas ?
+On s'entendait super bien. Comment ça, non ?
 
 77
-00:04:59,382 --> 00:05:00,800
-Sexuellement, je veux dire.
+00:04:44,701 --> 00:04:46,119
+De toute façon, c'est du passé.
 
 78
-00:05:02,510 --> 00:05:04,804
-On n’en a jamais parlé.
-Qu’est-ce qui n’allait pas ?
+00:04:46,244 --> 00:04:48,997
+Non, "c'est du passé", ça veut dire quoi ?
 
 79
-00:05:05,471 --> 00:05:08,558
-À l’époque, on parlait pas de ces choses-là.
-Je sais pas.
+00:04:49,080 --> 00:04:51,207
+Il y avait un problème ? Quoi ? Moi, je...
 
 80
-00:05:10,393 --> 00:05:12,103
-Avec toi, je n’ai pas pu...
+00:04:52,542 --> 00:04:54,294
+Moi, je sens que...
 
 81
-00:05:13,438 --> 00:05:15,106
-Enfin, je n’ai jamais réussi à...
+00:04:55,628 --> 00:04:58,381
+comme si on n'avait jamais réussi à se connecter.
 
 82
-00:05:15,189 --> 00:05:17,150
-Je sais pas comment le dire.
+00:04:59,382 --> 00:05:00,800
+Je parle sexuellement.
 
 83
-00:05:18,860 --> 00:05:21,446
-Je n’ai jamais réussi à en profiter pleinement.
+00:05:02,510 --> 00:05:04,804
+On n'en avait jamais parlé.
+C'était quoi, le problème ?
 
 84
-00:05:24,157 --> 00:05:26,659
-C’était toujours nul, rapide...
+00:05:05,471 --> 00:05:08,308
+On ne parlait pas de ces choses-là
+à cette époque, je sais pas.
 
 85
-00:05:28,411 --> 00:05:30,121
-C’était de ma faute ou de la tienne ?
+00:05:10,351 --> 00:05:12,061
+Mais moi, avec toi, je...
 
 86
-00:05:30,204 --> 00:05:31,539
-Laisse tomber. Ça va, Eliseo.
+00:05:13,438 --> 00:05:15,106
+Comme si je n'étais jamais arrivée à...
 
 87
-00:05:31,622 --> 00:05:33,916
-Non, ça va pas. C’était moi le problème ?
+00:05:15,189 --> 00:05:17,066
+Oh, je sais pas comment te le dire.
 
 88
-00:05:34,000 --> 00:05:39,172
-Disons que j’ai jamais eu de problème
-après, dans ce...
+00:05:18,860 --> 00:05:21,321
+Je n'ai jamais réussi
+à en profiter pleinement.
 
 89
-00:05:39,255 --> 00:05:40,506
-dans ce domaine-là.
+00:05:24,032 --> 00:05:26,326
+Ça a toujours été nul, trop rapide.
 
 90
-00:05:43,551 --> 00:05:44,594
-Ah.
+00:05:27,243 --> 00:05:30,079
+Ah, mais c'était un problème à moi
+ou à toi ?
 
 91
-00:05:53,478 --> 00:05:54,479
-Bon ben...
+00:05:30,204 --> 00:05:31,497
+C'est bon. C'est bon, Eliseo.
 
 92
+00:05:31,622 --> 00:05:33,916
+Non, pas "c'est bon".
+Mais c'était moi, le problème ?
+
+93
+00:05:34,000 --> 00:05:39,130
+Disons que je n'ai jamais eu
+de soucis après, dans ce...
+
+94
+00:05:39,255 --> 00:05:40,340
+dans ce domaine-là.
+
+95
+00:05:43,468 --> 00:05:44,510
+Oh.
+
+96
+00:05:52,894 --> 00:05:53,895
+Bah...
+
+97
 00:06:06,908 --> 00:06:07,909
 Eliseo.
 
-93
-00:06:09,202 --> 00:06:10,787
-- Nacho.
-- Comment ça va ?
-
-94
-00:06:10,870 --> 00:06:13,206
-- Salut. Encore une rupture ?
-- Non.
-
-95
-00:06:13,790 --> 00:06:15,625
-Maman part en Europe avec ses amies.
-
-96
-00:06:15,708 --> 00:06:18,086
-Je viens garder Salom, son nouveau chien.
-
-97
-00:06:21,923 --> 00:06:23,091
-- Ça va ?
-- Oui.
-
 98
-00:06:23,674 --> 00:06:24,675
-Tout va bien.
+00:06:09,202 --> 00:06:10,495
+
+- Nacho.
+- Ça va ?
 
 99
-00:06:25,385 --> 00:06:26,386
-Tu fais bizarre.
+00:06:10,578 --> 00:06:12,663
+Comment tu vas ?
+Ne me dis pas que tu t'es encore séparé.
 
 100
-00:06:27,136 --> 00:06:29,931
-Non, pas du tout. Tout va bien.
+00:06:12,747 --> 00:06:13,748
+Non.
 
 101
-00:06:31,557 --> 00:06:33,518
-T’as pas l’air bien. Y a un truc qui va pas.
+00:06:13,831 --> 00:06:15,625
+Maman part en voyage
+avec ses copines en Europe.
 
 102
-00:06:33,601 --> 00:06:37,313
-- Pas du tout. Je t’aide avec ça.
-- Non, ça va. Je peux le faire.
+00:06:15,708 --> 00:06:18,086
+Je suis venu garder quelques jours Salom,
+le nouveau petit chien.
 
 103
-00:06:37,814 --> 00:06:38,815
-D’accord.
+00:06:21,923 --> 00:06:23,091
+
+- Et toi, tout va bien ?
+- Oui.
 
 104
-00:06:38,898 --> 00:06:40,441
-- À plus.
-- À plus tard, Nacho.
+00:06:23,174 --> 00:06:24,550
+Tout roule.
 
 105
-00:06:41,025 --> 00:06:42,026
-Salut.
+00:06:25,385 --> 00:06:26,386
+Je te trouve bizarre.
 
 106
-00:06:54,414 --> 00:06:57,458
-Regarde-moi ces connards.
+00:06:27,136 --> 00:06:29,972
+Non, pas du tout. Non, non, tout va bien.
 
 107
-00:06:58,376 --> 00:07:00,962
-Ils sont sûrement en train de comploter contre moi.
+00:06:31,557 --> 00:06:33,476
+C'est toi que je vois pas bien.
+Il t'arrive un truc.
 
 108
-00:07:01,045 --> 00:07:03,339
-Oui. Ils sont comme toi.
+00:06:33,601 --> 00:06:37,647
+
+- Mais pas du tout ! Non, non. Je t'aide, allez.
+- Non, non, ça va. Je peux tout seul.
 
 109
-00:07:03,423 --> 00:07:05,341
-Vous rivalisez pour voir qui est le pire.
+00:06:37,772 --> 00:06:38,773
+
+- Hein ?
+- Bon.
 
 110
-00:07:05,425 --> 00:07:07,218
-S’il te plaît, me compare pas à eux.
+00:06:38,898 --> 00:06:40,942
+
+- On se voit ?
+- À plus, Nacho. D'accord.
 
 111
-00:07:07,802 --> 00:07:11,556
-Ces hyènes immondes
-ne me ressemblent même pas un peu.
+00:06:41,025 --> 00:06:42,235
+Ciao, ciao, ciao.
 
 112
-00:07:11,639 --> 00:07:16,144
-Regarde-moi l’aubergine
-que Froilán a coincée entre les jambes.
+00:06:54,414 --> 00:06:57,375
+Regarde-moi ces merdes mal chiées.
 
 113
-00:07:16,227 --> 00:07:17,937
-Ça, c’est ce que j’appelle un homme.
+00:06:58,376 --> 00:07:00,920
+Ils sont sûrement en train
+de comploter quelque chose contre moi.
 
 114
-00:07:18,020 --> 00:07:20,565
-Arrête, femme. T’es vulgaire.
+00:07:01,045 --> 00:07:03,214
+Et ils sont comme toi.
 
 115
-00:07:26,070 --> 00:07:28,197
-Vous allez tomber, bande de salauds.
+00:07:03,631 --> 00:07:05,299
+Tous plus fils de pute
+les uns que les autres.
 
 116
-00:07:29,574 --> 00:07:31,033
-Vous allez tomber.
+00:07:05,383 --> 00:07:07,218
+Me compare pas, s'il te plaît.
 
 117
+00:07:07,802 --> 00:07:11,597
+Ces hyènes immondes
+ne me ressemblent même pas de loin.
+
+118
+00:07:11,681 --> 00:07:16,144
+Regarde le rouleau de viande
+que Froilán a entre les pattes.
+
+119
+00:07:16,269 --> 00:07:17,895
+Ça, c'est un vrai mâle.
+
+120
+00:07:18,020 --> 00:07:20,606
+Arrête, ma femme. Grossière.
+
+121
+00:07:26,070 --> 00:07:28,197
+Ils vont tomber, ces fils de pute.
+
+122
+00:07:29,574 --> 00:07:31,033
+Ils vont tomber.
+
+123
 00:07:37,623 --> 00:07:38,624
+
 - Salut.
 - Eliseo.
 
-118
-00:07:38,708 --> 00:07:40,209
-- Ça va, Nachito ?
-- Ça va ?
-
-119
-00:07:40,293 --> 00:07:43,713
-Bien. Et toi ? T’es installé ?
-T’as besoin de quelque chose ? Je t’aide ?
-
-120
-00:07:43,796 --> 00:07:46,507
-Non, tout est parfait.
-Merci de demander.
-
-121
-00:07:46,591 --> 00:07:49,677
-En parlant de demander.
-J’ai une question. Tu peux peut-être m’aider.
-
-122
-00:07:50,261 --> 00:07:51,262
-T’as une minute ?
-
-123
-00:07:51,345 --> 00:07:55,057
-Oui, j’allais sortir Salom.
-Tu viens avec moi ?
-
 124
-00:07:55,141 --> 00:07:57,018
-Oui, bien sûr.
+00:07:38,749 --> 00:07:40,168
+
+- Ça va, mon petit Nacho ?
+- Comment tu vas ?
 
 125
-00:07:57,101 --> 00:07:58,436
-Allons-y.
+00:07:40,334 --> 00:07:43,671
+Bien. Et toi ? Tu t'es bien installé ?
+Tu as besoin de quelque chose, un coup de main ?
 
 126
-00:08:00,938 --> 00:08:02,064
-Je dois le fatiguer.
+00:07:43,796 --> 00:07:46,424
+Non, tout est parfait, tout roule.
+Merci de demander.
 
 127
-00:08:03,274 --> 00:08:07,153
-Le véto a dit qu’il est anxieux,
-c’est pour ça qu’il dort pas.
+00:07:46,591 --> 00:07:50,094
+En parlant de demander, j'ai un doute.
+Peut-être que tu peux m'éclairer.
 
 128
-00:08:07,236 --> 00:08:11,866
-Donc le soir je le fais courir, tu vois ?
-Ça l’épuise.
+00:07:50,219 --> 00:07:51,220
+Tu as une minute ?
 
 129
-00:08:11,949 --> 00:08:14,202
-Et ensuite je lui donne
-trois gouttes de clonazépam
+00:07:51,345 --> 00:07:55,016
+Oui, j'allais sortir Salom.
+Tu veux m'accompagner ?
 
 130
-00:08:14,952 --> 00:08:16,162
-et il dort comme un bébé.
+00:07:55,224 --> 00:07:56,976
+Oui, allez, bien sûr.
 
 131
-00:08:16,996 --> 00:08:21,042
-Sinon, il passe en mode loup
-et il se met à hurler.
+00:07:57,101 --> 00:07:58,102
+On y va.
 
 132
-00:08:21,125 --> 00:08:23,044
-- Sérieux ?
-- Oui. Toute la nuit.
+00:08:00,813 --> 00:08:02,064
+Faut que je l'épuise, celui-là.
 
 133
-00:08:24,253 --> 00:08:25,671
-- Le voilà.
-- Oui.
+00:08:03,316 --> 00:08:06,235
+Le vétérinaire m'a dit qu'il est anxieux
+et que c'est pour ça qu'il ne ferme pas l'œil.
 
 134
-00:08:26,547 --> 00:08:28,341
-- Aïe, aïe, aïe.
-- C’est ouf.
+00:08:06,360 --> 00:08:08,613
+
+- Ah.
+- Alors je le fais courir, tu vois ?
 
 135
-00:08:28,424 --> 00:08:30,927
-Ah, je voulais te demander un truc.
+00:08:08,696 --> 00:08:11,866
+Le soir, pour qu'il se dépense physiquement.
 
 136
-00:08:31,010 --> 00:08:32,011
-Oui.
+00:08:11,949 --> 00:08:14,118
+Et après je lui donne
+trois petites gouttes de clonazépam,
 
 137
-00:08:33,012 --> 00:08:35,640
-Je me souviens que tu m’avais parlé un jour
+00:08:14,952 --> 00:08:15,995
+et il tombe raide.
 
 138
-00:08:36,682 --> 00:08:39,685
-des bienfaits du sexe tantrique.
+00:08:17,038 --> 00:08:19,290
+Parce que sinon, il passe en mode petit loup.
 
 139
-00:08:39,769 --> 00:08:41,395
-- Tu te souviens ?
-- Oh oui.
+00:08:19,373 --> 00:08:21,042
+Il se met à hurler. Aouh !
 
 140
-00:08:41,479 --> 00:08:42,980
-- On en avait parlé.
-- Je me souviens.
+00:08:21,125 --> 00:08:22,919
+
+- Ah oui ?
+- Oui, toute la nuit.
 
 141
-00:08:43,064 --> 00:08:44,065
-Toi aussi tu te souviens.
+00:08:24,253 --> 00:08:25,671
+
+- Et ça y va, et ça y va.
+- Oui.
 
 142
-00:08:44,148 --> 00:08:47,652
-Et je me disais...
-Tu le pratiques toujours ?
+00:08:26,464 --> 00:08:28,341
+
+- Aïe, aïe, aïe.
+- Un truc de dingue.
 
 143
-00:08:47,735 --> 00:08:50,780
-Ce n’est pas une mode. Le tantra, c’est un mode de vie.
+00:08:28,424 --> 00:08:30,801
+Ah, tu sais, je voulais te demander.
 
 144
+00:08:31,010 --> 00:08:32,887
+
+- Oui.
+- Euh...
+
+145
+00:08:33,012 --> 00:08:35,890
+Non, un jour tu m'avais raconté,
+
+146
+00:08:36,682 --> 00:08:39,644
+tu m'avais parlé
+des bienfaits du sexe tantrique.
+
+147
+00:08:39,727 --> 00:08:41,395
+
+- Tu te souviens ?
+- Ah oui. Oui, oui, oui.
+
+148
+00:08:41,479 --> 00:08:42,879
+
+- On en a parlé une fois.
+- Je me souviens.
+
+149
+00:08:43,022 --> 00:08:44,023
+Oui, bien sûr que je m'en souviens.
+
+150
+00:08:44,148 --> 00:08:45,608
+Et je suis resté à y penser.
+
+151
+00:08:45,691 --> 00:08:47,652
+Tu continues à pratiquer ça ou pas ?
+
+152
+00:08:47,735 --> 00:08:50,738
+Le tantra, c'est pas une mode.
+C'est une philosophie de vie.
+
+153
 00:08:50,863 --> 00:08:51,989
+
 - Bien sûr.
 - Oui.
 
-145
-00:08:52,073 --> 00:08:53,241
-Oui, oui, oui.
-
-146
-00:08:54,200 --> 00:08:56,244
-Dis-moi, ça t’est déjà arrivé que,
-
-147
-00:08:56,327 --> 00:09:00,665
-en plein acte,
-la femme ne prenne pas vraiment de plaisir ?
-
-148
-00:09:00,748 --> 00:09:02,250
-- Non.
-- Non.
-
-149
-00:09:02,333 --> 00:09:04,335
-Les séances durent quatre, cinq heures.
-
-150
-00:09:05,086 --> 00:09:06,796
-Tu tiens pas s’il n’y a pas de plaisir.
-
-151
-00:09:06,879 --> 00:09:08,005
-- Bien sûr.
-- Non.
-
-152
-00:09:11,676 --> 00:09:12,677
-Pourquoi tu demandes ?
-
-153
-00:09:13,302 --> 00:09:16,973
-- Tu penses t’y mettre ?
-- Non.
-
 154
-00:09:17,056 --> 00:09:18,558
-- Pas du tout.
-- Pourquoi pas ?
+00:08:52,073 --> 00:08:53,241
+Oui, oui, bien sûr.
 
 155
-00:09:19,141 --> 00:09:22,520
-Même si je voulais,
-je n’ai plus ton âge.
+00:08:53,866 --> 00:08:56,244
+Et dis-moi, il t'est déjà arrivé
 
 156
-00:09:23,104 --> 00:09:25,356
-L’âge n’a rien à voir là-dedans.
+00:08:56,327 --> 00:09:00,623
+qu'en plein acte,
+une femme ne prenne pas pleinement son pied ?
 
 157
-00:09:25,439 --> 00:09:28,067
-Il y a des gens qui le pratiquent
-à 80, 90 ans.
+00:09:00,748 --> 00:09:02,166
+
+- Non.
+- Non.
 
 158
-00:09:28,651 --> 00:09:32,113
-En fait, plus tu es mûr,
-mieux tu te connais,
+00:09:02,333 --> 00:09:04,335
+Ce sont des séances de quatre, cinq heures.
 
 159
-00:09:32,738 --> 00:09:33,864
-et mieux tu fonctionnes.
+00:09:05,211 --> 00:09:06,796
+S'il n'y a pas de plaisir, ça tient pas.
 
 160
-00:09:34,782 --> 00:09:37,201
-Ah. Ah. D’accord.
+00:09:06,879 --> 00:09:08,005
+
+- Bien sûr.
+- Non.
 
 161
-00:09:40,413 --> 00:09:47,253
-Donc disons, par exemple,
-que je veux essayer. Je commence où ?
+00:09:11,676 --> 00:09:13,219
+
+- Pourquoi ?
+- Mmm ?
 
 162
-00:09:47,336 --> 00:09:49,463
-Un des piliers principaux du tantra,
+00:09:13,302 --> 00:09:15,680
+Tu penses t'y mettre ?
 
 163
-00:09:49,547 --> 00:09:52,925
-c’est l’exploration détaillée et consciente
-de ton propre corps.
+00:09:15,805 --> 00:09:16,973
+Non.
 
 164
-00:09:53,009 --> 00:09:54,010
-Ah...
+00:09:17,056 --> 00:09:18,576
+
+- Pourquoi ?
+- Rien à voir. Non, non, non.
 
 165
-00:09:54,093 --> 00:09:56,637
-Donc tu dois vérifier
-la machine régulièrement.
+00:09:19,058 --> 00:09:20,226
+Et si je voulais,
 
 166
-00:09:56,721 --> 00:09:58,973
-- Tu peux même pas commencer sans ça.
-- Bien sûr.
+00:09:20,768 --> 00:09:22,520
+je sais pas, j'ai pas ton âge. C'est...
 
 167
-00:10:00,433 --> 00:10:02,977
-Tu as fait un check-up récemment ?
+00:09:22,603 --> 00:09:25,356
+Non, mais l'âge n'a rien à voir.
 
 168
-00:10:06,105 --> 00:10:07,189
-La dernière fois que j’en ai eu un
+00:09:25,439 --> 00:09:27,942
+Il y a des tantristes de 80, 90 ans.
 
 169
-00:10:07,815 --> 00:10:13,070
-c’était la visite médicale d’embauche
-en février 1991, pour mon boulot actuel.
+00:09:28,568 --> 00:09:32,113
+Même, plus on est mûr,
+mieux on se connaît soi-même...
 
 170
-00:10:14,322 --> 00:10:17,700
-Et pourquoi t’es pas allé chez le médecin
-pendant plus de 30 ans, Eliseo ?
+00:09:32,196 --> 00:09:34,407
+
+- Ah.
+- ...et meilleures sont les performances.
 
 171
-00:10:17,783 --> 00:10:21,621
-Je n’en ai pas vu la nécessité.
-Je contrôle parfaitement mon corps.
+00:09:34,740 --> 00:09:37,118
+Ah, ah. D'accord.
 
 172
-00:10:22,371 --> 00:10:24,248
-Je suis désolé de demander, mais...
+00:09:40,413 --> 00:09:44,667
+Et si, par exemple, on se dit :
+"Bon, je teste",
 
 173
-00:10:24,832 --> 00:10:27,293
-tu devrais pas voir un médecin
-qui est dans ta mutuelle ?
+00:09:44,750 --> 00:09:47,253
+et qu'on veut essayer,
+on commence par où ?
 
 174
-00:10:28,127 --> 00:10:29,545
-Oui, probablement,
+00:09:47,336 --> 00:09:49,422
+Un des piliers
+fondamentaux du tantra,
 
 175
-00:10:29,629 --> 00:10:32,548
-mais comme je te connais,
-et que je sais que tu es bon...
+00:09:49,547 --> 00:09:52,883
+c'est l'exploration consciente
+et détaillée de ton propre corps.
 
 176
-00:10:32,632 --> 00:10:37,219
-Je déteste raconter ma vie intime
-et mes dossiers médicaux à des inconnus.
+00:09:52,967 --> 00:09:53,968
+
+- Ah.
+- Hein ?
 
 177
-00:10:39,388 --> 00:10:42,892
-- Merci pour le plateau de charcuterie.
-- Avec plaisir. C’est du haut de gamme.
+00:09:54,093 --> 00:09:56,596
+C'est pour ça qu'il faut faire réviser
+la machine régulièrement.
 
 178
-00:10:42,975 --> 00:10:46,312
-Ça vient de Migliora Deli, de Quilmes.
-C’est très bon.
+00:09:56,721 --> 00:09:58,973
+
+- Sans ça, tu peux même pas commencer.
+- Bien sûr.
 
 179
-00:10:47,063 --> 00:10:48,230
-Bien, on continue.
+00:10:00,433 --> 00:10:02,977
+Ça fait longtemps
+que tu n'as pas fait un bilan médical ?
 
 180
-00:10:48,314 --> 00:10:49,982
-Tu prends des médicaments ?
+00:10:06,105 --> 00:10:07,356
+La dernière fois,
 
 181
+00:10:07,857 --> 00:10:11,152
+c'était pour la visite médicale d'embauche
+en février 1991,
+
+182
+00:10:11,444 --> 00:10:13,070
+pour entrer à mon travail actuel.
+
+183
+00:10:14,322 --> 00:10:17,617
+Et pendant plus de trente ans
+tu n'as pas voulu voir un médecin, Eliseo ?
+
+184
+00:10:17,783 --> 00:10:19,577
+Je n'ai pas jugé ça nécessaire.
+
+185
+00:10:19,702 --> 00:10:21,662
+J'ai un contrôle parfait sur mon organisme.
+
+186
+00:10:22,288 --> 00:10:24,165
+Excuse-moi de te demander, mais...
+
+187
+00:10:24,957 --> 00:10:27,209
+c'était pas mieux d'en voir un
+de ta mutuelle ?
+
+188
+00:10:28,127 --> 00:10:29,462
+Si, possiblement oui,
+
+189
+00:10:29,545 --> 00:10:32,465
+mais comme je vous connais
+et que je sais que vous êtes quelqu'un de bien,
+
+190
+00:10:32,590 --> 00:10:37,386
+je n'aime pas exposer mes intimité
+et mon dossier médical à un inconnu.
+
+191
+00:10:39,430 --> 00:10:41,599
+
+- Merci pour le petit plateau. Il ne fallait pas.
+- Je t'en prie.
+
+192
+00:10:41,682 --> 00:10:42,892
+C'est du prémium, hein ?
+
+193
+00:10:42,975 --> 00:10:46,479
+Ça vient de la charcuterie Migliora, à Quilmes.
+Elle est très bonne.
+
+194
+00:10:47,188 --> 00:10:48,230
+Bon, je continue.
+
+195
+00:10:48,397 --> 00:10:49,899
+Tu prends des médicaments ?
+
+196
 00:10:50,066 --> 00:10:51,150
+
 - Non.
 - Non.
 
-182
+197
 00:10:51,859 --> 00:10:54,195
 Tu as des antécédents
 de maladies héréditaires ?
 
-183
+198
 00:10:54,278 --> 00:10:56,989
-Je sais pas.
-J’ai coupé tout lien familial il y a longtemps.
+J'en sais rien. J'ai coupé les liens familiaux
+il y a bien longtemps déjà.
 
-184
+199
 00:10:57,073 --> 00:10:58,074
-D’accord.
+O.K.
 
-185
-00:10:58,157 --> 00:11:01,035
-Bon,
-je vais te prescrire plusieurs examens, d’accord ?
+200
+00:10:58,157 --> 00:11:00,951
+Bon, je vais te prescrire
+toute une batterie d'examens, d'accord ?
 
-186
-00:11:01,118 --> 00:11:03,829
-Bilan sanguin complet, radio du thorax,
+201
+00:11:01,035 --> 00:11:03,329
+Bilan sanguin complet,
+radiographie du thorax,
 
-187
-00:11:03,913 --> 00:11:07,291
-ECG, écho abdominale,
-rénale et thyroïdienne,
+202
+00:11:03,412 --> 00:11:07,291
+électrocardiogramme,
+échographie abdominale, rénale et thyroïdienne,
 
-188
-00:11:07,375 --> 00:11:10,002
-un examen de la prostate et, surtout,
+203
+00:11:07,375 --> 00:11:08,542
+un examen de la prostate
 
-189
+204
+00:11:08,626 --> 00:11:10,002
+et, le plus important de tout,
+
+205
 00:11:10,086 --> 00:11:13,047
 un contrôle colorectal complet
-avec coloscopie.
+avec colonoscopie.
 
-190
-00:11:13,130 --> 00:11:14,256
-Oh.
+206
+00:11:15,216 --> 00:11:18,177
+Bon, je te laisse ici les consignes
 
-191
-00:11:15,216 --> 00:11:18,219
-D’accord, voilà les consignes
+207
+00:11:18,302 --> 00:11:21,597
+et le consentement que tu dois signer,
+parce que c'est sous anesthésie générale.
 
-192
-00:11:18,302 --> 00:11:21,681
-et le consentement que tu dois signer
-pour l’anesthésie générale.
-
-193
+208
 00:11:21,764 --> 00:11:23,015
 Anesthésie générale ?
 
-194
-00:11:25,101 --> 00:11:27,645
-- Salut.
-- Ça va, Eliseo ? Tu es allé au contrôle ?
-
-195
-00:11:27,728 --> 00:11:31,982
-Oui. Ils m’ont recommandé des examens.
-J’ai pris les rendez-vous, on verra.
-
-196
-00:11:32,066 --> 00:11:33,818
-- Mais c’est pas pour ça que je viens.
-- Oui.
-
-197
-00:11:34,402 --> 00:11:36,612
-- Tu connais les Galurdián du 7B ?
-- Oui.
-
-198
-00:11:36,696 --> 00:11:41,033
-Ils ont un chaton balinais
-qui vient de se faire opérer de la hanche, la pauvre.
-
-199
-00:11:41,117 --> 00:11:42,952
-Elle a mal et elle ne dort pas.
-
-200
-00:11:43,577 --> 00:11:48,874
-Je peux te prendre un peu de ce clonazépam
-dont tu m’as parlé pour qu’ils essaient sur elle ?
-
-201
-00:11:48,958 --> 00:11:50,751
-Oui, bien sûr. Mais fais gaffe au dosage.
-
-202
-00:11:50,835 --> 00:11:53,921
-Si c’est un petit chaton, une goutte suffit.
-
-203
-00:11:54,004 --> 00:11:56,006
-Moi je donne trois gouttes à Salom
-et il est KO.
-
-204
-00:11:56,090 --> 00:11:57,425
-Parfait, juste une.
-
-205
-00:11:57,508 --> 00:11:58,676
-- Je vais la chercher.
-- Merci.
-
-206
-00:12:00,010 --> 00:12:04,056
-Salut, toi !
-Qu’est-ce qu’il y a ? Tu n’arrives pas à dormir ?
-
-207
-00:12:17,278 --> 00:12:18,446
-Qu’est-ce que tu fais ici ?
-
-208
-00:12:18,529 --> 00:12:21,615
-Je viens enterrer la hache de guerre, mon ami.
-
 209
-00:12:22,700 --> 00:12:24,368
-Je dépose les armes.
+00:11:25,101 --> 00:11:27,478
+
+- Salut.
+- Alors, Eliseo ? Tu es allé chez le docteur ?
 
 210
-00:12:24,452 --> 00:12:25,536
-Je sais que j’ai eu tort.
+00:11:27,728 --> 00:11:30,231
+Oui. On m'a envoyé faire des examens.
 
 211
-00:12:26,036 --> 00:12:32,501
-Je peux pas imposer les services de ma société
-et m’attendre à ce que vous acceptiez.
+00:11:30,314 --> 00:11:31,982
+
+- J'ai les rendez-vous. On verra bien.
+- D'accord.
 
 212
-00:12:33,210 --> 00:12:35,629
-Donc je m’excuse auprès de vous tous, un par un.
+00:11:32,191 --> 00:11:34,318
 
-213
-00:12:36,213 --> 00:12:39,216
-Et je vous ai apporté ce petit cadeau,
-que je sais que vous adorez.
-
-214
-00:12:39,300 --> 00:12:40,301
-Des cubanitos.
-
-215
-00:12:40,384 --> 00:12:41,927
-Regardez d’où je les ai pris.
-
-216
-00:12:43,304 --> 00:12:46,682
-- De Nuevo Escudo !
+- Mais je viens pour autre chose.
 - Oui.
 
+213
+00:11:34,402 --> 00:11:36,696
+
+- Tu connais les Galurdián du 7B, non ?
+- Oui.
+
+214
+00:11:37,113 --> 00:11:39,031
+Bon, ils ont une petite chatte balinaise
+
+215
+00:11:39,115 --> 00:11:40,991
+qu'on vient d'opérer
+de la hanche, mon amour.
+
+216
+00:11:41,117 --> 00:11:43,494
+Elle a très mal et elle n'arrive pas à dormir.
+
 217
-00:12:46,766 --> 00:12:49,602
-Ce sont les meilleurs !
+00:11:43,619 --> 00:11:47,415
+Tu pourrais pas me prêter quelques gouttes
+de ce clonazépam dont tu m'as parlé
 
 218
-00:12:50,728 --> 00:12:51,771
-Très bien.
+00:11:47,540 --> 00:11:48,833
+pour qu'ils essayent ?
 
 219
-00:12:52,521 --> 00:12:55,608
-Merci pour le cadeau
+00:11:48,958 --> 00:11:50,751
+Oui, bien sûr. Attention à la dose, hein.
 
 220
-00:12:57,026 --> 00:12:58,652
-et pour les excuses.
+00:11:50,876 --> 00:11:53,879
+Si c'est une petite chatte,
+c'est une seule goutte.
 
 221
-00:12:58,736 --> 00:12:59,779
-D’accord.
+00:11:54,004 --> 00:11:56,006
+Moi, à Salom,
+je lui donne trois gouttes et il est K.-O.
 
 222
-00:13:08,204 --> 00:13:09,789
-Tu veux des <i>matés</i> ?
+00:11:56,090 --> 00:11:57,341
+Parfait. Une seule. Parfait.
 
 223
-00:13:11,040 --> 00:13:13,375
-- Avec plaisir.
-- Entre.
+00:11:57,508 --> 00:11:58,748
+
+- Je te l'apporte.
+- Merci, hein ?
 
 224
-00:13:17,755 --> 00:13:19,131
-Je pense que
+00:11:59,927 --> 00:12:01,971
+Bonjour, mon amour de ma vie !
 
 225
-00:13:20,132 --> 00:13:22,802
-on doit être soudés,
-plus que jamais.
+00:12:02,054 --> 00:12:04,557
+Qu'est-ce qui vous arrive ?
+Vous n'arrivez pas à faire dodo ?
 
 226
-00:13:22,885 --> 00:13:25,638
-On se bat pour notre propre survie.
+00:12:17,278 --> 00:12:18,404
+Qu'est-ce que tu fais ici ?
 
 227
-00:13:25,721 --> 00:13:27,765
-Oui, je suis totalement d’accord.
+00:12:18,529 --> 00:12:22,074
+Je viens briser ma lance
+devant vous, camarade.
 
 228
-00:13:30,643 --> 00:13:33,938
-- J’ai fini. Ils sont délicieux.
-- Quoi ? Tu n’en prends pas un autre ?
+00:12:22,199 --> 00:12:23,951
+Déposer les armes.
 
 229
-00:13:36,440 --> 00:13:40,861
-J’ai mangé du porc et des patates à midi.
+00:12:24,452 --> 00:12:25,953
+Je sais que je me suis mal comporté.
 
 230
-00:13:41,737 --> 00:13:44,031
-J’ai un petit mal de bide.
+00:12:26,036 --> 00:12:30,750
+Je peux pas débarquer
+et vouloir imposer mon entreprise du jour au lendemain
 
 231
-00:13:45,241 --> 00:13:47,451
-Je les garde pour demain.
+00:12:30,875 --> 00:12:32,460
+et prétendre que vous l'acceptiez.
 
 232
-00:13:47,535 --> 00:13:50,371
-Non, sois pas ingrat.
+00:12:33,210 --> 00:12:35,629
+Alors je viens présenter
+mes excuses un par un.
 
 233
-00:13:50,454 --> 00:13:53,582
-Je les ai apportés avec les meilleures intentions.
-Ne m’insulte pas.
+00:12:35,713 --> 00:12:39,216
+Et je t'ai apporté ce petit quelque chose
+dont je sais que c'est ta perdition,
 
 234
-00:13:53,666 --> 00:13:57,002
-Mange-en un de plus. Ils sont légers. Allez !
+00:12:39,300 --> 00:12:40,301
+des cubanitos.
 
 235
-00:13:59,547 --> 00:14:00,965
-- Un de plus.
-- Un de plus, vas-y.
+00:12:40,426 --> 00:12:41,927
+Regarde d'où ils viennent.
 
 236
-00:14:03,717 --> 00:14:07,513
-- Dulce de leche.
-- Mon Dieu, c’est mon péché mignon.
+00:12:43,304 --> 00:12:46,682
+
+- Du Nuevo Escudo !
+- Oui.
 
 237
-00:14:08,681 --> 00:14:09,890
-Mmm.
+00:12:46,766 --> 00:12:49,602
+Oh, ceux-là, ce sont les meilleurs !
 
 238
-00:14:11,141 --> 00:14:13,394
-Ils ont un petit goût bizarre.
+00:12:50,728 --> 00:12:52,438
+Bon.
 
 239
-00:14:13,477 --> 00:14:15,604
-J’arrive pas bien à savoir quoi.
+00:12:52,521 --> 00:12:55,816
+Merci pour l'attention
 
 240
-00:14:15,688 --> 00:14:18,107
-Continue à manger, tu vas voir.
+00:12:57,026 --> 00:12:58,611
+et pour les excuses.
 
 241
-00:14:21,068 --> 00:14:22,361
-Mmm.
+00:12:58,736 --> 00:12:59,779
+C'est très bien.
 
 242
-00:14:25,114 --> 00:14:26,282
-Tu manges pas ?
+00:13:08,204 --> 00:13:09,789
+Tu veux prendre quelques matés ?
 
 243
-00:14:27,116 --> 00:14:30,369
-Je jeûne parce que j’ai
-des examens médicaux demain.
+00:13:11,040 --> 00:13:13,375
+
+- Rien ne me ferait plus plaisir.
+- Entre.
 
 244
-00:14:30,452 --> 00:14:32,788
-Mais je les ai achetés pour toi,
-donc toi tu manges.
+00:13:17,755 --> 00:13:19,131
+Je pense que nous,
 
 245
-00:14:42,464 --> 00:14:44,091
-On en était où ?
+00:13:20,132 --> 00:13:22,802
+on doit être plus unis que jamais.
 
 246
-00:14:48,053 --> 00:14:49,179
-Ah !
+00:13:22,885 --> 00:13:25,554
+On est en guerre
+pour notre survie.
 
 247
-00:14:50,097 --> 00:14:51,390
-On doit...
+00:13:25,721 --> 00:13:27,765
+Oui, je suis entièrement d'accord. Oui, oui.
 
 248
-00:14:52,182 --> 00:14:54,184
-être soudés, plus que jamais.
+00:13:30,643 --> 00:13:33,938
+
+- C'est bon, hein ? Délicieux.
+- Quoi ? Tu n'en manges plus ?
 
 249
-00:14:56,604 --> 00:14:59,440
-On peut pas être en train de se flinguer entre nous.
+00:13:36,440 --> 00:13:41,028
+Je me suis enfilé un porcelet
+avec des pommes noisette à midi.
 
 250
+00:13:41,737 --> 00:13:44,031
+J'ai l'estomac un peu barbouillé.
+
+251
+00:13:45,241 --> 00:13:47,409
+Pas maintenant. Je les garde pour demain.
+
+252
+00:13:47,576 --> 00:13:50,329
+Non, mais sois pas ingrat.
+
+253
+00:13:50,454 --> 00:13:53,541
+Je te les ai apportés
+avec tellement de bonne volonté,
+ne me les méprise pas.
+
+254
+00:13:53,666 --> 00:13:57,127
+Mange-en au moins un de plus,
+ils sont tout légers. Allez.
+
+255
+00:13:59,547 --> 00:14:00,965
+
+- Un de plus.
+- Un de plus. Allez, allez.
+
+256
+00:14:03,717 --> 00:14:07,513
+
+- Le dulce de leche...
+- Mon Dieu, c'est une vraie tentation.
+
+257
+00:14:11,141 --> 00:14:13,394
+Il a un petit goût bizarre
+
+258
+00:14:13,477 --> 00:14:15,604
+que je n'arrive pas à identifier.
+
+259
+00:14:15,688 --> 00:14:18,065
+Continue de manger. Tu vas voir.
+
+260
+00:14:25,072 --> 00:14:26,240
+Tu n'en manges pas, toi ?
+
+261
+00:14:27,116 --> 00:14:30,327
+Non. Je suis à jeun
+parce que demain je fais un examen.
+
+262
+00:14:30,452 --> 00:14:32,997
+Mais je te les ai apportés pour toi,
+alors mange-les, toi.
+
+263
+00:14:41,839 --> 00:14:44,341
+On parlait de quoi, déjà ?
+
+264
+00:14:48,053 --> 00:14:49,054
+Ah !
+
+265
+00:14:50,139 --> 00:14:52,057
+On doit être...
+
+266
+00:14:52,182 --> 00:14:54,018
+unis plus que jamais.
+
+267
+00:14:56,604 --> 00:14:59,440
+On peut pas être en train
+de se chier dessus entre nous.
+
+268
 00:15:03,903 --> 00:15:05,029
 Ça va ?
 
-251
+269
 00:15:05,905 --> 00:15:07,364
 Je suis un peu étourdi.
 
-252
+270
+00:15:11,869 --> 00:15:12,870
+Aïe.
+
+271
 00:15:45,819 --> 00:15:46,820
 Hé.
 
-253
-00:15:51,533 --> 00:15:54,578
-Ingrat de merde.
-
-254
-00:16:05,589 --> 00:16:06,840
-Connard.
-
-255
-00:17:08,736 --> 00:17:12,531 <i>Passagers du vol 1447 pour Buenos Aires,</i>
-
-256
-00:17:12,614 --> 00:17:14,992 <i>veuillez vous présenter en zone d’embarquement.</i>
-
-257
-00:17:42,519 --> 00:17:44,980
-DIEU
-PATRIE
-
-258
-00:17:49,068 --> 00:17:50,069
-Hé.
-
-259
-00:17:51,570 --> 00:17:52,571
-Hé.
-
-260
-00:17:53,530 --> 00:17:54,823
-Qu’est-ce qu’il s’est passé ?
-
-261
-00:17:54,907 --> 00:17:56,867
-T’as eu une forte douleur au foie.
-
-262
-00:17:56,950 --> 00:17:59,161
-Peut-être que le porc que t’as mangé
-n’était pas bien conservé
-
-263
-00:17:59,244 --> 00:18:00,621
-et t’as fait une intoxication.
-
-264
-00:18:02,164 --> 00:18:05,167
-J’ai flippé à un moment
-parce que t’es tombé comme si t’étais mort.
-
-265
-00:18:05,834 --> 00:18:06,835
-Ça va ?
-
-266
-00:18:08,087 --> 00:18:10,089
-- Tu veux que j’appelle quelqu’un ?
-- Non.
-
-267
-00:18:10,172 --> 00:18:11,507
-- Non ?
-- Ça va.
-
-268
-00:18:11,590 --> 00:18:12,591
-D’accord.
-
-269
-00:18:13,258 --> 00:18:17,096
-Tu dois aller voir un médecin.
-J’ai pas aimé ce que j’ai vu. C’était, paf !
-
-270
-00:18:17,179 --> 00:18:18,764
-T’es tombé sec.
-
-271
-00:18:19,807 --> 00:18:22,684
-À notre âge, faut faire des contrôles
-de temps en temps, tu sais ?
-
 272
-00:18:24,686 --> 00:18:26,063
-Ça, ça va au congélo.
+00:15:51,533 --> 00:15:54,787
+Ingrat fils de putain de toutes les putes.
 
 273
-00:18:26,146 --> 00:18:28,649
-Quand tu les mangeras,
-ils seront croustillants, comme sortis du four.
+00:16:05,589 --> 00:16:06,840
+Enfoiré.
 
 274
-00:18:29,441 --> 00:18:31,360
-D’accord ? Tu m’ouvres en bas ?
+00:17:08,736 --> 00:17:12,448
+Passagers du vol 1447
+à destination de Buenos Aires,
 
 275
-00:18:48,669 --> 00:18:49,711
-Gómez.
+00:17:12,531 --> 00:17:14,408
+veuillez vous présenter en zone d'embarquement.
 
 276
-00:18:50,337 --> 00:18:51,338
-Collègue.
+00:17:48,942 --> 00:17:49,943
+Hé.
 
 277
-00:19:01,515 --> 00:19:05,602
-L’alignement des chakras
-fait partie intégrante du tantra.
+00:17:51,653 --> 00:17:52,738
+Hé.
 
 278
-00:19:06,562 --> 00:19:11,316
-Ce sont les vortex d’énergie par lesquels
-circule l’énergie vitale de notre corps.
+00:17:53,447 --> 00:17:54,740
+Qu'est-ce qui s'est passé ?
 
 279
-00:19:11,400 --> 00:19:13,110
-Comment on les aligne ?
+00:17:54,907 --> 00:17:56,867
+T'as fait une sacrée crise de foie.
 
 280
-00:19:13,193 --> 00:19:15,696
-On va commencer par une marche tibétaine, d’accord ?
+00:17:56,950 --> 00:18:00,621
+On dirait que le porcelet que t'as mangé
+a rompu la chaîne du froid et t'a intoxiqué.
 
 281
-00:19:15,779 --> 00:19:18,365
-Tu vas marcher comme un robot
-dans cette direction.
+00:18:02,164 --> 00:18:05,751
+J'ai eu peur à un moment
+parce que tu es tombé comme une masse.
 
 282
-00:19:18,907 --> 00:19:21,368
-Tu lèves le genou et le bras opposé.
+00:18:05,834 --> 00:18:06,919
+Ça va mieux ?
 
 283
-00:19:21,451 --> 00:19:23,537
-Tu tiens, tu poses par la cheville.
+00:18:08,087 --> 00:18:09,505
+Tu veux que j'appelle quelqu'un ?
 
 284
-00:19:23,620 --> 00:19:25,914
-Et tu lèves l’autre côté.
+00:18:09,671 --> 00:18:10,672
+
+- Non, non.
+- Non ?
 
 285
-00:19:26,623 --> 00:19:32,004
-Lever, tenir, poser.
-Toujours à 90 degrés.
+00:18:10,756 --> 00:18:12,508
+
+- Ça va.
+- Bon.
 
 286
-00:19:32,087 --> 00:19:33,338
-Mouvements coordonnés.
+00:18:13,258 --> 00:18:14,510
+Tu dois aller voir un médecin.
 
 287
-00:19:33,839 --> 00:19:35,090
-Commence à marcher par là.
+00:18:14,635 --> 00:18:17,054
+J'ai pas aimé ce qui s'est passé. C'était...
 
 288
-00:19:35,883 --> 00:19:37,426
-- Maintenant ?
-- Oui. Vas-y.
+00:18:17,137 --> 00:18:18,972
+Tu es tombé d'un coup, sec.
 
 289
-00:19:38,844 --> 00:19:42,931
-Lever, tenir, poser. Voilà.
+00:18:19,807 --> 00:18:22,684
+À notre âge, il faut faire des bilans
+de temps en temps, tu sais ?
 
 290
-00:19:43,515 --> 00:19:45,559
-Parfait. Puis tu reviens.
+00:18:24,686 --> 00:18:26,063
+Ça, ça va au congélateur, hein.
 
 291
-00:19:45,642 --> 00:19:47,519
-- Les gens regardent.
-- Non, personne ne regarde.
+00:18:26,146 --> 00:18:28,649
+Quand tu les mangeras,
+ils seront croustillants comme au premier jour.
 
 292
-00:19:50,272 --> 00:19:52,357
-- Contracte le périnée.
-- C’est quoi le périnée ?
+00:18:29,441 --> 00:18:31,360
+Oui. Tu m'ouvres en bas ?
 
 293
-00:19:52,900 --> 00:19:54,318
-Le plancher pelvien, si tu veux.
+00:18:48,669 --> 00:18:50,170
+Gómez.
 
 294
-00:19:54,401 --> 00:19:57,905
-C’est l’espace
-entre la zone génitale et le...
+00:18:50,254 --> 00:18:51,421
+Camarade.
 
 295
-00:19:58,906 --> 00:20:00,199
-Oui, j’ai compris.
+00:19:01,515 --> 00:19:05,519
+Une partie fondamentale du tantra,
+c'est d'équilibrer les chakras,
 
 296
-00:20:00,282 --> 00:20:01,491
-Bien.
+00:19:06,562 --> 00:19:08,063
+qui sont les vortex énergétiques
 
 297
-00:20:01,575 --> 00:20:04,203
-Si tu contrôles le périnée,
-tu contrôles le sphincter.
+00:19:08,147 --> 00:19:11,233
+par lesquels circule
+la puissance vitale de notre corps.
 
 298
-00:20:04,286 --> 00:20:08,540
-Comme ça, on retarde l’éjaculation
-pour le bénéfice de la femme.
+00:19:11,316 --> 00:19:13,026
+Et comment on équilibre ça ?
 
 299
-00:20:09,499 --> 00:20:12,085
-- D’accord. C’est tout ?
-- Va et reviens.
+00:19:13,193 --> 00:19:15,696
+Bien. On va commencer
+par une marche tibétaine, d'accord ?
 
 300
-00:20:13,587 --> 00:20:16,048
-- Tu peux commencer. Lève...
-- Attends que la dame passe.
+00:19:15,779 --> 00:19:16,947
+Tu vas marcher comme un robot
 
 301
-00:20:17,341 --> 00:20:20,552
-C’est bon. Concentre-toi, respire et lève.
+00:19:17,739 --> 00:19:18,740
+par là-bas.
 
 302
-00:20:20,636 --> 00:20:22,012
-Voilà !
+00:19:18,907 --> 00:19:21,368
+Je lève le genou et le bras opposé.
 
 303
-00:20:23,388 --> 00:20:25,682
-Pose. Oui. Très bien.
+00:19:21,493 --> 00:19:23,495
+Je tiens, je pose la cheville.
 
 304
-00:20:40,572 --> 00:20:41,657
-C’est ton père ?
+00:19:23,620 --> 00:19:26,540
+Et ensuite, je lève l'autre côté, d'accord ?
 
 305
-00:20:42,741 --> 00:20:44,534
-- Quoi ?
-- C’est ton père ?
+00:19:26,623 --> 00:19:29,126
+Je lève, je tiens et je pose.
 
 306
-00:20:45,077 --> 00:20:46,078
-Non.
+00:19:29,209 --> 00:19:31,837
+Toujours avec un angle de quatre-vingt-dix degrés.
 
 307
-00:20:46,745 --> 00:20:49,081
-- Ton oncle ?
-- Non.
+00:19:31,962 --> 00:19:33,422
+Tout bien coordonné, d'accord ?
 
 308
-00:20:49,873 --> 00:20:50,874
-Un ami ?
+00:19:33,547 --> 00:19:35,048
+Et on revient par ici.
 
 309
-00:20:51,458 --> 00:20:52,459
-Non.
+00:19:35,883 --> 00:19:37,759
+
+- Maintenant ?
+- Oui, oui. J'avance, j'avance.
 
 310
-00:20:54,419 --> 00:20:55,420
-Vous êtes en couple ?
+00:19:38,844 --> 00:19:42,890
+Je lève, je tiens, je pose. Voilà, très bien.
 
 311
-00:20:56,129 --> 00:20:58,423
-C’est mon subordonné, madame. Mon employé.
+00:19:43,015 --> 00:19:45,517
+Parfait, parfait.
+D'ici, après tu reviens.
 
 312
-00:20:59,007 --> 00:21:00,259
-D’autres questions ?
+00:19:45,642 --> 00:19:47,519
+
+- Les gens me regardent.
+- Mais non, personne ne regarde.
 
 313
-00:21:04,388 --> 00:21:05,597
+00:19:50,272 --> 00:19:52,774
+
+- On contracte le périnée.
+- C'est quoi, le périnée ?
+
+314
+00:19:52,900 --> 00:19:54,276
+C'est le plancher pelvien, disons.
+
+315
+00:19:54,401 --> 00:19:57,905
+C'est l'espace qu'on a
+entre la zone génitale et le...
+
+316
+00:19:58,697 --> 00:20:00,199
+
+- Le...
+- Oui, on a compris.
+
+317
+00:20:00,324 --> 00:20:01,408
+Voilà.
+
+318
+00:20:01,575 --> 00:20:04,119
+En contrôlant le périnée,
+on contrôle les sphincters.
+
+319
+00:20:04,286 --> 00:20:08,457
+De cette façon, on retarde l'éjaculation
+au bénéfice de la femme.
+
+320
+00:20:09,499 --> 00:20:12,085
+
+- Très bien. C'est fini ?
+- Aller-retour.
+
+321
+00:20:13,587 --> 00:20:16,048
+
+- Et je commence. Je lève...
+- Attends qu'il passe...
+
+322
+00:20:17,341 --> 00:20:19,885
+C'est pas grave. Concentre-toi. Je respire.
+
+323
+00:20:20,052 --> 00:20:22,012
+Je lève. Voilà !
+
+324
+00:20:23,388 --> 00:20:25,557
+Je pose. Voilà. Très bien.
+
+325
+00:20:25,766 --> 00:20:28,518
+Sofía Gallardo, cabinet un.
+
+326
+00:20:32,272 --> 00:20:34,608
+Jorge Fernández, cabinet quatre.
+
+327
+00:20:40,572 --> 00:20:41,657
+C'est ton père ?
+
+328
+00:20:42,699 --> 00:20:44,952
+
+- Comment ?
+- Si c'est ton père.
+
+329
+00:20:45,077 --> 00:20:46,620
+Non, non, non, non.
+
+330
+00:20:46,745 --> 00:20:49,790
+
+- Ton oncle ?
+- Non, non, non, non plus.
+
+331
+00:20:49,873 --> 00:20:51,250
+Un ami ?
+
+332
+00:20:51,416 --> 00:20:52,626
+Non. Non.
+
+333
+00:20:54,419 --> 00:20:55,420
+Ils sont ensemble.
+
+334
+00:20:56,129 --> 00:20:58,382
+C'est mon subordonné, madame. Mon employé.
+
+335
+00:20:58,507 --> 00:21:00,259
+Une autre question ?
+
+336
+00:21:04,388 --> 00:21:05,681
+
 - Basurto.
 - Oui.
 
-314
-00:21:06,098 --> 00:21:07,349
-Par ici, s’il vous plaît.
+337
+00:21:06,181 --> 00:21:07,349
+Par ici, s'il vous plaît.
 
-315
+338
 00:21:08,141 --> 00:21:09,184
-Sois fort, Eliseo.
+Courage, Eliseo.
 
-316
-00:21:16,733 --> 00:21:18,485
-Voici un coloscope.
+339
+00:21:16,441 --> 00:21:18,443
+Ceci est un colonoscope.
 
-317
-00:21:19,069 --> 00:21:22,281
-C’est un tube fin et flexible
-avec une caméra intégrée.
+340
+00:21:18,568 --> 00:21:20,904
+C'est un petit tube fin, flexible,
 
-318
-00:21:22,364 --> 00:21:23,365
-Parfait.
+341
+00:21:21,029 --> 00:21:23,323
 
-319
+- avec une petite caméra intégrée.
+- Parfait.
+
+342
 00:21:23,448 --> 00:21:24,700
-Vous avez pris le laxatif ?
+Tu as pris le laxatif ?
 
-320
-00:21:25,284 --> 00:21:27,577
-Si vous n’avez pas suivi
-les consignes à la lettre,
+343
+00:21:24,783 --> 00:21:27,577
+Parce que si tu n'as pas suivi
+les indications à la lettre,
 
-321
-00:21:27,661 --> 00:21:30,914
-on devra peut-être refaire l’examen
-et on n’a pas envie, hein ?
+344
+00:21:27,661 --> 00:21:29,663
+il est possible qu'on doive
+refaire l'examen.
 
-322
-00:21:30,998 --> 00:21:32,582
-Moi non. Je sais pas vous.
+345
+00:21:29,871 --> 00:21:32,541
 
-323
-00:21:32,666 --> 00:21:34,376
+- Et on ne veut pas ça, hein ?
+- Moi, sûrement pas. Vous, je sais pas.
+
+346
+00:21:32,708 --> 00:21:34,376
+
 - Comment ?
 - Rien.
 
-324
-00:21:35,502 --> 00:21:37,546
-- Allongez-vous. On commence.
-- D’accord.
+347
+00:21:35,502 --> 00:21:37,462
 
-325
-00:21:37,629 --> 00:21:39,881
-Allongez-vous et ramenez le genou à la poitrine.
+- Allonge-toi. On va commencer.
+- D'accord.
 
-326
-00:21:40,424 --> 00:21:42,217
-Voilà. Très bien.
+348
+00:21:37,629 --> 00:21:40,340
+Allonge-toi et ramène un genou à la poitrine.
 
-327
-00:21:43,343 --> 00:21:47,889
-Je vais vous demander
-de compter à rebours à partir de 10, d’accord ?
+349
+00:21:40,465 --> 00:21:42,259
+Voilà, bien. Très bien.
 
-328
-00:21:49,308 --> 00:21:50,517
+350
+00:21:43,385 --> 00:21:47,889
+Je vais te demander de compter à rebours,
+en commençant par le chiffre dix, d'accord ?
+
+351
+00:21:49,224 --> 00:21:50,434
 On y va ?
 
-329
-00:21:50,600 --> 00:21:51,601
+352
+00:21:50,517 --> 00:21:51,560
 Dix,
 
-330
-00:21:52,436 --> 00:21:53,437
+353
+00:21:52,436 --> 00:21:53,520
 neuf,
 
-331
-00:21:54,396 --> 00:21:55,397
+354
+00:21:54,396 --> 00:21:55,564
 huit,
 
-332
+355
 00:21:56,523 --> 00:21:57,691
 sept...
 
-333
+356
 00:22:02,571 --> 00:22:04,781
-- Les proches de Basurto ?
+
+- Famille de Basurto ?
 - Oui.
 
-334
+357
 00:22:04,865 --> 00:22:06,158
-Par ici, s’il vous plaît.
+Par ici, s'il vous plaît.
 
-335
-00:22:07,075 --> 00:22:08,785
-- D’accord, c’est bon.
-- D’accord.
+358
+00:22:07,117 --> 00:22:08,785
 
-336
+- Bon, c'est bon, c'est bon.
+- C'est bon.
+
+359
 00:22:09,369 --> 00:22:11,163
-- Voilà, on y va.
-- C’est bon.
 
-337
+- C'est fini. Bon, on y va.
+- C'est bon.
+
+360
 00:22:11,246 --> 00:22:12,247
+
 - On y va.
 - Prêt ?
 
-338
+361
 00:22:12,331 --> 00:22:15,459
-- Attendez. J’ai eu un vertige.
-- Doucement, petit à petit.
 
-339
-00:22:16,585 --> 00:22:17,919
-- Voilà.
-- D’accord, on y va.
+- Aïe, aïe, aïe. Attends, j'ai la tête qui tourne.
+- Tranquille. Doucement. Pas à pas.
 
-340
-00:22:18,003 --> 00:22:19,796
+362
+00:22:16,626 --> 00:22:18,295
+
+- Ça va.
+- Bon, on y va.
+
+363
+00:22:18,420 --> 00:22:19,755
 Pardon.
 
-341
-00:22:19,880 --> 00:22:22,090
-- Comment vous sentez-vous ?
-- Bien. Parfait.
+364
+00:22:19,921 --> 00:22:22,090
 
-342
+- Comment tu te sens ?
+- Bien, bien. Parfait. Bien.
+
+365
 00:22:22,174 --> 00:22:23,884
-- J’ai pris un prélèvement pour le labo.
-- D’accord.
 
-343
-00:22:23,967 --> 00:22:27,095
-On aura les résultats dans 15 jours,
-mais ne vous inquiétez pas,
+- J'ai pris un prélèvement à analyser.
+- D'accord.
 
-344
-00:22:27,179 --> 00:22:29,139
-de ce que j’ai vu, tout est normal.
+366
+00:22:23,967 --> 00:22:27,054
+Les résultats seront prêts
+dans 15 jours, mais sois tranquille.
 
-345
-00:22:29,222 --> 00:22:31,641
-Je n’ai rien vu qui m’inquiète.
+367
+00:22:27,179 --> 00:22:29,056
+De ce que j'ai vu à l'œil nu,
+tout va bien.
 
-346
-00:22:31,725 --> 00:22:33,810
+368
+00:22:29,222 --> 00:22:31,600
+Non, je n'ai jamais été inquiet
+ni j'ai peur.
+
+369
+00:22:31,725 --> 00:22:33,852
+
 - Je peux vous poser une question, docteur ?
 - Oui.
 
-347
-00:22:33,894 --> 00:22:36,480
-Avec tous les domaines en médecine...
-
-348
-00:22:36,563 --> 00:22:40,609
-Je veux dire, vous auriez pu être neurologue,
-cardiologue, pédiatre.
-
-349
-00:22:41,151 --> 00:22:43,278
-Mais un jour,
-vous vous êtes levé le matin et vous avez dit,
-
-350
-00:22:43,779 --> 00:22:49,076
-“Je vais consacrer toute ma vie
-à inspecter le rectum d’hommes adultes.”
-
-351
-00:22:49,576 --> 00:22:53,789
-Franchement, c’est pas normal.
-Excusez-moi, docteur.
-
-352
-00:22:53,872 --> 00:22:54,956
-C’est de la folie.
-
-353
-00:22:56,708 --> 00:22:57,709
-Au revoir.
-
-354
-00:23:07,260 --> 00:23:08,762
-Froilán, t’as une minute ?
-
-355
-00:23:10,389 --> 00:23:12,057
-Il y a un problème ?
-
-356
-00:23:12,140 --> 00:23:14,643
-Oui, je cherche mon ordinateur portable.
-Je le trouve nulle part.
-
-357
-00:23:15,268 --> 00:23:16,770
-Apparemment, il a disparu.
-
-358
-00:23:16,853 --> 00:23:20,399
-- Ton quoi ?
-- Mon ordinateur, mon ordi portable.
-
-359
-00:23:21,358 --> 00:23:22,609
-Bizarre.
-
-360
-00:23:23,276 --> 00:23:24,653
-Oui, c’est bizarre.
-
-361
-00:23:24,736 --> 00:23:27,656
-T’as surveillé les livreurs
-quand ils ont monté le canapé ?
-
-362
-00:23:28,281 --> 00:23:29,449
-Oui, bien sûr.
-
-363
-00:23:31,618 --> 00:23:35,914
-C’est étrange. Toi seul as la clé
-de mon appartement.
-
-364
-00:23:37,666 --> 00:23:39,876
-Mais tu as vraiment cherché ?
-
-365
-00:23:41,503 --> 00:23:43,380
-Tu crois que c’est moi, c’est ça ?
-
-366
-00:23:44,172 --> 00:23:45,549
-Montre-lui, mademoiselle.
-
-367
-00:23:46,383 --> 00:23:50,053
-Froilán, j’ai une appli
-qui localise mes appareils,
-
-368
-00:23:50,554 --> 00:23:51,930
-et elle indique ici même.
-
-369
-00:23:52,722 --> 00:23:54,891
-- Mon appartement ? Ça doit être une erreur.
-- Non, ici.
-
 370
-00:23:55,392 --> 00:23:56,810
-- Juste là.
-- Entrez.
+00:22:33,935 --> 00:22:36,480
+Vu toutes les branches de la médecine,
 
 371
-00:24:20,292 --> 00:24:21,418
-Hé !
+00:22:36,563 --> 00:22:40,984
+vous auriez pu être
+neurologue, cardiologue, pédiatre,
 
 372
-00:24:23,503 --> 00:24:26,047
-Enfoiré !
+00:22:41,109 --> 00:22:43,612
+et un jour vous vous levez le matin
+et vous vous dites : "Non.
 
 373
-00:24:26,131 --> 00:24:28,842
-Je vais te tuer, fils de pute !
+00:22:43,779 --> 00:22:46,615
+Je vais consacrer
+toute ma vie à inspecter
 
 374
-00:24:28,925 --> 00:24:30,719
-Ouah, je peux savoir ce qu’il y a ?
+00:22:46,740 --> 00:22:49,409
+des tracts rectaux d'hommes mûrs".
 
 375
-00:24:30,802 --> 00:24:33,555
-Je sais que c’est toi. Tu me prends pour un con ?
+00:22:49,493 --> 00:22:51,453
+C'est pas normal, franchement.
 
 376
-00:24:33,638 --> 00:24:34,723
-J’ai fait quoi ?
+00:22:51,578 --> 00:22:53,705
+C'est pas normal. Pardon, docteur.
 
 377
-00:24:34,806 --> 00:24:37,684
-Tu as volé l’ordi de cette fille
+00:22:53,872 --> 00:22:55,165
+Quelle folie.
 
 378
-00:24:37,767 --> 00:24:42,481
-et tu l’as planqué dans mon appart
-pour me faire passer pour un voleur.
+00:22:56,708 --> 00:22:57,959
+À bientôt.
 
 379
-00:24:42,564 --> 00:24:45,108
-Écoute-moi l’histoire que tu te fais.
+00:23:07,260 --> 00:23:08,720
+Froilán, vous avez une minute ?
 
 380
-00:24:45,192 --> 00:24:48,862
-Admettons que j’aie fait cette connerie.
+00:23:10,389 --> 00:23:11,640
+Il s'est passé quelque chose ?
 
 381
-00:24:49,404 --> 00:24:53,158
-Comment j’ai fait pour entrer dans un appart
-d’un immeuble qui n’est pas le mien,
+00:23:11,807 --> 00:23:14,643
+Oui, je cherche mon laptop.
+Je ne le trouve nulle part.
 
 382
-00:24:53,241 --> 00:24:56,244
-voler un ordinateur
-et le planquer chez toi ?
+00:23:15,268 --> 00:23:16,728
+Apparemment, il a disparu.
 
 383
-00:24:56,328 --> 00:24:57,746
-Tu veux bien m’expliquer comment j’ai fait ?
+00:23:16,853 --> 00:23:20,399
+
+- Votre quoi ?
+- Mon laptop, mon ordinateur portable.
 
 384
-00:24:57,829 --> 00:24:59,372
-Les cubanitos.
+00:23:21,358 --> 00:23:22,609
+C'est bizarre, non ?
 
 385
-00:25:00,040 --> 00:25:02,167
-Fils de pute.
+00:23:22,734 --> 00:23:24,611
+Hmm. Oui, oui, c'est bizarre.
 
 386
-00:25:02,667 --> 00:25:05,921
-Pas étonnant qu’ils avaient un goût chelou.
+00:23:24,736 --> 00:23:27,656
+Vous êtes resté tout le temps
+avec les ouvriers quand ils ont monté le canapé ?
 
 387
-00:25:06,004 --> 00:25:11,468
-T’as mis un truc dans les cubanitos
-pour m’assommer pendant que tu faisais ta merde.
+00:23:27,739 --> 00:23:29,950
+Oui, oui, bien sûr.
 
 388
-00:25:12,093 --> 00:25:14,179
-C’est insultant, Froilán.
+00:23:30,075 --> 00:23:31,535
+Hmm.
 
 389
-00:25:14,262 --> 00:25:16,932
-Tu dois assumer tes actes.
+00:23:31,618 --> 00:23:35,914
+C'est étrange, parce que vous êtes
+le seul à avoir les clés de mon appartement.
 
 390
-00:25:17,432 --> 00:25:20,727
-Tu sais quoi ? Je vais assumer mes actes.
+00:23:37,666 --> 00:23:39,876
+Mais vous avez bien cherché ?
 
 391
-00:25:21,311 --> 00:25:24,272
-Je vais t’éclater la gueule.
+00:23:41,503 --> 00:23:43,380
+Vous n'allez pas croire
+que j'y suis pour quelque chose.
 
 392
-00:25:24,356 --> 00:25:29,194
-Viens te battre
-si t’es un homme, fils de pute !
+00:23:44,172 --> 00:23:45,632
+Montrez-lui, mademoiselle.
 
 393
-00:25:29,277 --> 00:25:30,946
-Allez ! Allez !
+00:23:46,383 --> 00:23:50,345
+Froilán, j'ai une application
+pour localiser mes appareils,
 
 394
-00:25:31,029 --> 00:25:33,240
-- Trouillard !
-- Arrêtez !
+00:23:50,429 --> 00:23:51,930
+et ça m'indique qu'il est ici.
 
 395
-00:25:33,323 --> 00:25:35,742
-- Espèce de lâche !
-- Arrête ! Qu’est-ce qui t’arrive ? Arrête !
+00:23:52,722 --> 00:23:55,267
+
+- Dans mon appartement ? Ça doit être une erreur.
+- Oui, ici.
 
 396
-00:25:35,825 --> 00:25:37,953
-Arrêter quoi ? Je vais le détruire !
+00:23:55,392 --> 00:23:56,810
+
+- Par là-bas.
+- Entrez.
 
 397
-00:25:38,036 --> 00:25:40,288
-C’est pas la manière.
-Tu obtiendras rien comme ça.
+00:24:19,833 --> 00:24:20,834
+Hé !
 
 398
-00:25:40,872 --> 00:25:43,333
-Emmène ce singe boire un thé, Gómez.
-Emmène-le.
+00:24:23,420 --> 00:24:26,006
+Espèce de fils de putain !
 
 399
-00:25:43,416 --> 00:25:46,545
-Faut être malin avec Eliseo.
+00:24:26,131 --> 00:24:28,842
+Je vais te tuer, putain de ta mère !
 
 400
-00:25:46,628 --> 00:25:49,381
-Tu sais pas
-avec qui tu t’es frotté, fils de pute !
+00:24:28,925 --> 00:24:30,719
+Waouh, on peut savoir ce qui t'arrive ?
 
 401
-00:25:49,464 --> 00:25:50,799
-Emmène ce singe.
+00:24:30,844 --> 00:24:33,513
+Je sais que c'est toi.
+Tu crois que je suis débile ?
 
 402
-00:25:51,550 --> 00:25:52,968
-Allez.
+00:24:33,638 --> 00:24:34,639
+Que c'est moi, quoi ?
 
 403
-00:26:01,184 --> 00:26:04,646
-Bon, Eliseo.
-J’ai les résultats de tes examens.
+00:24:34,806 --> 00:24:37,684
+Celui qui a volé
+l'ordinateur à la propriétaire
 
 404
-00:26:04,729 --> 00:26:09,150
-Je les ai étudiés attentivement
-et j’ai même consulté des collègues.
+00:24:37,809 --> 00:24:40,312
+et qui ensuite l'a mis
+dans mon appartement
 
 405
-00:26:09,234 --> 00:26:11,611
-Pourquoi ? T’as vu un truc bizarre ?
+00:24:40,395 --> 00:24:42,481
+pour me faire passer pour un délinquant.
 
 406
-00:26:11,695 --> 00:26:14,573
-Oui, le truc bizarre, c’est
-que tu es en parfaite santé.
+00:24:42,564 --> 00:24:45,066
+Tu t'es bien fait ton film. Quel roman.
 
 407
-00:26:16,283 --> 00:26:17,450
-C’est rare, à ton âge,
+00:24:45,192 --> 00:24:49,362
+Admettons que je sois capable
+d'une telle connerie, admettons.
 
 408
-00:26:17,534 --> 00:26:19,911
-d’arriver sans aucune maladie
-et sans médicaments.
+00:24:49,446 --> 00:24:53,074
+Comment j'ai fait pour entrer
+dans un appart au hasard d'un immeuble qui n'est pas le mien,
 
 409
-00:26:21,037 --> 00:26:22,205
-On a fini alors ?
+00:24:53,241 --> 00:24:56,161
+prendre un ordinateur
+et l'amener chez toi ?
 
 410
-00:26:22,789 --> 00:26:25,917
-Non. Je te conseille de te trouver un généraliste,
+00:24:56,244 --> 00:24:57,704
+Tu m'expliques comment j'ai fait ?
 
 411
-00:26:26,001 --> 00:26:29,421
-c’est pas obligé que ce soit moi,
-pour faire des contrôles réguliers,
+00:24:57,871 --> 00:24:59,331
+Les cubanitos.
 
 412
-00:26:29,504 --> 00:26:32,340
-commencer une routine d’exercice quotidienne,
-et aussi...
+00:25:00,040 --> 00:25:02,459
+Fils de putain.
 
 413
-00:26:32,424 --> 00:26:33,592
-Non. Merci, mais non.
+00:25:02,667 --> 00:25:05,921
+Pas étonnant que je sentais un goût bizarre.
 
 414
-00:26:33,675 --> 00:26:36,511
-Je suis arrivé jusque-là
-sans l’aide de la médecine.
+00:25:06,004 --> 00:25:09,007
+T'as mis de la drogue dans les cubanitos
 
 415
-00:26:36,595 --> 00:26:38,179
-Je ne vais pas changer.
+00:25:09,132 --> 00:25:11,468
+pour m'endormir et faire tes saloperies.
 
 416
-00:26:38,263 --> 00:26:42,142
-En plus, je pense que ce serait
-une dépense inutile pour le système de santé.
+00:25:12,093 --> 00:25:14,137
+C'est très offensant, ça, Froilán.
 
 417
-00:26:42,225 --> 00:26:45,270
-Je préfère que ces ressources
-servent aux gens qui en ont vraiment besoin.
+00:25:14,262 --> 00:25:16,932
+Tu dois assumer tes actes, c'est comme ça.
 
 418
-00:26:46,313 --> 00:26:49,774
-Maintenant on va utiliser
-toute la force abdominale
+00:25:17,057 --> 00:25:18,433
+Tu sais quoi ?
 
 419
-00:26:50,525 --> 00:26:52,360
-pour amener le bassin vers le ballon.
+00:25:18,517 --> 00:25:20,727
+Je vais assumer mes actes.
 
 420
-00:26:52,861 --> 00:26:55,280
-- Je fais comment ?
-- Comme ça. Regarde.
+00:25:20,810 --> 00:25:24,231
+Je vais te casser la gueule.
 
 421
-00:26:55,363 --> 00:26:56,906
-Comme un chat hérissé.
+00:25:24,356 --> 00:25:29,194
+Mets-toi en face pour voir
+si t'es un homme, putain de ta mère !
 
 422
-00:26:56,990 --> 00:27:00,035
-Tu arrondis le dos, menton à la poitrine,
-tu contractes le périnée.
+00:25:29,361 --> 00:25:30,946
+Allez, viens ! Bats-toi !
 
 423
-00:27:00,744 --> 00:27:01,995
-Le chat se détend.
+00:25:31,029 --> 00:25:33,198
+
+- Lâche de merde !
+- Arrête, arrête !
 
 424
-00:27:02,078 --> 00:27:03,872
-Tu pousses avec la tête et les hanches.
+00:25:33,323 --> 00:25:35,742
+
+- Lâche de merde !
+- Stop ! Qu'est-ce qui se passe ? Arrête !
 
 425
-00:27:04,539 --> 00:27:06,333
-Voilà.
+00:25:35,825 --> 00:25:37,911
+Comment ça "arrête" ?
+Je vais le réduire en bouillie !
 
 426
-00:27:06,875 --> 00:27:08,084
-Le chat se hérisse.
+00:25:38,036 --> 00:25:40,747
+C'est pas la bonne manière.
+Tu vas rien obtenir comme ça. Arrête.
 
 427
-00:27:09,544 --> 00:27:12,130
-- Le chat se détend.
-- Voilà. Contracte le périnée.
+00:25:40,872 --> 00:25:43,333
+Emmène-le boire un petit thé, Gómez,
+ce singe-là. Emmène-le.
 
 428
-00:27:12,213 --> 00:27:14,549
-Arrête de dire “périnée”, c’est affreux.
+00:25:43,416 --> 00:25:46,503
+Faut y aller avec intelligence
+contre Eliseo. Arrête !
 
 429
-00:27:14,633 --> 00:27:15,925
-D’accord, très bien.
+00:25:46,628 --> 00:25:49,339
+Tu sais pas à qui tu t'es frotté,
+fils de mille putes !
 
 430
+00:25:49,506 --> 00:25:51,383
+Emmène le singe, emmène-le.
+
+431
+00:25:51,466 --> 00:25:52,968
+Allez. Emmène-le.
+
+432
+00:26:01,184 --> 00:26:02,852
+Bon, Eliseo,
+j'ai les résultats
+
+433
+00:26:02,936 --> 00:26:04,604
+de tous les examens, ils sont prêts.
+
+434
+00:26:04,688 --> 00:26:06,815
+Je les ai examinés avec beaucoup d'attention,
+
+435
+00:26:06,898 --> 00:26:09,025
+j'ai même consulté quelques collègues.
+
+436
+00:26:09,276 --> 00:26:11,611
+Pourquoi ? Vous avez vu quelque chose d'anormal ?
+
+437
+00:26:11,695 --> 00:26:14,573
+Oui, ce qui est anormal,
+c'est que tu es en parfaite santé.
+
+438
+00:26:16,283 --> 00:26:17,450
+C'est pas courant d'arriver à ton âge
+
+439
+00:26:17,534 --> 00:26:19,911
+sans aucune pathologie
+et sans prendre aucun médicament.
+
+440
+00:26:20,036 --> 00:26:22,163
+Bon, c'est tout, alors ?
+
+441
+00:26:22,789 --> 00:26:25,917
+Non, non. Ce que je te recommande,
+c'est de trouver un médecin référent,
+
+442
+00:26:26,001 --> 00:26:27,210
+c'est pas obligé que ce soit moi,
+
+443
+00:26:27,294 --> 00:26:29,379
+pour commencer à faire des bilans réguliers,
+
+444
+00:26:29,504 --> 00:26:31,214
+une petite routine d'exercices quotidiens,
+
+445
+00:26:31,339 --> 00:26:33,550
+
+- faire une...
+- Non, merci beaucoup. Non.
+
+446
+00:26:33,675 --> 00:26:36,928
+Non, je suis arrivé jusque-là
+sans avoir besoin de la médecine,
+
+447
+00:26:37,012 --> 00:26:38,179
+je ne vais pas changer, vraiment.
+
+448
+00:26:38,263 --> 00:26:42,017
+Et puis ça me paraît générer
+une dépense inutile pour le système de santé.
+
+449
+00:26:42,225 --> 00:26:45,186
+Je préfère que ces ressources aillent
+à des gens qui en ont vraiment besoin.
+
+450
+00:26:46,313 --> 00:26:49,733
+Ce qu'on va faire maintenant,
+c'est toute la force abdominale
+
+451
+00:26:50,525 --> 00:26:52,736
+pour amener le bassin vers le ballon.
+
+452
+00:26:52,819 --> 00:26:55,155
+
+- Comment on fait ça ?
+- Comme ça, regarde.
+
+453
+00:26:55,280 --> 00:26:56,906
+Le chat se hérisse,
+
+454
+00:26:57,032 --> 00:27:00,660
+j'arque le dos,
+je baisse le menton sur la poitrine, je contracte le périnée.
+
+455
+00:27:00,744 --> 00:27:01,995
+Le chat se relâche.
+
+456
+00:27:02,078 --> 00:27:03,872
+Je sors la tête et le bassin vers l'extérieur.
+
+457
+00:27:04,539 --> 00:27:06,708
+Voilà. Voilà.
+
+458
+00:27:06,791 --> 00:27:08,001
+Le chat se hérisse.
+
+459
+00:27:09,544 --> 00:27:12,005
+
+- Et le chat se relâche.
+- Voilà. Je contracte le périnée.
+
+460
+00:27:12,130 --> 00:27:14,507
+Ne me dis plus le mot "périnée",
+il est épouvantable.
+
+461
+00:27:14,633 --> 00:27:15,842
+O.K. D'accord.
+
+462
 00:27:16,009 --> 00:27:17,218
 Le chat se hérisse.
 
-431
+463
 00:27:18,053 --> 00:27:19,054
-Le chat se détend.
+Le chat se relâche.
 
-432
-00:27:26,978 --> 00:27:27,979
-DÉMÉNAGEURS
+464
+00:27:28,813 --> 00:27:30,940
+Salut, Froilán Ravarotto.
 
-433
-00:27:28,813 --> 00:27:30,940 <i>Salut, Froilán Ravarotto.</i>
+465
+00:27:31,066 --> 00:27:34,152
+Quel dommage
+que tu ne te sois pas laissé aider par Eliseo.
 
-434
-00:27:31,524 --> 00:27:34,152 <i>C’est dommage
-que tu n’aies pas laissé Eliseo t’aider.</i>
-
-435
-00:27:45,580 --> 00:27:47,832
-BIS
-
-436
+466
 00:28:37,674 --> 00:28:38,925
 Allô, Clarita ?
 
-437
+467
 00:28:40,051 --> 00:28:41,136
-C’est Eliseo.
+C'est Eliseo à l'appareil.
 
-438
-00:28:43,805 --> 00:28:44,806
-Je vais bien.
+468
+00:28:43,805 --> 00:28:45,223
+Très bien.
 
-439
-00:28:45,348 --> 00:28:47,434
-Je suis désolé de te déranger,
+469
+00:28:45,306 --> 00:28:47,851
+Oui, désolé de te déranger,
 
-440
+470
 00:28:47,934 --> 00:28:50,854
-mais je t’appelle pour te faire une proposition.
+mais je t'appelle
+parce que je veux te faire une proposition.
 
-441
-00:28:52,689 --> 00:28:53,690
+471
+00:28:52,689 --> 00:28:53,857
 Oui.
 
-442
-00:28:55,442 --> 00:28:57,110
-Tu fais quoi samedi ?
+472
+00:28:55,442 --> 00:28:57,068
+Qu'est-ce que tu fais samedi ?
 
-443
+473
 00:28:57,944 --> 00:28:59,571
-Tu veux dîner à la maison ?
-
-444
-00:29:02,699 --> 00:29:04,617
-
-LE BOSS 3
+Tu veux qu'on dîne à la maison ?
