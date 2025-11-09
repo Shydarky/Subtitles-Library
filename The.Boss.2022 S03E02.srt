@@ -1,2061 +1,2292 @@
 1
-00:00:01,543 --> 00:00:04,754
-<i>Bienvenue
-à une nouvelle Convention interaméricaine</i>
+00:00:01,543 --> 00:00:02,544
+Bienvenue
 
 2
-00:00:04,838 --> 00:00:06,423
-<i>des syndics de copropriété.</i>
+00:00:02,627 --> 00:00:06,423
+à une nouvelle Convention interaméricaine
+des gardiens d’immeubles en copropriété.
 
 3
-00:00:06,506 --> 00:00:08,049
-DANS L'ÉPISODE PRÉCÉDENT
+00:00:08,174 --> 00:08:10,468
+
+- Mon chéri.
+- Je ne savais pas qu’il y avait d’autres gens du quartier.
 
 4
-00:00:08,133 --> 00:00:10,510
-- Mon ami.
-Je ne savais pas qu'il y en avait d'autres ici.
+00:00:10,593 --> 00:00:13,263
+Ne me dis pas que tu es devenu syndicaliste.
 
 5
-00:00:10,593 --> 00:00:13,263
-Ne me dis pas que tu t'es syndiqué.
+00:00:13,388 --> 00:00:14,431
+Ils m’ont saoulé.
 
 6
-00:00:13,346 --> 00:00:14,431
-J'en ai marre.
+00:00:14,597 --> 00:00:16,725
+Ils n’ont fait que pleurnicher et pleurnicher.
 
 7
-00:00:14,514 --> 00:00:16,725
-Tu n'as fait que te plaindre.
+00:00:17,809 --> 00:00:20,228
+Eliseo ! Je vous attendais demain.
+Qu’est-ce qui s’est passé ? Vous êtes arrivé plus tôt ?
 
 8
-00:00:17,350 --> 00:00:20,228
-Je croyais que tu serais là demain.
-Tu as décidé de rentrer plus tôt ?
+00:00:21,563 --> 00:00:22,647
+Qu’est-ce que c’est que ça ?
 
 9
-00:00:21,813 --> 00:00:22,814
-C'est quoi, ça ?
+00:00:22,731 --> 00:00:24,649
+Et maintenant je sais ce que je dois faire.
 
 10
-00:00:22,897 --> 00:00:24,607
-<i>Maintenant je sais exactement ce que je dois faire.</i>
+00:00:25,525 --> 00:00:27,193
+J’espère que vous êtes prêts pour la guerre.
 
 11
-00:00:25,525 --> 00:00:27,318
-J'espère que tu es prêt pour la guerre.
+00:00:27,402 --> 00:00:29,863
+Bienvenue dans l’empire d’Eliseo.
 
 12
-00:00:27,402 --> 00:00:29,863
-Bienvenue dans l'empire d'Eliseo.
+00:00:30,238 --> 00:00:32,741
+Quel sacré fils de pute.
 
 13
-00:00:29,946 --> 00:00:32,741
-<i>Quel fils de pute.</i>
+00:00:44,127 --> 00:00:48,381
+Pourquoi vous ne me préparez pas
+des assortiments différents
+pour des cadeaux que je dois faire ?
 
 14
-00:00:44,127 --> 00:00:48,131
-Tu peux me faire un assortiment de ça
-pour quelques cadeaux ?
+00:00:48,465 --> 00:00:49,966
+Je peux vous préparer une petite planche
 
 15
-00:00:48,631 --> 00:00:50,175
-Je peux te faire un plateau,
+00:00:50,050 --> 00:00:52,135
+de celles qu’on utilise
+pour les cadeaux d’entreprise.
 
 16
-00:00:50,258 --> 00:00:52,093
-comme ceux que certaines entreprises offrent
-en cadeau.
+00:00:52,260 --> 00:00:53,386
 
-17
-00:00:52,177 --> 00:00:53,553
-- D'accord.
+- Bon.
 - Oui ?
 
+17
+00:00:53,511 --> 00:00:56,473
+On y met
+un saucisson à grosse coupe de Santa María.
+
 18
-00:00:53,636 --> 00:00:56,431
-On peut ajouter un peu de salami Santa María.
+00:00:56,556 --> 00:00:58,892
+Vous n’imaginez pas, que du porc.
+Ils viennent de Colonia Caroya.
 
 19
-00:00:56,514 --> 00:00:58,850
-Il est incroyable. Pur porc.
-Il vient de Colonia Caroya.
+00:00:59,392 --> 00:01:02,062
+Non, non.
+Non, non, ils ne vont pas savoir apprécier.
 
 20
-00:00:59,392 --> 00:01:02,062
-Non, ils ne vont pas l'apprécier.
+00:01:02,979 --> 00:01:05,190
+Ces cadeaux sont
+pour des gens qui n’ont pas de palais.
 
 21
-00:01:02,979 --> 00:01:05,190
-Ce sont des cadeaux pour des gens sans palais.
+00:01:05,899 --> 00:01:10,070
+Donc c’est la quantité
+qui compte plus que la qualité, vous voyez ?
 
 22
-00:01:05,899 --> 00:01:10,070
-Donc ça doit être la quantité
-plus que la qualité, tu vois ?
+00:01:10,195 --> 00:01:13,823
+Donnez-moi les rebuts, les petits bouts,
+ce que vous devez sûrement avoir.
 
 23
-00:01:10,153 --> 00:01:12,072
-Donne-moi les bouts, les croûtes.
+00:01:13,907 --> 00:01:15,909
+Ceux au fromage, au jambon.
 
 24
-00:01:12,155 --> 00:01:15,909
-Je suis sûr que tu as quelque part
-des restes de jambon et de fromage.
+00:01:15,992 --> 00:01:18,369
+Préparez-moi… Avec tous ces restes,
+faites-moi quelque chose de joli
 
 25
-00:01:15,992 --> 00:01:18,369
-Fais-moi quelque chose de joli avec ça.
+00:01:18,453 --> 00:01:20,997
+et ajoutez-moi dans chaque lot
 
 26
-00:01:18,453 --> 00:01:23,666
-Et ajoute une boîte de macédoine
-et de légumes secs à chaque plateau.
+00:01:21,081 --> 00:01:23,666
+une petite boîte de macédoine,
+ces légumes en conserve.
 
 27
-00:01:23,750 --> 00:01:26,336
-Je dois les rendre. Elles sont périmées.
+00:01:23,750 --> 00:01:25,752
+Mais elles sont à retourner.
+Elles sont périmées.
 
 28
-00:01:26,419 --> 00:01:28,421
-Je te les achète.
-Fais-moi un prix.
+00:01:25,835 --> 00:01:28,379
+Non, mais je vous les achète quand même.
+Faites-moi un prix.
 
 29
 00:01:28,505 --> 00:01:29,506
-Regarde.
+Ah ça alors.
 
 30
-00:01:29,589 --> 00:01:35,011
-"À consommer de préférence
-avant avril 2024."
+00:01:29,631 --> 00:01:34,719
+C’est écrit : « À consommer de préférence
+avant avril 24 ».
 
 31
 00:01:35,095 --> 00:01:36,930
-C'est juste une suggestion.
+C’est une suggestion de l’entreprise.
 
 32
-00:01:37,013 --> 00:01:39,599
-Ce n'est pas écrit que c'est périmé,
-donc tu peux les mettre.
+00:01:37,013 --> 00:01:39,849
+Ils ne disent pas que c’est périmé,
+alors ajoutez-les.
 
 33
-00:01:39,974 --> 00:01:44,229
-Sur le plateau, fais un petit nid
-avec des boules de papier kraft.
+00:01:39,974 --> 00:01:42,310
+Donc, sur la planche,
+faites-moi un petit lit en dessous
 
 34
-00:01:44,312 --> 00:01:48,316
-Tu les froisses comme ça
-et tu poses les produits dessus.
+00:01:42,477 --> 00:01:44,229
+avec des boules de papier kraft.
 
 35
-00:01:48,399 --> 00:01:51,069
-Ça va être superbe. D'accord ?
+00:01:44,312 --> 00:01:46,523
+Vous les froissez bien comme ça, vous les mettez,
 
 36
-00:01:51,152 --> 00:01:52,320
-D'accord.
+00:01:46,606 --> 00:01:48,233
+et vous posez les produits dessus.
 
 37
-00:02:19,180 --> 00:02:21,975
-LE BOSS 3
+00:01:48,399 --> 00:01:49,984
+Oh, comme ça en jette.
 
 38
-00:02:22,600 --> 00:02:26,396
-Ta femme de ménage María,
-tu sais si elle a des jours de libre ?
+00:01:50,110 --> 00:01:52,445
+
+- D’accord ?
+- Oui, oui, oui.
 
 39
-00:02:27,063 --> 00:02:28,273
-On est un peu désespérés.
+00:02:22,058 --> 00:02:24,936
+La fille
+qui travaille chez toi, María,
 
 40
-00:02:28,356 --> 00:02:30,692
-Non,
-María ne travaille plus chez nous.
+00:02:25,019 --> 00:02:27,063
+elle n’aurait pas un jour de libre ?
 
 41
-00:02:30,775 --> 00:02:34,445
-Depuis que je suis revenue ici, j'ai une nouvelle femme de ménage
-et je ne pense pas qu'elle soit dispo.
+00:02:27,147 --> 00:02:28,398
+On est un peu désespérés.
 
 42
-00:02:34,529 --> 00:02:38,283
-Mario, c'est l'heure.
-On commence ? Je veux partir vite.
+00:02:28,481 --> 00:02:30,692
+Non, María ne travaille plus à la maison.
 
 43
-00:02:38,950 --> 00:02:40,326
-Oui, bien sûr.
+00:02:30,775 --> 00:02:32,944
+Depuis que je suis revenu ici,
+j’ai une nouvelle fille
 
 44
-00:02:41,703 --> 00:02:46,916
-Bon, le seul point à l'ordre du jour aujourd'hui
-c'est la révision complète du budget.
+00:02:33,027 --> 00:02:34,445
+et je crois qu’elle est déjà complète.
 
 45
-00:02:47,000 --> 00:02:48,001
-Hmm.
+00:02:34,529 --> 00:02:36,364
+Mario, on est déjà à l’heure.
 
 46
-00:02:48,418 --> 00:02:50,753
-Beaucoup de copropriétaires sont venus me voir
+00:02:36,447 --> 00:02:38,825
+Si on pouvait commencer,
+parce que j’ai envie de me barrer.
 
 47
-00:02:50,837 --> 00:02:54,174
-pour exprimer leur inquiétude
-sur le coût élevé des charges.
+00:02:38,950 --> 00:02:40,326
+Oui. Oui, oui, bien sûr.
 
 48
-00:02:54,924 --> 00:02:56,801
-Donc on a décidé de faire cette réunion
+00:02:41,703 --> 00:02:46,916
+Bon, le seul point à l’ordre du jour,
+c’est la révision budgétaire globale.
 
 49
-00:02:56,885 --> 00:03:01,389
-pour voir si ensemble on peut
-trouver des idées d'économie, d'accord ?
+00:02:48,418 --> 00:02:52,005
+Beaucoup de copropriétaires
+sont venus me voir avec une inquiétude
 
 50
-00:03:02,223 --> 00:03:03,308
-Qui veut commencer ?
+00:02:52,172 --> 00:02:54,174
+qui est le coût élevé des charges.
 
 51
-00:03:03,391 --> 00:03:09,063
-En tant que propriétaire et syndic,
-je voudrais commencer.
+00:02:54,924 --> 00:02:56,759
+C’est pour ça qu’on a décidé
+de faire cette réunion,
 
 52
-00:03:09,147 --> 00:03:11,024
-J'ai fait quelques calculs, Messina,
+00:02:56,926 --> 00:02:58,136
+pour voir si, tous ensemble,
 
 53
-00:03:11,107 --> 00:03:15,028
-et j'ai quelques propositions
-pour protéger le portefeuille de tous.
+00:02:58,219 --> 00:03:01,389
+on trouve quelques idées
+pour réduire les dépenses, d’accord ?
 
 54
-00:03:15,111 --> 00:03:17,238
-S'il vous plaît, Docteur, vous pouvez distribuer ?
+00:03:02,265 --> 00:03:03,308
+Qui veut commencer ?
 
 55
-00:03:17,322 --> 00:03:18,865
-Vous aussi, Madame Romina.
+00:03:03,391 --> 00:03:09,022
+J’aimerais, en tant que propriétaire
+et gardien à la fois, commencer.
 
 56
-00:03:19,490 --> 00:03:23,661
-En gros, je propose trois points
-pour nous faire économiser.
+00:03:09,147 --> 00:03:11,065
+J’ai fait quelques calculs, Messina,
 
 57
-00:03:24,162 --> 00:03:28,499
-Le premier, c'est de se débarrasser
-de l'assistant du syndic, Miguel.
+00:03:11,149 --> 00:03:15,153
+et j’ai apporté quelques propositions
+pour ménager le portefeuille de tous.
 
 58
-00:03:28,583 --> 00:03:31,753
-Depuis combien de temps il travaille ici ?
-On doit l'indemniser ?
+00:03:15,236 --> 00:03:17,238
+Si vous êtes si aimable, docteure,
+vous pouvez distribuer ?
 
 59
-00:03:31,836 --> 00:03:32,962
-Non, on ne doit pas.
+00:03:17,322 --> 00:03:18,865
+Et vous aussi, Mme Romina.
 
 60
-00:03:33,046 --> 00:03:36,341
-Je vais lui proposer un plan
-de démission volontaire avec plein d'avantages.
+00:03:19,490 --> 00:03:24,078
+En gros, je propose
+trois points d’économies.
 
 61
-00:03:36,841 --> 00:03:38,676
-Ce qui m'amène au deuxième point.
+00:03:24,162 --> 00:03:26,456
+Le premier d’entre eux,
+c’est de se passer des services
 
 62
-00:03:38,760 --> 00:03:43,097
-On peut faire pareil avec Gabriel Marchetti,
-l'employé de sécurité.
+00:03:26,539 --> 00:03:28,499
+de l’aide-concierge, Miguel.
 
 63
-00:03:43,765 --> 00:03:45,642
-Et le troisième point pour économiser.
+00:03:28,625 --> 00:03:31,711
+Mais ça fait combien de temps
+qu’il travaille ici ?
+Il ne faudrait pas l’indemniser ?
 
 64
-00:03:45,725 --> 00:03:49,729
-Vu la relation que j'ai
-avec tous nos fournisseurs depuis plus de 30 ans,
+00:03:31,794 --> 00:03:32,962
+Non, pas besoin de l’indemniser
 
 65
-00:03:49,812 --> 00:03:55,902
-je vais m'asseoir avec eux pour renégocier
-et leur demander 35 % de remise mensuelle.
+00:03:33,046 --> 00:03:35,173
+parce que je vais lui proposer
+un plan de départ volontaire
 
 66
-00:03:55,985 --> 00:03:59,906
-Trente-cinq pour cent, Eliseo ?
-Qui va accepter ça ?
+00:03:35,256 --> 00:03:36,341
+avec de grands avantages.
 
 67
-00:03:59,989 --> 00:04:02,825
-Le fournisseur qui n'acceptera pas
-sera remplacé.
+00:03:36,424 --> 00:03:38,635
+Ce qui m’amène au point deux.
 
 68
-00:04:02,909 --> 00:04:06,329
-Sur les feuilles que je vous ai données,
-vous verrez que les économies sont importantes.
+00:03:38,760 --> 00:03:40,762
+Proposer le même plan
 
 69
-00:04:06,412 --> 00:04:08,831
-- Ah ! Comme c'est sérieux, Eliseo.
-- Eh bien.
+00:03:40,845 --> 00:03:43,181
+à Gabriel Marchetti,
+l’employé de sécurité.
 
 70
-00:04:08,915 --> 00:04:11,376
-Je n'imagine vraiment pas
-ce qu'on ferait sans toi.
+00:03:43,765 --> 00:03:45,600
+Et j’en arrive au troisième point d’économie,
 
 71
-00:04:36,192 --> 00:04:39,195
-BIS
-SOLUTIONS INTÉGRALES BASURTO
+00:03:45,683 --> 00:03:46,976
+qui est que, vu le lien que j’ai
 
 72
-00:04:49,330 --> 00:04:53,251
-DES PROBLÈMES AVEC VOTRE SYNDIC ?
-BIS A LA SOLUTION
+00:03:47,060 --> 00:03:49,687
+avec tous les fournisseurs
+depuis plus de 30 ans,
 
 73
+00:03:49,812 --> 00:03:52,523
+je vais m’asseoir pour renégocier avec eux
+
+74
+00:03:52,607 --> 00:03:55,902
+afin de leur demander
+une remise de 35 % par mois.
+
+75
+00:03:55,985 --> 00:03:58,112
+Trente-cinq pour cent
+de remise, Eliseo ?
+
+76
+00:03:58,696 --> 00:03:59,906
+Qui va accepter ça ?
+
+77
+00:03:59,989 --> 00:04:02,825
+Fournisseur qui n’accepte pas,
+fournisseur qui sera remplacé.
+
+78
+00:04:02,951 --> 00:04:06,204
+Là, dans les petits papiers
+que je vous ai donnés,
+vous allez voir une économie significative.
+
+79
+00:04:06,329 --> 00:04:08,831
+
+- Comme vous êtes méticuleux, Eliseo.
+- Bon.
+
+80
+00:04:08,915 --> 00:04:11,376
+Franchement, je n’arrive pas à imaginer
+ce qu’on ferait sans vous.
+
+81
 00:05:00,550 --> 00:05:01,634
 Bonjour, Eliseo.
 
-74
-00:05:07,265 --> 00:05:09,392
-Pardon, Eliseo, tu voulais me voir ?
+82
+00:05:07,473 --> 00:05:09,392
+Pardon, Eliseo, vous m’avez fait appeler, non ?
 
-75
+83
 00:05:12,020 --> 00:05:13,146
 Viens avec moi.
 
-76
-00:05:14,939 --> 00:05:15,940
-​
-
-77
-00:05:21,362 --> 00:05:22,613
-Assieds-toi, s'il te plaît.
-
-78
-00:05:26,659 --> 00:05:30,496
-Bon, je ne pense pas
-que la situation réclame une introduction.
-
-79
-00:05:31,831 --> 00:05:34,751
-Je vais essayer d'être clair et concis.
-
-80
-00:05:34,834 --> 00:05:36,502
-À partir de maintenant,
-
-81
-00:05:36,586 --> 00:05:41,632
-tu es entièrement relevé de tes fonctions
-d'assistant du syndic.
-
-82
-00:05:41,716 --> 00:05:44,218
-- Eliseo, je...
-- Non, laisse-moi finir.
-
-83
-00:05:45,136 --> 00:05:48,598
-Tu sais ce qui m'a le plus blessé, Miguel ?
-
 84
-00:05:49,223 --> 00:05:53,644
-Ce n'est pas le fait que tu aies utilisé ma maison
-pour faire un acte primitif avec cette fille,
+00:05:21,362 --> 00:05:22,613
+Assieds-toi, s’il te plaît.
 
 85
-00:05:53,728 --> 00:05:55,730
-et je ne veux même pas l'imaginer,
+00:05:26,659 --> 00:05:30,496
+Bien, je ne crois pas que la situation
+nécessite le moindre préambule,
 
 86
-00:05:55,813 --> 00:06:00,943
-mais le fait
-que tu t'es fait choper aussi facilement.
+00:05:31,831 --> 00:05:34,751
+donc je vais essayer
+d’être clair et concis.
 
 87
-00:06:01,444 --> 00:06:05,531
-Après tout ce que je t'ai appris,
-et la façon dont je t'ai formé,
+00:05:34,834 --> 00:05:36,502
+À partir de cet instant,
 
 88
-00:06:05,615 --> 00:06:09,494
-comment tu n'as pas pu penser à un truc
-pour me berner ?
+00:05:36,627 --> 00:05:41,632
+tu es totalement démis
+de ton poste d’aide-concierge.
 
 89
-00:06:10,453 --> 00:06:14,290
-Ça m'a tellement déçu, Miguel.
+00:05:41,716 --> 00:05:44,218
+
+- Eliseo, je…
+- Non, non, non, non. Laisse-moi finir.
 
 90
-00:06:14,374 --> 00:06:15,500
-Énormément déçu.
+00:05:45,345 --> 00:05:49,015
+Tu sais ce qui m’a fait le plus mal, Miguel ?
 
 91
-00:06:16,125 --> 00:06:19,420
-Parce que tu connaissais la règle numéro un.
-Tu la connaissais parfaitement.
+00:05:49,098 --> 00:05:51,184
+Ce n’est pas que tu aies utilisé mon appartement
 
 92
-00:06:20,338 --> 00:06:23,257
-C'est quoi, la règle numéro un ?
+00:05:51,267 --> 00:05:55,730
+pour accomplir un acte primitif
+avec cette fille que je ne veux même pas imaginer,
 
 93
-00:06:24,300 --> 00:06:29,847
-Tout nier,
-même si on t'a pris la main dans le sac.
+00:05:55,813 --> 00:06:01,319
+mais que tu aies laissé
+que je te découvre aussi facilement.
 
 94
-00:06:29,931 --> 00:06:32,350
-Mais tu avais déjà vu la fille.
-Je pouvais faire quoi ?
+00:06:01,444 --> 00:06:03,363
+Avec tout ce que je t’ai appris,
 
 95
-00:06:32,433 --> 00:06:35,103
-- Je ne sais pas...
-Tu nies quand même.
+00:06:03,446 --> 00:06:05,615
+avec tout ce pour quoi je t’ai préparé,
 
 96
-00:06:36,396 --> 00:06:38,856
-D'accord. Je suis désolé. Tu as raison.
+00:06:05,698 --> 00:06:09,494
+comment ça ne t’est pas venu à l’esprit
+d’essayer quelque chose pour t’en tirer ?
 
 97
-00:06:38,940 --> 00:06:41,401
-Je vais m'améliorer.
-Je vais être comme toi. Je te le promets.
+00:06:10,453 --> 00:06:14,165
+Ça m’a provoqué vraiment
+une très grande déception, Miguel.
 
 98
-00:06:41,484 --> 00:06:42,485
-C'est trop tard.
+00:06:14,415 --> 00:06:15,500
+Très grande.
 
 99
-00:06:43,069 --> 00:06:45,446
-Tu vas remettre
-ta lettre de démission,
+00:06:16,125 --> 00:06:18,044
+Parce que tu connaissais la règle numéro un.
 
 100
-00:06:45,530 --> 00:06:48,282
-parce que si je dois dire
-au syndicat de copropriétaires
+00:06:18,127 --> 00:06:19,420
+Tu la connaissais parfaitement.
 
 101
-00:06:48,366 --> 00:06:52,245
-pourquoi je t'ai viré,
-tu vas être très humilié.
+00:06:20,338 --> 00:06:23,341
+Quelle est la règle numéro un ?
 
 102
-00:06:52,745 --> 00:06:54,372
-Voilà le télégramme.
+00:06:24,175 --> 00:06:29,722
+Tout nier,
+même quand on t’a pris en flagrant délit.
 
 103
-00:06:54,455 --> 00:06:57,375
-Tu n'as qu'à l'emmener
-à la poste.
+00:06:30,098 --> 00:06:32,350
+Mais vous aviez déjà vu la fille.
+Qu’est-ce que j’allais faire ?
 
 104
-00:06:57,959 --> 00:06:59,127
-Hmm ?
+00:06:32,433 --> 00:06:35,228
+
+- Non. Je ne sais pas, mais…
+- On nie quand même.
 
 105
+00:06:36,396 --> 00:06:38,773
+D’accord. Pardon. Vous avez raison, je…
+
+106
+00:06:38,940 --> 00:06:41,300
+Je vais m’améliorer.
+Je vais être tout comme vous. Je vous le promets.
+
+107
+00:06:41,359 --> 00:06:42,360
+Il est déjà trop tard.
+
+108
+00:06:42,985 --> 00:06:45,405
+Tu vas présenter ta démission,
+
+109
+00:06:45,488 --> 00:06:48,157
+parce que si je dois exposer
+devant la copropriété
+
+110
+00:06:48,366 --> 00:06:52,578
+la raison pour laquelle je t’ai viré,
+tu vas te sentir très humilié.
+
+111
+00:06:52,745 --> 00:06:54,330
+Tiens, tu as le télégramme.
+
+112
+00:06:54,455 --> 00:06:57,375
+Tu as simplement à l’emmener à la poste.
+
+113
 00:06:59,210 --> 00:07:00,253
 Merci.
 
-106
-00:07:08,428 --> 00:07:09,429
+114
+00:07:08,261 --> 00:07:09,887
 Miguel.
 
-107
+115
 00:07:09,971 --> 00:07:13,266
-Cependant, je n'aime pas être responsable
-de ruiner la vie de quelqu'un,
+De toute façon, je n’aime pas
+enlever le pain de la bouche de qui que ce soit
 
-108
-00:07:13,349 --> 00:07:15,143
-alors j'ai une proposition pour toi.
+116
+00:07:13,349 --> 00:07:15,017
+et j’ai une proposition pour toi.
 
-109
+117
 00:07:15,601 --> 00:07:16,602
 Vraiment ?
 
-110
-00:07:18,187 --> 00:07:23,484
-J'ai besoin d'un employé pour ma nouvelle société,
-Basurto Integral Solutions.
-
-111
-00:07:24,652 --> 00:07:25,736
-Quel genre de société ?
-
-112
-00:07:25,820 --> 00:07:27,572
-Gestion de syndics.
-
-113
-00:07:27,655 --> 00:07:30,950
-Comme ça, les syndicats de copropriété
-économisent le coût fixe d'un employé.
-
-114
-00:07:31,576 --> 00:07:33,369
-Donc c'est comme un service de ménage.
-
-115
-00:07:33,453 --> 00:07:34,454
-Non, pas du tout.
-
-116
-00:07:34,537 --> 00:07:37,457
-Ces entreprises-là envoient juste deux types
-qui nettoient et qui repartent en une heure.
-
-117
-00:07:37,540 --> 00:07:42,128
-Nous, on gère des syndics
-et on les fait bosser à plein temps.
-
 118
-00:07:43,129 --> 00:07:46,466
-Bien. Alors quoi ?
-Je peux être un de tes syndics ?
+00:07:18,187 --> 00:07:19,772
+J’ai besoin d’un employé
 
 119
-00:07:48,259 --> 00:07:52,054
-Non, mon cher.
-Tu n'es pas qualifié, malheureusement.
+00:07:19,897 --> 00:07:23,526
+pour ma nouvelle entreprise,
+Soluciones Integrales Basurto.
 
 120
-00:07:52,138 --> 00:07:54,265
-Je t'offre un poste administratif.
+00:07:24,652 --> 00:07:25,736
+Une entreprise ? De quoi ?
 
 121
-00:07:54,348 --> 00:07:55,516
-Mais sois tranquille,
+00:07:25,820 --> 00:07:27,572
+Management de gardiens.
 
 122
-00:07:56,100 --> 00:07:59,145
-tu vas gagner beaucoup plus
-que ce que tu gagnes maintenant.
+00:07:27,655 --> 00:07:30,950
+Comme ça les copropriétés économisent
+le coût fixe d’un salarié.
 
 123
-00:07:59,228 --> 00:08:04,358
-D'ailleurs, tu peux commencer aujourd'hui
-en distribuant des tracts dans le quartier.
+00:07:31,492 --> 00:07:33,369
+Ah, alors c’est
+comme une entreprise de nettoyage.
 
 124
-00:08:06,027 --> 00:08:07,361
-Ça t'intéresse ?
+00:07:33,453 --> 00:07:34,454
+Non, rien à voir.
 
 125
-00:08:15,828 --> 00:08:18,164
-BOÎTE AUX LETTRES
+00:07:34,537 --> 00:07:37,373
+Eux, c’est deux gamins qui viennent,
+nettoient et se barrent au bout d’une heure.
 
 126
-00:08:51,239 --> 00:08:52,406
-D'accord, papa.
+00:07:37,540 --> 00:07:40,251
+Nous, on gère des gardiens
 
 127
-00:08:53,074 --> 00:08:54,075
-Allez.
+00:07:40,334 --> 00:07:42,503
+et on les fait travailler à plein temps.
 
 128
-00:08:55,201 --> 00:08:56,577
-Ouvre la bouche, allez.
+00:07:42,628 --> 00:07:46,382
+Ah, très bien. Et quoi ?
+Je peux être un de vos gardiens ?
 
 129
-00:08:58,871 --> 00:09:00,373
-Allez ! Ouvre la bouche.
+00:07:48,259 --> 00:07:49,469
+Non. Non, mon grand.
 
 130
-00:09:00,456 --> 00:09:03,543
-Voilà, voilà. Là on y est.
+00:07:49,552 --> 00:07:52,054
+Non, tu n’es pas prêt, malheureusement.
 
 131
-00:09:03,626 --> 00:09:04,877
-Bravo !
+00:07:52,138 --> 00:07:54,265
+La tâche que je t’offre est administrative.
 
 132
-00:09:06,087 --> 00:09:08,214
-Très bien.
+00:07:54,348 --> 00:07:55,683
+Mais ne t’inquiète pas,
 
 133
-00:09:08,297 --> 00:09:14,220
-Mais tu sais avec quoi ça se mange ?
-Avec un peu de purée.
+00:07:55,766 --> 00:07:59,103
+tu vas gagner beaucoup plus d’argent
+que ce que tu gagnes maintenant.
 
 134
-00:09:14,303 --> 00:09:16,472
-D'accord, une seconde, papa.
+00:07:59,228 --> 00:08:04,358
+En plus, tu pourrais commencer dès aujourd’hui
+en distribuant des prospectus dans tout le quartier.
 
 135
+00:08:06,027 --> 00:08:07,361
+La proposition t’intéresse ?
+
+136
+00:08:51,239 --> 00:08:52,406
+Allez, papa.
+
+137
+00:08:53,074 --> 00:08:54,075
+On y va.
+
+138
+00:08:55,201 --> 00:08:56,577
+On ouvre la petite bouche, allez.
+
+139
+00:08:58,871 --> 00:09:00,373
+Allez ! Ouvrez la bouche…
+
+140
+00:09:00,456 --> 00:09:03,543
+Voilà, voilà, voilà. On y est. On y est.
+
+141
+00:09:03,626 --> 00:09:04,877
+Très bien !
+
+142
+00:09:06,087 --> 00:09:08,214
+Parfait. Parfait, parfait.
+
+143
+00:09:08,297 --> 00:09:13,803
+Mais tu sais avec quoi ça va, ça ?
+Avec un petit peu de purée.
+
+144
+00:09:15,012 --> 00:09:16,472
+Attends une seconde, papa.
+
+145
 00:09:18,975 --> 00:09:20,017
 Silva.
 
-136
+146
 00:09:23,854 --> 00:09:25,273
-Non, je n'ai rien vu.
+Non, non. Je n’ai rien vu.
 
-137
+147
 00:09:28,818 --> 00:09:30,194
-Quoi ? Tu veux dire maintenant ?
+Mais quoi ? Tu dis ça maintenant ?
 
-138
+148
 00:09:32,822 --> 00:09:34,198
-Non. Qu'est-ce que j'en sais ?
+Ben non. Qu’est-ce que j’en sais, moi ?
 
-139
-00:09:37,827 --> 00:09:39,954
-Plus rien ne m'étonne d'Eliseo.
+149
+00:09:37,827 --> 00:09:39,912
+Mais d’Eliseo, plus rien ne m’étonne.
 
-140
+150
 00:10:14,405 --> 00:10:15,740
 Quel fils de pute.
 
-141
-00:10:34,342 --> 00:10:36,969
-BIS
-SOLUTIONS INTÉGRALES BASURTO
-
-142
-00:10:46,312 --> 00:10:48,981
-- Bonjour, Miguel. Entre.
-- Excuse-moi.
-
-143
-00:10:49,857 --> 00:10:51,692
-SYNDIC
-
-144
-00:10:52,735 --> 00:10:59,325
-Bon, voici le call center et le QG
-de Basurto Integral Solutions.
-
-145
-00:10:59,825 --> 00:11:02,870
-Ça, c'est mon bureau,
-à mon usage exclusif et personnel,
-
-146
-00:11:02,953 --> 00:11:05,122
-et celui un peu plus petit est pour toi.
-
-147
-00:11:05,706 --> 00:11:09,043
-- Quoi ? J'ai mon propre bureau ?
-- Non, il n'est pas à toi. Il est à l'entreprise.
-
-148
-00:11:09,418 --> 00:11:11,128
-Mais c'est ton poste de travail, oui.
-
-149
-00:11:11,212 --> 00:11:13,089
-Tu dois aussi te rappeler ça.
-
-150
-00:11:13,172 --> 00:11:16,300
-La porte vitrée, c'est la limite.
-
 151
-00:11:16,759 --> 00:11:20,388
-Ma maison est derrière cette porte.
-Tu ne peux pas y entrer.
+00:10:46,312 --> 00:10:48,981
+
+- Bonjour, Miguel. Entre.
+- Permis.
 
 152
-00:11:20,471 --> 00:11:23,808
-Tout le reste, c'est le bureau
-et tu peux circuler librement.
+00:10:52,735 --> 00:10:56,947
+Bien, voici le call center
+et le siège
 
 153
-00:11:23,891 --> 00:11:26,894
-Si tu as besoin des toilettes,
-tu utilises celles qui sont là-bas,
+00:10:57,073 --> 00:10:59,617
+de Soluciones Integrales Basurto.
 
 154
-00:11:26,977 --> 00:11:28,938
-dans la partie de service,
-derrière la cuisine.
+00:10:59,700 --> 00:11:02,787
+Là, c’est mon bureau,
+à usage exclusivement personnel,
 
 155
-00:11:29,021 --> 00:11:30,064
-- Compris ?
-- Oui.
+00:11:02,953 --> 00:11:05,247
+et celui-ci, légèrement plus petit,
+est pour toi.
 
 156
-00:11:31,857 --> 00:11:35,403
-Premier appel. Sois tranquille. C'est toi qui le prends.
+00:11:05,706 --> 00:11:09,335
+
+- Quoi ? J’ai mon propre bureau ?
+- Non, il n’est pas à toi. Il est à l’entreprise.
 
 157
-00:11:35,486 --> 00:11:38,781
-"Basurto Integral Solutions,
-je peux vous aider ?"
+00:11:09,418 --> 00:11:11,087
+Mais, comme poste de travail, oui.
 
 158
-00:11:38,864 --> 00:11:40,574
-Allez, allez.
+00:11:11,212 --> 00:11:13,047
+Et il est important que tu saches ceci.
 
 159
-00:11:42,660 --> 00:11:44,787
-- Basurto Integral Services.
-- Solutions.
+00:11:13,172 --> 00:11:16,550
+La porte en verre est la frontière.
 
 160
-00:11:44,870 --> 00:11:48,249
-Je veux dire, Basurto Integral Solutions.
-Pardon, c'est mon premier jour.
+00:11:16,634 --> 00:11:20,346
+De la porte vers là-bas,
+c’est chez moi, tu ne peux pas y aller.
 
 161
-00:11:48,749 --> 00:11:50,459
-Oui, dites-moi, comment je peux vous aider ?
+00:11:20,471 --> 00:11:23,766
+Tout le reste, c’est un bureau,
+tu peux circuler librement.
 
 162
-00:11:52,128 --> 00:11:53,129
-Parfait.
+00:11:23,891 --> 00:11:25,226
+Si tu as besoin d’aller aux toilettes,
 
 163
-00:11:53,754 --> 00:11:56,465
-Oui. Bien sûr. Vous pouvez me donner
-une seconde, s'il vous plaît ?
+00:11:25,351 --> 00:11:26,852
+tu utilises la salle de bains qui est là,
 
 164
-00:11:56,924 --> 00:11:58,217
-Merci.
+00:11:26,977 --> 00:11:28,938
+dans la partie service,
+derrière la cuisine.
 
 165
-00:11:58,300 --> 00:12:01,512
-La présidente du syndicat de copropriété
-de l'immeuble Arismendi et Virrey Loreto.
+00:11:29,021 --> 00:11:30,064
+
+- C’est clair ?
+- Oui.
 
 166
-00:12:01,595 --> 00:12:04,390
-Elle veut savoir
-quels services propose l'entreprise.
+00:11:31,857 --> 00:11:33,734
+Premier appel. Tranquille.
 
 167
-00:12:08,602 --> 00:12:09,603
-Allô ?
+00:11:33,818 --> 00:11:35,361
+
+- Tu vas répondre.
+- Mmm-hmm.
 
 168
-00:12:10,271 --> 00:12:11,814
-Allô, comment allez-vous ?
+00:11:35,486 --> 00:11:38,572
+« Soluciones Integrales Basurto,
+en quoi puis-je vous aider ? ».
 
 169
-00:12:11,897 --> 00:12:16,485
-Je suis Eliseo,
-directeur de Basurto Integral Solutions.
+00:11:38,864 --> 00:11:40,533
+Allez, allez.
 
 170
-00:12:18,028 --> 00:12:20,156
-Eh bien, j'en suis ravi.
+00:11:42,660 --> 00:11:44,787
+
+- Servicios Integrales Basurto.
+- Soluciones.
 
 171
-00:12:20,823 --> 00:12:25,035
-Vous voudriez qu'on ait un rendez-vous en personne
-pour qu'on passe en revue nos services ?
+00:11:44,954 --> 00:11:48,582
+Je veux dire, Soluciones Integrales Basurto.
+Pardon, c’est mon premier jour.
 
 172
-00:12:26,245 --> 00:12:28,664
-Dans votre immeuble. Parfait.
-C'est excellent.
+00:11:48,666 --> 00:11:50,376
+Oui, dites-moi en quoi je peux vous aider.
 
 173
-00:12:28,748 --> 00:12:32,877
-Laissez-moi une seconde pour vérifier notre agenda
-parce qu'on est débordés.
+00:11:52,128 --> 00:11:53,462
+Parfait.
 
 174
-00:12:36,255 --> 00:12:37,798
-Cher membre.
+00:11:53,546 --> 00:11:56,757
+Oui. Voyons…
+Vous me laissez une seconde, s’il vous plaît ?
 
 175
-00:12:39,300 --> 00:12:45,181
-Nous avons le plaisir de vous informer
-que vous avez été sélectionné
+00:11:56,841 --> 00:11:58,175
+Merci beaucoup.
 
 176
-00:12:45,264 --> 00:12:49,810
-comme gagnant d'un délicieux
-plateau de charcuterie pour quatre personnes
+00:11:58,259 --> 00:12:01,387
+C’est la présidente de la copropriété
+de l’immeuble Arismendi et Virrey Loreto.
 
 177
-00:12:50,603 --> 00:12:55,274
-qui inclut différentes
-charcuteries de grande qualité.
+00:12:01,470 --> 00:12:04,265
+Elle dit qu’elle veut savoir
+quel service propose l’entreprise.
 
 178
-00:12:56,901 --> 00:12:58,235
-Non, "charcuteries" c'est avec un "C".
+00:12:08,602 --> 00:12:10,187
+Allô ?
 
 179
-00:12:58,944 --> 00:13:00,196
-Pardon.
+00:12:10,271 --> 00:12:11,731
+Allô, comment allez-vous ?
 
 180
-00:13:00,279 --> 00:13:01,864
-Continue. Très bien.
+00:12:11,897 --> 00:12:16,485
+Je suis Eliseo, directeur exécutif
+de Soluciones Integrales Basurto.
 
 181
-00:13:02,448 --> 00:13:05,409
-Pour retirer votre cadeau,
-qui est personnel et non transférable,
+00:12:18,028 --> 00:12:20,364
+Eh bien, j’en suis ravi.
 
 182
-00:13:05,868 --> 00:13:08,662
-nous vous demandons de vous rendre chez Migliora Deli,
+00:12:20,448 --> 00:12:23,284
+Ça vous irait
+d’avoir une réunion en présentiel
 
 183
-00:13:09,747 --> 00:13:13,667
-situé Coronel Ortiz 1327, Quilmes.
+00:12:23,367 --> 00:12:25,244
+pour qu’on vous explique notre fonctionnement ?
 
 184
+00:12:26,245 --> 00:12:28,664
+Parfait. Dans votre immeuble.
+Je trouve ça fantastique.
+
+185
+00:12:28,748 --> 00:12:31,083
+Vous me laissez une seconde,
+je vérifie l’agenda
+
+186
+00:12:31,167 --> 00:12:32,877
+parce qu’on est débordés.
+
+187
+00:12:36,130 --> 00:12:37,673
+« Cher adhérent,
+
+188
+00:12:39,300 --> 00:12:42,595
+c’est un plaisir pour nous de vous informer
+
+189
+00:12:42,720 --> 00:12:45,014
+que vous avez été sélectionné
+
+190
+00:12:45,181 --> 00:12:49,727
+comme gagnant d’un délicieux plateau
+de charcuterie pour quatre personnes
+
+191
+00:12:50,603 --> 00:12:55,274
+comprenant diverses charcuteries criollas
+de haute qualité ».
+
+192
+00:12:56,901 --> 00:12:58,819
+Non, « chacinados » ça s’écrit avec un C.
+
+193
+00:12:58,944 --> 00:13:00,196
+Ah, pardon.
+
+194
+00:13:00,279 --> 00:13:02,406
+Allez, allez, allez. Bien.
+
+195
+00:13:02,490 --> 00:13:05,743
+« Pour recevoir votre prix,
+qui est personnel et intransmissible,
+
+196
+00:13:05,826 --> 00:13:08,662
+nous vous demandons de vous présenter
+chez Fiambres Migliora,
+
+197
+00:13:09,747 --> 00:13:13,667
+situé au 1327, Coronel Ortiz, à Quilmes ».
+
+198
 00:13:14,710 --> 00:13:15,753
+
 - Quilmes ?
 - Oui.
 
-185
-00:13:15,836 --> 00:13:17,630
-C'est à une heure d'ici. Pourquoi si loin ?
-
-186
-00:13:17,713 --> 00:13:20,341
-J'ai besoin que la zone soit dégagée
-pour parler aux syndicats de copropriété.
-
-187
-00:13:20,424 --> 00:13:22,468
-- Toi, tu écris juste ce que je dis.
-- Oui.
-
-188
-00:13:22,551 --> 00:13:23,594
-On en était où ?
-
-189
-00:13:24,178 --> 00:13:30,392
-<i>"Nous vous demandons de vous rendre chez Migliora Deli,
-situé Coronel Ortiz 1327, Quilmes,</i>
-
-190
-00:13:30,476 --> 00:13:34,063
-<i>"mardi 9 octobre, à 19 h."</i>
-
-191
-00:13:34,146 --> 00:13:39,527
-"Mercredi 10 octobre, à 19 h."
-
-192
-00:13:39,610 --> 00:13:43,781
-"Jeudi 11 octobre, à 19 h."
-
-193
-00:13:43,864 --> 00:13:47,660
-<i>"Vendredi 12 octobre, à 19 h.</i>
-
-194
-00:13:48,244 --> 00:13:53,707
-<i>"Nous espérons que vous profiterez de ce cadeau bien mérité
-avec vos proches."</i>
-
-195
-00:13:56,210 --> 00:13:57,294
-C'est parfait.
-
-196
-00:14:06,637 --> 00:14:09,515
-Clarita, mon amour, souhaite-moi bonne chance.
-
-197
-00:14:09,598 --> 00:14:12,059
-Si ça marche,
-personne ne pourra m'arrêter.
-
-198
-00:14:25,155 --> 00:14:28,826
-Vous pensez sûrement que votre syndic
-vous coûte beaucoup d'argent
-
 199
-00:14:28,909 --> 00:14:30,911
-et qu'il passe ses journées à traîner.
+00:13:15,836 --> 00:13:17,713
+C’est à une heure de trajet.
+Pourquoi si loin ?
 
 200
-00:14:30,995 --> 00:14:32,872
-Et vous avez peut-être raison.
+00:13:17,797 --> 00:13:20,299
+J’ai besoin que la zone soit dégagée
+pour pouvoir parler avec les copropriétés.
 
 201
-00:14:32,955 --> 00:14:36,709
-La vérité, c'est que personne ne veut dépenser
-pour quelqu'un qui ne le mérite pas.
+00:13:20,424 --> 00:13:22,468
+Toi, écris ce que je te demande.
 
 202
-00:14:36,792 --> 00:14:38,460
-Cependant, rien ne sera réglé
+00:13:22,551 --> 00:13:23,552
+On en était où ?
 
 203
-00:14:38,544 --> 00:14:43,215
-en laissant un immeuble à la dérive,
-sans protection ni surveillance.
+00:13:23,677 --> 00:13:26,722
+« Nous vous demandons de vous présenter
+chez Fiambres Migliora,
 
 204
-00:14:43,299 --> 00:14:47,887
-Il se passe des choses horribles dans le monde
-quand personne ne regarde.
+00:13:26,847 --> 00:13:30,267
+situé au 1327, Coronel Ortiz, à Quilmes,
 
 205
-00:14:47,970 --> 00:14:49,972
-Des choses très horribles.
+00:13:30,476 --> 00:13:34,063
+le mardi 9 octobre
+à 19 h ».
 
 206
-00:14:50,639 --> 00:14:53,601
-En engageant Basurto Integral Solutions,
+00:13:34,146 --> 00:13:39,527
+« Le mercredi 10 octobre
+à 19 h ».
 
 207
-00:14:53,684 --> 00:14:56,520
-vous pouvez compter sur le sérieux
+00:13:39,610 --> 00:13:43,781
+« Le jeudi 11 octobre
+à 19 h ».
 
 208
-00:14:56,604 --> 00:15:01,025
-et le soutien d'un professionnel
-avec plus de 30 ans d'expérience
+00:13:43,864 --> 00:13:48,160
+« Le vendredi 12 octobre
+à 19 h.
 
 209
-00:15:01,108 --> 00:15:04,278
-dans la gestion d'immeubles de standing.
+00:13:48,244 --> 00:13:51,747
+Nous espérons que vous profiterez
+de ce cadeau bien mérité
 
 210
-00:15:04,361 --> 00:15:07,406
-Nos piliers sont l'efficacité, la sécurité,
+00:13:51,872 --> 00:13:53,666
+avec vos proches. »
 
 211
-00:15:08,032 --> 00:15:10,534
-la rapidité, la propreté, la confiance,
+00:13:56,210 --> 00:13:57,294
+C’est chouette.
 
 212
-00:15:10,618 --> 00:15:13,329
-et surtout, les faibles coûts.
+00:14:06,637 --> 00:14:08,013
+Clarita, mon amour,
 
 213
-00:15:13,412 --> 00:15:15,080
-Dans les dossiers que je vous ai donnés,
+00:14:08,556 --> 00:14:10,599
+souhaite-moi bonne chance parce que,
+si celle-ci marche,
 
 214
-00:15:15,164 --> 00:15:19,627
-vous pouvez comparer un budget
-spécialement conçu pour cet immeuble.
+00:14:10,683 --> 00:14:11,851
+plus rien ne m’arrête.
 
 215
-00:15:19,710 --> 00:15:23,213
-Comme vous pouvez le voir,
-la différence avec ce que vous dépensez aujourd'hui
+00:14:25,155 --> 00:14:28,826
+Vous pensez sûrement
+que votre gardien vous coûte une fortune
 
 216
-00:15:23,714 --> 00:15:25,007
-est considérable.
+00:14:28,909 --> 00:14:30,911
+et qu’il passe la journée à glander.
 
 217
-00:15:25,090 --> 00:15:27,384
-Oui, mais on perdrait
-les économies que vous proposez
+00:14:30,995 --> 00:14:32,872
+Et il se peut que vous ayez raison.
 
 218
-00:15:27,468 --> 00:15:29,678
-en indemnisant
-le syndic actuel.
+00:14:32,955 --> 00:14:35,124
+La vérité, c’est que personne ne veut
+dépenser un centime de trop
 
 219
-00:15:30,262 --> 00:15:32,348
-Garrido travaille ici
-depuis plus de 30 ans.
+00:14:35,249 --> 00:14:36,709
+pour quelqu’un qui ne le mérite pas.
 
 220
-00:15:33,349 --> 00:15:37,937
-Garrido n'aura pas à être indemnisé
-parce qu'il ne sera pas licencié.
+00:14:36,792 --> 00:14:38,460
+Cependant, on ne résout rien non plus
 
 221
-00:15:39,063 --> 00:15:40,272
-Il va démissionner.
+00:14:38,544 --> 00:14:43,132
+en laissant un immeuble à la dérive,
+sans protection ni supervision.
 
 222
-00:15:41,649 --> 00:15:42,816
-C'est simple.
+00:14:43,299 --> 00:14:47,845
+Il se passe des choses très vilaines
+dans le monde quand personne ne regarde.
 
 223
-00:15:42,900 --> 00:15:46,904
-Le syndicat de copropriété
-cesse d'avoir le syndic comme employé,
+00:14:47,970 --> 00:14:49,889
+Mais vraiment très vilaines.
 
 224
-00:15:46,987 --> 00:15:50,449
-et il sera absorbé par ma société,
-Basurto Integral Solutions.
+00:14:50,639 --> 00:14:53,601
+En faisant appel aux services
+de Soluciones Integrales Basurto,
 
 225
-00:15:50,532 --> 00:15:53,827
-Très bien, et qui
-va le convaincre de partir ? Vous ?
+00:14:53,684 --> 00:14:56,395
+vous pouvez compter sur tout le sérieux
 
 226
-00:15:54,411 --> 00:15:56,830
-Si c'est ce que vous décidez, oui, moi.
+00:14:56,604 --> 00:15:01,025
+et le soutien d’un professionnel
+avec plus de 30 ans d’expérience
 
 227
-00:15:57,331 --> 00:15:59,792
-- Et s'il ne veut pas rejoindre votre société ?
-- Il voudra.
+00:15:01,108 --> 00:15:04,278
+dans le management
+d’immeubles de standing.
 
 228
-00:15:59,875 --> 00:16:05,130
-Le pouvoir de persuasion
-est le point fort de ma société.
+00:15:04,361 --> 00:15:07,406
+Nos piliers sont
+efficacité, sécurité,
 
 229
-00:16:05,214 --> 00:16:08,759
-En plus, il gagnera un salaire
-bien plus élevé qu'ici.
+00:15:08,032 --> 00:15:10,534
+rapidité, propreté, confiance
 
 230
-00:16:09,677 --> 00:16:12,137
-Ne vous inquiétez pas. Étudiez la proposition.
+00:15:10,618 --> 00:15:13,329
+et, surtout, des coûts réduits.
 
 231
-00:16:12,221 --> 00:16:16,100
-Merci beaucoup pour votre écoute
-et appelez-moi quand vous serez prêts.
+00:15:13,412 --> 00:15:15,080
+Dans les dossiers que vous avez,
 
 232
-00:16:16,183 --> 00:16:17,643
-Bonne après-midi.
+00:15:15,164 --> 00:15:19,585
+vous pouvez vérifier le budget
+conçu spécialement pour cet immeuble.
 
 233
-00:16:17,726 --> 00:16:18,978
-- Au revoir.
-- Au revoir.
+00:15:19,752 --> 00:15:23,213
+Comme vous le verrez, la différence
+avec ce que vous dépensez actuellement
 
 234
-00:16:35,869 --> 00:16:36,870
-Miguel.
+00:15:23,714 --> 00:15:24,840
+est très importante.
 
 235
-00:16:36,954 --> 00:16:38,288
-Ah ! Salut.
+00:15:25,090 --> 00:15:27,343
+Oui, mais l’économie que vous proposez,
+on la perdrait
 
 236
-00:16:38,372 --> 00:16:39,456
-Viens une seconde.
+00:15:27,468 --> 00:15:29,678
+parce qu’il faudrait indemniser
+le gardien actuel.
 
 237
-00:16:46,797 --> 00:16:49,174
-Alors, le nouveau boulot ?
+00:15:30,137 --> 00:15:32,306
+Ça fait plus de 30 ans
+que Garrido travaille ici.
 
 238
-00:16:49,967 --> 00:16:51,885
-Ben, je ne sais pas.
+00:15:33,349 --> 00:15:36,727
+Le point, c’est que Garrido
+vous n’aurez pas à l’indemniser
 
 239
-00:16:52,428 --> 00:16:54,179
-Honnêtement, ce n'est pas ce que je pensais.
+00:15:36,810 --> 00:15:38,270
+parce qu’il ne sera pas licencié.
 
 240
-00:16:55,514 --> 00:16:57,975
-Avec Eliseo,
-rien n'est jamais comme tu crois.
+00:15:39,021 --> 00:15:40,230
+Il va démissionner.
 
 241
-00:16:58,934 --> 00:17:03,022
-Je me préparais pour être syndic.
-C'était mon rêve.
+00:15:41,649 --> 00:15:42,816
+C’est très simple.
 
 242
-00:17:03,105 --> 00:17:06,108
-Et maintenant, je ne sais pas,
-j'ai l'impression d'être un secrétaire
+00:15:42,900 --> 00:15:46,946
+La copropriété cesse d’avoir
+le gardien comme salarié,
 
 243
-00:17:06,191 --> 00:17:09,903
-qui répond au téléphone
-et qui distribue des tracts.
+00:15:47,029 --> 00:15:50,324
+et il est absorbé par mon entreprise,
+Soluciones Integrales Basurto.
 
 244
-00:17:09,987 --> 00:17:12,281
-Tu ne vois pas la vue d'ensemble.
+00:15:50,449 --> 00:15:53,702
+Bien sûr, et qui va
+le convaincre de démissionner ? Vous ?
 
 245
-00:17:13,157 --> 00:17:15,075
-Tu manques de vision.
+00:15:54,370 --> 00:15:56,872
+Si vous en décidez ainsi, oui. Ce sera le cas.
 
 246
-00:17:15,576 --> 00:17:16,994
-Je ne comprends pas.
+00:15:56,956 --> 00:15:59,750
+
+- Et s’il ne veut pas rejoindre votre entreprise ?
+- Il va rejoindre.
 
 247
-00:17:17,745 --> 00:17:20,581
-- Tu ne voulais pas être syndic ?
-- Si. Et alors ?
+00:15:59,875 --> 00:16:05,130
+Le pouvoir de conviction est
+la principale caractéristique de mon entreprise.
 
 248
-00:17:20,664 --> 00:17:23,375
-Ben, pour être syndic,
-ton patron doit partir.
+00:16:05,214 --> 00:16:08,968
+Et, en plus, il va gagner un salaire
+bien supérieur à celui que vous lui payez ici.
 
 249
-00:17:24,793 --> 00:17:26,295
-Tu es dans la gueule du loup.
+00:16:09,677 --> 00:16:12,137
+Soyez tranquilles. Analysez la proposition.
 
 250
-00:17:27,337 --> 00:17:32,217
-Tu as accès à des infos sensibles
-qui peuvent nous aider tous les deux.
+00:16:12,221 --> 00:16:14,348
+Merci beaucoup de m’avoir écouté,
 
 251
-00:17:33,844 --> 00:17:36,972
-Tu veux que j'espionne Eliseo ?
+00:16:14,431 --> 00:16:16,100
+et appelez-moi quand vous voudrez.
 
 252
-00:17:37,056 --> 00:17:38,557
-Non, je ne veux rien.
+00:16:16,183 --> 00:16:17,518
+Très bon après-midi.
 
 253
-00:17:39,099 --> 00:17:42,811
-Je te donne un conseil.
-À toi de voir si tu le prends ou pas.
+00:16:17,726 --> 00:16:19,006
+
+- Bon après-midi.
+- Bon après-midi.
 
 254
-00:17:47,524 --> 00:17:50,277
-Tu vas rater ton bus. Vas-y. À bientôt.
+00:16:35,577 --> 00:16:38,288
+
+- Miguel.
+- Ah, bonjour.
 
 255
-00:18:29,942 --> 00:18:33,278
-Eliseo, tu m'as fait peur.
-Qu'est-ce que tu fais ici ?
+00:16:38,372 --> 00:16:39,415
+Viens une minute.
 
 256
-00:18:33,779 --> 00:18:35,948
-Depuis combien de temps
-on se connaît, Garrido ?
+00:16:46,797 --> 00:16:49,341
+Alors ? Comment ça se passe, le nouveau boulot ?
 
 257
-00:18:36,031 --> 00:18:37,116
-Plus de 30 ans, non ?
+00:16:49,967 --> 00:16:52,386
+Ah, j’en sais rien. Je ne sais pas.
 
 258
-00:18:37,616 --> 00:18:39,576
-Oui, 30 ans. Toute une vie.
+00:16:52,469 --> 00:16:54,179
+Franchement, ce n’était pas ce que j’attendais.
 
 259
-00:18:40,119 --> 00:18:42,079
-Et on s'est toujours bien entendus, non ?
+00:16:55,514 --> 00:16:57,975
+Avec Eliseo,
+rien n’est jamais ce qu’on attend.
 
 260
-00:18:43,872 --> 00:18:45,165
-Oui, bien sûr.
+00:16:58,934 --> 00:17:01,603
+Mais je me prépare
+à devenir gardien.
 
 261
-00:18:46,291 --> 00:18:49,128
-- Pourquoi ? Il s'est passé quelque chose ?
-- Non, rien.
+00:17:01,687 --> 00:17:03,022
+C’était mon rêve.
 
 262
-00:18:49,753 --> 00:18:51,630
-J'ai une proposition pour toi.
+00:17:03,105 --> 00:17:06,191
+Et maintenant je ne sais pas,
+je me sens secrétaire administratif
 
 263
-00:18:52,714 --> 00:18:54,883
-Il fait froid dehors. On rentre ?
+00:17:06,275 --> 00:17:09,820
+qui répond au téléphone
+et distribue des prospectus.
 
 264
-00:18:54,967 --> 00:18:56,552
-- Oui.
-- D'accord.
+00:17:09,987 --> 00:17:12,281
+Je crois
+que tu ne regardes pas l’ensemble.
 
 265
-00:18:58,011 --> 00:18:59,096
-C'est très simple.
+00:17:13,157 --> 00:17:15,492
+Il te manque une vision d’avenir.
 
 266
-00:18:59,179 --> 00:19:02,641
-Tu donnes ta lettre de démission
-et je t'embauche dans ma société.
+00:17:15,868 --> 00:17:16,910
+Je ne comprends pas.
 
 267
-00:19:02,724 --> 00:19:05,978
-Dis-moi, Eliseo, pourquoi j'accepterais ça ?
+00:17:17,703 --> 00:17:20,497
+
+- Tu ne m’as pas dit que tu voulais être gardien ?
+- Oui. Et alors ?
 
 268
-00:19:06,061 --> 00:19:08,438
-Parce que le syndicat de copropriété
-a déjà décidé.
+00:17:20,581 --> 00:17:23,292
+Eh bien pour être gardien,
+il faut que ton patron tombe.
 
 269
-00:19:08,522 --> 00:19:10,774
-Un licenciement pour juste motif serait pire.
+00:17:24,793 --> 00:17:26,295
+Toi, tu es dans la gueule du loup.
 
 270
-00:19:10,858 --> 00:19:12,901
-- Il n'y a pas de juste motif.
-- Il n'y en a pas ?
+00:17:27,337 --> 00:17:29,840
+Tu as accès à des informations très sensibles
 
 271
-00:19:12,985 --> 00:19:14,611
-- Mais tu me l'as dit toi-même.
-- Quoi ?
+00:17:29,965 --> 00:17:32,217
+qui peuvent nous aider tous les deux.
 
 272
-00:19:19,449 --> 00:19:20,450
-Regarde.
+00:17:33,802 --> 00:17:36,972
+Vous voulez que… que j’espionne Eliseo ?
 
 273
-00:19:20,868 --> 00:19:23,328
-L'article 24
-de la convention collective
+00:17:37,056 --> 00:17:38,557
+Non, moi je ne veux rien.
 
 274
-00:19:23,412 --> 00:19:27,499
-dit que le syndic
-ne peut occuper son logement de fonction,
+00:17:39,099 --> 00:17:42,811
+Je te donne un tuyau.
+À toi de voir si tu veux le prendre ou pas.
 
 275
-00:19:27,583 --> 00:19:30,711
-je cite, "qu'avec sa femme et ses enfants,
+00:17:47,524 --> 00:17:48,650
+Tu vas rater ton bus.
 
 276
-00:19:30,794 --> 00:19:35,883
-"étant strictement interdit de loger,
-même temporairement,
+00:17:49,068 --> 00:17:50,444
+Allez. À plus.
 
 277
-00:19:36,425 --> 00:19:39,720
-"des personnes qui ne sont pas
-de sa famille proche."
+00:18:29,942 --> 00:18:33,654
+Eliseo, tu m’as fait peur. Qu’est-ce que tu fais là ?
 
 278
-00:19:39,803 --> 00:19:42,639
-À Rio, tu m'as dit
-que tu as un garçon qui vit chez toi.
+00:18:33,779 --> 00:18:35,948
+Ça fait combien d’années
+qu’on se connaît, Garrido ?
 
 279
-00:19:44,933 --> 00:19:46,810
-- Tu as fait des courses, Garrido ?
-- Oui.
+00:18:36,031 --> 00:18:37,533
+Plus de 30, non ?
 
 280
-00:19:46,894 --> 00:19:48,478
-- J'ai acheté cette chemise.
-- D'accord.
+00:18:37,616 --> 00:18:39,326
+Oui, 30 ans, oui. Une vie.
 
 281
-00:19:48,562 --> 00:19:51,565
-Et pour Claudito,
-un Christ qui change de couleur, regarde.
+00:18:40,077 --> 00:18:41,995
+Et on s’est toujours bien entendu, toi et moi. Non ?
 
 282
-00:19:52,774 --> 00:19:54,026
-C'est qui, Claudito ?
+00:18:43,872 --> 00:18:45,165
+Oui, évidemment.
 
 283
-00:19:54,109 --> 00:19:57,404
-Le fils d'un ami de Cipolletti
-qui est venu à Buenos Aires pour étudier.
+00:18:46,291 --> 00:18:49,545
+
+- Mais pourquoi ? Il s’est passé quelque chose ?
+- Rien. Non, non, non.
 
 284
-00:19:57,487 --> 00:19:59,698
-Il loge chez moi.
-Je l'aime comme un fils.
+00:18:49,628 --> 00:18:51,296
+J’ai une proposition à te faire.
 
 285
-00:20:00,282 --> 00:20:03,327
-Tu ne dois pas tellement l'aimer
-si c'est ça le cadeau que tu lui ramènes.
+00:18:52,714 --> 00:18:54,800
+Il fait frisquet ici, dis donc. On rentre ?
 
 286
-00:20:05,120 --> 00:20:06,705
-Qu'est-ce que ça a à voir ?
+00:18:54,967 --> 00:18:56,468
+
+- Oui.
+- Allez.
 
 287
-00:20:06,788 --> 00:20:08,707
-Claudito est venu étudier.
-Il n'a pas où aller.
+00:18:57,970 --> 00:18:59,054
+Mais c’est très simple.
 
 288
-00:20:08,790 --> 00:20:09,875
-Je lui ai juste rendu service.
+00:18:59,179 --> 00:19:02,641
+Tu présentes ta démission et,
+immédiatement, je t’embauche dans mon entreprise.
 
 289
-00:20:09,958 --> 00:20:14,504
-Garrido, un ami n'est pas un parent.
-La convention est claire.
+00:19:02,766 --> 00:19:06,103
+Mais, attends, Eliseo,
+pourquoi j’accepterais un truc pareil ?
 
 290
-00:20:15,130 --> 00:20:19,885
-En plus, ça fait combien de temps
-que Claudito est chez toi ?
+00:19:06,228 --> 00:19:08,438
+Parce que la copropriété
+a déjà décidé.
 
 291
-00:20:20,552 --> 00:20:22,012
-Un an, à peu près.
+00:19:08,522 --> 00:19:10,774
+Ce serait pire qu’ils te virent avec juste cause.
 
 292
-00:20:24,181 --> 00:20:26,725
-Alors c'est pire
-que ce que j'imaginais, Garrido.
+00:19:10,858 --> 00:19:12,738
+
+- Mais il n’y a pas de juste cause.
+- Comment ça, non ?
 
 293
-00:20:27,351 --> 00:20:30,604
-Tu ne peux pas utiliser ta maison comme un hôtel.
+00:19:12,776 --> 00:19:14,570
+
+- C’est toi qui me l’as raconté.
+- Hein ?
 
 294
-00:20:30,687 --> 00:20:32,105
-C'est motif de licenciement.
+00:19:19,449 --> 00:19:20,826
+Regarde.
 
 295
-00:20:34,274 --> 00:20:36,985
-Garrido, je suis contente de t'avoir trouvé.
+00:19:20,909 --> 00:19:23,328
+L’article 24
+de la Convention collective de travail
 
 296
-00:20:37,069 --> 00:20:38,946
-- Pardon d'interrompre.
-- Non, je t'en prie.
+00:19:23,412 --> 00:19:24,788
+dit que le gardien
 
 297
-00:20:39,446 --> 00:20:42,491
-Tu peux sortir Pelusa ? Il est tard.
+00:19:24,955 --> 00:19:27,457
+ne peut occuper son logement que
 
 298
-00:20:47,204 --> 00:20:53,335
-Je te propose une réorganisation.
-Tu feras toujours le même travail.
+00:19:27,583 --> 00:19:30,711
+et je cite textuellement : « avec son épouse et ses enfants,
 
 299
-00:20:54,086 --> 00:20:56,755
-- Je garderai le même salaire ?
-- Non.
+00:19:30,794 --> 00:19:36,341
+lui étant interdit d’héberger,
+même temporairement,
 
 300
-00:20:56,838 --> 00:21:00,050
-Sous mon aile,
-tu gagneras plus, Garrido.
+00:19:36,425 --> 00:19:39,720
+des personnes étrangères au noyau familial ».
 
 301
-00:21:00,133 --> 00:21:01,677
-Tout le monde y gagne.
+00:19:39,803 --> 00:19:42,639
+Et toi, à Rio, tu m’as raconté
+que tu as un jeune qui vit chez toi.
 
 302
-00:21:01,760 --> 00:21:03,971
-Le syndicat de copropriété
-économise les charges sociales.
+00:19:44,933 --> 00:19:46,852
+
+- Tu es allé faire des courses, Garrido ?
+- Oui.
 
 303
-00:21:04,054 --> 00:21:07,474
-Tu as vu l'argent
-que le syndicat te prend sur ton salaire ?
+00:19:46,935 --> 00:19:48,478
+
+- J’ai acheté ce tee-shirt.
+- Regarde.
 
 304
-00:21:07,557 --> 00:21:09,268
-Ça ira direct dans ta poche.
+00:19:48,562 --> 00:19:51,690
+Et un Christ qui change de couleur
+pour Claudito. Regarde comme il est joli.
 
 305
-00:21:09,893 --> 00:21:14,648
-Et si tu additionnes les bénéfices,
-toutes les primes, bonus et récompenses,
+00:19:52,274 --> 00:19:53,942
+C’est qui, Claudito ?
 
 306
-00:21:15,148 --> 00:21:17,192
-tu t'en sortiras bien, Garrido.
+00:19:54,026 --> 00:19:55,861
+C’est le fils d’un ami à moi de Cipolletti
 
 307
-00:21:19,736 --> 00:21:22,823
-Ça ne me déplairait pas de gagner un peu plus.
-C'est dur en ce moment.
+00:19:55,944 --> 00:19:58,530
+qui est venu à Buenos Aires étudier
+et qui loge chez moi.
 
 308
-00:21:22,906 --> 00:21:25,784
-En plus, j'aurais toujours un boulot
-comme salarié.
+00:19:58,655 --> 00:19:59,698
+Je l’aime comme un fils.
 
 309
-00:21:25,867 --> 00:21:26,910
-Pas avec moi.
+00:19:59,781 --> 00:20:02,826
+Tu ne dois pas beaucoup l’aimer
+avec le cadeau que tu vas lui faire, non ?
 
 310
-00:21:26,994 --> 00:21:31,164
+00:20:05,120 --> 00:20:06,705
+Non, mais attends, quel rapport ?
+
+311
+00:20:06,788 --> 00:20:08,790
+Claudito est venu étudier.
+Il n’a nulle part où aller.
+
+312
+00:20:08,874 --> 00:20:09,875
+Je lui rends service.
+
+313
+00:20:09,958 --> 00:20:12,836
+Mais Garrido, un ami, ce n’est pas la famille.
+
+314
+00:20:13,003 --> 00:20:14,671
+La convention est très claire.
+
+315
+00:20:15,130 --> 00:20:16,131
+En plus, ça fait combien de temps
+
+316
+00:20:16,215 --> 00:20:19,843
+que Claudito dort
+dans la loge, Garrido ?
+
+317
+00:20:20,469 --> 00:20:21,970
+Un an, à peu près.
+
+318
+00:20:24,181 --> 00:20:27,142
+Alors c’est bien plus grave
+que je ne le pensais, Garrido.
+
+319
+00:20:27,351 --> 00:20:30,604
+Tu ne peux pas utiliser le logement
+comme s’il s’agissait d’un hôtel.
+
+320
+00:20:30,687 --> 00:20:32,064
+C’est un motif de licenciement.
+
+321
+00:20:34,274 --> 00:20:37,069
+Ah, Garrido, quelle chance de vous trouver.
+
+322
+00:20:37,152 --> 00:20:38,946
+
+- Pardon de déranger.
+- Mais pas du tout.
+
+323
+00:20:39,071 --> 00:20:42,407
+Vous pouvez sortir Pelusa
+que je suis en retard ?
+
+324
+00:20:47,204 --> 00:20:50,082
+Je propose de faire une restructuration.
+
+325
+00:20:50,165 --> 00:20:53,085
+C’est-à-dire que tu continuerais
+à faire le même travail qu’avant.
+
+326
+00:20:53,460 --> 00:20:56,755
+
+- D’accord. Et je garderais le même salaire ?
+- Non. Non, non, non.
+
+327
+00:20:56,880 --> 00:21:00,050
+Sous mon aile,
+tu vas gagner beaucoup plus, Garrido.
+
+328
+00:21:00,133 --> 00:21:01,677
+Et le bénéfice est double.
+
+329
+00:21:01,885 --> 00:21:03,845
+La copropriété économise
+les charges sociales.
+
+330
+00:21:03,971 --> 00:21:07,516
+Et tu vois cet argent
+que le syndicat te retire de ton salaire tous les mois ?
+
+331
+00:21:07,599 --> 00:21:09,142
+Il ira directement dans ta poche.
+
+332
+00:21:09,893 --> 00:21:11,520
+Et si tu additionnes les avantages,
+
+333
+00:21:11,603 --> 00:21:14,731
+toutes les primes,
+les compléments, les bonus,
+
+334
+00:21:15,357 --> 00:21:17,192
+tu vas te faire un bon paquet, Garrido.
+
+335
+00:21:19,736 --> 00:21:22,823
+Et ça ne me ferait pas de mal
+de gagner un peu plus, vu la situation.
+
+336
+00:21:22,906 --> 00:21:25,742
+Et en plus je continuerais
+à avoir un travail salarié.
+
+337
+00:21:25,826 --> 00:21:26,827
+Là, non.
+
+338
+00:21:26,952 --> 00:21:31,039
 Non, parce que mes employés
 sont des prestataires de services.
 
-311
-00:21:31,248 --> 00:21:33,583
-Des soi-disant entrepreneurs.
+339
+00:21:31,248 --> 00:21:34,126
+Ce sont les fameux « entrepreneurs ».
 
-312
-00:21:34,209 --> 00:21:39,298
-En plus, le mot "salarié"
-veut dire soumission.
+340
+00:21:34,209 --> 00:21:40,132
+En plus, l’expression « relation de dépendance »
+indique la soumission, tu comprends ?
 
-313
-00:21:39,381 --> 00:21:40,382
-Tu vois ?
+341
+00:21:40,215 --> 00:21:43,927
+Alors que le mot « entrepreneur »
+décrète l’autosuffisance.
 
-314
-00:21:40,465 --> 00:21:43,969
-Alors que le mot "entrepreneur"
-veut dire autonomie.
+342
+00:21:44,052 --> 00:21:45,470
+C’est complètement différent.
 
-315
-00:21:44,052 --> 00:21:45,679
-C'est complètement différent.
-
-316
-00:21:45,762 --> 00:21:48,724
+343
+00:21:45,554 --> 00:21:48,724
 Pas besoin de me répondre maintenant.
-Ce n'est pas pressé.
+Il n’y a pas d’urgence.
 
-317
-00:21:48,807 --> 00:21:50,726
-Mais j'ai quand même besoin de ta réponse demain.
+344
+00:21:48,849 --> 00:21:51,435
+Par contre, j’aurais besoin
+de ta réponse pour demain.
 
-318
-00:21:51,560 --> 00:21:52,686
-- D'accord ?
-- Oui.
+345
+00:21:51,560 --> 00:21:52,561
+D’accord ?
 
-319
-00:21:52,769 --> 00:21:55,355
-Salut, ma belle. Salut, mon amour.
-Ramène-la, la pauvre.
+346
+00:21:52,769 --> 00:21:54,980
+Au revoir, mon petit.
+Au revoir, mon amour. Emmène-le, le pauvre.
 
-320
-00:22:12,706 --> 00:22:15,584
-Je n'en reviens pas.
-Vous êtes les petites-filles du général Salustri ?
+347
+00:22:12,706 --> 00:22:13,707
+Non, je n’en reviens pas.
 
-321
-00:22:17,085 --> 00:22:18,337
+348
+00:22:13,790 --> 00:22:15,542
+Vous êtes
+les petites-filles du général Salustri ?
+
+349
+00:22:17,085 --> 00:22:19,004
 Paulita et Laurita ?
 
-322
-00:22:19,087 --> 00:22:20,464
-Je n'en reviens pas.
+350
+00:22:19,129 --> 00:22:20,464
+Oh, je vais mourir !
 
-323
+351
 00:22:21,214 --> 00:22:22,632
-Vous avez tellement grandi !
+Comme vous avez grandi !
 
-324
-00:22:22,716 --> 00:22:25,552
-Je vous connais depuis que vous êtes petites.
-Vous êtes magnifiques.
+352
+00:22:22,716 --> 00:22:26,053
+Je vous connais depuis que vous étiez
+toutes petites comme ça, et vous êtes magnifiques.
 
-325
-00:22:26,178 --> 00:22:29,473
-C'est joli.
-Alors vous vivez chez Papi ?
+353
+00:22:26,178 --> 00:22:27,637
+Quelle merveille.
 
-326
-00:22:29,556 --> 00:22:30,599
-Oui.
+354
+00:22:27,804 --> 00:22:29,473
+Quoi, vous vivez
+chez votre grand-père ?
 
-327
-00:22:30,682 --> 00:22:31,725
-Oui.
+355
+00:22:29,556 --> 00:22:30,557
 
-328
-00:22:32,267 --> 00:22:35,228
-J'étais si triste quand vos grands-parents
-sont partis en maison de retraite.
+- Oui.
+- Oui.
 
-329
-00:22:35,312 --> 00:22:36,813
+356
+00:22:30,724 --> 00:22:32,184
+Ah oui.
+
+357
+00:22:32,267 --> 00:22:35,187
+Je suis resté très triste
+quand on a placé les grands-parents.
+
+358
+00:22:35,312 --> 00:22:37,314
 Vous allez les voir ?
 
-330
-00:22:37,356 --> 00:22:39,107
+359
+00:22:37,397 --> 00:22:39,107
+
 - Oui.
-- On allait justement les voir.
+- On va les voir.
 
-331
-00:22:40,108 --> 00:22:42,944
-C'est important. C'est super.
+360
+00:22:39,191 --> 00:22:41,360
+Ah, comme c’est important, ça.
 
-332
+361
+00:22:41,610 --> 00:22:42,903
+C’est merveilleux.
+
+362
 00:22:43,028 --> 00:22:44,529
-Voilà l'ascenseur.
+Voilà l’ascenseur.
 
-333
+363
 00:22:47,949 --> 00:22:49,493
 Quel joli voyage.
 
-334
-00:22:53,455 --> 00:22:56,625
-- Et Papi, il va comment ?
-- Bien. Comme d'habitude.
+364
+00:22:53,455 --> 00:22:56,541
 
-335
+- Et comment il va, le grand-père ?
+- Bien. Comme toujours.
+
+365
 00:22:58,126 --> 00:23:02,589
-Dernièrement, il avait l'air un peu perdu.
-Il me disait plein de trucs bizarres.
+Ces derniers temps, je le voyais un peu perdu,
+comme s’il disait n’importe quoi.
 
-336
-00:23:03,673 --> 00:23:06,009
-Il dit ce que beaucoup de lâches
-ont peur de dire.
+366
+00:23:03,673 --> 00:23:05,926
+Il disait ce que beaucoup de lâches
+n’osent pas dire.
 
-337
+367
 00:23:06,093 --> 00:23:08,595
-J'aimerais que plus d'hommes
-aient les couilles de mon grand-père.
+J’aimerais qu’il y ait plus d’hommes
+avec les couilles de mon grand-père.
 
-338
-00:23:12,933 --> 00:23:17,687
-Bon, si vous avez besoin de quelque chose, vous sonnez.
-Je suis toujours là, d'accord ?
+368
+00:23:12,933 --> 00:23:16,019
+Bon, pour quoi que ce soit,
+vous sonnez chez moi.
 
-339
-00:23:19,022 --> 00:23:21,024
-D'accord, à bientôt.
+369
+00:23:16,144 --> 00:23:17,729
+Je suis toujours là, d’accord ?
 
-340
+370
+00:23:19,022 --> 00:23:21,191
+Bon. Au revoir.
+
+371
 00:23:21,983 --> 00:23:23,402
 Bonne journée.
 
-341
+372
 00:23:26,029 --> 00:23:27,406
-Regarde les jumelles.
+Ah, regarde les petites jumelles.
 
-342
-00:23:28,240 --> 00:23:30,283
-Elles sont plus militaristes que Papi.
+373
+00:23:28,240 --> 00:23:29,866
+Elles sont plus militaires que le grand-père.
 
-343
-00:23:30,367 --> 00:23:31,410
-Hein !
-
-344
+374
 00:23:34,538 --> 00:23:36,331
-Qu'est-ce qu'il y a ? T'as l'air fâché.
+Qu’est-ce qu’il y a ? Je te trouve un peu tendu.
 
-345
-00:23:37,749 --> 00:23:39,835
-Je crois que tu vas trop loin, Eliseo.
+375
+00:23:37,749 --> 00:23:39,709
+Je crois
+que tu es en train de déconner grave, Eliseo.
 
-346
-00:23:41,169 --> 00:23:43,130
-Tu as distribué des tracts
+376
+00:23:41,211 --> 00:23:43,088
+Tu as distribué des prospectus
 dans mon immeuble ?
 
-347
-00:23:43,213 --> 00:23:45,549
-Et alors ? Il n'y a rien de mal à ça.
+377
+00:23:43,213 --> 00:23:45,590
+Et alors, quel rapport ?
+Il n’y a rien de mal à ça.
 
-348
-00:23:45,632 --> 00:23:48,301
-Je propose des alternatives
-aux syndicats de copropriété.
+378
+00:23:45,674 --> 00:23:48,135
+Je propose
+des alternatives aux copropriétés.
 
-349
-00:23:49,052 --> 00:23:53,849
-Ils sont libres de choisir,
-et je suis libre de lancer un nouveau business.
+379
+00:23:49,052 --> 00:23:51,346
+Elles ont
+toute la liberté du monde pour choisir,
 
-350
+380
+00:23:51,430 --> 00:23:53,849
+et moi, toute la liberté du monde
+pour entreprendre.
+
+381
 00:23:53,932 --> 00:23:55,976
-Je ne force personne à rien.
+Je ne mets un flingue
+sur la tête de personne, hein.
 
-351
-00:23:56,643 --> 00:24:00,480
-Beaucoup de gens du quartier pensent
-que tu es un salaud sans morale.
+382
+00:23:56,643 --> 00:23:58,061
+Beaucoup dans le quartier pensent
 
-352
+383
+00:23:58,145 --> 00:24:00,439
+que tu es un fils de pute
+qui n’a aucun code.
+
+384
 00:24:00,564 --> 00:24:02,983
-Et toi tu fais partie de ces gens, hein ?
+Waouh. Et parmi ces « beaucoup »,
+tu y es ou pas ?
 
-353
-00:24:03,066 --> 00:24:07,988
-Pas besoin de pointer du doigt.
-Ils sont nombreux. C'est un ressenti général.
+385
+00:24:03,066 --> 00:24:05,277
+Pas besoin de préciser. Ils sont nombreux.
 
-354
+386
+00:24:05,402 --> 00:24:07,946
+C’est comme un sentiment général.
+
+387
 00:24:08,071 --> 00:24:12,409
-Ces gens savent-ils
-que tout le monde y gagne avec moi ?
+Ah bon. Et ces nombreux
+savent qu’avec moi tout le monde y gagne ?
 
-355
-00:24:13,452 --> 00:24:16,246
-Ou bien c'est juste les cervelles molles
-qui ne savent pas faire un calcul ?
+388
+00:24:13,452 --> 00:24:16,037
+Ou ce sont ces têtes de singe
+qui ne savent pas compter ?
 
-356
-00:24:16,746 --> 00:24:19,624
-Je veux dire, j'adore te voir progresser.
+389
+00:24:16,746 --> 00:24:19,583
+Attention, j’adore te voir progresser, hein.
 
-357
-00:24:19,708 --> 00:24:23,170
-Je te le dis pour ton bien
-parce que tu peux encore t'arrêter.
+390
+00:24:19,708 --> 00:24:21,543
+Je te le dis pour ton bien, seulement,
 
-358
-00:24:23,712 --> 00:24:26,965
-Si tu continues comme ça,
-ça peut mal finir pour toi.
+391
+00:24:21,626 --> 00:24:23,587
+parce que tu as encore le temps d’arrêter.
 
-359
-00:24:27,048 --> 00:24:31,136
-J'adore voir
-ceux qui se mettent sur mon chemin.
+392
+00:24:23,712 --> 00:24:26,923
+Parce que si tu continues comme ça,
+tu peux très mal finir.
 
-360
-00:24:32,220 --> 00:24:35,724
+393
+00:24:27,090 --> 00:24:31,303
+J’adore voir
+ceux qui se mettent en travers de ma route.
+
+394
+00:24:32,220 --> 00:24:35,682
 Rien ne me rend plus heureux
-que de voir les gens échouer.
+que de voir des gens unis échouer.
 
-361
+395
 00:24:37,809 --> 00:24:38,810
 Salut, Gómez.
 
-362
-00:25:04,669 --> 00:25:06,796
+396
+00:25:04,669 --> 00:25:06,755
+
 - Ça va, Morales ?
 - Ça va, Eliseo ?
 
-363
-00:25:06,880 --> 00:25:08,173
+397
+00:25:06,880 --> 00:25:08,089
+
 - Tout va bien ?
 - Bien. Et toi ?
 
-364
-00:25:08,256 --> 00:25:09,299
+398
+00:25:08,173 --> 00:25:09,216
 Bien.
 
-365
-00:25:16,014 --> 00:25:17,265
-Alors, ça fait quoi ?
-
-366
-00:25:18,141 --> 00:25:19,351
-- Bien ? Juste...
-- Oui.
-
-367
-00:25:19,434 --> 00:25:21,645
-Bouge comme tu bouges d'habitude.
-
-368
-00:25:22,646 --> 00:25:23,647
-Hein ?
-
-369
-00:25:24,189 --> 00:25:25,482
-- Oui.
-- C'est confortable ?
-
-370
-00:25:25,565 --> 00:25:27,067
-- Oui.
-- Tourne-toi.
-
-371
-00:25:27,734 --> 00:25:31,112
-- Laisse-moi voir.
-- C'est léger. J'aime bien.
-
-372
-00:25:31,196 --> 00:25:32,781
-- C'est léger.
-- Oui, oui.
-
-373
-00:25:32,864 --> 00:25:35,283
-Tu représentes une marque, Garrido.
-
-374
-00:25:35,367 --> 00:25:40,038
-Cet uniforme doit être propre et repassé
-en permanence, comme il faut.
-
-375
-00:25:40,121 --> 00:25:41,540
-- Tu peux compter là-dessus.
-- D'accord ?
-
-376
-00:25:41,623 --> 00:25:43,458
-- Pas de problème. Il est super.
-- D'accord.
-
-377
-00:25:43,542 --> 00:25:45,544
-- Salut. À la prochaine.
-- À le mois prochain.
-
-378
-00:25:45,627 --> 00:25:46,628
-Bonne journée.
-
-379
-00:25:48,588 --> 00:25:49,589
-C'est qui ?
-
-380
-00:25:50,090 --> 00:25:52,801
-C'est Muñoz. Il nettoie le château d'eau.
-
-381
-00:25:52,884 --> 00:25:54,302
-Et il s'en va comme ça ?
-
-382
-00:25:55,011 --> 00:25:56,096
-Comme ça, quoi ?
-
-383
-00:25:56,179 --> 00:25:59,015
-- Il ne te laisse pas de droit d'entrée ?
-- Quoi ?
-
-384
-00:26:00,392 --> 00:26:05,313
-Garrido, tu as tant à apprendre.
-Je n'y crois pas.
-
-385
-00:26:05,397 --> 00:26:12,362
-Aucun prestataire de cet immeuble
-ne peut partir sans payer le droit d'entrée.
-
-386
-00:26:13,989 --> 00:26:17,951
-J'en garde 30 % et toi tu gardes 70 % de cet argent.
-
-387
-00:26:19,244 --> 00:26:21,788
-Et s'il ne veut pas payer ?
-
-388
-00:26:21,871 --> 00:26:23,873
-Il ne travaille plus jamais.
-
-389
-00:26:23,957 --> 00:26:27,961
-Mais tous ces types le savent.
-Les syndics doivent toucher quelque chose.
-
-390
-00:26:28,044 --> 00:26:31,006
-Évidemment, ils te roulaient,
-mais c'est fini.
-
-391
-00:26:31,089 --> 00:26:34,092
-Maintenant je suis là pour te couvrir.
-Ta vie a changé.
-
-392
-00:26:34,926 --> 00:26:35,927
-Allez !
-
-393
-00:26:38,346 --> 00:26:41,391
-Dis-moi, l'immeuble
-a actuellement un syndic ?
-
-394
-00:26:42,475 --> 00:26:44,561
-D'accord. Depuis combien de temps il y est ?
-
-395
-00:26:45,770 --> 00:26:47,689
-Ah ! Ça fait longtemps.
-
-396
-00:26:47,772 --> 00:26:50,150
-Non, on s'occupe de tout.
-
-397
-00:26:50,233 --> 00:26:53,361
-Vous êtes très aimable.
-Merci de nous avoir contactés.
-
-398
-00:26:53,445 --> 00:26:55,405
-On se parle bientôt. Au revoir.
-
 399
-00:26:57,240 --> 00:26:58,575
-C'est incroyable.
+00:25:16,014 --> 00:25:17,265
+Comment tu le sens ?
 
 400
-00:26:58,658 --> 00:27:00,910
-Je t'ai décroché cinq rendez-vous
-avec des syndicats de copropriété.
+00:25:18,141 --> 00:25:19,351
+
+- Bien, oui.
+- Bien ? Reproduis
 
 401
-00:27:00,994 --> 00:27:02,579
-- Bien.
-- Alors, Garrido ?
+00:25:19,434 --> 00:25:21,645
+les mouvements
+que tu fais naturellement.
 
 402
-00:27:02,662 --> 00:27:04,873
-Comment tu crois que ça s'est passé ?
+00:25:22,646 --> 00:25:24,064
+Hein ?
 
 403
-00:27:05,498 --> 00:27:08,918
-- Je ne sais pas. Tu l'as convaincu ?
-- Bien sûr que je l'ai convaincu.
+00:25:24,189 --> 00:25:25,357
+
+- Oui.
+- Tu le sens confortable ?
 
 404
-00:27:09,002 --> 00:27:10,545
-J'y crois pas !
+00:25:25,482 --> 00:25:27,526
+
+- Oui, oui, oui.
+- Allez, tourne comme ça.
 
 405
-00:27:10,629 --> 00:27:13,131
-Et moi je n'arrive pas à croire
-que tu doutes de mes capacités.
+00:25:27,609 --> 00:25:31,071
+
+- Voilà, voyons.
+- Non, ça va… Il est léger. J’aime bien.
 
 406
-00:27:13,214 --> 00:27:16,384
-Je dois dire
-que si tu ne crois pas complètement au projet,
+00:25:31,196 --> 00:25:32,572
+
+- Il est léger.
+- Oui, oui, oui.
 
 407
-00:27:16,468 --> 00:27:18,928
-tu dois t'écarter, Miguel.
-C'est clair ?
+00:25:32,864 --> 00:25:35,158
+Tu sais que maintenant
+tu représentes une marque, Garrido.
 
 408
-00:27:19,512 --> 00:27:20,805
+00:25:35,367 --> 00:25:38,912
+Donc cet uniforme
+doit toujours être propre, repassé,
+
+409
+00:25:38,995 --> 00:25:40,038
+comme il faut.
+
+410
+00:25:40,121 --> 00:25:41,540
+
+- Comptez là-dessus.
+- D’accord ?
+
+411
+00:25:41,623 --> 00:25:43,223
+
+- Aucun problème. Il est super.
+- Bon.
+
+412
+00:25:43,291 --> 00:25:45,377
+
+- Salut. À la prochaine.
+- À mois prochain.
+
+413
+00:25:45,460 --> 00:25:46,628
+Bonne continuation.
+
+414
+00:25:48,630 --> 00:25:49,631
+C’est qui, lui ?
+
+415
+00:25:50,090 --> 00:25:52,551
+Muñoz. Il s’occupe
+du nettoyage du réservoir d’eau.
+
+416
+00:25:52,884 --> 00:25:54,135
+Et il s’en va comme ça ?
+
+417
+00:25:55,011 --> 00:25:56,096
+Comment ça, « comme ça » ?
+
+418
+00:25:56,179 --> 00:25:59,015
+
+- Ben oui, il ne te donne pas la gratification ?
+- Hein ?
+
+419
+00:26:00,392 --> 00:26:04,104
+Ah, Garrido,
+tout ce que tu as encore à apprendre, franchement.
+
+420
+00:26:04,187 --> 00:26:05,272
+Ce n’est pas possible.
+
+421
+00:26:05,397 --> 00:26:09,901
+Aucun fournisseur
+qui offre des services à cet immeuble
+
+422
+00:26:10,068 --> 00:26:12,904
+ne peut partir sans payer la taxe d’accès.
+
+423
+00:26:14,030 --> 00:26:17,951
+Et de cet argent,
+eh bien, c’est 30 % pour moi, 70 % pour toi.
+
+424
+00:26:19,244 --> 00:26:21,746
+Mais que se passe-t-il
+si un fournisseur ne veut pas payer ?
+
+425
+00:26:21,871 --> 00:26:23,873
+Il ne travaille plus jamais de sa vie.
+
+426
+00:26:23,957 --> 00:26:25,875
+Mais tous ces gars
+savent déjà comment ça marche.
+
+427
+00:26:26,042 --> 00:26:27,961
+Tous les gardiens reçoivent quelque chose.
+
+428
+00:26:28,044 --> 00:26:30,922
+On t’a pris pour un con, visiblement,
+mais cette époque est finie.
+
+429
+00:26:31,089 --> 00:26:34,009
+Maintenant je suis là pour te soutenir.
+Ta vie a changé, hein ?
+
+430
+00:26:35,260 --> 00:26:36,303
+Allez !
+
+431
+00:26:38,346 --> 00:26:41,391
+Dites-moi, l’immeuble a
+un gardien actuellement ?
+
+432
+00:26:42,475 --> 00:26:44,436
+D’accord. Ancienneté ?
+
+433
+00:26:45,770 --> 00:26:47,689
+Ah, pas mal.
+
+434
+00:26:47,772 --> 00:26:50,150
+Non, nous,
+on s’occuperait de tout.
+
+435
+00:26:50,233 --> 00:26:53,361
+Bon, très aimable.
+Merci d’avoir pris contact avec nous.
+
+436
+00:26:53,445 --> 00:26:55,405
+On se reparle bientôt. Au revoir.
+
+437
+00:26:57,240 --> 00:26:58,533
+C’est incroyable.
+
+438
+00:26:58,658 --> 00:27:00,910
+Je vous ai déjà fixé cinq réunions
+avec des copropriétés du quartier.
+
+439
+00:27:00,994 --> 00:27:02,621
+
+- Très bien.
+- Comment ça s’est passé avec Garrido ?
+
+440
+00:27:02,746 --> 00:27:05,373
+Et toi, tu crois
+que ça a pu se passer comment ?
+
+441
+00:27:05,457 --> 00:27:08,877
+
+- Je ne sais pas. Vous l’avez convaincu ?
+- Bien sûr que je l’ai convaincu, Miguel.
+
+442
+00:27:09,002 --> 00:27:10,503
+J’en reviens pas !
+
+443
+00:27:10,629 --> 00:27:13,131
+Non, moi je n’en reviens pas
+que tu doutes de mes capacités.
+
+444
+00:27:13,214 --> 00:27:14,299
+Je te demande s’il te plaît,
+
+445
+00:27:14,382 --> 00:27:16,384
+si tu n’as pas une confiance totale
+dans le projet,
+
+446
+00:27:16,468 --> 00:27:18,928
+tu dois
+faire un pas de côté, Miguel. C’est clair ?
+
+447
+00:27:19,012 --> 00:27:20,805
+
 - Oui.
 - Merci.
 
-409
+448
 00:27:46,331 --> 00:27:47,499
 Très bien.
 
-410
+449
 00:27:49,459 --> 00:27:52,379
-Quelle sera ma prochaine conquête ?
+Quelle va être
+ma prochaine conquête, voyons voir ?
 
-411
-00:27:52,462 --> 00:27:54,756
-QUARTIER DE BELGRANO
+450
+00:27:58,885 --> 00:28:00,804
+Froilán Ravarotto.
 
-412
-00:27:58,885 --> 00:28:01,721
-Froilán Ravarotto. Mmm-hmm.
-
-413
+451
 00:28:26,496 --> 00:28:30,417
-Bonjour, Froilán.
-Comment ça va ? Tu as une minute ?
+Bonjour, Froilán, comment tu vas ?
+Tu as une minute ?
 
-414
+452
 00:28:31,751 --> 00:28:33,795
-Pas pour toi. Je travaille.
+Pour toi, non. Je bosse, là.
 
-415
-00:28:33,878 --> 00:28:35,964
-Ah ! Mais je viens parler de travail.
+453
+00:28:33,878 --> 00:28:36,005
+Justement, je venais te parler de boulot.
 
-416
-00:28:36,047 --> 00:28:41,720
-Je sais ce que tu fais.
-Dégage d'ici avant que je te casse la gueule.
+454
+00:28:36,089 --> 00:28:38,466
+Je sais déjà ce que tu es en train de faire.
 
-417
-00:28:41,803 --> 00:28:46,349
-Oh là là ! Tu te conduis toujours
-avec ce niveau de violence d'un autre âge ?
+455
+00:28:38,633 --> 00:28:41,720
+Casse-toi, sinon
+je vais t’exploser le cul à coups de pied.
 
-418
-00:28:46,433 --> 00:28:51,062
-Non, seulement quand un vautour arrive
-pour prendre ce qui est à moi.
+456
+00:28:43,012 --> 00:28:46,266
+Tu te comportes toujours
+avec ce niveau de violence rétrograde ?
 
-419
-00:28:51,646 --> 00:28:53,732
+457
+00:28:46,433 --> 00:28:51,521
+Non, seulement quand un charognard
+vient pour me prendre ce qui est à moi.
+
+458
+00:28:51,604 --> 00:28:53,648
 Dégage, fils de pute.
 
-420
+459
 00:28:53,815 --> 00:28:54,899
-Je suis sérieux.
+Je te le dis vraiment.
 
-421
-00:28:54,983 --> 00:28:57,277
-Je ne suis pas venu te prendre quoi que ce soit.
+460
+00:28:55,024 --> 00:28:57,277
+Je ne viens rien te prendre.
 
-422
-00:28:58,361 --> 00:29:02,031
-Je viens te proposer un truc
-qui peut te faire gagner beaucoup d'argent, Froilán.
+461
+00:28:58,361 --> 00:29:01,948
+Je viens t’offrir quelque chose
+qui peut te rapporter beaucoup d’argent, Froilán.
 
-423
-00:29:02,115 --> 00:29:05,618
+462
+00:29:02,115 --> 00:29:05,577
 Eliseo, tu as toujours été
-un opportuniste de fils de pute,
+un enfoiré de profiteur,
 
-424
-00:29:05,702 --> 00:29:09,414
-mais au moins tu te faisais
-sur des gens comme eux.
+463
+00:29:05,702 --> 00:29:09,372
+mais au moins,
+avant tu profitais de gens comme eux.
 
-425
-00:29:09,497 --> 00:29:14,461
-Maintenant tu viens sur nous ?
-Tu as franchi la ligne et je ne te laisserai pas faire.
+464
+00:29:09,497 --> 00:29:11,458
+Maintenant tu viens pour nous ?
 
-426
-00:29:14,544 --> 00:29:17,297
-Dégage ou je t'écrase la tête.
+465
+00:29:11,583 --> 00:29:14,419
+Tu as franchi une limite,
+et je ne te le permettrai pas.
 
-427
-00:29:17,380 --> 00:29:21,176
-Oh ! Très bien. Parfait.
+466
+00:29:14,627 --> 00:29:17,213
+Casse-toi ou je te démonte.
 
-428
-00:29:22,302 --> 00:29:23,970
+467
+00:29:17,380 --> 00:29:21,134
+Ah, très bien. Parfait.
+
+468
+00:29:22,302 --> 00:29:23,928
+
 - Bonjour.
 - Bonjour, bonjour.
 
-429
+469
 00:29:24,053 --> 00:29:27,849
-- Froilán, comment vas-tu ?
-- Bien, grâce à Dieu et à mon travail.
 
-430
+- Froilán, comment ça va ?
+- Bien, grâce à Dieu et au travail.
+
+470
 00:29:27,932 --> 00:29:28,933
-Je peux t'aider ?
+En quoi puis-je vous aider ?
 
-431
-00:29:29,017 --> 00:29:32,562
-J'attends une livraison de canapé la semaine prochaine,
-mais je ne serai pas là pendant 10 jours.
+471
+00:29:29,017 --> 00:29:31,102
+La semaine prochaine,
+on va m’apporter un fauteuil.
 
-432
-00:29:32,645 --> 00:29:34,647
-Je peux te laisser ma clé
-et tu t'en occupes ?
+472
+00:29:31,269 --> 00:29:32,520
+Je ne serai pas là pendant dix jours.
 
-433
-00:29:34,731 --> 00:29:36,608
-Oui, bien sûr.
+473
+00:29:32,604 --> 00:29:34,397
+Je peux vous laisser les clés
+et vous vous en occupez ?
 
-434
+474
+00:29:34,564 --> 00:29:36,524
+Oui, oui, oui, bien sûr.
+
+475
 00:29:36,691 --> 00:29:39,194
-Tu pars où ? Rome ? New York ?
+Et quelle destination cette fois ? Rome ? New York ?
 
-435
-00:29:39,277 --> 00:29:40,904
-Dubaï, cette fois.
+476
+00:29:39,360 --> 00:29:40,653
+C’est Dubaï, cette fois.
 
-436
-00:29:40,987 --> 00:29:44,282
-Oh ! Fais attention et couvre-toi.
-Ils sont très stricts là-bas.
+477
+00:29:41,529 --> 00:29:44,365
+Faites attention, couvrez-vous,
+parce que là-bas ils sont très orthodoxes.
 
-437
-00:29:44,365 --> 00:29:45,867
-Oui, Froilán, t'en fais pas.
+478
+00:29:44,449 --> 00:29:45,867
+Oui, Froilán, ne vous inquiétez pas.
 
-438
-00:29:45,950 --> 00:29:47,702
-Tiens. Merci.
+479
+00:29:45,950 --> 00:29:47,619
+Je vous les laisse. Merci beaucoup.
 
-439
+480
 00:29:47,786 --> 00:29:50,789
-- Parfait. Bon voyage, Guadalupe.
-- À plus.
 
-440
-00:29:50,872 --> 00:29:52,373
-- Au revoir. À plus tard.
+- Parfait. Bon voyage, Guadalupe.
 - Au revoir.
 
-441
-00:29:53,666 --> 00:29:55,126
-Je t'ouvre, mademoiselle.
+481
+00:29:50,872 --> 00:29:52,373
 
-442
+- Salut. Au revoir.
+- Adieu.
+
+482
+00:29:53,666 --> 00:29:55,084
+Je vous ouvre tout de suite, mademoiselle.
+
+483
 00:29:55,752 --> 00:29:58,630
-Je crois que tu ne réfléchis pas bien.
-Je le pense vraiment.
+Je crois que tu te fais des idées,
+je te le dis franchement.
 
-443
+484
 00:29:58,713 --> 00:30:01,132
-Je m'en fous.
-Je ne veux plus t'entendre.
+Je m’en fiche. Je ne veux plus t’entendre.
 
-444
-00:30:02,091 --> 00:30:04,886
-D'accord, ce que tu veux. Très bien.
+485
+00:30:02,091 --> 00:30:04,844
+Bon, comme tu voudras. Très bien.
 
-445
-00:30:04,969 --> 00:30:05,970
-Fais attention.
+486
+00:30:04,969 --> 00:30:06,054
+Attention.
 
-446
-00:30:06,763 --> 00:30:11,935
-N'essaie pas un de tes tours
-parce que je te connais bien, sale type.
+487
+00:30:06,763 --> 00:30:11,810
+Ne te lance pas dans un de tes coups foireux
+parce que je te connais bien, crapule.
 
-447
+488
 00:30:12,560 --> 00:30:16,022
-Détends-toi, reste calme. À bientôt, mon cher.
+Tranquille, ne te prends pas la tête.
+On se voit bientôt, mon cher.
 
-448
+489
 00:30:19,609 --> 00:30:22,779
-Donc ils te laissent leurs clés ?
-T'es cuit, mec.
+Alors comme ça elle te laisse les clés ?
+T’es foutu, mon petit oiseau.
 
-449
+490
 00:30:30,161 --> 00:30:31,371
-"Fais attention.
+« Attention.
 
-450
+491
 00:30:34,249 --> 00:30:38,169
-"N'essaie pas un de tes tours
+Ne va pas faire un de tes coups tordus
 parce que je te connais bien,
 
-451
+492
 00:30:38,253 --> 00:30:39,754
-"sale type."
+crapule. »
 
-452
+493
 00:30:46,553 --> 00:30:49,389
-Là tu vas voir jusqu'où je peux aller,
+Maintenant tu vas voir
+à quel point je peux être crapule,
 
-453
+494
 00:30:50,098 --> 00:30:51,516
-connard.
+imbécile.
 
-454
-00:31:11,286 --> 00:31:12,328
-Merde.
+495
+00:31:08,324 --> 00:31:10,034
+Aïe !
 
-455
-00:31:22,338 --> 00:31:23,715
+496
+00:31:11,160 --> 00:31:12,328
+Putain de merde.
+
+497
+00:31:22,338 --> 00:31:23,464
 Eliseo ?
 
-456
+498
 00:31:26,885 --> 00:31:28,386
-Eliseo, c'est toi ?
+Eliseo, c’est toi ?
 
-457
-00:31:34,642 --> 00:31:35,894
-C'est moi.
+499
+00:31:34,642 --> 00:31:35,643
+C’est moi.
 
-458
+500
 00:31:41,441 --> 00:31:42,609
 Clarita ?
-
-459
-00:31:50,533 --> 00:31:52,452
-LE BOSS 3
