@@ -31,7 +31,6 @@ Est-ce qu’au moins tu as retenu la leçon ?
 
 8
 00:00:31,708 --> 00:00:33,668
-
 - Quelle leçon ?
 - Celle de l’humilité.
 
@@ -74,7 +73,6 @@ Yeyela, Yaimin et Yola.
 
 17
 00:00:58,902 --> 00:01:01,279
-
 - Yamila, Yazmín et Yaira.
 - C’est ça.
 
@@ -126,7 +124,6 @@ pas toi.
 
 28
 00:01:29,265 --> 00:01:31,559
-
 - Et moi, je mange quoi ?
 - Il y a deux parts
 
@@ -323,7 +320,6 @@ le modèle spécial...
 
 73
 00:05:04,272 --> 00:05:06,190
-
 - et le modèle économique.
 - Mh-hm.
 
@@ -354,7 +350,6 @@ Hors de question.
 
 80
 00:05:27,253 --> 00:05:30,673
-
 - Cérémonie religieuse ou laïque ?
 - Laïque.
 
@@ -520,7 +515,6 @@ Tu devrais y aller maintenant.
 
 116
 00:07:27,331 --> 00:07:29,667
-
 - Allez.
 - Partir ? Oublie ça, tonton.
 
@@ -579,13 +573,11 @@ tu t’en vas, quoi qu’il arrive,
 
 128
 00:08:02,950 --> 00:08:05,411
-
 - C’est compris ? Bien.
 - Compris.
 
 129
 00:08:06,245 --> 00:08:08,915
-
 - Tonton, je peux te poser une question ?
 - Bien sûr.
 
@@ -621,7 +613,6 @@ Peut-être là.
 
 137
 00:08:39,237 --> 00:08:41,280
-
 - Là, c’est bien ?
 - Non.
 
@@ -667,13 +658,11 @@ Bien. Je crois qu’il est aligné.
 
 147
 00:09:07,390 --> 00:09:09,433
-
 - Merci, M. Ventura.
 - On se voit plus tard.
 
 148
 00:09:09,517 --> 00:09:10,977
-
 - Au revoir.
 - Eliseo.
 
@@ -684,7 +673,6 @@ que je suis absolument à ta disposition
 
 150
 00:09:15,731 --> 00:09:17,400
-
 - pour tout ce dont tu as besoin.
 - Merci.
 
@@ -700,7 +688,6 @@ d’enlever le cercueil du couloir.
 
 153
 00:09:25,783 --> 00:09:28,160
-
 - Pardon ?
 - C’est pour Kiara, ma fille.
 
@@ -755,13 +742,11 @@ En plus, on a déjà eu une veillée ici.
 
 164
 00:09:55,605 --> 00:09:57,440
-
 - Tu te souviens de Slavsky ?
 - Oui, c’est vrai.
 
 165
 00:09:57,523 --> 00:09:59,108
-
 - Sa veillée était ici.
 - Je me souviens.
 
@@ -839,7 +824,6 @@ parce que mes bras lâchent.
 
 181
 00:10:43,069 --> 00:10:45,154
-
 - On la met où ?
 - Dans son appartement.
 
@@ -924,7 +908,6 @@ Juste là.
 
 200
 00:11:33,911 --> 00:11:35,579
-
 - Voilà.
 - Putain !
 
@@ -934,7 +917,6 @@ Cherche les cales en dessous, Miguel.
 
 202
 00:11:38,040 --> 00:11:39,291
-
 - Et les chaises ?
 - Non, pas de chaises.
 
@@ -949,7 +931,6 @@ il pourra venir ici.
 
 205
 00:11:45,047 --> 00:11:47,800
-
 - À plus tard, Mamie.
 - Si tu viens, tiens-toi bien, simplement.
 
@@ -973,7 +954,6 @@ Bon...
 
 210
 00:12:00,813 --> 00:12:03,274
-
 - Merci de comprendre.
 - Il n’y a pas de quoi.
 
@@ -1126,7 +1106,6 @@ Ou si je peux descendre comme ça ?
 
 244
 00:14:28,919 --> 00:14:30,880
-
 - Ne fais pas le malin avec moi.
 - Écoute, tonton,
 
@@ -1321,7 +1300,6 @@ ne peut durer aussi longtemps.
 
 287
 00:16:55,315 --> 00:16:57,443
-
 - Quel crétin.
 - Un sacré crétin.
 
@@ -1366,19 +1344,16 @@ C’est tellement agréable de se retrouver, tu sais ?
 
 297
 00:17:31,393 --> 00:17:33,604
-
 - Ça me rend très heureux.
 - Oui, bien sûr.
 
 298
 00:17:33,687 --> 00:17:36,565
-
 - Va-t’en.
 - Ne te ferme pas à l’amour familial.
 
 299
 00:17:36,648 --> 00:17:40,027
-
 - Encore désolé pour ta perte.
 - Oui, c’est ça. Va.
 
@@ -1419,7 +1394,6 @@ Mais Beba n’était pas chrétienne.
 
 308
 00:18:08,889 --> 00:18:11,058
-
 - Ah non ?
 - Non, elle ne croyait en rien,
 
@@ -1430,19 +1404,16 @@ Farouchement.
 
 310
 00:18:13,393 --> 00:18:15,229
-
 - Oh, je suis tellement désolée !
 - Non, je vous en prie.
 
 311
 00:18:15,312 --> 00:18:16,730
-
 - Désolée, je ne le savais pas.
 - Vous n’aviez pas à le savoir.
 
 312
 00:18:16,814 --> 00:18:19,399
-
 - Je n’aurais jamais imaginé...
 - Maria Pia, s’il vous plaît.
 
@@ -1470,7 +1441,6 @@ souhaite faire ses adieux
 
 318
 00:18:31,161 --> 00:18:33,247
-
 - à ma chère Beba...
 - Moi, chef.
 
@@ -1493,7 +1463,6 @@ Bonsoir à tous.
 
 323
 00:18:46,135 --> 00:18:48,262
-
 - Bonsoir.
 - Bonsoir.
 
@@ -1548,7 +1517,6 @@ Elle adorait vraiment baiser le matin.
 
 336
 00:19:29,803 --> 00:19:32,890
-
 - Bon, ça suffit, Papi.
 - Oui. Non, attends.
 
@@ -1582,13 +1550,11 @@ Vous êtes très confus.
 
 343
 00:19:51,033 --> 00:19:52,993
-
 - C’est vous qui êtes confus.
 - Non, non. Elle était comme ça.
 
 344
 00:19:53,076 --> 00:19:54,703
-
 - Je te le dis.
 - Vous devez être fatigué.
 
@@ -1633,7 +1599,6 @@ Et elle disait :
 
 354
 00:20:15,933 --> 00:20:18,477
-
 - Miguel, s’il te plaît.
 - « Comment on ne baiserait pas ? »
 
@@ -1812,7 +1777,6 @@ Excuse-moi.
 
 393
 00:22:41,536 --> 00:22:43,372
-
 - Excusez-moi, Eliseo.
 - Oui ?
 
@@ -1826,7 +1790,6 @@ Ah. De l’immeuble d’à côté, c’est ça ?
 
 396
 00:22:49,127 --> 00:22:51,797
-
 - Exactement. On peut parler un instant ?
 - Oui.
 
@@ -1840,7 +1803,6 @@ Mmm...
 
 399
 00:23:15,570 --> 00:23:17,823
-
 - Vous étiez proches, tous les deux ?
 - De qui ?
 
@@ -1854,7 +1816,6 @@ Oh ! Oui...
 
 402
 00:23:23,120 --> 00:23:25,705
-
 - Même de très proches amis.
 - Mmm...
 
@@ -1969,7 +1930,6 @@ Tu as attendu la police, n’est-ce pas ?
 
 427
 00:24:51,166 --> 00:24:52,459
-
 - Bien sûr. Oui.
 - Oui.
 
@@ -2045,7 +2005,6 @@ Quelle nouvelle ?
 
 443
 00:25:52,102 --> 00:25:53,728
-
 - Je peux lire ?
 - Oui, bien sûr.
 
@@ -2089,7 +2048,6 @@ lui laissant tous mes biens,
 
 453
 00:26:23,341 --> 00:26:24,801
-
 - qui comprennent...
 - Excusez-moi.
 
@@ -2156,13 +2114,11 @@ C’est quoi, le truc, maintenant ?
 
 467
 00:27:32,035 --> 00:27:35,497
-
 - À propos de quoi ?
 - Je veux dire, si Eliseo devient propriétaire,
 
 468
 00:27:35,580 --> 00:27:37,666
-
 - il devrait pas arrêter d’être concierge ?
 - Mmm...
 
