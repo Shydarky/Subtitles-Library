@@ -41,7 +41,6 @@ Pourquoi tu me manques de respect ?
 
 11
 00:00:28,745 --> 00:00:30,413
-
 ​- Je ne te manque pas de respect.
 ​- Si.
 
@@ -73,7 +72,6 @@ Tu as débarqué d'un coup, tu m'as pris par surprise.
 
 18
 00:00:48,306 --> 00:00:51,017
-
 ​- Comment tu m'as trouvé ?
 ​- Je vais te dire.
 
@@ -385,7 +383,6 @@ Oui. Oui.
 
 89
 00:03:52,532 --> 00:03:53,992
-
 ​- Laisse-moi descendre.
 ​- Non.
 
@@ -425,7 +422,7 @@ Le patron 2
 
 98
 00:05:06,689 --> 00:05:09,567
-​ Voilà, je t'ai tué, t'es mort.
+​Voilà, je t'ai tué, t'es mort.
 
 99
 00:05:11,402 --> 00:05:13,196
@@ -433,28 +430,28 @@ Le patron 2
 
 100
 00:05:13,279 --> 00:05:15,573
-​ Oh là là, ça fait beaucoup de tirs, non ?
+​Oh là là, ça fait beaucoup de tirs, non ?
 
 101
 00:05:24,791 --> 00:05:26,042
-​ Uli,
+​Uli,
 
 102
 00:05:26,959 --> 00:05:29,003
-​ et si...
+​et si...
 
 103
 00:05:29,087 --> 00:05:31,172
-​ on laissait les petits jeux de côté un moment ?
+​on laissait les petits jeux de côté un moment ?
 
 104
 00:05:32,423 --> 00:05:35,510
-​ C'est un beau dimanche,
+​C'est un beau dimanche,
 on pourrait profiter de la journée.
 
 105
 00:05:36,636 --> 00:05:38,012
-​ Je ne veux pas.
+​Je ne veux pas.
 
 106
 00:05:38,763 --> 00:05:40,681
@@ -462,20 +459,20 @@ on pourrait profiter de la journée.
 
 107
 00:05:42,016 --> 00:05:44,394
-​ Tu n'aimes pas faire des projets avec papa ?
+​Tu n'aimes pas faire des projets avec papa ?
 
 108
 00:05:49,399 --> 00:05:51,734
-​ Peut-être que tu es un peu triste
+​Peut-être que tu es un peu triste
 
 109
 00:05:53,653 --> 00:05:56,531
-​ parce que maman et papa
+​parce que maman et papa
 n'habitent plus dans la même maison ?
 
 110
 00:05:56,989 --> 00:05:58,324
-​ Non.
+​Non.
 
 111
 00:05:59,951 --> 00:06:01,577
@@ -678,53 +675,66 @@ Je te parlerai plus tard, salut.
 Je t'embrasse, mon vieux, salut.
 
 156
-00:09:32,872 --> 00:09:35,416 <i> Quoi de neuf ? C'est moi.
+00:09:32,872 --> 00:09:35,416 
+<i> Quoi de neuf ? C'est moi.
 Écoute ça, </i>
 
 157
-00:09:35,499 --> 00:09:38,711 <i> c'est la cerise sur le gâteau.
+00:09:35,499 --> 00:09:38,711 
+<i> c'est la cerise sur le gâteau.
 Un corbeau veut me faire la morale, </i>
 
 158
-00:09:38,794 --> 00:09:40,421 <i> un délinquant comme Zambrano. </i>
+00:09:38,794 --> 00:09:40,421 
+<i> un délinquant comme Zambrano. </i>
 
 159
-00:09:40,504 --> 00:09:42,548 <i> Où ce type
+00:09:40,504 --> 00:09:42,548 
+<i> Où ce type
 a-t-il trouvé des principes ? </i>
 
 160
-00:09:42,632 --> 00:09:44,508 <i> Il a fait mille choses
+00:09:42,632 --> 00:09:44,508 
+<i> Il a fait mille choses
 pire dans sa vie, </i>
 
 161
-00:09:44,592 --> 00:09:47,303 <i> mais il a eu les mains qui tremblaient
+00:09:44,592 --> 00:09:47,303 
+<i> mais il a eu les mains qui tremblaient
 pour une foutue frayeur ? </i>
 
 162
-00:09:47,386 --> 00:09:50,556 <i> Tu sais qu'au fond, je savais
+00:09:47,386 --> 00:09:50,556 
+<i> Tu sais qu'au fond, je savais
 que ça pouvait arriver. </i>
 
 163
-00:09:51,265 --> 00:09:53,768 <i> Mais je te l'ai dit mille fois.
+00:09:51,265 --> 00:09:53,768 
+<i> Mais je te l'ai dit mille fois.
 Tu ne peux pas appuyer sur l'accélérateur </i>
 
 164
-00:09:53,851 --> 00:09:55,770 <i> si tu es entouré de lâches. </i>
+00:09:53,851 --> 00:09:55,770 
+<i> si tu es entouré de lâches. </i>
 
 165
-00:09:55,853 --> 00:09:58,522 <i> Et en plus, c'est nouveau,
+00:09:55,853 --> 00:09:58,522 
+<i> Et en plus, c'est nouveau,
 tu n'as jamais eu besoin de personne. </i>
 
 166
-00:09:58,606 --> 00:10:01,108 <i> Pourquoi aller chercher des problèmes
+00:09:58,606 --> 00:10:01,108 
+<i> Pourquoi aller chercher des problèmes
 quand tu n'en avais pas ? </i>
 
 167
-00:10:01,192 --> 00:10:03,944 <i> C'est déprimant. Je raccroche
+00:10:01,192 --> 00:10:03,944 
+<i> C'est déprimant. Je raccroche
 parce que je veux continuer à m'entraîner. </i>
 
 168
-00:10:04,028 --> 00:10:06,656 <i> Je te parlerai plus tard, salut.
+00:10:04,028 --> 00:10:06,656 
+<i> Je te parlerai plus tard, salut.
 Je t'embrasse, mon vieux. Salut. </i>
 
 169
@@ -734,7 +744,6 @@ Lucila, ne t'inquiète pas.
 
 170
 00:10:40,314 --> 00:10:41,857
-
 ​- Qu'est-ce qui s'est passé ?
 ​- Eh bien,
 
@@ -753,7 +762,6 @@ pardon de m'exprimer.
 
 174
 00:10:49,615 --> 00:10:52,785
-
 ​- On ne joue pas avec la nourriture, c'est dingue.
 ​- Gens de merde.
 
@@ -781,7 +789,6 @@ Non, ça va, je vais nettoyer ça
 180
 00:11:05,631 --> 00:11:07,133
 et voilà, on oublie.
-
 ​- Bien. Bonne journée.
 
 181
@@ -823,7 +830,6 @@ c'est très simiesque, non ?
 
 190
 00:12:16,952 --> 00:12:18,537
-
 ​- Tu n'exagères pas un peu ?
 ​- Non.
 
@@ -889,7 +895,6 @@ Va te faire foutre, Gómez.
 
 205
 00:13:12,842 --> 00:13:14,510
-
 ​- C'était quoi, ça ?
 ​- Flippant.
 
@@ -935,7 +940,6 @@ pour l'ajuster à ses besoins.
 
 215
 00:13:44,206 --> 00:13:46,208
-
 ​- Tu veux dire, mentir.
 ​- Non, mentir, c'est autre chose.
 
@@ -960,7 +964,6 @@ pour acquérir... bon, malheureusement.
 
 220
 00:14:00,014 --> 00:14:03,225
-
 ​- Mais ce n'est pas si grave au final.
 ​- Fais attention, c'est glissant.
 
@@ -975,7 +978,6 @@ On peut en discuter.
 
 223
 00:14:08,480 --> 00:14:11,108
-
 ​- Oh, quelle beauté, mon Dieu.
 ​- N'est-ce pas ?
 
@@ -1002,13 +1004,11 @@ Il est très mignon et très sage.
 
 229
 00:14:20,868 --> 00:14:22,745
-
 ​- Il est très beau.
 ​- Oui.
 
 230
 00:14:22,828 --> 00:14:25,080
-
 ​- Il devrait faire de la pub.
 ​- Vraiment ?
 
@@ -1018,7 +1018,6 @@ Les agences raffolent des beaux bébés
 
 232
 00:14:26,916 --> 00:14:29,168
-
 ​- pour les spots publicitaires.
 ​- Ah... tu as entendu ça, mon cœur ?
 
@@ -1033,25 +1032,21 @@ il peut se mettre son vote où je pense.
 
 235
 00:14:32,880 --> 00:14:35,132
-
 ​- On n'en a pas besoin.
 ​- Bon... je lui dirai plus tard.
 
 236
 00:14:35,215 --> 00:14:36,967
-
 ​- Bien sûr. Au revoir.
 ​- Merci beaucoup.
 
 237
 00:14:37,051 --> 00:14:39,219
-
 ​- Il est magnifique, félicitations.
 ​- Merci.
 
 238
 00:14:39,303 --> 00:14:42,056
-
 ​- Merci beaucoup.
 ​- Quel joli bébé.
 
@@ -1079,7 +1074,6 @@ On s'y met ?
 
 244
 00:14:53,692 --> 00:14:55,778
-
 ​- C'est de ça qu'on parlait, non ?
 ​- Bien sûr, bien sûr.
 
@@ -1098,7 +1092,6 @@ je sais que tu n'es pas en retard.
 
 248
 00:15:01,617 --> 00:15:04,536
-
 ​- Inventons quelque chose, pour répéter.
 ​- Oh, pardon. D'accord.
 
@@ -1129,7 +1122,6 @@ au-dessus de la tête qui dit :
 
 255
 00:15:18,550 --> 00:15:19,843
-
 ​- Oh.
 ​- Ça doit couler, tout droit.
 
@@ -1144,7 +1136,6 @@ spontanément.
 
 258
 00:15:22,888 --> 00:15:25,599
-
 ​- D'accord. Oui.
 ​- Prêt ? Concentre-toi, s'il te plaît.
 
@@ -1209,7 +1200,6 @@ son diagnostic d'hypothyroïdie, et...
 
 272
 00:15:55,921 --> 00:15:57,339
-
 ​- C'est quoi ?
 ​- Trop long.
 
@@ -1224,7 +1214,6 @@ Mais ça m'a plu.
 
 275
 00:16:02,970 --> 00:16:05,222
-
 ​- Ah oui ?
 ​- Il y a du potentiel là-dedans. Du potentiel.
 
@@ -1234,7 +1223,6 @@ Oui.
 
 277
 00:16:08,767 --> 00:16:11,311
-
 ​- Pas d'olives pour toi, hein, mon cœur ?
 ​- Si.
 
@@ -1291,7 +1279,6 @@ s'implique un peu plus chaque jour.
 
 290
 00:16:39,089 --> 00:16:40,299
-
 ​- Ah oui ?
 ​- Mmm.
 
@@ -1305,7 +1292,6 @@ Repenti ?
 
 293
 00:16:46,889 --> 00:16:48,766
-
 ​- Mmm.
 ​- Qu'est-ce que tu veux dire ?
 
@@ -1332,7 +1318,6 @@ tant qu'elle ne l'a pas convaincu de témoigner.
 
 299
 00:17:03,781 --> 00:17:05,282
-
 ​- Et elle a raison, bien sûr.
 ​- Oui.
 
@@ -1408,7 +1393,6 @@ quand elle revient.
 
 316
 00:17:50,119 --> 00:17:51,620
-
 ​- Moi ?
 ​- Non, la colombe.
 
@@ -1517,7 +1501,6 @@ Café.
 
 341
 00:18:55,517 --> 00:18:57,144
-
 ​- Sucre ou édulcorant ?
 ​- Sucre.
 
@@ -1580,13 +1563,11 @@ que je veux te proposer un petit boulot.
 
 355
 00:19:37,559 --> 00:19:38,936
-
 ​- Un boulot ?
 ​- Oui.
 
 356
 00:19:39,019 --> 00:19:40,103
-
 ​- Pour moi ?
 ​- Oui.
 
@@ -1641,14 +1622,17 @@ Le jeu d'acteur.
 Oh...
 
 369
-00:20:12,886 --> 00:20:14,721 <i> les garçons, les filles, </i>
+00:20:12,886 --> 00:20:14,721 
+<i> les garçons, les filles, </i>
 
 370
-00:20:14,805 --> 00:20:18,308 <i> je voulais vous rappeler qu'on continue
+00:20:14,805 --> 00:20:18,308 
+<i> je voulais vous rappeler qu'on continue
 à lutter contre le froid à Barrancas de Belgrano </i>
 
 371
-00:20:18,392 --> 00:20:20,560 <i> avec la campagne « Chaleur humaine ». </i>
+00:20:18,392 --> 00:20:20,560 
+<i> avec la campagne « Chaleur humaine ». </i>
 
 372
 00:20:21,144 --> 00:20:22,938
@@ -1673,15 +1657,18 @@ où la température descend
 en dessous de 7 degrés,
 
 377
-00:20:32,322 --> 00:20:35,826 <i> nous ouvrirons le stade
+00:20:32,322 --> 00:20:35,826 
+<i> nous ouvrirons le stade
 Pucio Colombo, à Núñez, </i>
 
 378
-00:20:35,909 --> 00:20:39,162 <i> où toute personne qui n'a pas
+00:20:35,909 --> 00:20:39,162 
+<i> où toute personne qui n'a pas
 de toit pour dormir pourra venir. </i>
 
 379
-00:20:39,788 --> 00:20:41,581 <i> Nous vous y attendrons. </i>
+00:20:39,788 --> 00:20:41,581 
+<i> Nous vous y attendrons. </i>
 
 380
 00:20:47,713 --> 00:20:49,423
@@ -1706,7 +1693,6 @@ portefeuille, portable, tout, fils de pute.
 
 385
 00:20:55,304 --> 00:20:58,390
-
 ​- Arrête, arrête, Maxi ! Non.
 ​- Je m'arrêterai pas.
 
@@ -1716,7 +1702,6 @@ Coupez, coupez, non, non. Oh.
 
 387
 00:21:00,225 --> 00:21:02,561
-
 ​- Quoi ? Ce n'était pas bien ?
 ​- Non, Maxi.
 
@@ -1740,7 +1725,6 @@ pourquoi cette vulgarité ?
 
 392
 00:21:11,611 --> 00:21:13,113
-
 ​- Oui.
 ​- Et ce que tu as fait, tu m'as poussé
 
@@ -1754,7 +1738,6 @@ N'oublie pas, c'est une femme.
 
 395
 00:21:16,867 --> 00:21:17,993
-
 ​- C'est clair ?
 ​- Oui.
 
@@ -1786,25 +1769,21 @@ Tu dois lui faire peur. Vraiment.
 
 402
 00:21:31,923 --> 00:21:33,550
-
 ​- La briser.
 ​- Je comprends.
 
 403
 00:21:33,633 --> 00:21:35,677
-
 ​- Oui ? On le refait ?
 ​- Oui.
 
 404
 00:21:35,761 --> 00:21:37,179
-
 ​- Oui. Oui.
 ​- Mais calme-toi.
 
 405
 00:21:37,262 --> 00:21:39,473
-
 ​- Ça va bien se passer. Ne t'en fais pas.
 ​- D'accord.
 
@@ -1848,19 +1827,16 @@ je laisse tes tripes
 
 415
 00:22:04,539 --> 00:22:07,000
-
 ​- Oui, je vais tout te donner.
 ​- Bien sûr que tu vas tout me donner.
 
 416
 00:22:07,084 --> 00:22:08,877
-
 ​- Qui t'a dit de parler ?
 ​- Personne, non.
 
 417
 00:22:08,960 --> 00:22:11,004
-
 ​- Personne...
 ​- Tu vas la fermer, oui ou non ?
 
@@ -1870,7 +1846,6 @@ Tu vas la fermer, oui ou non ?
 
 419
 00:22:15,384 --> 00:22:17,594
-
 ​- Qu'est-ce que tu fais avec ça, Maxi ?
 ​- Quoi ?
 
@@ -1903,9 +1878,8 @@ Tu peux pas être...
 
 426
 00:22:32,359 --> 00:22:34,653
-
 ​- Donne-la-moi, s'il te plaît.
-​- Non, je te la donne ? Jamais de la vie.
+​- Que je te la donne ? Jamais de la vie.
 
 427
 00:22:34,736 --> 00:22:36,029
@@ -1926,7 +1900,6 @@ Non, non...
 
 431
 00:22:46,456 --> 00:22:47,958
-
 ​- Tu peux au moins la ranger ?
 ​- Bien sûr, pas de problème.
 
@@ -1936,7 +1909,6 @@ RATION
 
 433
 00:22:49,126 --> 00:22:50,794
-
 ​- Ne t'en fais pas.
 ​- Super journée, les gars. Bravo.
 
@@ -1946,12 +1918,12 @@ Salut, Mati.
 
 435
 00:22:53,171 --> 00:22:54,714
-
 ​- Repose-toi bien !
 ​- À demain !
 
 436
-00:23:08,145 --> 00:23:09,187 <i> Allô ? </i>
+00:23:08,145 --> 00:23:09,187 
+<i> Allô ? </i>
 
 437
 00:23:09,271 --> 00:23:11,815
@@ -1959,7 +1931,8 @@ C'est moi. Le pélican est en route
 vers le nid.
 
 438
-00:23:11,898 --> 00:23:13,900 <i> La colombe, monsieur. </i>
+00:23:11,898 --> 00:23:13,900 
+<i> La colombe, monsieur. </i>
 
 439
 00:23:13,984 --> 00:23:16,361
@@ -1967,24 +1940,29 @@ Bon, le cul de la colombe et sa mère
 s'en vont là-bas.
 
 440
-00:23:21,158 --> 00:23:23,243 <i> Tu me reçois bien, Maxi ? </i>
+00:23:21,158 --> 00:23:23,243 
+<i> Tu me reçois bien, Maxi ? </i>
 
 441
 00:23:23,326 --> 00:23:25,203
 Oui, je te reçois.
 
 442
-00:23:25,287 --> 00:23:27,330 <i> Détends-toi, je t'aime, hein ? </i>
+00:23:25,287 --> 00:23:27,330 
+<i> Détends-toi, je t'aime, hein ? </i>
 
 443
-00:23:27,414 --> 00:23:29,332 <i> C'est une femme. </i>
+00:23:27,414 --> 00:23:29,332 
+<i> C'est une femme. </i>
 
 444
-00:23:29,416 --> 00:23:31,668 <i> Une chose délicate. Je veux juste
+00:23:29,416 --> 00:23:31,668 
+<i> Une chose délicate. Je veux juste
 que tu lui fasses peur. </i>
 
 445
-00:23:31,751 --> 00:23:32,961 <i> On est d'accord ? </i>
+00:23:31,751 --> 00:23:32,961 
+<i> On est d'accord ? </i>
 
 446
 00:23:33,044 --> 00:23:34,921
@@ -2003,7 +1981,8 @@ On en a déjà parlé.
 L'arme n'est jamais une option, d'accord ?
 
 450
-00:23:40,677 --> 00:23:43,221 <i> Fais-moi confiance, mec, merde.
+00:23:40,677 --> 00:23:43,221 
+<i> Fais-moi confiance, mec, merde.
 Je suis pas idiot. </i>
 
 451
@@ -2033,7 +2012,6 @@ action, d'accord ?
 
 457
 00:24:08,455 --> 00:24:09,998
-
 ​- Excusez-moi, madame.
 ​- Oui ?
 
@@ -2051,21 +2029,21 @@ Donne le portable, salope.
 
 461
 00:24:15,212 --> 00:24:16,755
-
 ​- <i> Le portefeuille. </i>
 ​- <i> Oui. </i>
 
 462
 00:24:16,838 --> 00:24:18,465
-
 ​- <i> Ne sois pas nerveuse. </i>
 ​- <i> Fils de pute. </i>
 
 463
-00:24:18,548 --> 00:24:19,716 <i> Ne me dis pas de me calmer. </i>
+00:24:18,548 --> 00:24:19,716 
+<i> Ne me dis pas de me calmer. </i>
 
 464
-00:24:19,799 --> 00:24:21,593 <i> Détends-toi, Maxi, calme-toi. </i>
+00:24:19,799 --> 00:24:21,593 
+<i> Détends-toi, Maxi, calme-toi. </i>
 
 465
 00:24:21,676 --> 00:24:24,387
@@ -2079,7 +2057,6 @@ que tu as mis de côté.
 
 467
 00:24:25,972 --> 00:24:27,599
-
 ​- Non, pas chez moi.
 ​- Pas chez toi ?
 
@@ -2113,11 +2090,11 @@ Pour l'amour de Dieu !
 Bonjour monsieur ?
 
 475
-00:24:51,998 --> 00:24:52,999 <i> Ça a marché ? Je suis tout près. </i>
+00:24:51,998 --> 00:24:52,999 
+<i> Ça a marché ? Je suis tout près. </i>
 
 476
 00:24:53,083 --> 00:24:54,918
-
 ​- Non, ça s'est compliqué.
 ​- <i> Qu'est-ce que tu veux dire ? </i>
 
@@ -2145,7 +2122,6 @@ C'est toujours des tas d'ennuis.
 
 482
 00:25:05,762 --> 00:25:07,556
-
 ​- Appelle la police, merde, allez !
 ​- Oui, je vais appeler.
 
@@ -2154,7 +2130,8 @@ C'est toujours des tas d'ennuis.
 Mon Dieu !
 
 484
-00:25:12,227 --> 00:25:14,271 <i> Eliseo, je suis à deux pâtés de maisons,
+00:25:12,227 --> 00:25:14,271 
+<i> Eliseo, je suis à deux pâtés de maisons,
 qu'est-ce qu'il y a ? </i>
 
 485
@@ -2195,7 +2172,8 @@ C'est pour ça qu'elle a pu
 maîtriser le voyou, monsieur l'agent.
 
 494
-00:25:33,915 --> 00:25:35,625 <i> Pour l'amour de Dieu ! </i>
+00:25:33,915 --> 00:25:35,625 
+<i> Pour l'amour de Dieu ! </i>
 
 495
 00:25:35,709 --> 00:25:38,670
@@ -2262,7 +2240,6 @@ Il devient de plus en plus dangereux, monsieur.
 
 510
 00:26:09,868 --> 00:26:12,287
-
 ​- Ce n'est pas ce quartier.
 ​- Non ?
 
@@ -2286,13 +2263,11 @@ et combien de temps ils ont mis ? Longtemps.
 
 515
 00:26:19,294 --> 00:26:20,962
-
 ​- Plus d'une heure et demie.
 ​- Plus.
 
 516
 00:26:21,046 --> 00:26:23,548
-
 ​- Deux heures, facile.
 ​- Deux heures ?
 
@@ -2335,7 +2310,6 @@ c'est dangereux.
 
 525
 00:26:44,569 --> 00:26:46,404
-
 ​- S'il te plaît.
 ​- Oui, et il voulait entrer.
 
@@ -2377,7 +2351,6 @@ qui sont les vraies victimes, eux ou nous ?
 
 534
 00:27:19,020 --> 00:27:20,480
-
 ​- Eux.
 ​- Eh bien...
 
@@ -2431,7 +2404,6 @@ Et qu'est-ce qu'on fait ? C'est le chaos total.
 
 546
 00:27:52,554 --> 00:27:54,472
-
 ​- Non, tu as raison.
 ​- Bien sûr.
 
@@ -2441,13 +2413,11 @@ Tu me tiendras au courant si quelque chose se passe ?
 
 548
 00:27:58,518 --> 00:28:01,521
-
 ​- Bien sûr, oui. Va-t'en.
 ​- S'il te plaît.
 
 549
 00:28:03,606 --> 00:28:05,900
-
 ​- Merci.
 ​- Mon Dieu, ne t'en fais pas pour ça.
 
@@ -2458,19 +2428,16 @@ ou quelque chose ici.
 
 551
 00:28:07,694 --> 00:28:10,405
-
 ​- Oui.
 ​- D'accord ? Parce qu'à un moment donné...
 
 552
 00:28:10,780 --> 00:28:13,616
-
 ​- On ne pourra plus vivre dans ce quartier.
 ​- Vraiment.
 
 553
 00:28:14,200 --> 00:28:16,369
-
 ​- Qu'est-ce qui s'est passé, bordel ?
 ​- C'est parti en vrille.
 
@@ -2480,7 +2447,6 @@ Aide-moi à le porter, allez.
 
 555
 00:28:19,748 --> 00:28:21,624
-
 ​- Où ?
 ​- Chez moi, où veux-tu ?
 
@@ -2506,7 +2472,7 @@ Comme il s'est révélé faible, ce gamin.
 
 561
 00:28:32,594 --> 00:28:34,220
-Le patron 2
+Le concierge 2
 
 562
 00:30:03,101 --> 00:30:05,103
