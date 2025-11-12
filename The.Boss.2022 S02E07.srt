@@ -71,13 +71,16 @@ Bon. Je l'allume ? D'accord.
 Voilà. C'est bon, d'accord ?
 
 18
-00:01:04,153 --> 00:01:09,033 <i> ♪ Joyeux anniversaire à toi ♪ </i>
+00:01:04,153 --> 00:01:09,033 
+<i> ♪ Joyeux anniversaire à toi ♪ </i>
 
 19
-00:01:09,117 --> 00:01:14,247 <i> ♪ Joyeux anniversaire à toi ♪ </i>
+00:01:09,117 --> 00:01:14,247 
+<i> ♪ Joyeux anniversaire à toi ♪ </i>
 
 20
-00:01:14,330 --> 00:01:19,502 <i> ♪ Joyeux anniversaire, Eliseo ♪ </i>
+00:01:14,330 --> 00:01:19,502 
+<i> ♪ Joyeux anniversaire, Eliseo ♪ </i>
 
 21
 00:01:20,336 --> 00:01:25,258
@@ -877,15 +880,18 @@ Des dollars.
 ​- Allô ? <i> C'est bien Agustina Morris ? </i>
 
 192
-00:12:19,859 --> 00:12:22,403 <i>- de la Fondation d'aide ? </i>
+00:12:19,859 --> 00:12:22,403 
+<i>- de la Fondation d'aide ? </i>
 
 - Oui, c'est moi.
 
 193
-00:12:22,487 --> 00:12:25,448 <i> Je suis Luis Fortunato Durán, </i>
+00:12:22,487 --> 00:12:25,448 
+<i> Je suis Luis Fortunato Durán, </i>
 
 194
-00:12:25,823 --> 00:12:28,409 <i> de Durán Céramiques.
+00:12:25,823 --> 00:12:28,409 
+<i> de Durán Céramiques.
 Vous m'entendez ? </i>
 
 195
@@ -893,11 +899,13 @@ Vous m'entendez ? </i>
 Oui, de quoi s'agit-il ?
 
 196
-00:12:31,078 --> 00:12:35,582 <i> Eh bien, je veux faire un don en argent
+00:12:31,078 --> 00:12:35,582 
+<i> Eh bien, je veux faire un don en argent
 à votre fondation. </i>
 
 197
-00:12:35,999 --> 00:12:39,711 <i> Je connais le travail remarquable
+00:12:35,999 --> 00:12:39,711 
+<i> Je connais le travail remarquable
 que vous faites. </i>
 
 198
@@ -929,7 +937,8 @@ Je sais ce qui est arrivé
 Et comment savez-vous pour Dolfi ?
 
 204
-00:12:58,104 --> 00:13:01,733 <i> C'est Lucila qui me l'a raconté,
+00:12:58,104 --> 00:13:01,733 
+<i> C'est Lucila qui me l'a raconté,
 je l'ai rencontrée lors d'un événement de la fondation. </i>
 
 205
@@ -959,7 +968,8 @@ Non, Sanguinetti. Dolfi Sanguinetti.
 Sanguinetti...
 
 211
-00:13:15,956 --> 00:13:19,292 <i> mais on peut se concentrer sur le don ?
+00:13:15,956 --> 00:13:19,292 
+<i> mais on peut se concentrer sur le don ?
 C'est pour ça que j'ai appelé. </i>
 
 212
@@ -982,10 +992,12 @@ Eh bien, vous savez quoi ?
 Je n'en ai plus envie maintenant.
 
 216
-00:13:30,886 --> 00:13:33,430 <i> alors allez au diable, sangsue. </i>
+00:13:30,886 --> 00:13:33,430 
+<i> alors allez au diable, sangsue. </i>
 
 217
-00:13:35,349 --> 00:13:36,517 <i> Eliseo ? </i>
+00:13:35,349 --> 00:13:36,517 
+<i> Eliseo ? </i>
 
 218
 00:13:42,898 --> 00:13:46,527
@@ -1386,38 +1398,48 @@ C'est clair ?
 - Oh.
 
 304
-00:18:33,183 --> 00:18:36,478 <i> Écoute. Maintenant que tu as réglé
+00:18:33,183 --> 00:18:36,478 
+<i> Écoute. Maintenant que tu as réglé
 ton petit problème de famille, </i>
 
 305
-00:18:36,562 --> 00:18:39,106 <i> j'ai besoin que tu te concentres là-dessus. </i>
+00:18:36,562 --> 00:18:39,106 
+<i> j'ai besoin que tu te concentres là-dessus. </i>
 
 306
-00:18:39,189 --> 00:18:41,108 <i> J'ai beaucoup cherché </i>
+00:18:39,189 --> 00:18:41,108 
+<i> J'ai beaucoup cherché </i>
 
 307
-00:18:41,191 --> 00:18:43,694 <i> sur Adolfo Sanguinetti
+00:18:41,191 --> 00:18:43,694 
+<i> sur Adolfo Sanguinetti
 et je ne trouve rien. </i>
 
 308
-00:18:43,777 --> 00:18:46,864 <i> Peut-être que la clé est à la campagne,
+00:18:43,777 --> 00:18:46,864 
+<i> Peut-être que la clé est à la campagne,
 alors dimanche, </i>
 
 309
-00:18:46,947 --> 00:18:48,407 <i> va à Coronel Donado. </i>
+00:18:46,947 --> 00:18:48,407 
+<i> va à Coronel Donado. </i>
 
 310
-00:18:48,490 --> 00:18:49,867 <i> En pleine journée, s'il te plaît. </i>
+00:18:48,490 --> 00:18:49,867 
+<i> En pleine journée, s'il te plaît. </i>
 
 311
-00:18:49,950 --> 00:18:52,244 <i> Je n'aime pas quand tu prends la route la nuit </i>
+00:18:49,950 --> 00:18:52,244 
+<i> Je n'aime pas quand tu prends la route la nuit </i>
 
 312
-00:18:52,327 --> 00:18:54,121 <i> parce qu'il y a plein
+00:18:52,327 --> 00:18:54,121 
+<i> parce qu'il y a plein
 d'abrutis bourrés qui traînent. </i>
 
 313
-00:18:54,204 --> 00:18:56,373 <i>- C'est clair ? </i>
+00:18:54,204 --> 00:18:56,373 
+<i>- C'est clair ? </i>
 
 314
 00:19:21,230 --> 00:19:23,858
