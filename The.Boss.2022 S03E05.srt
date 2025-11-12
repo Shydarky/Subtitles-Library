@@ -9,7 +9,6 @@ divorcé, avec trois enfants.
 
 3
 00:00:05,547 --> 00:00:06,840
-
 - Là, y a un truc.
 - Jeu !
 
@@ -37,7 +36,6 @@ Je vais préparer un dîner aphrodisiaque
 
 9
 00:00:18,601 --> 00:00:20,562
-
 - pour que ça devienne...
 - Bof...
 
@@ -87,7 +85,6 @@ Docteur Zambrano ?
 
 20
 00:01:30,673 --> 00:01:31,883
-
 - Oui.
 - Bonjour.
 
@@ -106,7 +103,6 @@ Je suis Cecilia Murphy, du septième.
 
 24
 00:01:39,557 --> 00:01:42,602
-
 - On s’est déjà croisés à un moment.
 - Ah, oui, bonjour.
 
@@ -143,7 +139,6 @@ Regardez-le tranquillement.
 
 32
 00:01:58,243 --> 00:02:00,078
-
 - Au revoir.
 - Salut.
 
@@ -178,7 +173,6 @@ Je dois te remercier pour ce que t’as fait.
 
 40
 00:03:08,730 --> 00:03:10,481
-
 - Non, parce que tout a marché, Nacho.
 - Oui.
 
@@ -193,7 +187,6 @@ Non, quelle relation ? Je l’ai déjà virée.
 
 43
 00:03:17,322 --> 00:03:19,657
-
 - Mais comment ? Je croyais que...
 - Tu t’es trompé.
 
@@ -274,7 +267,6 @@ questionne, se fixe des objectifs plus ambitieux.
 
 61
 00:04:11,042 --> 00:04:12,835
-
 - Tu me suis ou j’arrête là ? Dis-le-moi...
 - Je sais pas.
 
@@ -285,19 +277,16 @@ parce que moi, j’adore ça.
 
 63
 00:04:15,505 --> 00:04:17,548
-
 - Mais chacun est comme il est.
 - Bien sûr, t’as raison.
 
 64
 00:04:17,674 --> 00:04:19,801
-
 - Salut, Eliseo, à plus.
 - Salut, mon grand. Bonne chance.
 
 65
 00:04:19,926 --> 00:04:21,302
-
 - Amuse-toi bien.
 - Merci.
 
@@ -316,7 +305,6 @@ Qu’est-ce que vous faites ?
 
 69
 00:04:56,963 --> 00:04:59,382
-
 - Un casting.
 - Pour « Bailemos Juntos ».
 
@@ -388,7 +376,6 @@ Si ça vous aide. Sinon, non, hein ?
 
 85
 00:05:33,916 --> 00:05:36,210
-
 - Ça nous aide beaucoup, oui. On y va.
 - Mettez la musique, allez.
 
@@ -522,7 +509,6 @@ Bienvenue dans votre nouveau chez-vous.
 
 115
 00:07:27,155 --> 00:07:28,656
-
 - Permis.
 - Je vous en prie.
 
@@ -537,7 +523,6 @@ les photos publiées ne mentaient pas.
 
 118
 00:07:40,877 --> 00:07:43,838
-
 - Mmm-hmm.
 - C’est un appartement très spacieux,
 
@@ -548,7 +533,6 @@ de l’ancienne propriétaire,
 
 120
 00:07:47,633 --> 00:07:49,635
-
 - ma chère Beba, que Dieu ait son âme.
 - Hmm.
 
@@ -576,7 +560,6 @@ ils faisaient la fête tout le temps.
 
 126
 00:08:08,821 --> 00:08:11,157
-
 - La jeunesse.
 - La jeunesse.
 
@@ -587,7 +570,6 @@ que vous étiez neurochirurgien, non ?
 
 128
 00:08:14,076 --> 00:08:15,328
-
 - Neuroscientifique.
 - Scientifique.
 
@@ -612,7 +594,6 @@ mes deux livres les plus connus,
 
 133
 00:08:27,340 --> 00:08:29,133
-
 - Quels beaux titres.
 - Merci.
 
@@ -666,13 +647,11 @@ Très aimable, vraiment.
 
 145
 00:08:58,704 --> 00:09:00,304
-
 - Bon, après on s’arrange.
 - Et je vous paye.
 
 146
 00:09:00,373 --> 00:09:02,625
-
 - Non, non, non, vous me le donnerez après.
 - Mais Eliseo, je paye.
 
@@ -690,7 +669,6 @@ Huguito.
 
 150
 00:09:22,979 --> 00:09:25,648
-
 - Salut, ça va ?
 - Salut. Oui.
 
@@ -700,19 +678,16 @@ Hé !
 
 152
 00:09:30,903 --> 00:09:34,240
-
 - Salut, Martucha.
 - Bonjour, Eliseo. Bonne journée.
 
 153
 00:09:49,463 --> 00:09:52,383
-
 - Matías, comment tu vas ?
 - Bien, Ceci, et toi ?
 
 154
 00:09:52,550 --> 00:09:54,302
-
 - Bien.
 - Ravie de te voir.
 
@@ -733,7 +708,6 @@ que, dans ce cas, ça ne va pas.
 
 158
 00:10:03,144 --> 00:10:05,813
-
 - Je peux vous donner un sacré coup de main.
 - Ah oui ?
 
@@ -887,7 +861,6 @@ Je suis désolée pour toi, mon fils.
 
 193
 00:11:53,754 --> 00:11:55,674
-
 - Bonsoir, Romina.
 - Bonsoir, Eliseo.
 
@@ -897,13 +870,11 @@ Bonsoir, Ulises.
 
 195
 00:11:57,425 --> 00:11:58,509
-
 - Dis bonsoir.
 - Bon...
 
 196
 00:11:58,634 --> 00:12:00,553
-
 - Ne sois pas malpoli.
 - Ce n’est pas grave.
 
@@ -948,7 +919,6 @@ avec ce petit chaton.
 
 206
 00:12:18,446 --> 00:12:21,115
-
 - Bien sûr. Bonne soirée.
 - Bonne soirée.
 
@@ -1109,7 +1079,6 @@ Oui, entrez. Montez. Comment ça va ?
 
 243
 00:14:16,689 --> 00:14:18,566
-
 - Bien.
 - Salut, Eliseo. Et ça ?
 
@@ -1146,13 +1115,11 @@ sont super mauvais pour l’environnement, Eliseo.
 
 251
 00:14:34,540 --> 00:14:37,459
-
 - Ah oui ?
 - Tout aérosol, c’est de la pure pollution.
 
 252
 00:14:37,543 --> 00:14:39,420
-
 - Oui.
 - Avec Vicky, on a arrêté depuis longtemps.
 
@@ -1167,13 +1134,11 @@ Tu connais ? C’est génial.
 
 255
 00:14:43,966 --> 00:14:45,968
-
 - Je t’en donnerai après.
 - Ah, d’accord. Et c’est quoi, le karité ?
 
 256
 00:14:46,135 --> 00:14:48,429
-
 - C’est un arbre africain.
 - Ah.
 
@@ -1188,7 +1153,6 @@ Ce que ça doit polluer, ça. Fort.
 
 259
 00:14:54,226 --> 00:14:56,478
-
 - Je vous laisse, pardon. Vous me répondez après.
 - Oui.
 
@@ -1245,7 +1209,6 @@ je suis très content, Eliseo.
 
 272
 00:15:31,055 --> 00:15:34,767
-
 - Je t’en remercie beaucoup.
 - Pas de merci. C’est largement mérité.
 
@@ -1261,7 +1224,6 @@ de papaye en sirop de 450 grammes.
 
 275
 00:15:40,272 --> 00:15:42,274
-
 - Un luxe, merci.
 - Non, je t’en prie.
 
@@ -1272,7 +1234,6 @@ Regarde comme ils sont beaux.
 
 277
 00:15:45,361 --> 00:15:46,761
-
 - Regarde, ils sont en promo.
 - Hmm.
 
@@ -1282,7 +1243,6 @@ Là, tu donnes la facture à Miguel.
 
 279
 00:15:48,489 --> 00:15:50,312
-
 - Il te donne tout.
 - Parfait, merci. Très aimable.
 
@@ -1292,13 +1252,11 @@ Non, je t’en prie, Garrido.
 
 281
 00:15:51,533 --> 00:15:53,285
-
 - Bonjour.
 - Garrido, comment ça va ?
 
 282
 00:15:53,410 --> 00:15:55,371
-
 - Bien...
 - Dionisi.
 
@@ -1434,7 +1392,6 @@ que tu ne t’entends pas bien avec elle.
 
 313
 00:17:51,070 --> 00:17:54,573
-
 - Ben non, je la déteste, cette conne.
 - Évidemment.
 
@@ -1479,7 +1436,6 @@ Tu veux le voir triste, papa ?
 
 323
 00:18:18,388 --> 00:18:20,641
-
 - Non.
 - Non. Très bien.
 
@@ -1514,7 +1470,6 @@ c’est ton père. On est d’accord ?
 
 330
 00:18:42,830 --> 00:18:44,414
-
 - Oui, allez. Donne.
 - Très bien.
 
@@ -1529,7 +1484,6 @@ avec une manette offerte.
 
 333
 00:18:52,047 --> 00:18:53,674
-
 - Tu aimerais l’avoir ?
 - Évidemment.
 
@@ -1544,7 +1498,6 @@ que tu me rendes un service en échange, ok ?
 
 336
 00:19:09,940 --> 00:19:12,317
-
 - Passe, je t’en prie.
 - Non, pardon. Je continue, je vais au parking.
 
@@ -1570,7 +1523,6 @@ Et toi ?
 
 342
 00:19:27,499 --> 00:19:30,294
-
 - Marina.
 - Marina. Enchanté.
 
@@ -1607,7 +1559,6 @@ Eliseo.
 
 350
 00:20:20,302 --> 00:20:22,387
-
 - Avec gomme, avec gomme.
 - Pardon.
 
@@ -1621,7 +1572,6 @@ Sérieux, Uli ? Tant mieux si ça te plaît.
 
 353
 00:20:34,191 --> 00:20:37,569
-
 - J’en ai encore au four, tu en veux ?
 - Évidemment. Encore du chou-fleur.
 
@@ -1855,13 +1805,11 @@ Il y a une chance de le décrocher ?
 
 406
 00:24:12,159 --> 00:24:13,493
-
 - Tu sens ?
 - Oui.
 
 407
 00:24:14,578 --> 00:24:18,665
-
 - Le dragon arrive. Ouille, ouille, ouille. Olé, olé.
 - C’est vrai. On sent un truc.
 
@@ -1871,19 +1819,16 @@ M. Schuster.
 
 409
 00:24:26,756 --> 00:24:27,924
-
 - Comment allez-vous ?
 - Comment allez-vous ?
 
 410
 00:24:28,049 --> 00:24:29,176
-
 - Bien ?
 - Bonjour.
 
 411
 00:24:29,259 --> 00:24:30,969
-
 - Un petit bonbon à la menthe ?
 - Non, très aimable, Eliseo.
 
@@ -1906,13 +1851,11 @@ Rassurez-vous. Partez tranquille.
 
 416
 00:24:40,228 --> 00:24:42,981
-
 - Quand vous reviendrez, ce sera réglé.
 - Merci beaucoup.
 
 417
 00:24:43,064 --> 00:24:45,275
-
 - Je vous en prie. Je vous en prie.
 - Excusez-moi.
 
@@ -2028,13 +1971,11 @@ des tâches habituelles d’un gardien.
 
 442
 00:26:03,436 --> 00:26:04,801
-
 - Très intéressant.
 - Vous me suivez, hein ?
 
 443
 00:26:04,813 --> 00:26:05,855
-
 - Oui, oui.
 - Parfait.
 
@@ -2061,7 +2002,6 @@ Allez, s’il vous plaît. Oui.
 
 449
 00:26:20,662 --> 00:26:23,039
-
 - Lavage de voitures ?
 - Bien, Dionisi !
 
@@ -2079,7 +2019,6 @@ Parfait. Quoi d’autre ? Allez. Oui.
 
 453
 00:26:30,005 --> 00:26:32,382
-
 - Garde d’animaux.
 - Parfait, Fracini.
 
@@ -2125,7 +2064,6 @@ Qui apparaît ?
 
 463
 00:26:55,822 --> 00:26:59,701
-
 - Le gardien.
 - Bien ! Voilà ! Il apparaît aussitôt.
 
@@ -2145,7 +2083,6 @@ et pas coincé devant le grill.
 
 467
 00:27:06,583 --> 00:27:08,793
-
 - Qui apparaît ?
 - Le gardien.
 
@@ -2232,7 +2169,6 @@ Je te sers, mon amour.
 
 486
 00:28:14,442 --> 00:28:16,986
-
 - Un peu de jus détox.
 - Merci, maman.
 
@@ -2243,7 +2179,6 @@ on a match samedi.
 
 488
 00:28:32,669 --> 00:28:34,504
-
 - Je viendrai te chercher, d’accord ?
 - Ok.
 
@@ -2261,7 +2196,6 @@ Docteur.
 
 492
 00:28:50,228 --> 00:28:51,771
-
 - Comment ça va ?
 - Bien.
 
@@ -2271,7 +2205,6 @@ Comment vous l’avez trouvé, le patient ?
 
 494
 00:28:54,274 --> 00:28:57,777
-
 - Eh bien, bien, bien. C’est un autre garçon.
 - Un autre garçon.
 
@@ -2302,7 +2235,6 @@ et, bon, tu peux compter là-dessus.
 
 500
 00:29:15,962 --> 00:29:17,380
-
 - Bon, merci.
 - Au revoir.
 
@@ -2576,3 +2508,4 @@ J’ai des copies dans mon coffre-fort.
 563
 00:34:18,973 --> 00:34:21,309
 Garde-la, comme souvenir.
+
