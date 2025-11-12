@@ -13,7 +13,6 @@ une haleine de cloaque pareille ?
 
 4
 00:00:10,343 --> 00:00:11,594
-
 - Piquito.
 - Hé, Piquito.
 
@@ -120,13 +119,11 @@ Non.
 
 29
 00:01:34,344 --> 00:01:37,514
-
 - C’est notre petit pape.
 - Oui, je vois bien.
 
 30
 00:01:38,807 --> 00:01:42,268
-
 - Je ne savais pas que vous étiez si catholique.
 - Non, je ne suis pas catholique.
 
@@ -172,7 +169,6 @@ Tu veux bien me dire ce qui s’est passé ici, Miguel ?
 
 41
 00:02:33,736 --> 00:02:36,030
-
 - Vous m’avez filmé ?
 - Bien sûr que oui.
 
@@ -265,7 +261,6 @@ un peu le pied de l’accélérateur.
 
 61
 00:04:22,470 --> 00:04:24,847
-
 - Ah oui ?
 - Mmm-hmm. Oui.
 
@@ -294,7 +289,6 @@ Donc votre immeuble est intouchable.
 
 67
 00:04:50,498 --> 00:04:53,376
-
 - Tu vois, les balles ont fini par rentrer.
 - Mmm-hmm.
 
@@ -325,13 +319,11 @@ Eliseo.
 
 74
 00:05:12,770 --> 00:05:14,689
-
 - Oh, pardon, Susana.
 - Non, non.
 
 75
 00:05:14,814 --> 00:05:17,608
-
 - Excusez-moi, je ne vous ai pas entendue. J’étais...
 - Non, excusez-moi, vous.
 
@@ -363,13 +355,11 @@ dans les espaces communs". Bien sûr.
 
 82
 00:05:30,163 --> 00:05:32,206
-
 - Eh oui. Il faut faire quelque chose pour cette odeur.
 - Oui.
 
 83
 00:05:32,373 --> 00:05:33,750
-
 - C’est insalubre.
 - Oui.
 
@@ -460,13 +450,11 @@ Je ne sais plus quoi faire.
 
 103
 00:06:19,921 --> 00:06:22,215
-
 - Bon, de toute évidence, ça ne suffit pas.
 - Je suis d’accord.
 
 104
 00:06:22,298 --> 00:06:24,592
-
 - Il faut trouver la solution définitive.
 - Très bien.
 
@@ -481,7 +469,6 @@ Ne vous inquiétez pas, ça va se régler.
 
 107
 00:06:28,054 --> 00:06:31,057
-
 - Merci. Au revoir.
 - Au revoir, Susana. Adieu.
 
@@ -495,7 +482,6 @@ Là-bas, il te manque un chewing-gum, tu vois ?
 
 110
 00:06:41,609 --> 00:06:43,736
-
 - Tu tapes seulement sur ceux d’ici.
 - Oui, je sais.
 
@@ -506,19 +492,16 @@ Disons que ce n’est pas un problème de regard.
 
 112
 00:06:46,864 --> 00:06:49,617
-
 - C’est les reins.
 - Bon, on fait une pause.
 
 113
 00:06:49,700 --> 00:06:51,786
-
 - Ah.
 - On fait une pause et on reprend plus fort.
 
 114
 00:06:51,869 --> 00:06:54,163
-
 - Ah, je croyais que je ne pouvais pas m’arrêter.
 - Bien sûr que si.
 
@@ -551,7 +534,6 @@ Mais tu as besoin de tant de monde ?
 
 121
 00:07:10,847 --> 00:07:13,516
-
 - Non, juste un petit papy, c’est tout.
 - Ah.
 
@@ -561,7 +543,6 @@ Celui que j’ai est assez erratique.
 
 123
 00:07:16,894 --> 00:07:19,730
-
 - Mais je suis sûr que ça va très bien se passer.
 - C’est qui ?
 
@@ -617,19 +598,16 @@ si c’est un cardinal ou une cardinale ?
 
 136
 00:08:57,078 --> 00:08:59,121
-
 - On y va, papa ?
 - Non, ne partez pas encore.
 
 137
 00:08:59,205 --> 00:09:00,725
-
 - Je vous connais, vous.
 - Moi, non, je...
 
 138
 00:09:00,790 --> 00:09:02,416
-
 - Si, on s’est vu.
 - Où ça ?
 
@@ -656,7 +634,6 @@ C’est votre père ?
 
 144
 00:09:14,637 --> 00:09:16,222
-
 - Mon père, oui.
 - Ah.
 
@@ -684,7 +661,6 @@ Une solitude incroyable.
 
 150
 00:09:29,277 --> 00:09:31,320
-
 - Bon, on va y aller, nous.
 - Non, les après-midis.
 
@@ -744,7 +720,6 @@ dans l’évacuation du tuyau principal.
 
 163
 00:10:10,443 --> 00:10:12,320
-
 - Mmm-hmm...
 - C’est possible, oui.
 
@@ -760,7 +735,6 @@ la source exacte du problème.
 
 166
 00:10:18,492 --> 00:10:19,785
-
 - Non ?
 - Bon, très bien.
 
@@ -792,19 +766,16 @@ Je crois qu’elle vient d’une personne.
 
 173
 00:10:35,509 --> 00:10:38,596
-
 - D’une personne ?
 - Je crois que c’est l’haleine du locataire du 4B.
 
 174
 00:10:39,722 --> 00:10:41,182
-
 - Schuster.
 - Schuster ?
 
 175
 00:10:41,265 --> 00:10:42,308
-
 - Schuster ?
 - Schuster ?
 
@@ -884,7 +855,6 @@ ni le discriminer de cette façon.
 
 193
 00:11:24,141 --> 00:11:26,435
-
 - C’est grave. Non.
 - Oui, oui, oui, oui.
 
@@ -979,7 +949,6 @@ Merci, merci.
 
 214
 00:12:41,761 --> 00:12:43,637
-
 - Ça part.
 - Ça part.
 
@@ -989,13 +958,11 @@ Tu ne sais pas ce que tu rates.
 
 216
 00:13:53,290 --> 00:13:56,502
-
 - Le voilà, le voilà.
 - On n’a pas le temps ! Allez, vite, vite !
 
 217
 00:13:57,253 --> 00:13:58,754
-
 - Par ici.
 - Il passe par là.
 
@@ -1018,19 +985,16 @@ Maintenant, on va faire "dodo dans les bras".
 
 222
 00:14:09,181 --> 00:14:11,767
-
 - Mais attends. Tu ne vas pas y arriver tout seul.
 - Non, oui, non...
 
 223
 00:14:12,810 --> 00:14:15,187
-
 - Tiens, prends le sac.
 - Comment... ?
 
 224
 00:14:15,437 --> 00:14:19,024
-
 - Tu n’étais pas paralysé, toi ?
 - Non. Je n’aime pas marcher, moi.
 
@@ -1048,7 +1012,6 @@ Même à la petite cuillère, on ne me relève pas. Allez.
 
 228
 00:14:26,991 --> 00:14:29,034
-
 - On y va. Oui.
 - Soulève-le, toi, je pousse la chaise.
 
@@ -1063,13 +1026,11 @@ Je suis là, Gómez. Je suis là, don Gómez.
 
 231
 00:14:34,415 --> 00:14:36,250
-
 - Je suis là. Très bien.
 - Très bien.
 
 232
 00:14:36,458 --> 00:14:41,338
-
 - Très bien ! Regardez comme il est sage ! Voilà.
 - Regarde.
 
@@ -1084,13 +1045,11 @@ On va commencer par ces petites choses, d’accord ?
 
 235
 00:14:49,471 --> 00:14:52,099
-
 - Oh, qu’il est content. Regarde.
 - Oui.
 
 236
 00:15:05,195 --> 00:15:07,531
-
 - Allô ?
 - Situation ?
 
@@ -1154,25 +1113,21 @@ Voilà ! C’est ça, la solution.
 
 251
 00:15:58,123 --> 00:15:59,124
-
 - Attends.
 - Ah !
 
 252
 00:15:59,208 --> 00:16:00,334
-
 - Oui.
 - Un peu.
 
 253
 00:16:00,417 --> 00:16:03,087
-
 - Où ? Là.
 - Sur le nez, sur le nez. Voilà !
 
 254
 00:16:03,587 --> 00:16:05,339
-
 - Laisse-moi, je veux prendre une petite photo.
 - Oui.
 
@@ -1207,7 +1162,6 @@ Eliseo.
 
 262
 00:16:22,940 --> 00:16:25,317
-
 - Gómez est en train de monter.
 - Retarde-le !
 
@@ -1295,7 +1249,6 @@ que je vais vous le régler, je suis foutu.
 
 282
 00:17:16,827 --> 00:17:18,495
-
 - Non, que quelqu’un d’autre s’en occupe.
 - O.K.
 
@@ -1334,7 +1287,6 @@ Là. Voyons.
 
 291
 00:17:58,202 --> 00:18:01,663
-
 - Voyons comment ça se passe.
 - Voyons. L’ascenseur. Il est arrivé !
 
@@ -1361,7 +1313,6 @@ Vous avez compris ou pas ?
 
 297
 00:18:19,932 --> 00:18:22,768
-
 - Comment ça s’est passé ?
 - Bien. Bah, on racontait des bêtises.
 
@@ -1371,7 +1322,6 @@ Papa, c’est l’heure du losartan.
 
 299
 00:18:25,729 --> 00:18:27,106
-
 - Je vais le chercher.
 - Oui.
 
@@ -1393,7 +1343,6 @@ parce que son oreille chauffe, regarde.
 
 304
 00:18:37,783 --> 00:18:39,827
-
 - Bon. S’il vous plaît, je vous raccompagne en bas.
 - Bon. Oui.
 
@@ -1403,7 +1352,6 @@ Oui, s’il vous plaît, aidez-moi, vite, vite, vite.
 
 306
 00:18:42,204 --> 00:18:44,748
-
 - J’ai besoin d’aide. Merci, merci.
 - On y est, papa.
 
@@ -1413,7 +1361,6 @@ Ouvre la porte, si tu veux.
 
 308
 00:18:46,750 --> 00:18:48,252
-
 - Merci.
 - Voilà.
 
@@ -1423,13 +1370,11 @@ On y va. Bien. Voilà.
 
 310
 00:18:52,214 --> 00:18:53,715
-
 - Un poil en arrière.
 - Un poil encore.
 
 311
 00:18:53,882 --> 00:18:55,551
-
 - On y va.
 - Merci.
 
@@ -1462,7 +1407,6 @@ Ciao, ciao. Ciao !
 
 318
 00:20:06,997 --> 00:20:10,292
-
 - Quelle belle photo.
 - Elles sont très bonnes, très bonnes.
 
@@ -1472,13 +1416,11 @@ Ouh là ! Celle-là fait peur, hein !
 
 320
 00:20:13,128 --> 00:20:14,838
-
 - Très bien.
 - Mais elles servent toutes.
 
 321
 00:20:14,963 --> 00:20:17,007
-
 - Oui, elles servent toutes. Bien sûr.
 - Parfait.
 
@@ -1510,7 +1452,6 @@ un effort physique qui n’était pas prévu.
 
 328
 00:20:36,360 --> 00:20:38,320
-
 - Mmm-hmm.
 - Et il faut le prendre en compte.
 
@@ -1542,7 +1483,6 @@ que tu ouvres la porte pour que tu entres.
 
 335
 00:20:57,881 --> 00:20:59,591
-
 - Oui.
 - Ensuite, bien sûr,
 
@@ -1583,7 +1523,6 @@ Marché conclu.
 
 344
 00:21:29,329 --> 00:21:30,956
-
 - Là, il y en a 12.
 - Mmm-hmm.
 
@@ -1596,9 +1535,7 @@ Trois cents en petites coupures.
 Ah, j’oublie un frais supplémentaire.
 
 347
-00:21:37,421 -->
-00:21:39,256
-
+00:21:37,421 --> 00:21:39,256
 - Quel frais ?
 - Les palmiers.
 
@@ -1613,7 +1550,6 @@ Oui, bien sûr.
 
 350
 00:21:44,261 --> 00:21:45,846
-
 - Voyons.
 - Le voilà.
 
@@ -1646,7 +1582,6 @@ M. Antonio Ubaldo Gómez ?
 
 357
 00:22:23,800 --> 00:22:25,927
-
 - Merci beaucoup.
 - Non, je vous en prie.
 
@@ -1682,7 +1617,6 @@ de... de tout le syndicat de copropriétaires.
 
 365
 00:22:47,949 --> 00:22:49,785
-
 - Pourquoi ? J’ai fait quelque chose de mal ?
 - Pas du tout.
 
@@ -1778,7 +1712,6 @@ Bon, non. Je m’en remets encore une fois.
 
 387
 00:24:10,031 --> 00:24:12,409
-
 - Non, je ne sens rien.
 - Vous vous êtes habitué.
 
@@ -1877,7 +1810,6 @@ On va s’en sortir ensemble.
 
 409
 00:25:21,186 --> 00:25:22,896
-
 - Merci beaucoup, Eliseo.
 - Je vous en prie. Non.
 
@@ -1969,7 +1901,6 @@ E...
 
 430
 00:26:21,580 --> 00:26:23,957
-
 - E... E...
 - Papa.
 
@@ -2014,7 +1945,6 @@ le lien que tu as avec ton papa.
 
 440
 00:26:59,492 --> 00:27:02,787
-
 - Ouh, comment je vais te défoncer.
 - Ah oui ?
 
@@ -2039,7 +1969,6 @@ pour que tu voies que...
 
 445
 00:27:15,800 --> 00:27:17,427
-
 - Qu’est-ce que c’est que tout ça ?
 - C’est quoi, ça ?
 
@@ -2173,7 +2102,6 @@ Oh !
 
 474
 00:29:06,870 --> 00:29:08,913
-
 - Waouh.
 - ...qui est quand l’haleine prend,
 
@@ -2216,7 +2144,6 @@ vous devriez être entre 30 et 70.
 
 483
 00:29:39,486 --> 00:29:43,031
-
 - Et vous êtes à 1200.
 - Oh.
 
@@ -2241,19 +2168,16 @@ de figures qui ont eu de l’halitose.
 
 488
 00:29:57,170 --> 00:29:59,464
-
 - Ah oui ? Qui, par exemple ?
 - Rock Hudson.
 
 489
 00:29:59,631 --> 00:30:01,758
-
 - Ringo Starr.
 - Ah, Ringo Starr.
 
 490
 00:30:01,966 --> 00:30:03,676
-
 - Isabel Perón.
 - Non ?
 
@@ -2278,7 +2202,6 @@ on peut utiliser ce petit masque.
 
 495
 00:30:16,356 --> 00:30:18,441
-
 - C’est très important. Voyons.
 - Il a un double filtre.
 
@@ -2297,13 +2220,11 @@ Voyons ?
 
 499
 00:30:25,615 --> 00:30:29,160
-
 - Comme ça, c’est bon ?
 - Oh ! Le jour et la nuit, docteure !
 
 500
 00:30:29,327 --> 00:30:30,870
-
 - Ça ne sort pas ?
 - Rien !
 
@@ -2324,7 +2245,6 @@ que comme vous étiez une sommité,
 
 504
 00:30:40,547 --> 00:30:42,298
-
 - et que le paiement se faisait en dollars, non ?
 - Mmm-hmm.
 
@@ -2364,7 +2284,6 @@ Vous voyez que tout a une solution ?
 
 513
 00:31:03,695 --> 00:31:05,905
-
 - Merci beaucoup, Eliseo.
 - Je vous en prie.
 
@@ -2374,7 +2293,6 @@ Je me suis enlevé un grand poids des épaules.
 
 515
 00:31:08,950 --> 00:31:11,661
-
 - Vous me faites un câlin ?
 - Maintenant, oui.
 
@@ -2384,7 +2302,6 @@ Quel grand bonhomme !
 
 517
 00:31:13,454 --> 00:31:14,581
-
 - Rien !
 - Rien ?
 
@@ -2399,19 +2316,16 @@ Allez à la voiture, j’arrive.
 
 520
 00:31:19,878 --> 00:31:21,254
-
 - D’accord.
 - Allez.
 
 521
 00:31:25,967 --> 00:31:29,053
-
 - J’ai adoré.
 - Merci beaucoup, Eliseo. Voilà ta part.
 
 522
 00:31:29,220 --> 00:31:31,598
-
 - Discret, hein.
 - Quelle discrétion ? Il n’y a personne.
 
@@ -2431,7 +2345,6 @@ changer tout son sourire.
 
 526
 00:31:39,772 --> 00:31:42,233
-
 - Je peux te l’envoyer ?
 - Oui, bien sûr. Envoie-le-moi.
 
@@ -2441,7 +2354,6 @@ Géniale, doc.
 
 528
 00:32:20,563 --> 00:32:23,691
-
 - Allez, monte, tu vas être trempé.
 - Allez.
 
@@ -2456,7 +2368,6 @@ Tu as réfléchi
 
 531
 00:32:36,371 --> 00:32:38,122
-
 - Oui, mais...
 - Mais quoi ?
 
@@ -2535,3 +2446,4 @@ Quelle ordure tu es !
 00:34:52,423 --> 00:34:56,886
 T’es un fils de pute,
 putain de mère qui t’a mis au monde !
+
