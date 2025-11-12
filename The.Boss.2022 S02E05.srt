@@ -22,7 +22,6 @@ mais l’appartement de Beba est déjà à vous.
 
 6
 00:00:28,028 --> 00:00:30,113
-
 - Très bien.
 - Hé, Eliseo.
 
@@ -94,7 +93,6 @@ pendant 30 ans,
 
 22
 00:01:14,949 --> 00:01:17,035
-
 - ça fait 290 000.
 - Bien sûr.
 
@@ -121,7 +119,6 @@ Presque 30 000 dollars de plus.
 
 28
 00:01:27,837 --> 00:01:30,298
-
 - Deux cent soixante mille. Il manque.
 - Bien sûr.
 
@@ -150,7 +147,6 @@ Bon, quarante mille dollars,
 
 34
 00:01:43,186 --> 00:01:47,232
-
 - Et ?
 - En plus, ces années-là, j’ai participé
 
@@ -323,7 +319,6 @@ en fonds d’investissement, obligations.
 
 73
 00:03:25,663 --> 00:03:27,457
-
 - Ah.
 - Actions.
 
@@ -487,7 +482,6 @@ Normalement, ils montent.
 
 111
 00:05:55,521 --> 00:05:58,191
-
 - Regarde comme ce petit vase est joli.
 - Mmm.
 
@@ -578,7 +572,6 @@ Euh, non, je ne pense pas.
 
 131
 00:06:58,960 --> 00:07:02,255
-
 - On ne peut pas dépenser autant.
 - Ça dépasse le budget. Je vous le donnerais,
 
@@ -610,7 +603,6 @@ Bon, marché conclu.
 
 138
 00:07:19,939 --> 00:07:21,274
-
 - Allez.
 - Très bon choix.
 
@@ -628,7 +620,6 @@ Très bon.
 
 142
 00:07:38,499 --> 00:07:40,585
-
 - Bonsoir.
 - Bonsoir. Je monte au neuvième.
 
@@ -642,7 +633,6 @@ Euh oui, oui, allez-y.
 
 145
 00:07:43,796 --> 00:07:46,340
-
 - Attendez-moi là, s’il vous plaît, une seconde.
 - D’accord.
 
@@ -652,7 +642,6 @@ Je vais prendre vos coordonnées pour l’entrée.
 
 147
 00:07:49,343 --> 00:07:51,471
-
 - Votre nom, mademoiselle ?
 - Meli.
 
@@ -662,7 +651,6 @@ Meli de... ?
 
 149
 00:07:53,890 --> 00:07:56,100
-
 - De Melina ou de Melisa ?
 - Melina Alonso.
 
@@ -886,7 +874,6 @@ Eh bien, merci beaucoup, Guerrido.
 
 200
 00:10:43,768 --> 00:10:45,561
-
 - Combien de mètres ?
 - 240.
 
@@ -1101,7 +1088,6 @@ Enfin, euh...
 
 248
 00:12:49,643 --> 00:12:51,812
-
 - Oubliez. Pour vous, je vais le faire.
 - Bon.
 
@@ -1112,13 +1098,11 @@ ici dans l’immeuble. Je vais monter.
 
 250
 00:12:54,565 --> 00:12:56,192
-
 - Merci.
 - Je vais chercher la boîte à outils,
 
 251
 00:12:56,275 --> 00:12:58,819
-
 - et j’arrive tout de suite. Au revoir.
 - Bien sûr. Je vous attends.
 
@@ -1132,7 +1116,6 @@ Vous avez vu que jeudi il y a réunion
 
 254
 00:13:03,949 --> 00:13:04,950
-
 - du syndic ?
 - Oui.
 
@@ -1163,7 +1146,6 @@ des valeurs proches représente sa voix.
 
 261
 00:13:18,339 --> 00:13:20,508
-
 - Je n’en doute pas une seconde.
 - Je l’aimais tellement.
 
@@ -1173,19 +1155,16 @@ C’est mon affaire, Romina.
 
 263
 00:13:23,093 --> 00:13:24,553
-
 - Nous sommes séparés.
 - Je vais lui parler,
 
 264
 00:13:24,637 --> 00:13:25,763
-
 - à lui. J’y vais.
 - Oui.
 
 265
 00:13:25,846 --> 00:13:28,265
-
 - Où tu... ? Moi... Franchement...
 - [Romina parle indistinctement]
 
@@ -1196,7 +1175,6 @@ la seule idiote à m’occuper
 
 267
 00:13:29,809 --> 00:13:31,769
-
 - toute seule d’Ulises, ton fils.
 - Euh...
 
@@ -1220,13 +1198,11 @@ le conseil des propriétaires.
 
 272
 00:13:41,821 --> 00:13:43,155
-
 - C’est clair ?
 - Oui.
 
 273
 00:13:43,239 --> 00:13:44,990
-
 - Ce sera quand ?
 - Jeudi.
 
@@ -1260,7 +1236,6 @@ C’est clair ? Je le fais pour nous deux, docteur.
 
 280
 00:13:59,964 --> 00:14:01,882
-
 - Je peux compter sur votre vote ou pas ?
 - Toujours.
 
@@ -1270,7 +1245,6 @@ Parfait.
 
 282
 00:14:03,509 --> 00:14:05,511
-
 - Oui ?
 - En plus tu me laisses poireauter...
 
@@ -1280,7 +1254,6 @@ Si t’as trouvé que c’était trop long,
 
 284
 00:14:08,222 --> 00:14:10,933
-
 - eh bien tu sais quoi ? T’avais qu’à raccrocher.
 - Vendredi, c’est toi qui le prends.
 
@@ -1376,7 +1349,6 @@ Mais évitons les ennuis, s’il vous plaît.
 
 306
 00:15:12,286 --> 00:15:14,204
-
 - Euh, bien.
 - Merci.
 
@@ -1408,7 +1380,6 @@ Non, je viens de Bahía Blanca.
 
 313
 00:15:27,968 --> 00:15:29,762
-
 - Ah, de Bahía Blanca. Très bien.
 - Oui.
 
@@ -1503,7 +1474,6 @@ et que les testicules se développent.
 
 334
 00:16:26,402 --> 00:16:28,654
-
 - Oui. Eh bien.
 - Ah.
 
@@ -1526,7 +1496,6 @@ prennent tout en charge.
 
 339
 00:16:37,454 --> 00:16:39,832
-
 - Généreux, les parents.
 - Mmm.
 
@@ -1588,7 +1557,6 @@ On avait convenu de quelque chose
 
 353
 00:17:52,696 --> 00:17:54,698
-
 - entre toi et moi. Qu’est-ce qui t’est arrivé ?
 - Ben, c’est que ça,
 
@@ -1703,7 +1671,6 @@ le cul collé contre le mur de la prison
 
 378
 00:19:00,055 --> 00:19:02,474
-
 - et un œil ouvert toute la nuit.
 - Arrête, tonton.
 
@@ -1807,7 +1774,6 @@ et si vous avez besoin de moi comme bailleur,
 
 402
 00:20:07,706 --> 00:20:10,083
-
 - vous m’appelez sur cette autre ligne.
 - Il en a deux.
 
@@ -1832,7 +1798,6 @@ Mon amour. Ah, on a une bonne nouvelle
 
 407
 00:20:21,803 --> 00:20:23,722
-
 - Voyons.
 - On va vous payer
 
@@ -1842,7 +1807,6 @@ les six premiers mois d’avance.
 
 409
 00:20:25,807 --> 00:20:27,726
-
 - C’est très bien.
 - Oui, surtout
 
@@ -1858,7 +1822,6 @@ aucune remise pour paiement anticipé.
 
 412
 00:20:34,107 --> 00:20:36,109
-
 - Aucun problème.
 - C’est le même prix.
 
@@ -1900,13 +1863,11 @@ Eliseo, ça va ?
 
 421
 00:21:18,902 --> 00:21:20,362
-
 - Je ne t’avais pas vu.
 - Non ?
 
 422
 00:21:20,445 --> 00:21:21,905
-
 - Non.
 - Moi, je t’ai vu.
 
@@ -1942,7 +1903,6 @@ Oui, je m’en souviens, mais...
 
 430
 00:21:39,172 --> 00:21:40,424
-
 - Mais rien. Tu t’en souviens.
 - Oui.
 
@@ -1991,7 +1951,6 @@ Regarde comme ça s’est bien passé, hein ?
 
 441
 00:22:03,572 --> 00:22:06,241
-
 - Oui, je t’en suis énormément reconnaissant.
 - Non, ne me remercie pas.
 
@@ -2028,7 +1987,6 @@ et à qui tu parles. Hein ?
 
 449
 00:22:25,552 --> 00:22:26,803
-
 - D’accord. Oui.
 - On est d’accord ?
 
@@ -2039,7 +1997,6 @@ Salut, Antonito.
 
 451
 00:22:28,889 --> 00:22:31,141
-
 - Merci.
 - Bonne journée. Salut.
 
@@ -2136,7 +2093,6 @@ Non, attends. Non, attends.
 
 472
 00:23:30,200 --> 00:23:32,661
-
 - Attends, attends. Attends.
 - Qu’est-ce que tu fais ici ?
 
@@ -2225,7 +2181,6 @@ Euh, oui, oui, bien sûr.
 
 492
 00:24:43,815 --> 00:24:46,026
-
 - Bon, Eliseo, c’est...
 - Mmm.
 
@@ -2402,7 +2357,6 @@ levez la main maintenant, s’il vous plaît.
 
 532
 00:27:07,125 --> 00:27:09,878
-
 - On peut voter pour soi-même ?
 - Oui.
 
@@ -2509,7 +2463,6 @@ Vous allez tomber. Je vous le jure.
 
 557
 00:29:20,884 --> 00:29:23,762
-
 - Bonjour. De quoi avez-vous besoin ?
 - Bonjour.
 
@@ -2532,7 +2485,6 @@ peut le faire.
 
 562
 00:29:33,021 --> 00:29:35,190
-
 - Matías, s’il te plaît.
 - Oui.
 
@@ -2580,7 +2532,6 @@ tu n’as rien à dire.
 
 572
 00:30:04,219 --> 00:30:06,513
-
 - Très bien.
 - Permets, s’il te plaît.
 
@@ -2600,7 +2551,6 @@ Pousse-toi, s’il te plaît.
 
 576
 00:30:14,020 --> 00:30:15,605
-
 - Non, non.
 - Pardon.
 
