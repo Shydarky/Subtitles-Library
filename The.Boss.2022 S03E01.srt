@@ -35,7 +35,6 @@ avons un problème en commun.
 
 9
 00:00:18,893 --> 00:00:19,894
-
 - Bonjour.
 - Bonjour.
 
@@ -74,7 +73,6 @@ Je voudrais te proposer un petit boulot.
 
 18
 00:00:34,034 --> 00:00:35,035
-
 - T'as l'heure ?
 - Euh.
 
@@ -182,7 +180,6 @@ il m'a aussi menacé.
 
 43
 00:01:28,338 --> 00:01:30,006
-
 - Qu'est-ce que tu fous ici ?
 - Je suis venu dire la vérité.
 
@@ -204,7 +201,6 @@ Je suis triste qu'il parte, docteur.
 
 48
 00:01:37,806 --> 00:01:40,183
-
 - Va te faire foutre.
 - Il est fâché.
 
@@ -259,7 +255,6 @@ Qu'est-ce que c'est ?
 
 61
 00:02:58,094 --> 00:03:00,471
-
 - Regarde, ouvre-la.
 - Non, je la lirai après.
 
@@ -298,7 +293,6 @@ La convention se tiendra
 
 70
 00:03:28,208 --> 00:03:30,877
-
 - Parfait.
 - Tu y vas ?
 
@@ -321,7 +315,6 @@ Non. C'est tout.
 
 75
 00:03:42,180 --> 00:03:44,974
-
 - Bon, merci. À bientôt.
 - D'accord.
 
@@ -332,7 +325,6 @@ Et ne laissez plus jamais la voiture là,
 
 77
 00:03:47,602 --> 00:03:49,812
-
 - parce que les propriétaires ne peuvent pas sortir.
 - D'accord.
 
@@ -467,7 +459,6 @@ Putain de merde.
 
 109
 00:07:26,446 --> 00:07:27,697
-
 - Bom dia, senhor.
 - Bom dia.
 
@@ -481,13 +472,11 @@ Eu tenho una solicitaçao para voce.
 
 112
 00:07:32,034 --> 00:07:34,162
-
 - Sí, numéro de chambre, s'il vous plaît.
 - Sí.
 
 113
 00:07:34,328 --> 00:07:37,790
-
 - Un, un, dois, oito.
 - Dos, oito.
 
@@ -554,7 +543,6 @@ la chambre mesure 27 mètres carrés.
 
 128
 00:08:14,702 --> 00:08:18,080
-
 - Ah, désolé, M. Basurto.
 - Basurto, oui.
 
@@ -596,7 +584,6 @@ Comprenez-vous quand je parle ?
 
 137
 00:08:40,228 --> 00:08:42,021
-
 - Oui, je comprends.
 - OK.
 
@@ -611,7 +598,6 @@ sur ma table de nuit la Bible sacrée.
 
 140
 00:08:49,570 --> 00:08:51,948
-
 - Oui.
 - Je ne la veux pas. Je n'en ai pas besoin.
 
@@ -1128,7 +1114,6 @@ Sors du appartement. Sors maintenant.
 
 260
 00:17:42,728 --> 00:17:44,730
-
 - Bon, merci beaucoup.
 - Merci à vous.
 
@@ -1138,7 +1123,6 @@ Eliseo, je t'attendais demain.
 
 262
 00:17:48,317 --> 00:17:50,194
-
 - Qu'est-ce qui s'est passé ? Tu t'es avancé ?
 - Non. Je ne me suis pas avancé.
 
@@ -1187,7 +1171,6 @@ Eh, eh, attends, attends.
 
 273
 00:18:09,463 --> 00:18:11,924
-
 - Je dois te raconter quelque chose. Euh...
 - Quoi ?
 
@@ -1198,13 +1181,11 @@ les troènes ont encore des pucerons.
 
 275
 00:18:16,428 --> 00:18:18,889
-
 - Bon, tu me le diras plus tard. Tranquille.
 - Non, bon, mais...
 
 276
 00:18:18,972 --> 00:18:21,225
-
 - La barbe te va très bien, Eliseo !
 - Merci !
 
@@ -1380,7 +1361,6 @@ autant de fois que tu veux.
 
 317
 00:20:55,921 --> 00:20:57,881
-
 - C'est clair ?
 - OK.
 
@@ -1399,7 +1379,6 @@ Je voulais juste que tu le saches.
 
 321
 00:21:13,397 --> 00:21:15,440
-
 - M. Gonzalo, comment allez-vous ?
 - Eliseo, quoi de neuf ?
 
@@ -1530,3 +1509,4 @@ Maintenant tu vas t'en prendre à tous, à tous.
 352
 00:24:08,196 --> 00:24:11,616
 Bienvenue dans l'empire d'Eliseo.
+
