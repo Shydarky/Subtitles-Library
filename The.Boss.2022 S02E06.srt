@@ -203,13 +203,11 @@ Le premier motif de licenciement serait...
 
 47
 00:03:27,538 --> 00:03:30,583
-
 - Une condamnation par un tribunal définitif.
 - Ça ne s'applique pas ici.
 
 48
 00:03:30,667 --> 00:03:33,711
-
 - Et le deuxième ?
 - Le deuxième motif, c'est...
 
@@ -310,7 +308,6 @@ Non, Eliseo, pas moi, le conseil le pense.
 
 71
 00:04:58,921 --> 00:05:00,465
-
 - Le conseil ?
 - Oui.
 
@@ -630,7 +627,6 @@ le reste en minuscules.
 
 142
 00:09:32,278 --> 00:09:34,780
-
 - Merci.
 - Pas de problème.
 
@@ -852,7 +848,6 @@ Ah, d'accord. Alors la réponse, c'est : rien.
 
 194
 00:13:20,089 --> 00:13:23,676
-
 - « Je n'aime pas les gens qui ont... »
 - mauvaise haleine.
 
@@ -883,7 +878,6 @@ Je passe.
 
 201
 00:13:53,497 --> 00:13:56,584
-
 - « Je vois l'avenir comme... »
 - quelque chose de beau.
 
@@ -1047,7 +1041,6 @@ Parce que j'ai beaucoup de choses à dire
 
 239
 00:16:09,008 --> 00:16:10,342
-
 - sur ce type.
 - Bien sûr, oui.
 
@@ -1256,7 +1249,6 @@ Viens là.
 
 287
 00:18:39,867 --> 00:18:42,452
-
 - Tout va bien ?
 - Oui, tout va bien.
 
@@ -1282,7 +1274,6 @@ Celui de l'immeuble, Gabriel.
 
 293
 00:18:51,503 --> 00:18:53,755
-
 - Ah.
 - Qu'est-ce que les gens disent ?
 
@@ -1306,13 +1297,11 @@ On observe les visages, les gestes.
 
 298
 00:19:04,224 --> 00:19:07,394
-
 - Ça aussi, ça parle.
 - Je ne peux pas te dire ça, moi.
 
 299
 00:19:07,477 --> 00:19:10,063
-
 - Je ne fais pas vraiment attention à ça.
 - Ça suffit. Donne-moi les papiers et va-t'en.
 
@@ -1343,7 +1332,6 @@ on ne sait jamais, Gabriel. On verra bien.
 
 306
 00:19:23,660 --> 00:19:25,454
-
 - Va.
 - D'accord.
 
@@ -1456,7 +1444,6 @@ Bonjour.
 
 332
 00:21:44,509 --> 00:21:46,178
-
 - Mario, comment tu vas ?
 - Eliseo.
 
@@ -1470,7 +1457,6 @@ Désolé d'être en retard. J'ai été pris
 
 335
 00:21:48,972 --> 00:21:51,016
-
 - à la dernière minute.
 - Ne t'inquiète pas, au contraire.
 
@@ -1489,7 +1475,6 @@ pour un autre rendez-vous.
 
 339
 00:21:56,980 --> 00:21:58,940
-
 - D'accord.
 - Tu veux boire quelque chose ?
 
@@ -1546,7 +1531,6 @@ de cette nature.
 
 352
 00:22:34,643 --> 00:22:37,312
-
 - Eliseo...
 - Oui, j'ai presque fini.
 
@@ -1673,7 +1657,6 @@ Il est rentré, il faisait froid dehors,
 
 381
 00:24:16,912 --> 00:24:18,622
-
 - il a allumé la cheminée, tu vois la fumée ?
 - Ah.
 
@@ -1720,19 +1703,16 @@ Allez. On y va.
 
 391
 00:25:31,903 --> 00:25:35,073
-
 - Ce genre de rapport, hein ?
 - Trente et...
 
 392
 00:25:35,156 --> 00:25:37,075
-
 - Bonjour.
 - Bonjour.
 
 393
 00:25:37,158 --> 00:25:39,202
-
 - Bonjour.
 - Bonjour.
 
@@ -1817,7 +1797,6 @@ Oui, bien sûr. Docteur.
 
 412
 00:26:29,711 --> 00:26:31,171
-
 - Je vous en prie.
 - Oui.
 
@@ -1835,7 +1814,6 @@ Si je peux, j'aimerais en lire la conclusion,
 
 416
 00:26:38,970 --> 00:26:40,847
-
 - au cas où vous auriez une question précise.
 - Bien sûr.
 
@@ -1872,13 +1850,11 @@ Je suis désolé, mais ça doit être une erreur.
 
 424
 00:27:06,414 --> 00:27:08,375
-
 - Euh...
 - Matías, s'il vous plaît.
 
 425
 00:27:08,458 --> 00:27:10,627
-
 - Écoutons le médecin, d'accord ?
 - Merci.
 
@@ -1915,13 +1891,11 @@ zéro pour cent.
 
 433
 00:27:34,150 --> 00:27:36,194
-
 - Je peux voir ?
 - Oui, bien sûr.
 
 434
 00:27:36,277 --> 00:27:37,904
-
 - Merci.
 - Très bien, docteur.
 
@@ -1963,7 +1937,6 @@ Merci, docteur.
 
 443
 00:28:00,343 --> 00:28:03,054
-
 - Je vous en prie.
 - Pour vos paroles et votre professionnalisme.
 
@@ -2066,7 +2039,6 @@ Bonjour.
 
 466
 00:29:15,126 --> 00:29:17,128
-
 - Bonjour.
 - Bonjour.
 
@@ -2140,7 +2112,6 @@ dans ses paroles.
 
 483
 00:30:02,507 --> 00:30:03,800
-
 - C'est la vérité. Je suis désolée.
 - Excusez-moi.
 
@@ -2219,7 +2190,6 @@ Même si je pense qu'elle l'a un peu dragué.
 
 501
 00:31:08,239 --> 00:31:10,116
-
 - Romi !
 - Je dois y aller.
 
@@ -2233,7 +2203,6 @@ Romina.
 
 504
 00:31:14,162 --> 00:31:15,622
-
 - Romina !
 - La voilà.
 
