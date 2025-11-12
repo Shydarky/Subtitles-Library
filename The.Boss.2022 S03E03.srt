@@ -417,7 +417,6 @@ Eliseo.
 
 98
 00:06:09,202 --> 00:06:10,495
-
 - Nacho.
 - Ça va ?
 
@@ -442,7 +441,6 @@ le nouveau petit chien.
 
 103
 00:06:21,923 --> 00:06:23,091
-
 - Et toi, tout va bien ?
 - Oui.
 
@@ -465,19 +463,16 @@ Il t'arrive un truc.
 
 108
 00:06:33,601 --> 00:06:37,647
-
 - Mais pas du tout ! Non, non. Je t'aide, allez.
 - Non, non, ça va. Je peux tout seul.
 
 109
 00:06:37,772 --> 00:06:38,773
-
 - Hein ?
 - Bon.
 
 110
 00:06:38,898 --> 00:06:40,942
-
 - On se voit ?
 - À plus, Nacho. D'accord.
 
@@ -535,13 +530,11 @@ Ils vont tomber.
 
 123
 00:07:37,623 --> 00:07:38,624
-
 - Salut.
 - Eliseo.
 
 124
 00:07:38,749 --> 00:07:40,168
-
 - Ça va, mon petit Nacho ?
 - Comment tu vas ?
 
@@ -588,7 +581,6 @@ et que c'est pour ça qu'il ne ferme pas l'œil.
 
 134
 00:08:06,360 --> 00:08:08,613
-
 - Ah.
 - Alors je le fais courir, tu vois ?
 
@@ -615,19 +607,16 @@ Il se met à hurler. Aouh !
 
 140
 00:08:21,125 --> 00:08:22,919
-
 - Ah oui ?
 - Oui, toute la nuit.
 
 141
 00:08:24,253 --> 00:08:25,671
-
 - Et ça y va, et ça y va.
 - Oui.
 
 142
 00:08:26,464 --> 00:08:28,341
-
 - Aïe, aïe, aïe.
 - Un truc de dingue.
 
@@ -637,7 +626,6 @@ Ah, tu sais, je voulais te demander.
 
 144
 00:08:31,010 --> 00:08:32,887
-
 - Oui.
 - Euh...
 
@@ -652,13 +640,11 @@ des bienfaits du sexe tantrique.
 
 147
 00:08:39,727 --> 00:08:41,395
-
 - Tu te souviens ?
 - Ah oui. Oui, oui, oui.
 
 148
 00:08:41,479 --> 00:08:42,879
-
 - On en a parlé une fois.
 - Je me souviens.
 
@@ -681,7 +667,6 @@ C'est une philosophie de vie.
 
 153
 00:08:50,863 --> 00:08:51,989
-
 - Bien sûr.
 - Oui.
 
@@ -700,7 +685,6 @@ une femme ne prenne pas pleinement son pied ?
 
 157
 00:09:00,748 --> 00:09:02,166
-
 - Non.
 - Non.
 
@@ -714,13 +698,11 @@ S'il n'y a pas de plaisir, ça tient pas.
 
 160
 00:09:06,879 --> 00:09:08,005
-
 - Bien sûr.
 - Non.
 
 161
 00:09:11,676 --> 00:09:13,219
-
 - Pourquoi ?
 - Mmm ?
 
@@ -734,7 +716,6 @@ Non.
 
 164
 00:09:17,056 --> 00:09:18,576
-
 - Pourquoi ?
 - Rien à voir. Non, non, non.
 
@@ -761,7 +742,6 @@ mieux on se connaît soi-même...
 
 170
 00:09:32,196 --> 00:09:34,407
-
 - Ah.
 - ...et meilleures sont les performances.
 
@@ -791,7 +771,6 @@ et détaillée de ton propre corps.
 
 176
 00:09:52,967 --> 00:09:53,968
-
 - Ah.
 - Hein ?
 
@@ -802,7 +781,6 @@ la machine régulièrement.
 
 178
 00:09:56,721 --> 00:09:58,973
-
 - Sans ça, tu peux même pas commencer.
 - Bien sûr.
 
@@ -862,7 +840,6 @@ et mon dossier médical à un inconnu.
 
 191
 00:10:39,430 --> 00:10:41,599
-
 - Merci pour le petit plateau. Il ne fallait pas.
 - Je t'en prie.
 
@@ -885,7 +862,6 @@ Tu prends des médicaments ?
 
 196
 00:10:50,066 --> 00:10:51,150
-
 - Non.
 - Non.
 
@@ -946,7 +922,6 @@ Anesthésie générale ?
 
 209
 00:11:25,101 --> 00:11:27,478
-
 - Salut.
 - Alors, Eliseo ? Tu es allé chez le docteur ?
 
@@ -956,19 +931,16 @@ Oui. On m'a envoyé faire des examens.
 
 211
 00:11:30,314 --> 00:11:31,982
-
 - J'ai les rendez-vous. On verra bien.
 - D'accord.
 
 212
 00:11:32,191 --> 00:11:34,318
-
 - Mais je viens pour autre chose.
 - Oui.
 
 213
 00:11:34,402 --> 00:11:36,696
-
 - Tu connais les Galurdián du 7B, non ?
 - Oui.
 
@@ -1014,7 +986,6 @@ Parfait. Une seule. Parfait.
 
 223
 00:11:57,508 --> 00:11:58,748
-
 - Je te l'apporte.
 - Merci, hein ?
 
@@ -1073,7 +1044,6 @@ Regarde d'où ils viennent.
 
 236
 00:12:43,304 --> 00:12:46,682
-
 - Du Nuevo Escudo !
 - Oui.
 
@@ -1103,7 +1073,6 @@ Tu veux prendre quelques matés ?
 
 243
 00:13:11,040 --> 00:13:13,375
-
 - Rien ne me ferait plus plaisir.
 - Entre.
 
@@ -1126,7 +1095,6 @@ Oui, je suis entièrement d'accord. Oui, oui.
 
 248
 00:13:30,643 --> 00:13:33,938
-
 - C'est bon, hein ? Délicieux.
 - Quoi ? Tu n'en manges plus ?
 
@@ -1160,13 +1128,11 @@ ils sont tout légers. Allez.
 
 255
 00:13:59,547 --> 00:14:00,965
-
 - Un de plus.
 - Un de plus. Allez, allez.
 
 256
 00:14:03,717 --> 00:14:07,513
-
 - Le dulce de leche...
 - Mon Dieu, c'est une vraie tentation.
 
@@ -1286,13 +1252,11 @@ Tu veux que j'appelle quelqu'un ?
 
 284
 00:18:09,671 --> 00:18:10,672
-
 - Non, non.
 - Non ?
 
 285
 00:18:10,756 --> 00:18:12,508
-
 - Ça va.
 - Bon.
 
@@ -1395,7 +1359,6 @@ Et on revient par ici.
 
 309
 00:19:35,883 --> 00:19:37,759
-
 - Maintenant ?
 - Oui, oui. J'avance, j'avance.
 
@@ -1410,13 +1373,11 @@ D'ici, après tu reviens.
 
 312
 00:19:45,642 --> 00:19:47,519
-
 - Les gens me regardent.
 - Mais non, personne ne regarde.
 
 313
 00:19:50,272 --> 00:19:52,774
-
 - On contracte le périnée.
 - C'est quoi, le périnée ?
 
@@ -1431,7 +1392,6 @@ entre la zone génitale et le...
 
 316
 00:19:58,697 --> 00:20:00,199
-
 - Le...
 - Oui, on a compris.
 
@@ -1451,13 +1411,11 @@ au bénéfice de la femme.
 
 320
 00:20:09,499 --> 00:20:12,085
-
 - Très bien. C'est fini ?
 - Aller-retour.
 
 321
 00:20:13,587 --> 00:20:16,048
-
 - Et je commence. Je lève...
 - Attends qu'il passe...
 
@@ -1487,7 +1445,6 @@ C'est ton père ?
 
 328
 00:20:42,699 --> 00:20:44,952
-
 - Comment ?
 - Si c'est ton père.
 
@@ -1497,7 +1454,6 @@ Non, non, non, non.
 
 330
 00:20:46,745 --> 00:20:49,790
-
 - Ton oncle ?
 - Non, non, non, non plus.
 
@@ -1523,7 +1479,6 @@ Une autre question ?
 
 336
 00:21:04,388 --> 00:21:05,681
-
 - Basurto.
 - Oui.
 
@@ -1545,7 +1500,6 @@ C'est un petit tube fin, flexible,
 
 341
 00:21:21,029 --> 00:21:23,323
-
 - avec une petite caméra intégrée.
 - Parfait.
 
@@ -1565,19 +1519,16 @@ refaire l'examen.
 
 345
 00:21:29,871 --> 00:21:32,541
-
 - Et on ne veut pas ça, hein ?
 - Moi, sûrement pas. Vous, je sais pas.
 
 346
 00:21:32,708 --> 00:21:34,376
-
 - Comment ?
 - Rien.
 
 347
 00:21:35,502 --> 00:21:37,462
-
 - Allonge-toi. On va commencer.
 - D'accord.
 
@@ -1616,7 +1567,6 @@ sept...
 
 356
 00:22:02,571 --> 00:22:04,781
-
 - Famille de Basurto ?
 - Oui.
 
@@ -1626,31 +1576,26 @@ Par ici, s'il vous plaît.
 
 358
 00:22:07,117 --> 00:22:08,785
-
 - Bon, c'est bon, c'est bon.
 - C'est bon.
 
 359
 00:22:09,369 --> 00:22:11,163
-
 - C'est fini. Bon, on y va.
 - C'est bon.
 
 360
 00:22:11,246 --> 00:22:12,247
-
 - On y va.
 - Prêt ?
 
 361
 00:22:12,331 --> 00:22:15,459
-
 - Aïe, aïe, aïe. Attends, j'ai la tête qui tourne.
 - Tranquille. Doucement. Pas à pas.
 
 362
 00:22:16,626 --> 00:22:18,295
-
 - Ça va.
 - Bon, on y va.
 
@@ -1660,13 +1605,11 @@ Pardon.
 
 364
 00:22:19,921 --> 00:22:22,090
-
 - Comment tu te sens ?
 - Bien, bien. Parfait. Bien.
 
 365
 00:22:22,174 --> 00:22:23,884
-
 - J'ai pris un prélèvement à analyser.
 - D'accord.
 
@@ -1687,7 +1630,6 @@ ni j'ai peur.
 
 369
 00:22:31,725 --> 00:22:33,852
-
 - Je peux vous poser une question, docteur ?
 - Oui.
 
@@ -1749,7 +1691,6 @@ Apparemment, il a disparu.
 
 383
 00:23:16,853 --> 00:23:20,399
-
 - Votre quoi ?
 - Mon laptop, mon ordinateur portable.
 
@@ -1803,13 +1744,11 @@ et ça m'indique qu'il est ici.
 
 395
 00:23:52,722 --> 00:23:55,267
-
 - Dans mon appartement ? Ça doit être une erreur.
 - Oui, ici.
 
 396
 00:23:55,392 --> 00:23:56,810
-
 - Par là-bas.
 - Entrez.
 
@@ -1926,13 +1865,11 @@ Allez, viens ! Bats-toi !
 
 423
 00:25:31,029 --> 00:25:33,198
-
 - Lâche de merde !
 - Arrête, arrête !
 
 424
 00:25:33,323 --> 00:25:35,742
-
 - Lâche de merde !
 - Stop ! Qu'est-ce qui se passe ? Arrête !
 
@@ -2027,7 +1964,6 @@ une petite routine d'exercices quotidiens,
 
 445
 00:26:31,339 --> 00:26:33,550
-
 - faire une...
 - Non, merci beaucoup. Non.
 
@@ -2061,7 +1997,6 @@ pour amener le bassin vers le ballon.
 
 452
 00:26:52,819 --> 00:26:55,155
-
 - Comment on fait ça ?
 - Comme ça, regarde.
 
@@ -2092,7 +2027,6 @@ Le chat se hérisse.
 
 459
 00:27:09,544 --> 00:27:12,005
-
 - Et le chat se relâche.
 - Voilà. Je contracte le périnée.
 
@@ -2154,3 +2088,4 @@ Qu'est-ce que tu fais samedi ?
 473
 00:28:57,944 --> 00:28:59,571
 Tu veux qu'on dîne à la maison ?
+
