@@ -108,7 +108,7 @@ et je ne m'arrêterai pas tant que je ne les aurai pas atteints.
 
 27
 00:02:21,938 --> 00:02:25,108
-Le Patron 2
+Le Concierge 2
 
 28
 00:02:34,451 --> 00:02:35,452
@@ -173,7 +173,6 @@ contre moi pour le pot-de-vin présumé que j'ai touché.
 
 41
 00:03:11,862 --> 00:03:13,572
-
 - Présumé, oui.
 - Oui, présumé.
 
@@ -262,7 +261,6 @@ Premier objectif atteint.
 
 61
 00:04:43,286 --> 00:04:44,412
-
 - Salut, Lucila.
 - Ne me parle pas.
 
@@ -307,7 +305,6 @@ peut-être que le problème
 
 71
 00:05:09,686 --> 00:05:11,813
-
 - vient d'ailleurs.
 - Le problème, c'est toi.
 
@@ -417,19 +414,16 @@ Suivant...
 
 95
 00:07:10,972 --> 00:07:11,973
-
 - Bonjour.
 - Eliseo.
 
 96
 00:07:12,056 --> 00:07:13,600
-
 - Ça va ?
 - Oui.
 
 97
 00:07:13,683 --> 00:07:15,059
-
 - Tu as besoin de quelque chose ?
 - Je peux entrer ?
 
@@ -444,7 +438,6 @@ tu ne crois pas ?
 
 100
 00:07:19,689 --> 00:07:21,691
-
 - De quoi tu parles ?
 - Excuse-moi.
 
@@ -454,7 +447,6 @@ Attends, tu vas où ?
 
 102
 00:07:22,942 --> 00:07:24,944
-
 - Non, je veux juste voir quelque chose.
 - Eliseo, qu'est-ce qui te prend ?
 
@@ -465,7 +457,6 @@ Tu ne peux pas entrer comme ça. Chéri ?
 
 104
 00:07:29,157 --> 00:07:30,533
-
 - Je n'ai pas fait irruption.
 - Dehors.
 
@@ -475,13 +466,11 @@ Occupe-toi bien de lui, d'accord ?
 
 106
 00:07:34,037 --> 00:07:35,455
-
 - Tiens-le bien serré.
 - Pourquoi tu l'as laissé entrer ?
 
 107
 00:07:35,538 --> 00:07:37,081
-
 - Ça va aller.
 - Pars en paix.
 
@@ -514,7 +503,6 @@ C'est la signature de ta copine ?
 
 114
 00:07:54,723 --> 00:07:56,975
-
 - Oui.
 - Ah. C'est bien ce que je pensais.
 
@@ -554,19 +542,16 @@ Pas un, mais deux.
 
 122
 00:08:19,414 --> 00:08:21,500
-
 - J'appelle la police ?
 - Non.
 
 123
 00:08:21,583 --> 00:08:22,834
-
 - N'appelle pas la police.
 - Bon.
 
 124
 00:08:22,918 --> 00:08:24,169
-
 - On va faire comme ça...
 - D'accord.
 
@@ -603,7 +588,6 @@ me faire un taux préférentiel,
 
 132
 00:08:43,938 --> 00:08:45,314
-
 - D'accord.
 - Oui.
 
@@ -618,7 +602,6 @@ et 20 % en plus à la vente.
 
 135
 00:08:51,946 --> 00:08:53,864
-
 - T'es fou. C'est énorme.
 - En effet.
 
@@ -629,13 +612,11 @@ Pour la police, c'est beaucoup.
 
 137
 00:08:56,867 --> 00:08:58,494
-
 - Je les appelle ?
 - Non, non. Ça va.
 
 138
 00:08:58,578 --> 00:09:00,997
-
 - Bien.
 - Ravi de faire ta connaissance, vraiment.
 
@@ -734,7 +715,6 @@ J'ai pardonné ta trahison.
 
 160
 00:10:40,052 --> 00:10:42,221
-
 - Ce n'était pas une trahison du tout.
 - Si...
 
@@ -767,7 +747,6 @@ tu aurais toujours les portes ouvertes.
 
 167
 00:10:59,279 --> 00:11:00,989
-
 - Vraiment ? Merci beaucoup.
 - Oui.
 
@@ -858,7 +837,7 @@ il insiste pour te parler.
 
 187
 00:12:04,677 --> 00:12:06,554
-​ Donne-lui l'adresse
+​Donne-lui l'adresse
 et il pourra apporter ce qu'il veut.
 
 188
@@ -882,7 +861,6 @@ Des dollars.
 192
 00:12:19,859 --> 00:12:22,403 
 <i>- de la Fondation d'aide ? </i>
-
 - Oui, c'est moi.
 
 193
@@ -952,8 +930,8 @@ Bon, pour revenir au don,
 
 207
 00:13:07,864 --> 00:13:09,449
-
-- dites-moi... <i>- C'était quoi son nom déjà ? </i>
+- dites-moi... 
+<i>- C'était quoi son nom déjà ? </i>
 
 208
 00:13:09,533 --> 00:13:12,369
@@ -1173,7 +1151,6 @@ pour un truc comme ça.
 
 255
 00:15:58,699 --> 00:16:01,201
-
 - Maxi...
 - Il ne ferait jamais un truc pareil.
 
@@ -1222,7 +1199,6 @@ Très bien.
 
 266
 00:16:34,608 --> 00:16:37,319
-
 - Et merci pour le boulot.
 - Non, remercie ton oncle.
 
@@ -1245,7 +1221,6 @@ Je ne plaisante pas.
 
 271
 00:16:53,377 --> 00:16:56,297
-
 - Tu es content ?
 - Je ne peux pas me plaindre.
 
@@ -1306,7 +1281,6 @@ Vas-y.
 
 284
 00:17:29,788 --> 00:17:31,790
-
 - Salut.
 - À plus.
 
@@ -1320,7 +1294,6 @@ Deuxième objectif atteint.
 
 287
 00:17:38,755 --> 00:17:41,257
-
 - Alors tu t'es arrangé avec ton neveu.
 - Oui.
 
@@ -1369,7 +1342,6 @@ Ce n'était pas toi ?
 
 298
 00:18:12,288 --> 00:18:13,665
-
 - Non !
 - Bon...
 
@@ -1393,7 +1365,6 @@ C'est clair ?
 
 303
 00:18:27,261 --> 00:18:28,554
-
 - C'est très clair.
 - Oh.
 
@@ -1447,7 +1418,6 @@ Eliseo.
 
 315
 00:19:23,941 --> 00:19:26,777
-
 - Salut, Hugo. Tout va bien ?
 - Comment tu vas ?
 
@@ -1505,7 +1475,6 @@ La situation est si dure que ça ?
 
 328
 00:19:51,552 --> 00:19:53,638
-
 - Oui, très dure.
 - Bon...
 
@@ -1521,7 +1490,6 @@ autour du pâté de maisons,
 
 331
 00:19:58,601 --> 00:20:00,061
-
 - pour voir...
 - D'accord. Salut.
 
@@ -1535,7 +1503,6 @@ Je te parle, bordel.
 
 334
 00:20:31,800 --> 00:20:33,802
-
 - Bonjour.
 - Bonjour.
 
@@ -1562,7 +1529,6 @@ je suis éleveur de bétail.
 
 340
 00:20:46,273 --> 00:20:47,941
-
 - Éleveur de bétail.
 - Oui.
 
@@ -1597,7 +1563,6 @@ Ah, bien sûr.
 
 348
 00:21:05,333 --> 00:21:07,085
-
 - C'est bien la ferme Morris.
 - Oh.
 
@@ -1625,7 +1590,6 @@ Vous l'avez connu ?
 
 354
 00:21:19,013 --> 00:21:20,764
-
 - Vous êtes de la famille ?
 - Non. Non.
 
@@ -1677,7 +1641,6 @@ je le dis toujours. Incroyable.
 
 365
 00:21:48,292 --> 00:21:50,794
-
 - Ils l'ont exécuté ? Merde.
 - Oui, ils l'ont fait.
 
@@ -1723,7 +1686,6 @@ Comme dans n'importe quelle autre ville.
 
 375
 00:22:13,858 --> 00:22:16,819
-
 - Elle, elle était impliquée dans les arnaques ?
 - Je ne sais pas.
 
@@ -1752,7 +1714,6 @@ Alors elle loue ces terres.
 
 381
 00:22:29,082 --> 00:22:30,917
-
 - Ah, elle les loue ?
 - Oui.
 
@@ -1766,24 +1727,20 @@ Ils plantent des oliveraies.
 
 384
 00:22:34,962 --> 00:22:35,797
-
 - Des olives.
 - Oui.
 
 385
 00:22:36,923 --> 00:22:38,424
-Carepa. La marque n'est peut-être
+Carepa. La marque n'est peut-être pas très connue en ville.
 
 386
 00:22:39,550 --> 00:22:42,303
-pas très connue en ville.
-
 - Mais elles sont délicieuses. Oui.
 - Ah bon ?
 
 387
 00:22:42,929 --> 00:22:44,764
-
 - Carepa.
 - Oui.
 
@@ -1797,7 +1754,7 @@ Je vois...
 
 390
 00:22:48,059 --> 00:22:49,894
-​ Achetez ici
+​Achetez ici
 salami, fromage, olives, miel
 
 391
@@ -1850,7 +1807,6 @@ J'adore celles qui sont farcies, tu en veux une ?
 
 402
 00:24:28,824 --> 00:24:31,494
-
 - Non, merci.
 - Mais regarde d'où elles viennent.
 
@@ -1869,7 +1825,6 @@ Cette ferme est en location depuis des années.
 
 406
 00:24:39,043 --> 00:24:40,753
-
 - Ah.
 - Je ne sais même pas à quoi elle sert.
 
@@ -2120,7 +2075,6 @@ C'est une affaire de famille.
 
 462
 00:27:21,702 --> 00:27:24,622
-
 - Et tout est légal.
 - Je sais.
 
@@ -2282,7 +2236,6 @@ Quoi ?
 
 499
 00:29:39,004 --> 00:29:41,298
-
 - Tiens, tu peux récupérer ça.
 - Non, garde-le.
 
