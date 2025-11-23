@@ -8,7 +8,7 @@ Bienvenue
 des gardiens d’immeubles en copropriété.
 
 3
-00:00:08,174 --> 00:08:10,468
+00:00:08,174 --> 00:00:09,468
 - Mon chéri.
 - Je ne savais pas qu’il y avait d’autres gens du quartier.
 
@@ -2245,4 +2245,5 @@ C’est moi.
 500
 00:31:41,441 --> 00:31:42,609
 Clarita ?
+
 
